@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Histórias IA · Troca de Rosto em Vídeo</title>
+<style>
+  :root { --bg:#0f1115; --card:#181b22; --line:#2a2f3a; --txt:#e8eaf0; --mut:#9aa3b2; --acc:#7c5cff; --ok:#2ecc71; --err:#ff5c7a; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--txt); }
+  header { padding:28px 20px 8px; max-width:1100px; margin:auto; }
+  h1 { margin:0 0 6px; font-size:28px; }
+  header p { margin:0; color:var(--mut); }
+  main { max-width:1100px; margin:auto; padding:16px 20px 60px; display:grid; gap:18px; }
+  .grid { display:grid; grid-template-columns: 1fr 1fr; gap:18px; }
+  @media (max-width: 800px) { .grid { grid-template-columns: 1fr; } }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; }
+  .card h2 { margin:0 0 12px; font-size:17px; }
+  .drop { border:2px dashed var(--line); border-radius:12px; min-height:220px; display:flex; align-items:center; justify-content:center;
+          text-align:center; cursor:pointer; position:relative; overflow:hidden; color:var(--mut); transition:.15s; }
+  .drop:hover, .drop.over { border-color:var(--acc); color:var(--txt); }
+  .drop input { position:absolute; inset:0; opacity:0; cursor:pointer; }
+  .drop video, .drop img { max-width:100%; max-height:320px; display:block; }
+  .opts { display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:14px; }
+  label { font-size:13px; color:var(--mut); display:block; margin-bottom:5px; }
+  select, input[type=number] { width:100%; padding:9px 10px; background:#0f1115; color:var(--txt); border:1px solid var(--line); border-radius:8px; font-size:14px; }
+  .btns { display:flex; gap:12px; flex-wrap:wrap; margin-top:16px; }
+  button { padding:12px 20px; border-radius:10px; border:0; font-size:15px; font-weight:600; cursor:pointer; }
+  .pri { background:var(--acc); color:white; } .sec { background:#262b36; color:var(--txt); }
+  button:disabled { opacity:.5; cursor:not-allowed; }
+  .bar { height:10px; background:#0f1115; border-radius:99px; overflow:hidden; border:1px solid var(--line); }
+  .bar > div { height:100%; width:0; background:linear-gradient(90deg, var(--acc), #b18cff); transition: width .3s; }
+  #msg { margin-top:8px; color:var(--mut); font-size:14px; min-height:20px; }
+  .err { color:var(--err) !important; } .ok { color:var(--ok) !important; }
+  #result video, #result img { width:100%; border-radius:10px; margin-top:10px; background:black; }
+  .badge { display:inline-block; font-size:12px; padding:3px 8px; border-radius:99px; background:#262b36; color:var(--mut); margin-left:6px; }
+  .badge.on { background:rgba(46,204,113,.15); color:var(--ok); }
+  a.dl { display:inline-block; margin-top:10px; color:white; background:var(--ok); padding:10px 16px; border-radius:10px; text-decoration:none; font-weight:600; }
+  .note { font-size:13px; color:var(--mut); line-height:1.5; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎭 Troca de Rosto em Vídeo</h1>
+  <p>Envie um vídeo e uma foto: o rosto da foto passa a aparecer na pessoa do vídeo, acompanhando os movimentos.
+    <span class="badge">Clássico: disponível</span>
+    <span class="badge {{ 'on' if ia else '' }}">IA (inswapper): {{ 'disponível' if ia else 'modelos não instalados' }}</span>
+  </p>
+</header>
+<main>
+  <div class="grid">
+    <div class="card">
+      <h2>1. Vídeo (a pessoa que vai ser trocada)</h2>
+      <div class="drop" id="dropV"><input type="file" id="video" accept="video/*"><span>Clique ou arraste o vídeo aqui<br><small>MP4, MOV, WEBM…</small></span></div>
+    </div>
+    <div class="card">
+      <h2>2. Foto (o rosto novo)</h2>
+      <div class="drop" id="dropI"><input type="file" id="imagem" accept="image/*"><span>Clique ou arraste a foto aqui<br><small>de frente, nítida, bem iluminada</small></span></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>3. Opções</h2>
+    <div class="opts">
+      <div><label>Motor</label>
+        <select id="motor">
+          <option value="auto">Automático (IA se instalada)</option>
+          <option value="classico">Clássico (CPU, sem download)</option>
+          <option value="ia" {{ '' if ia else 'disabled' }}>IA inswapper (mais realista)</option>
+        </select></div>
+      <div><label>Mistura (motor clássico)</label>
+        <select id="mistura"><option value="seamless">Seamless (mais natural)</option><option value="suave">Suave (mais fiel à foto)</option></select></div>
+      <div><label>Rostos no vídeo</label>
+        <select id="todos"><option value="1">Trocar todos</option><option value="0">Só o maior</option></select></div>
+      <div><label>Resolução máxima</label>
+        <select id="resolucao"><option value="480">480p (rápido)</option><option value="720" selected>720p</option><option value="1080">1080p (lento)</option></select></div>
+      <div><label>Limite de segundos (0 = vídeo inteiro)</label><input type="number" id="limite" value="0" min="0" step="1"></div>
+    </div>
+    <div class="btns">
+      <button class="sec" id="btnPrev">👁️ Pré-visualizar 1 quadro</button>
+      <button class="pri" id="btnGo">🎬 Gerar vídeo</button>
+    </div>
+    <div style="margin-top:16px" class="bar"><div id="bar"></div></div>
+    <div id="msg"></div>
+  </div>
+
+  <div class="card" id="result" style="display:none"><h2>Resultado</h2><div id="resBody"></div></div>
+
+  <div class="card note">
+    <b>Dicas:</b> use uma foto de frente e sem óculos escuros; vídeos com o rosto visível e bem iluminado dão o melhor resultado.
+    O áudio original do vídeo é mantido. <b>Use com responsabilidade:</b> só use rostos de pessoas que autorizaram — não use para enganar, difamar ou criar conteúdo íntimo de ninguém.
+  </div>
+</main>
+<script>
+const $ = s => document.querySelector(s);
+function hookDrop(dropId, inputId, kind) {
+  const d = $(dropId), inp = $(inputId);
+  ['dragenter','dragover'].forEach(e => d.addEventListener(e, ev => { d.classList.add('over'); }));
+  ['dragleave','drop'].forEach(e => d.addEventListener(e, ev => { d.classList.remove('over'); }));
+  inp.addEventListener('change', () => {
+    const f = inp.files[0]; if (!f) return;
+    const url = URL.createObjectURL(f);
+    d.querySelectorAll('span,video,img').forEach(n => n.remove());
+    const el = document.createElement(kind); el.src = url;
+    if (kind === 'video') { el.muted = true; el.loop = true; el.autoplay = true; el.playsInline = true; }
+    d.appendChild(el);
+  });
+}
+hookDrop('#dropV', '#video', 'video'); hookDrop('#dropI', '#imagem', 'img');
+
+function form() {
+  const v = $('#video').files[0], i = $('#imagem').files[0];
+  if (!v || !i) { setMsg('Envie o vídeo e a foto primeiro.', 'err'); return null; }
+  const fd = new FormData();
+  fd.append('video', v); fd.append('imagem', i);
+  ['motor','mistura','todos','resolucao','limite'].forEach(k => fd.append(k, $('#'+k).value));
+  return fd;
+}
+function setMsg(t, cls='') { const m = $('#msg'); m.textContent = t; m.className = cls; }
+function busy(b) { $('#btnGo').disabled = b; $('#btnPrev').disabled = b; }
+function showResult(html) { $('#result').style.display = 'block'; $('#resBody').innerHTML = html; $('#result').scrollIntoView({behavior:'smooth'}); }
+
+$('#btnPrev').onclick = async () => {
+  const fd = form(); if (!fd) return;
+  busy(true); setMsg('Enviando e gerando pré-visualização...');
+  try {
+    const r = await fetch('api/preview', { method:'POST', body: fd }); const j = await r.json();
+    if (!r.ok) throw new Error(j.erro || 'Erro');
+    setMsg('Pré-visualização pronta.', 'ok');
+    showResult(`<img src="${j.url.slice(1)}?t=${Date.now()}">`);
+  } catch (e) { setMsg(e.message, 'err'); } finally { busy(false); }
+};
+
+$('#btnGo').onclick = async () => {
+  const fd = form(); if (!fd) return;
+  busy(true); $('#bar').style.width = '0%'; setMsg('Enviando arquivos...');
+  try {
+    const r = await fetch('api/processar', { method:'POST', body: fd }); const j = await r.json();
+    if (!r.ok) throw new Error(j.erro || 'Erro');
+    poll(j.id);
+  } catch (e) { setMsg(e.message, 'err'); busy(false); }
+};
+
+async function poll(id) {
+  try {
+    const r = await fetch('api/status/' + id); const j = await r.json();
+    $('#bar').style.width = Math.round((j.progresso || 0) * 100) + '%';
+    if (j.status === 'pronto') {
+      const i = j.info;
+      setMsg(`Pronto! ${i.frames} quadros (${i.size}) em ${i.seconds}s · motor: ${i.engine}`, 'ok');
+      const u = j.url.slice(1);
+      showResult(`<video src="${u}?t=${Date.now()}" controls autoplay playsinline></video><a class="dl" href="${u}?baixar=1">⬇️ Baixar vídeo</a>`);
+      busy(false); return;
+    }
+    if (j.status === 'erro') { setMsg('Erro: ' + j.mensagem, 'err'); busy(false); return; }
+    setMsg(j.mensagem || '...');
+  } catch (e) { setMsg('Conexão perdida, tentando de novo...'); }
+  setTimeout(() => poll(id), 1000);
+}
+</script>
+</body>
+</html>

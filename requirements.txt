@@ -1,0 +1,9 @@
+mediapipe==0.10.14
+opencv-contrib-python-headless>=4.8
+numpy
+flask>=3.0
+imageio-ffmpeg>=0.5
+# motor de IA (inswapper)
+onnxruntime>=1.17       # troque por onnxruntime-gpu se tiver placa NVIDIA
+onnx==1.16.2            # versão compatível com o protobuf do mediapipe
+protobuf>=4.25.3,<5
