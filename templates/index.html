@@ -36,48 +36,69 @@
   .badge { display:inline-block; font-size:12px; padding:3px 8px; border-radius:99px; background:#262b36; color:var(--mut); margin-left:6px; }
   .badge.on { background:rgba(46,204,113,.15); color:var(--ok); }
   a.dl { display:inline-block; margin-top:10px; color:white; background:var(--ok); padding:10px 16px; border-radius:10px; text-decoration:none; font-weight:600; }
+  .modes { display:grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap:12px; margin-bottom:16px; }
+  .mode { border:2px solid var(--line); border-radius:12px; padding:14px; cursor:pointer; transition:.15s; }
+  .mode:hover { border-color:#4a4f5c; }
+  .mode.sel { border-color:var(--acc); background:rgba(124,92,255,.08); }
+  .mode b { display:block; font-size:15px; margin-bottom:4px; } .mode small { color:var(--mut); line-height:1.4; display:block; }
+  .only { display:none; } input[type=password], input[type=text] { width:100%; padding:9px 10px; background:#0f1115; color:var(--txt); border:1px solid var(--line); border-radius:8px; font-size:14px; }
   .note { font-size:13px; color:var(--mut); line-height:1.5; }
 </style>
 </head>
 <body>
 <header>
-  <h1>🎭 Troca de Rosto em Vídeo</h1>
-  <p>Envie um vídeo e uma foto: o rosto da foto passa a aparecer na pessoa do vídeo, acompanhando os movimentos.
-    <span class="badge">Clássico: disponível</span>
-    <span class="badge {{ 'on' if ia else '' }}">IA (inswapper): {{ 'disponível' if ia else 'modelos não instalados' }}</span>
-  </p>
+  <h1>🎭 Troca de Personagem em Vídeo</h1>
+  <p>Envie um vídeo e uma foto: a pessoa da foto (só o rosto ou o <b>corpo inteiro</b>) passa a estar no vídeo, fazendo os mesmos movimentos.</p>
 </header>
 <main>
   <div class="grid">
     <div class="card">
-      <h2>1. Vídeo (a pessoa que vai ser trocada)</h2>
+      <h2>1. Vídeo (a pessoa que vai ser substituída)</h2>
       <div class="drop" id="dropV"><input type="file" id="video" accept="video/*"><span>Clique ou arraste o vídeo aqui<br><small>MP4, MOV, WEBM…</small></span></div>
     </div>
     <div class="card">
-      <h2>2. Foto (o rosto novo)</h2>
-      <div class="drop" id="dropI"><input type="file" id="imagem" accept="image/*"><span>Clique ou arraste a foto aqui<br><small>de frente, nítida, bem iluminada</small></span></div>
+      <h2>2. Foto (o novo personagem)</h2>
+      <div class="drop" id="dropI"><input type="file" id="imagem" accept="image/*"><span>Clique ou arraste a foto aqui<br><small>corpo inteiro (ou da cintura p/ cima), de frente, braços um pouco afastados.<br>PNG com fundo transparente funciona ainda melhor.</small></span></div>
     </div>
   </div>
 
   <div class="card">
-    <h2>3. Opções</h2>
+    <h2>3. O que trocar?</h2>
+    <div class="modes">
+      <div class="mode sel" data-modo="nuvem"><b>🧠 Corpo inteiro · IA na nuvem</b>
+        <small>Wan 2.2 Animate: o melhor resultado (roupa, cabelo, corpo, expressões, luz). Precisa de uma chave da deAPI (US$ 5 grátis) ou do fal.ai. Vídeos de até 8–10 s.</small></div>
+      <div class="mode" data-modo="corpo"><b>🕺 Corpo inteiro · local (grátis)</b>
+        <small>Roda aqui mesmo, sem GPU: apaga a pessoa e move o personagem da foto como uma marionete 2D. Resultado mais "recortado".</small></div>
+      <div class="mode" data-modo="rosto"><b>🙂 Só o rosto</b>
+        <small>Troca apenas o rosto, mantendo o corpo e a roupa do vídeo. Rápido.</small></div>
+    </div>
     <div class="opts">
-      <div><label>Motor</label>
+      <div class="only m-nuvem"><label>Provedor da IA</label>
+        <select id="provedor">
+          {% for k, p in provedores.items() %}<option value="{{k}}">{{ p.nome }}{{ ' (chave já configurada)' if nuvem[k] else '' }}</option>{% endfor %}
+        </select></div>
+      <div class="only m-nuvem"><label>Chave da API (não fica salva)</label>
+        <input type="password" id="chave" placeholder="cole aqui a sua chave" autocomplete="off"></div>
+      <div class="only m-nuvem"><label>Qualidade</label>
+        <select id="resolucao_ia"><option value="480p">480p (mais barato)</option><option value="720p" selected>720p</option></select></div>
+      <div class="only m-rosto"><label>Motor</label>
         <select id="motor">
           <option value="auto">Automático (IA se instalada)</option>
           <option value="classico">Clássico (CPU, sem download)</option>
-          <option value="ia" {{ '' if ia else 'disabled' }}>IA inswapper (mais realista)</option>
+          <option value="ia" {{ '' if ia else 'disabled' }}>IA inswapper {{ '' if ia else '(modelos não instalados)' }}</option>
         </select></div>
-      <div><label>Mistura (motor clássico)</label>
+      <div class="only m-rosto"><label>Mistura</label>
         <select id="mistura"><option value="seamless">Seamless (mais natural)</option><option value="suave">Suave (mais fiel à foto)</option></select></div>
-      <div><label>Rostos no vídeo</label>
+      <div class="only m-rosto"><label>Rostos no vídeo</label>
         <select id="todos"><option value="1">Trocar todos</option><option value="0">Só o maior</option></select></div>
-      <div><label>Resolução máxima</label>
+      <div class="only m-rosto m-corpo"><label>Resolução máxima</label>
         <select id="resolucao"><option value="480">480p (rápido)</option><option value="720" selected>720p</option><option value="1080">1080p (lento)</option></select></div>
-      <div><label>Limite de segundos (0 = vídeo inteiro)</label><input type="number" id="limite" value="0" min="0" step="1"></div>
+      <div><label>Limite de segundos (0 = padrão)</label><input type="number" id="limite" value="0" min="0" step="1"></div>
     </div>
+    <p class="note only m-nuvem" style="margin:12px 0 0">Como pegar a chave: crie uma conta em <b>app.deapi.ai</b> (US$ 5 grátis, sem cartão) ou em <b>fal.ai/dashboard/keys</b>, copie a chave e cole acima. Custo aproximado: US$ 0,04–0,08 por segundo de vídeo.</p>
+    <p class="note only m-corpo" style="margin:12px 0 0">Motor local: funciona melhor com pessoa real, de frente, e câmera parada. Leva ~0,7 s por quadro (um vídeo de 5 s demora ~1–2 min). Usa no máximo 15 s por padrão.</p>
     <div class="btns">
-      <button class="sec" id="btnPrev">👁️ Pré-visualizar 1 quadro</button>
+      <button class="sec only m-rosto" id="btnPrev">👁️ Pré-visualizar 1 quadro</button>
       <button class="pri" id="btnGo">🎬 Gerar vídeo</button>
     </div>
     <div style="margin-top:16px" class="bar"><div id="bar"></div></div>
@@ -93,6 +114,14 @@
 </main>
 <script>
 const $ = s => document.querySelector(s);
+let MODO = 'nuvem';
+function setModo(m) {
+  MODO = m;
+  document.querySelectorAll('.mode').forEach(e => e.classList.toggle('sel', e.dataset.modo === m));
+  document.querySelectorAll('.only').forEach(e => e.style.display = e.classList.contains('m-' + m) ? (e.tagName === 'BUTTON' ? 'inline-block' : 'block') : 'none');
+}
+document.querySelectorAll('.mode').forEach(e => e.onclick = () => setModo(e.dataset.modo));
+setModo('nuvem');
 function hookDrop(dropId, inputId, kind) {
   const d = $(dropId), inp = $(inputId);
   ['dragenter','dragover'].forEach(e => d.addEventListener(e, ev => { d.classList.add('over'); }));
@@ -113,7 +142,8 @@ function form() {
   if (!v || !i) { setMsg('Envie o vídeo e a foto primeiro.', 'err'); return null; }
   const fd = new FormData();
   fd.append('video', v); fd.append('imagem', i);
-  ['motor','mistura','todos','resolucao','limite'].forEach(k => fd.append(k, $('#'+k).value));
+  ['motor','mistura','todos','resolucao','limite','provedor','chave','resolucao_ia'].forEach(k => fd.append(k, $('#'+k).value));
+  fd.append('modo', MODO);
   return fd;
 }
 function setMsg(t, cls='') { const m = $('#msg'); m.textContent = t; m.className = cls; }
@@ -147,7 +177,7 @@ async function poll(id) {
     $('#bar').style.width = Math.round((j.progresso || 0) * 100) + '%';
     if (j.status === 'pronto') {
       const i = j.info;
-      setMsg(`Pronto! ${i.frames} quadros (${i.size}) em ${i.seconds}s · motor: ${i.engine}`, 'ok');
+      setMsg(`Pronto em ${i.seconds}s · motor: ${i.engine}` + (i.frames ? ` · ${i.frames} quadros (${i.size})` : ''), 'ok');
       const u = j.url.slice(1);
       showResult(`<video src="${u}?t=${Date.now()}" controls autoplay playsinline></video><a class="dl" href="${u}?baixar=1">⬇️ Baixar vídeo</a>`);
       busy(false); return;

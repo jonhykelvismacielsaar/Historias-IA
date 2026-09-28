@@ -15,6 +15,8 @@ warnings.filterwarnings("ignore")
 import cv2
 from flask import Flask, jsonify, render_template, request, send_from_directory
 
+from bodyswap.cloud import PROVIDERS, available_providers, process_cloud
+from bodyswap.video import process_body_video
 from faceswap import NoFaceError, ai_available, preview_frame, process_video
 
 ROOT = Path(__file__).resolve().parent
@@ -49,7 +51,8 @@ def _opts():
 
 @app.get("/")
 def index():
-    return render_template("index.html", ia=ai_available())
+    return render_template("index.html", ia=ai_available(), nuvem=available_providers(),
+                           provedores=PROVIDERS)
 
 
 @app.post("/api/preview")
@@ -72,12 +75,22 @@ def api_processar():
         vp, ip = _save_uploads(job_id)
     except ValueError as e:
         return jsonify(erro=str(e)), 400
-    opts = _opts()
     f = request.form
-    opts["all_faces"] = f.get("todos", "1") == "1"
-    opts["max_side"] = int(f.get("resolucao", "720"))
+    modo = f.get("modo", "rosto")
     secs = float(f.get("limite", "0") or 0)
-    opts["max_seconds"] = secs if secs > 0 else None
+    if modo == "corpo":
+        func = process_body_video
+        opts = dict(max_side=int(f.get("resolucao", "720")), max_seconds=secs if secs > 0 else 15)
+    elif modo == "nuvem":
+        func = process_cloud
+        opts = dict(provider=f.get("provedor", "deapi"), api_key=(f.get("chave") or "").strip() or None,
+                    resolution=f.get("resolucao_ia", "720p"), max_seconds=secs if secs > 0 else None)
+    else:
+        func = process_video
+        opts = _opts()
+        opts["all_faces"] = f.get("todos", "1") == "1"
+        opts["max_side"] = int(f.get("resolucao", "720"))
+        opts["max_seconds"] = secs if secs > 0 else None
     out_name = f"{job_id}_resultado.mp4"
     JOBS[job_id] = {"status": "na_fila", "progresso": 0.0, "mensagem": "Na fila..."}
 
@@ -88,7 +101,7 @@ def api_processar():
             def prog(p, m):
                 JOBS[job_id].update(progresso=round(p, 3), mensagem=m)
             try:
-                info = process_video(vp, ip, str(OUTPUTS / out_name), progress=prog, **opts)
+                info = func(vp, ip, str(OUTPUTS / out_name), progress=prog, **opts)
                 JOBS[job_id].update(status="pronto", progresso=1.0, url=f"/saida/{out_name}",
                                     info=info, mensagem="Pronto!")
             except Exception as e:  # noqa: BLE001

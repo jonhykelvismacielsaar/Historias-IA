@@ -6,3 +6,5 @@ models/*.zip
 models/*.part
 uploads/
 saida/
+.env
+amostras/wan/
