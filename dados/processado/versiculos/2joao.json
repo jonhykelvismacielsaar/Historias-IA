@@ -1,0 +1,73 @@
+{
+ "livro": "2 João",
+ "slug": "2joao",
+ "nome_hebraico": "יוֹחָנָן ב׳",
+ "ordem": 63,
+ "testamento": "NT",
+ "grupo": "Cartas Gerais",
+ "fontes": [
+  "portugues_aa",
+  "grego_sblgnt"
+ ],
+ "capitulos": {
+  "1": {
+   "1": {
+    "grego_sblgnt": "Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν,",
+    "pt_aa": "O ancião à senhora eleita, e a seus filhos, aos quais eu amo em verdade, e não somente eu, mas também todos os que conhecem a verdade,"
+   },
+   "2": {
+    "grego_sblgnt": "διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ’ ἡμῶν ἔσται εἰς τὸν αἰῶνα·",
+    "pt_aa": "por causa da verdade que permanece em nós, e para sempre estará conosco:"
+   },
+   "3": {
+    "grego_sblgnt": "ἔσται μεθ’ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ θεοῦ πατρός, καὶ ⸀παρὰ Ἰησοῦ Χριστοῦ τοῦ υἱοῦ τοῦ πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.",
+    "pt_aa": "Graça, misericórdia, paz, da parte de Deus Pai e da parte de Jesus Cristo, o Filho do Pai, serão conosco em verdade e amor."
+   },
+   "4": {
+    "grego_sblgnt": "Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός.",
+    "pt_aa": "Muito me alegro por ter achado alguns de teus filhos andando na verdade, assim como recebemos mandamento do Pai."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν ⸂καινὴν γράφων σοι⸃ ἀλλὰ ἣν εἴχομεν ἀπ’ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.",
+    "pt_aa": "E agora, senhora, rogo-te, não como te escrevendo um novo mandamento, mas aquele mesmo que desde o princípio tivemos: que nos amemos uns aos outros."
+   },
+   "6": {
+    "grego_sblgnt": "καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ· αὕτη ⸂ἡ ἐντολή ἐστιν⸃, καθὼς ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.",
+    "pt_aa": "E o amor é este: que andemos segundo os seus mandamentos. Este é o mandamento, como já desde o princípio ouvistes, para que nele andeis."
+   },
+   "7": {
+    "grego_sblgnt": "ὅτι πολλοὶ πλάνοι ⸀ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.",
+    "pt_aa": "Porque já muitos enganadores saíram pelo mundo, os quais não confessam que Jesus Cristo veio em carne. Tal é o enganador e o anticristo."
+   },
+   "8": {
+    "grego_sblgnt": "βλέπετε ἑαυτούς, ἵνα μὴ ⸀ἀπολέσητε ἃ ⸀εἰργασάμεθα, ἀλλὰ μισθὸν πλήρη ⸀ἀπολάβητε.",
+    "pt_aa": "Olhai por vós mesmos, para que não percais o fruto do nosso trabalho, antes recebeis plena recompensa."
+   },
+   "9": {
+    "grego_sblgnt": "πᾶς ὁ ⸀προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ ⸀διδαχῇ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.",
+    "pt_aa": "Todo aquele que vai além do ensino de Cristo e não permanece nele, não tem a Deus; quem permanece neste ensino, esse tem tanto ao Pai como ao Filho."
+   },
+   "10": {
+    "grego_sblgnt": "εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν καὶ χαίρειν αὐτῷ μὴ λέγετε·",
+    "pt_aa": "Se alguém vem ter convosco, e não traz este ensino, não o recebais em casa, nem tampouco o saudeis."
+   },
+   "11": {
+    "grego_sblgnt": "ὁ ⸂λέγων γὰρ⸃ αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.",
+    "pt_aa": "Porque quem o saúda participa de suas más obras."
+   },
+   "12": {
+    "grego_sblgnt": "Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω ⸀γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ⸀ὑμῶν ⸂πεπληρωμένη ᾖ⸃.",
+    "pt_aa": "Embora tenha eu muitas coisas para vos escrever, não o quis fazer com papel e tinta; mas espero visitar-vos e falar face a face, para que o nosso gozo seja completo."
+   },
+   "13": {
+    "grego_sblgnt": "Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ⸀ἐκλεκτῆς.",
+    "pt_aa": "Saúdam-te os filhos de tua irmã, a eleita."
+   }
+  }
+ },
+ "estatisticas": {
+  "capitulos": 1,
+  "versiculos": 13,
+  "palavras_hebraico": 0
+ }
+}

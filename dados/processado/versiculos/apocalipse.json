@@ -1,0 +1,1683 @@
+{
+ "livro": "Apocalipse",
+ "slug": "apocalipse",
+ "nome_hebraico": "הִתְגַּלּוּת",
+ "ordem": 66,
+ "testamento": "NT",
+ "grupo": "Apocalíptico",
+ "fontes": [
+  "portugues_aa",
+  "grego_sblgnt"
+ ],
+ "capitulos": {
+  "1": {
+   "1": {
+    "grego_sblgnt": "Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ θεὸς δεῖξαι τοῖς δούλοις αὐτοῦ, ἃ δεῖ γενέσθαι ἐν τάχει, καὶ ἐσήμανεν ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ τῷ δούλῳ αὐτοῦ Ἰωάννῃ,",
+    "pt_aa": "Revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos as coisas que brevemente devem acontecer; e, enviando-as pelo seu anjo, as notificou a seu servo João;"
+   },
+   "2": {
+    "grego_sblgnt": "ὃς ἐμαρτύρησεν τὸν λόγον τοῦ θεοῦ καὶ τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ, ὅσα εἶδεν.",
+    "pt_aa": "o qual testificou da palavra de Deus, e do testemunho de Jesus Cristo, de tudo quanto viu."
+   },
+   "3": {
+    "grego_sblgnt": "μακάριος ὁ ἀναγινώσκων καὶ οἱ ἀκούοντες τοὺς λόγους τῆς προφητείας καὶ τηροῦντες τὰ ἐν αὐτῇ γεγραμμένα, ὁ γὰρ καιρὸς ἐγγύς.",
+    "pt_aa": "Bem-aventurado aquele que lê e bem-aventurados os que ouvem as palavras desta profecia e guardam as coisas que nela estão escritas; porque o tempo está próximo."
+   },
+   "4": {
+    "grego_sblgnt": "Ἰωάννης ταῖς ἑπτὰ ἐκκλησίαις ταῖς ἐν τῇ Ἀσίᾳ· χάρις ὑμῖν καὶ εἰρήνη ⸀ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, καὶ ἀπὸ τῶν ἑπτὰ πνευμάτων ἃ ἐνώπιον τοῦ θρόνου αὐτοῦ,",
+    "pt_aa": "João, às sete igrejas que estão na Ásia: Graça a vós e paz da parte daquele que é, e que era, e que há de vir, e da dos sete espíritos que estão diante do seu trono;"
+   },
+   "5": {
+    "grego_sblgnt": "καὶ ἀπὸ Ἰησοῦ Χριστοῦ, ὁ μάρτυς ὁ πιστός, ὁ πρωτότοκος τῶν νεκρῶν καὶ ὁ ἄρχων τῶν βασιλέων τῆς γῆς. Τῷ ἀγαπῶντι ἡμᾶς καὶ ⸀λύσαντι ἡμᾶς ⸀ἐκ τῶν ἁμαρτιῶν ἡμῶν ἐν τῷ αἵματι αὐτοῦ—",
+    "pt_aa": "e da parte de Jesus Cristo, que é a fiel testemunha, o primogênito dos mortos e o Príncipe dos reis da terra. Àquele que nos ama, e pelo seu sangue nos libertou dos nossos pecados,"
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ἐποίησεν ἡμᾶς βασιλείαν, ἱερεῖς τῷ θεῷ καὶ πατρὶ αὐτοῦ— αὐτῷ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας ⸂τῶν αἰώνων⸃· ἀμήν.",
+    "pt_aa": "e nos fez reino, sacerdotes para Deus, seu Pai, a ele seja glória e domínio pelos séculos dos séculos. Amém."
+   },
+   "7": {
+    "grego_sblgnt": "Ἰδοὺ ἔρχεται μετὰ τῶν νεφελῶν, καὶ ὄψεται αὐτὸν πᾶς ὀφθαλμὸς καὶ οἵτινες αὐτὸν ἐξεκέντησαν, καὶ κόψονται ἐπ’ αὐτὸν πᾶσαι αἱ φυλαὶ τῆς γῆς. ναί, ἀμήν.",
+    "pt_aa": "Eis que vem com as nuvens, e todo olho o verá, até mesmo aqueles que o traspassaram; e todas as tribos da terra se lamentarão sobre ele. Sim. Amém."
+   },
+   "8": {
+    "grego_sblgnt": "Ἐγώ εἰμι τὸ Ἄλφα καὶ τὸ Ὦ, λέγει κύριος, ὁ θεός, ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, ὁ παντοκράτωρ.",
+    "pt_aa": "Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, e que era, e que há de vir, o Todo-Poderoso."
+   },
+   "9": {
+    "grego_sblgnt": "Ἐγὼ Ἰωάννης, ὁ ἀδελφὸς ὑμῶν καὶ ⸀συγκοινωνὸς ἐν τῇ θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ ⸀ἐν Ἰησοῦ, ἐγενόμην ἐν τῇ νήσῳ τῇ καλουμένῃ Πάτμῳ διὰ τὸν λόγον τοῦ θεοῦ ⸀καὶ τὴν μαρτυρίαν ⸀Ἰησοῦ.",
+    "pt_aa": "Eu, João, irmão vosso e companheiro convosco na aflição, no reino, e na perseverança em Jesus, estava na ilha chamada Patmos por causa da palavra de Deus e do testemunho de Jesus."
+   },
+   "10": {
+    "grego_sblgnt": "ἐγενόμην ἐν πνεύματι ἐν τῇ κυριακῇ ἡμέρᾳ, καὶ ἤκουσα ⸂ὀπίσω μου φωνὴν⸃ μεγάλην ὡς σάλπιγγος",
+    "pt_aa": "Eu fui arrebatado em espírito no dia do Senhor, e ouvi por detrás de mim uma grande voz, como de trombeta,"
+   },
+   "11": {
+    "grego_sblgnt": "λεγούσης· Ὃ βλέπεις γράψον εἰς βιβλίον καὶ πέμψον ταῖς ἑπτὰ ἐκκλησίαις, εἰς Ἔφεσον καὶ εἰς Σμύρναν καὶ εἰς Πέργαμον καὶ εἰς Θυάτειρα καὶ εἰς Σάρδεις καὶ εἰς Φιλαδέλφειαν καὶ εἰς Λαοδίκειαν.",
+    "pt_aa": "que dizia: O que vês, escreve-o num livro, e envia-o às sete igrejas: a Éfeso, a Esmirna, a Pérgamo, a Tiatira, a Sardes, a Filadélfia e a Laodicéia."
+   },
+   "12": {
+    "grego_sblgnt": "⸀Καὶ ἐπέστρεψα βλέπειν τὴν φωνὴν ἥτις ἐλάλει μετ’ ἐμοῦ· καὶ ἐπιστρέψας εἶδον ἑπτὰ λυχνίας χρυσᾶς,",
+    "pt_aa": "E voltei-me para ver quem falava comigo. E, ao voltar-me, vi sete candeeiros de ouro,"
+   },
+   "13": {
+    "grego_sblgnt": "καὶ ἐν μέσῳ ⸀τῶν λυχνιῶν ὅμοιον ⸀υἱὸν ἀνθρώπου, ἐνδεδυμένον ποδήρη καὶ περιεζωσμένον πρὸς τοῖς μαστοῖς ζώνην χρυσᾶν·",
+    "pt_aa": "e no meio dos candeeiros um semelhante a filho de homem, vestido de uma roupa talar, e cingido à altura do peito com um cinto de ouro;"
+   },
+   "14": {
+    "grego_sblgnt": "ἡ δὲ κεφαλὴ αὐτοῦ καὶ αἱ τρίχες λευκαὶ ὡς ἔριον λευκόν, ὡς χιών, καὶ οἱ ὀφθαλμοὶ αὐτοῦ ὡς φλὸξ πυρός,",
+    "pt_aa": "e a sua cabeça e cabelos eram brancos como lã branca, como a neve; e os seus olhos como chama de fogo;"
+   },
+   "15": {
+    "grego_sblgnt": "καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ, ὡς ἐν καμίνῳ ⸀πεπυρωμένης, καὶ ἡ φωνὴ αὐτοῦ ὡς φωνὴ ὑδάτων πολλῶν,",
+    "pt_aa": "e os seus pés, semelhantes a latão reluzente que fora refinado numa fornalha; e a sua voz como a voz de muitas águas."
+   },
+   "16": {
+    "grego_sblgnt": "καὶ ἔχων ἐν τῇ δεξιᾷ ⸂χειρὶ αὐτοῦ⸃ ἀστέρας ἑπτά, καὶ ἐκ τοῦ στόματος αὐτοῦ ῥομφαία δίστομος ὀξεῖα ἐκπορευομένη, καὶ ἡ ὄψις αὐτοῦ ὡς ὁ ἥλιος φαίνει ἐν τῇ δυνάμει αὐτοῦ.",
+    "pt_aa": "Tinha ele na sua destra sete estrelas; e da sua boca saía uma aguda espada de dois gumes; e o seu rosto era como o sol, quando resplandece na sua força."
+   },
+   "17": {
+    "grego_sblgnt": "Καὶ ὅτε εἶδον αὐτόν, ἔπεσα πρὸς τοὺς πόδας αὐτοῦ ὡς νεκρός· καὶ ἔθηκεν τὴν δεξιὰν αὐτοῦ ἐπ’ ἐμὲ λέγων· Μὴ φοβοῦ· ἐγώ εἰμι ὁ πρῶτος καὶ ὁ ἔσχατος,",
+    "pt_aa": "Quando o vi, caí a seus pés como morto; e ele pôs sobre mim a sua destra, dizendo: Não temas; eu sou o primeiro e o último."
+   },
+   "18": {
+    "grego_sblgnt": "καὶ ὁ ζῶν— καὶ ἐγενόμην νεκρὸς καὶ ἰδοὺ ζῶν εἰμι εἰς τοὺς αἰῶνας τῶν ⸀αἰώνων— καὶ ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ ᾅδου.",
+    "pt_aa": "Eu sou o que vivo; fui morto, mas eis aqui estou vivo para todo o sempre! e tenho as chaves da morte e do inferno."
+   },
+   "19": {
+    "grego_sblgnt": "γράψον οὖν ἃ εἶδες καὶ ἃ εἰσὶν καὶ ἃ μέλλει ⸀γίνεσθαι μετὰ ταῦτα.",
+    "pt_aa": "Escreve, pois, as coisas que tens visto, e as que são, e as que depois destas hão de suceder."
+   },
+   "20": {
+    "grego_sblgnt": "τὸ μυστήριον τῶν ἑπτὰ ἀστέρων ⸀οὓς εἶδες ἐπὶ τῆς δεξιᾶς μου, καὶ τὰς ἑπτὰ λυχνίας τὰς χρυσᾶς· οἱ ἑπτὰ ἀστέρες ἄγγελοι τῶν ἑπτὰ ἐκκλησιῶν εἰσίν, καὶ αἱ λυχνίαι αἱ ἑπτὰ ἑπτὰ ἐκκλησίαι εἰσίν.",
+    "pt_aa": "Eis o mistério das sete estrelas, que viste na minha destra, e dos sete candeeiros de ouro: as estrelas são os anjos das sete igrejas, e os sete candeeiros são as sete igrejas."
+   }
+  },
+  "2": {
+   "1": {
+    "grego_sblgnt": "Τῷ ἀγγέλῳ ⸀τῆς ἐν Ἐφέσῳ ἐκκλησίας γράψον· Τάδε λέγει ὁ κρατῶν τοὺς ἑπτὰ ἀστέρας ἐν τῇ δεξιᾷ αὐτοῦ, ὁ περιπατῶν ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·",
+    "pt_aa": "Ao anjo da igreja em Éfeso escreve: Isto diz aquele que tem na sua destra as sete estrelas, que anda no meio dos sete candeeiros de ouro:"
+   },
+   "2": {
+    "grego_sblgnt": "Οἶδα τὰ ἔργα σου, καὶ τὸν ⸀κόπον καὶ τὴν ὑπομονήν σου, καὶ ὅτι οὐ δύνῃ βαστάσαι κακούς, καὶ ἐπείρασας τοὺς λέγοντας ἑαυτοὺς ⸀ἀποστόλους, καὶ οὐκ εἰσίν, καὶ εὗρες αὐτοὺς ψευδεῖς·",
+    "pt_aa": "Conheço as tuas obras, e o teu trabalho, e a tua perseverança; sei que não podes suportar os maus, e que puseste à prova os que se dizem apóstolos e não o são, e os achaste mentirosos;"
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ὑπομονὴν ἔχεις, καὶ ἐβάστασας διὰ τὸ ὄνομά μου, καὶ ⸂οὐ κεκοπίακες⸃.",
+    "pt_aa": "e tens perseverança e por amor do meu nome sofreste, e não desfaleceste."
+   },
+   "4": {
+    "grego_sblgnt": "ἀλλὰ ἔχω κατὰ σοῦ ὅτι τὴν ἀγάπην σου τὴν πρώτην ἀφῆκες.",
+    "pt_aa": "Tenho, porém, contra ti que deixaste o teu primeiro amor."
+   },
+   "5": {
+    "grego_sblgnt": "μνημόνευε οὖν πόθεν ⸀πέπτωκας, καὶ μετανόησον καὶ τὰ πρῶτα ἔργα ποίησον· εἰ δὲ μή, ἔρχομαί ⸀σοι, καὶ κινήσω τὴν λυχνίαν σου ἐκ τοῦ τόπου αὐτῆς, ἐὰν μὴ μετανοήσῃς.",
+    "pt_aa": "Lembra-te, pois, donde caíste, e arrepende-te, e pratica as primeiras obras; e se não, brevemente virei a ti, e removerei do seu lugar o teu candeeiro, se não te arrependeres."
+   },
+   "6": {
+    "grego_sblgnt": "ἀλλὰ τοῦτο ἔχεις ὅτι μισεῖς τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.",
+    "pt_aa": "Tens, porém, isto, que aborreces as obras dos nicolaítas, as quais eu também aborreço."
+   },
+   "7": {
+    "grego_sblgnt": "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις. τῷ νικῶντι δώσω αὐτῷ φαγεῖν ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν τῷ παραδείσῳ τοῦ ⸀θεοῦ.",
+    "pt_aa": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao que vencer, dar-lhe-ei a comer da árvore da vida, que está no paraíso de Deus."
+   },
+   "8": {
+    "grego_sblgnt": "Καὶ τῷ ἀγγέλῳ ⸀τῆς ἐν Σμύρνῃ ἐκκλησίας γράψον· Τάδε λέγει ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς καὶ ἔζησεν·",
+    "pt_aa": "Ao anjo da igreja em Esmirna escreve: Isto diz o primeiro e o último, que foi morto e reviveu:"
+   },
+   "9": {
+    "grego_sblgnt": "Οἶδά ⸀σου τὴν θλῖψιν καὶ τὴν πτωχείαν, ἀλλὰ πλούσιος εἶ, καὶ τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς, καὶ οὐκ εἰσίν, ἀλλὰ συναγωγὴ τοῦ Σατανᾶ.",
+    "pt_aa": "Conheço a tua tribulação e a tua pobreza {mas tu és rico}, e a blasfêmia dos que dizem ser judeus, e não o são, porém são sinagoga de Satanás."
+   },
+   "10": {
+    "grego_sblgnt": "⸀μηδὲν φοβοῦ ἃ μέλλεις ⸀πάσχειν. ⸀ἰδοὺ μέλλει ⸀βάλλειν ὁ διάβολος ἐξ ὑμῶν εἰς φυλακὴν ἵνα πειρασθῆτε, καὶ ⸀ἕξετε θλῖψιν ἡμερῶν δέκα. γίνου πιστὸς ἄχρι θανάτου, καὶ δώσω σοι τὸν στέφανον τῆς ζωῆς.",
+    "pt_aa": "Não temas o que hás de padecer. Eis que o Diabo está para lançar alguns de vós na prisão, para que sejais provados; e tereis uma tribulação de dez dias. Sê fiel até a morte, e dar-te-ei a coroa da vida."
+   },
+   "11": {
+    "grego_sblgnt": "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις. ὁ νικῶν οὐ μὴ ἀδικηθῇ ἐκ τοῦ θανάτου τοῦ δευτέρου.",
+    "pt_aa": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. O que vencer, de modo algum sofrerá o dado da segunda morte."
+   },
+   "12": {
+    "grego_sblgnt": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας γράψον· Τάδε λέγει ὁ ἔχων τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·",
+    "pt_aa": "Ao anjo da igreja em Pérgamo escreve: Isto diz aquele que tem a espada aguda de dois gumes:"
+   },
+   "13": {
+    "grego_sblgnt": "⸀Οἶδα ποῦ κατοικεῖς, ὅπου ὁ θρόνος τοῦ Σατανᾶ, καὶ κρατεῖς τὸ ὄνομά μου, καὶ οὐκ ἠρνήσω τὴν πίστιν μου ⸀καὶ ἐν ταῖς ⸀ἡμέραις Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός ⸀μου, ὃς ἀπεκτάνθη παρ’ ὑμῖν, ὅπου ὁ Σατανᾶς κατοικεῖ.",
+    "pt_aa": "Sei onde habitas, que é onde está o trono de Satanás; mas reténs o meu nome e não negaste a minha fé, mesmo nos dias de Antipas, minha fiel testemunha, o qual foi morto entre vós, onde Satanás habita."
+   },
+   "14": {
+    "grego_sblgnt": "ἀλλὰ ἔχω κατὰ σοῦ ὀλίγα, ὅτι ἔχεις ἐκεῖ κρατοῦντας τὴν διδαχὴν Βαλαάμ, ὃς ⸂ἐδίδασκεν τῷ⸃ Βαλὰκ βαλεῖν σκάνδαλον ἐνώπιον τῶν υἱῶν Ἰσραήλ, ⸀φαγεῖν εἰδωλόθυτα καὶ πορνεῦσαι·",
+    "pt_aa": "entretanto, algumas coisas tenho contra ti; porque tens aí os que seguem a doutrina de Balaão, o qual ensinava Balaque a lançar tropeços diante dos filhos de Israel, introduzindo-os a comerem das coisas sacrificadas a ídolos e a se prostituírem."
+   },
+   "15": {
+    "grego_sblgnt": "οὕτως ἔχεις καὶ σὺ κρατοῦντας τὴν ⸀διδαχὴν Νικολαϊτῶν ὁμοίως.",
+    "pt_aa": "Assim tens também alguns que de igual modo seguem a doutrina dos nicolaítas."
+   },
+   "16": {
+    "grego_sblgnt": "μετανόησον οὖν· εἰ δὲ μή, ἔρχομαί σοι ταχύ, καὶ πολεμήσω μετ’ αὐτῶν ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου.",
+    "pt_aa": "Arrepende-te, pois; ou se não, virei a ti em breve, e contra eles batalharei com a espada da minha boca."
+   },
+   "17": {
+    "grego_sblgnt": "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις. τῷ νικῶντι δώσω ⸀αὐτῷ τοῦ μάννα τοῦ κεκρυμμένου, καὶ δώσω αὐτῷ ψῆφον λευκήν, καὶ ἐπὶ τὴν ψῆφον ὄνομα καινὸν γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ μὴ ὁ λαμβάνων.",
+    "pt_aa": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao que vencer darei do maná escondido, e lhe darei uma pedra branca, e na pedra um novo nome escrito, o qual ninguém conhece senão aquele que o recebe."
+   },
+   "18": {
+    "grego_sblgnt": "Καὶ τῷ ἀγγέλῳ ⸀τῆς ἐν Θυατείροις ἐκκλησίας γράψον· Τάδε λέγει ὁ υἱὸς τοῦ θεοῦ, ὁ ἔχων τοὺς ὀφθαλμοὺς αὐτοῦ ὡς φλόγα πυρός, καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ·",
+    "pt_aa": "Ao anjo da igreja em Tiatira escreve: Isto diz o Filho de Deus, que tem os olhos como chama de fogo, e os pés semelhantes a latão reluzente:"
+   },
+   "19": {
+    "grego_sblgnt": "Οἶδά σου τὰ ἔργα, καὶ τὴν ⸂ἀγάπην καὶ τὴν πίστιν⸃ καὶ τὴν διακονίαν καὶ τὴν ὑπομονήν σου, καὶ τὰ ἔργα σου τὰ ἔσχατα πλείονα τῶν πρώτων.",
+    "pt_aa": "Conheço as tuas obras, e o teu amor, e a tua fé, e o teu serviço, e a tua perseverança, e sei que as tuas últimas obras são mais numerosas que as primeiras."
+   },
+   "20": {
+    "grego_sblgnt": "ἀλλὰ ἔχω κατὰ σοῦ ὅτι ἀφεῖς τὴν ⸀γυναῖκα Ἰεζάβελ, ἡ ⸀λέγουσα ἑαυτὴν προφῆτιν, καὶ διδάσκει καὶ πλανᾷ τοὺς ἐμοὺς δούλους πορνεῦσαι καὶ φαγεῖν εἰδωλόθυτα.",
+    "pt_aa": "Mas tenho contra ti que toleras a mulher Jezabel, que se diz profetisa; ela ensina e seduz os meus servos a se prostituírem e a comerem das coisas sacrificadas a ídolos;"
+   },
+   "21": {
+    "grego_sblgnt": "καὶ ἔδωκα αὐτῇ χρόνον ἵνα μετανοήσῃ, καὶ οὐ θέλει μετανοῆσαι ἐκ τῆς πορνείας αὐτῆς.",
+    "pt_aa": "e dei-lhe tempo para que se arrependesse; e ela não quer arrepender-se da sua prostituição."
+   },
+   "22": {
+    "grego_sblgnt": "ἰδοὺ βάλλω αὐτὴν εἰς κλίνην, καὶ τοὺς μοιχεύοντας μετ’ αὐτῆς εἰς θλῖψιν μεγάλην, ἐὰν μὴ ⸀μετανοήσωσιν ἐκ τῶν ἔργων αὐτῆς·",
+    "pt_aa": "Eis que a lanço num leito de dores, e numa grande tribulação os que cometem adultério com ela, se não se arrependerem das obras dela;"
+   },
+   "23": {
+    "grego_sblgnt": "καὶ τὰ τέκνα αὐτῆς ἀποκτενῶ ἐν θανάτῳ· καὶ γνώσονται πᾶσαι αἱ ἐκκλησίαι ὅτι ἐγώ εἰμι ὁ ἐραυνῶν νεφροὺς καὶ καρδίας, καὶ δώσω ὑμῖν ἑκάστῳ κατὰ τὰ ἔργα ὑμῶν.",
+    "pt_aa": "e ferirei de morte a seus filhos, e todas as igrejas saberão que eu sou aquele que esquadrinha os rins e os corações; e darei a cada um de vós segundo as suas obras."
+   },
+   "24": {
+    "grego_sblgnt": "ὑμῖν δὲ λέγω τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ ἔχουσιν τὴν διδαχὴν ταύτην, οἵτινες οὐκ ἔγνωσαν τὰ βαθέα τοῦ Σατανᾶ, ὡς λέγουσιν, οὐ βάλλω ἐφ’ ὑμᾶς ἄλλο βάρος·",
+    "pt_aa": "Digo-vos, porém, a vós os demais que estão em Tiatira, a todos quantos não têm esta doutrina, e não conhecem as chamadas profundezas de Satanás, que outra carga vos não porei;"
+   },
+   "25": {
+    "grego_sblgnt": "πλὴν ὃ ἔχετε κρατήσατε ἄχρι οὗ ἂν ἥξω.",
+    "pt_aa": "mas o que tendes, retende-o até que eu venha."
+   },
+   "26": {
+    "grego_sblgnt": "καὶ ὁ νικῶν καὶ ὁ τηρῶν ἄχρι τέλους τὰ ἔργα μου, δώσω αὐτῷ ἐξουσίαν ἐπὶ τῶν ἐθνῶν,",
+    "pt_aa": "Ao que vencer, e ao que guardar as minhas obras até o fim, eu lhe darei autoridade sobre as nações,"
+   },
+   "27": {
+    "grego_sblgnt": "καὶ ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ ὡς τὰ σκεύη τὰ κεραμικὰ ⸀συντρίβεται,",
+    "pt_aa": "e com vara de ferro as regerá, quebrando-as do modo como são quebrados os vasos do oleiro, assim como eu recebi autoridade de meu Pai;"
+   },
+   "28": {
+    "grego_sblgnt": "ὡς κἀγὼ εἴληφα παρὰ τοῦ πατρός μου, καὶ δώσω αὐτῷ τὸν ἀστέρα τὸν πρωϊνόν.",
+    "pt_aa": "também lhe darei a estrela da manhã."
+   },
+   "29": {
+    "grego_sblgnt": "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις.",
+    "pt_aa": "Quem tem ouvidos, ouça o que o Espírito dia às igrejas."
+   }
+  },
+  "3": {
+   "1": {
+    "grego_sblgnt": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Σάρδεσιν ἐκκλησίας γράψον· Τάδε λέγει ὁ ἔχων τὰ ἑπτὰ πνεύματα τοῦ θεοῦ καὶ τοὺς ἑπτὰ ἀστέρας· Οἶδά σου τὰ ἔργα, ὅτι ὄνομα ἔχεις ὅτι ζῇς, καὶ νεκρὸς εἶ.",
+    "pt_aa": "Ao anjo da igreja em Sardes escreve: Isto diz aquele que tem os sete espíritos de Deus, e as estrelas: Conheço as tuas obras; tens nome de que vives, e estás morto."
+   },
+   "2": {
+    "grego_sblgnt": "γίνου γρηγορῶν, καὶ στήρισον τὰ λοιπὰ ἃ ⸂ἔμελλον ἀποθανεῖν⸃, οὐ γὰρ εὕρηκά σου ⸀τὰ ἔργα πεπληρωμένα ἐνώπιον τοῦ θεοῦ μου·",
+    "pt_aa": "Sê vigilante, e confirma o restante, que estava para morrer; porque não tenho achado as tuas obras perfeitas diante do meu Deus."
+   },
+   "3": {
+    "grego_sblgnt": "μνημόνευε οὖν πῶς εἴληφας καὶ ἤκουσας καὶ τήρει, καὶ μετανόησον· ἐὰν οὖν μὴ γρηγορήσῃς, ⸀ἥξω ὡς κλέπτης, καὶ οὐ μὴ ⸀γνῷς ποίαν ὥραν ἥξω ἐπὶ σέ·",
+    "pt_aa": "Lembra-te, portanto, do que tens recebido e ouvido, e guarda-o, e arrepende-te. Pois se não vigiares, virei como um ladrão, e não saberás a que hora sobre ti virei."
+   },
+   "4": {
+    "grego_sblgnt": "ἀλλὰ ⸂ἔχεις ὀλίγα⸃ ὀνόματα ἐν Σάρδεσιν ἃ οὐκ ἐμόλυναν τὰ ἱμάτια αὐτῶν, καὶ περιπατήσουσιν μετ’ ἐμοῦ ἐν λευκοῖς, ὅτι ἄξιοί εἰσιν.",
+    "pt_aa": "Mas também tens em Sardes algumas pessoas que não contaminaram as suas vestes e comigo andarão vestidas de branco, porquanto são dignas."
+   },
+   "5": {
+    "grego_sblgnt": "ὁ νικῶν ⸀οὕτως περιβαλεῖται ἐν ἱματίοις λευκοῖς, καὶ οὐ μὴ ἐξαλείψω τὸ ὄνομα αὐτοῦ ἐκ τῆς βίβλου τῆς ζωῆς, καὶ ὁμολογήσω τὸ ὄνομα αὐτοῦ ἐνώπιον τοῦ πατρός μου καὶ ἐνώπιον τῶν ἀγγέλων αὐτοῦ.",
+    "pt_aa": "O que vencer será assim vestido de vestes brancas, e de maneira nenhuma riscarei o seu nome do livro da vida; antes confessarei o seu nome diante de meu Pai e diante dos seus anjos."
+   },
+   "6": {
+    "grego_sblgnt": "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις.",
+    "pt_aa": "Quem tem ouvidos, ouça o que o espírito diz às igrejas."
+   },
+   "7": {
+    "grego_sblgnt": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας γράψον· Τάδε λέγει ὁ ἅγιος, ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν ⸀Δαυίδ, ὁ ἀνοίγων καὶ οὐδεὶς κλείσει, ⸂καὶ κλείων⸃ καὶ οὐδεὶς ⸀ἀνοίγει·",
+    "pt_aa": "Ao anjo da igreja em Filadélfia escreve: Isto diz o que é santo, o que é verdadeiro, o que tem a chave de Davi; o que abre, e ninguém fecha; e fecha, e ninguém abre:"
+   },
+   "8": {
+    "grego_sblgnt": "Οἶδά σου τὰ ἔργα— ἰδοὺ δέδωκα ἐνώπιόν σου θύραν ἠνεῳγμένην, ἣν οὐδεὶς δύναται κλεῖσαι αὐτήν— ὅτι μικρὰν ἔχεις δύναμιν, καὶ ἐτήρησάς μου τὸν λόγον, καὶ οὐκ ἠρνήσω τὸ ὄνομά μου.",
+    "pt_aa": "Conheço as tuas obras {eis que tenho posto diante de ti uma porta aberta, que ninguém pode fechar}, que tens pouca força, entretanto guardaste a minha palavra e não negaste o meu nome."
+   },
+   "9": {
+    "grego_sblgnt": "ἰδοὺ ⸀διδῶ ἐκ τῆς συναγωγῆς τοῦ Σατανᾶ, τῶν λεγόντων ἑαυτοὺς Ἰουδαίους εἶναι, καὶ οὐκ εἰσὶν ἀλλὰ ψεύδονται— ἰδοὺ ποιήσω αὐτοὺς ἵνα ⸂ἥξουσιν καὶ προσκυνήσουσιν⸃ ἐνώπιον τῶν ποδῶν σου, καὶ γνῶσιν ὅτι ⸀ἐγὼ ἠγάπησά σε.",
+    "pt_aa": "Eis que farei aos da sinagoga de Satanás, aos que se dizem judeus, e não o são, mas mentem, eis que farei que venham, e adorem prostrados aos teus pés, e saibam que eu te amo."
+   },
+   "10": {
+    "grego_sblgnt": "ὅτι ἐτήρησας τὸν λόγον τῆς ὑπομονῆς μου, κἀγώ σε τηρήσω ἐκ τῆς ὥρας τοῦ πειρασμοῦ τῆς μελλούσης ἔρχεσθαι ἐπὶ τῆς οἰκουμένης ὅλης, πειράσαι τοὺς κατοικοῦντας ἐπὶ τῆς γῆς.",
+    "pt_aa": "Porquanto guardaste a palavra da minha perseverança, também eu te guardarei da hora da provação que há de vir sobre o mundo inteiro, para pôr à prova os que habitam sobre a terra."
+   },
+   "11": {
+    "grego_sblgnt": "ἔρχομαι ταχύ· κράτει ὃ ἔχεις, ἵνα μηδεὶς λάβῃ τὸν στέφανόν σου.",
+    "pt_aa": "Venho sem demora; guarda o que tens, para que ninguém tome a tua coroa."
+   },
+   "12": {
+    "grego_sblgnt": "ὁ νικῶν ποιήσω αὐτὸν στῦλον ἐν τῷ ναῷ τοῦ θεοῦ μου, καὶ ἔξω οὐ μὴ ἐξέλθῃ ἔτι, καὶ γράψω ἐπ’ αὐτὸν τὸ ὄνομα τοῦ θεοῦ μου καὶ τὸ ὄνομα τῆς πόλεως τοῦ θεοῦ μου, τῆς καινῆς Ἰερουσαλήμ, ἡ ⸀καταβαίνουσα ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ μου, καὶ τὸ ὄνομά μου τὸ καινόν.",
+    "pt_aa": "A quem vencer, eu o farei coluna no templo do meu Deus, donde jamais sairá; e escreverei sobre ele o nome do meu Deus, e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu, da parte do meu Deus, e também o meu novo nome."
+   },
+   "13": {
+    "grego_sblgnt": "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις.",
+    "pt_aa": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas."
+   },
+   "14": {
+    "grego_sblgnt": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Λαοδικείᾳ ἐκκλησίας γράψον· Τάδε λέγει ὁ Ἀμήν, ὁ μάρτυς ὁ πιστὸς ⸀καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ·",
+    "pt_aa": "Ao anjo da igreja em Laodicéia escreve: Isto diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:"
+   },
+   "15": {
+    "grego_sblgnt": "Οἶδά σου τὰ ἔργα, ὅτι οὔτε ψυχρὸς εἶ οὔτε ζεστός. ὄφελον ψυχρὸς ἦς ἢ ζεστός.",
+    "pt_aa": "Conheço as tuas obras, que nem és frio nem quente; oxalá foras frio ou quente!"
+   },
+   "16": {
+    "grego_sblgnt": "οὕτως, ὅτι χλιαρὸς εἶ καὶ ⸀οὔτε ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου.",
+    "pt_aa": "Assim, porque és morno, e não és quente nem frio, vomitar-te-ei da minha boca."
+   },
+   "17": {
+    "grego_sblgnt": "ὅτι λέγεις ⸀ὅτι Πλούσιός εἰμι καὶ πεπλούτηκα καὶ ⸀οὐδὲν χρείαν ἔχω, καὶ οὐκ οἶδας ὅτι σὺ εἶ ὁ ταλαίπωρος ⸀καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς καὶ γυμνός,",
+    "pt_aa": "Porquanto dizes: Rico sou, e estou enriquecido, e de nada tenho falta; e não sabes que és um coitado, e miserável, e pobre, e cego, e nu;"
+   },
+   "18": {
+    "grego_sblgnt": "συμβουλεύω σοι ἀγοράσαι ⸂παρ’ ἐμοῦ χρυσίον⸃ πεπυρωμένον ἐκ πυρὸς ἵνα πλουτήσῃς, καὶ ἱμάτια λευκὰ ἵνα περιβάλῃ καὶ μὴ φανερωθῇ ἡ αἰσχύνη τῆς γυμνότητός σου, καὶ κολλούριον ⸀ἐγχρῖσαι τοὺς ὀφθαλμούς σου ἵνα βλέπῃς.",
+    "pt_aa": "aconselho-te que de mim compres ouro refinado no fogo, para que te enriqueças; e vestes brancas, para que te vistas, e não seja manifesta a vergonha da tua nudez; e colírio, a fim de ungires os teus olhos, para que vejas."
+   },
+   "19": {
+    "grego_sblgnt": "ἐγὼ ὅσους ἐὰν φιλῶ ἐλέγχω καὶ παιδεύω· ⸀ζήλευε οὖν καὶ μετανόησον.",
+    "pt_aa": "Eu repreendo e castigo a todos quantos amo: sê pois zeloso, e arrepende-te."
+   },
+   "20": {
+    "grego_sblgnt": "ἰδοὺ ἕστηκα ἐπὶ τὴν θύραν καὶ κρούω· ἐάν τις ἀκούσῃ τῆς φωνῆς μου καὶ ἀνοίξῃ τὴν θύραν, ⸀καὶ εἰσελεύσομαι πρὸς αὐτὸν καὶ δειπνήσω μετ’ αὐτοῦ καὶ αὐτὸς μετ’ ἐμοῦ.",
+    "pt_aa": "Eis que estou à porta e bato; se alguém ouvir a minha voz, e abrir a porta, entrarei em sua casa, e com ele cearei, e ele comigo."
+   },
+   "21": {
+    "grego_sblgnt": "ὁ νικῶν δώσω αὐτῷ καθίσαι μετ’ ἐμοῦ ἐν τῷ θρόνῳ μου, ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα μετὰ τοῦ πατρός μου ἐν τῷ θρόνῳ αὐτοῦ.",
+    "pt_aa": "Ao que vencer, eu lhe concederei que se assente comigo no meu trono."
+   },
+   "22": {
+    "grego_sblgnt": "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις.",
+    "pt_aa": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas."
+   }
+  },
+  "4": {
+   "1": {
+    "grego_sblgnt": "Μετὰ ταῦτα εἶδον, καὶ ἰδοὺ θύρα ἠνεῳγμένη ἐν τῷ οὐρανῷ, καὶ ἡ φωνὴ ἡ πρώτη ἣν ἤκουσα ὡς σάλπιγγος λαλούσης μετ’ ἐμοῦ, λέγων· Ἀνάβα ὧδε, καὶ δείξω σοι ἃ δεῖ γενέσθαι. μετὰ ταῦτα",
+    "pt_aa": "Depois destas coisas, olhei, e eis que estava uma porta aberta no céu, e a primeira voz que ouvira, voz como de trombeta, falando comigo, disse: Sobe aqui, e mostrar-te-ei as coisas que depois destas devem acontecer."
+   },
+   "2": {
+    "grego_sblgnt": "⸀εὐθέως ἐγενόμην ἐν πνεύματι· καὶ ἰδοὺ θρόνος ἔκειτο ἐν τῷ οὐρανῷ, καὶ ἐπὶ τὸν θρόνον καθήμενος,",
+    "pt_aa": "Imediatamente fui arrebatado em espírito, e eis que um trono estava posto no céu, e um assentado sobre o trono;"
+   },
+   "3": {
+    "grego_sblgnt": "⸂καὶ ὁ καθήμενος⸃ ὅμοιος ὁράσει λίθῳ ἰάσπιδι καὶ σαρδίῳ, καὶ ἶρις κυκλόθεν τοῦ θρόνου ⸂ὅμοιος ὁράσει σμαραγδίνῳ⸃.",
+    "pt_aa": "e aquele que estava assentado era, na aparência, semelhante a uma pedra de jaspe e sárdio; e havia ao redor do trono um arco-íris semelhante, na aparência, à esmeralda."
+   },
+   "4": {
+    "grego_sblgnt": "καὶ κυκλόθεν τοῦ θρόνου ⸀θρόνοι εἴκοσι τέσσαρες, καὶ ἐπὶ τοὺς ⸀θρόνους εἴκοσι τέσσαρας πρεσβυτέρους καθημένους περιβεβλημένους ⸀ἐν ἱματίοις λευκοῖς, καὶ ἐπὶ τὰς κεφαλὰς αὐτῶν στεφάνους χρυσοῦς.",
+    "pt_aa": "Havia também ao redor do trono vinte e quatro tronos; e sobre os tronos vi assentados vinte e quatro anciãos, vestidos de branco, que tinham nas suas cabeças coroas de ouro."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ ἐκ τοῦ θρόνου ἐκπορεύονται ἀστραπαὶ καὶ φωναὶ καὶ βρονταί· καὶ ἑπτὰ λαμπάδες πυρὸς καιόμεναι ἐνώπιον τοῦ θρόνου, ⸀ἅ εἰσιν ⸀τὰ ἑπτὰ πνεύματα τοῦ θεοῦ,",
+    "pt_aa": "E do trono saíam relâmpagos, e vozes, e trovões; e diante do trono ardiam sete lâmpadas de fogo, as quais são os sete espíritos de Deus;"
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ἐνώπιον τοῦ θρόνου ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ. Καὶ ἐν μέσῳ τοῦ θρόνου καὶ κύκλῳ τοῦ θρόνου τέσσαρα ζῷα γέμοντα ὀφθαλμῶν ἔμπροσθεν καὶ ὄπισθεν·",
+    "pt_aa": "também havia diante do trono como que um mar de vidro, semelhante ao cristal; e ao redor do trono, um ao meio de cada lado, quatro seres viventes cheios de olhos por diante e por detrás;"
+   },
+   "7": {
+    "grego_sblgnt": "καὶ τὸ ζῷον τὸ πρῶτον ὅμοιον λέοντι, καὶ τὸ δεύτερον ζῷον ὅμοιον μόσχῳ, καὶ τὸ τρίτον ζῷον ⸀ἔχων ⸂τὸ πρόσωπον ὡς⸃ ἀνθρώπου, καὶ τὸ τέταρτον ζῷον ὅμοιον ἀετῷ πετομένῳ·",
+    "pt_aa": "e o primeiro ser era semelhante a um leão; o segundo ser, semelhante a um touro; tinha o terceiro ser o rosto como de homem; e o quarto ser era semelhante a uma águia voando."
+   },
+   "8": {
+    "grego_sblgnt": "καὶ τὰ τέσσαρα ζῷα, ἓν ⸂καθ’ ἓν⸃ ⸀αὐτῶν ⸀ἔχων ἀνὰ πτέρυγας ἕξ, κυκλόθεν καὶ ἔσωθεν γέμουσιν ὀφθαλμῶν· καὶ ἀνάπαυσιν οὐκ ἔχουσιν ἡμέρας καὶ νυκτὸς λέγοντες· Ἅγιος ἅγιος ἅγιος κύριος, ὁ θεός, ὁ παντοκράτωρ, ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος.",
+    "pt_aa": "Os quatro seres viventes tinham, cada um, seis asas, e ao redor e por dentro estavam cheios de olhos; e não têm descanso nem de noite, dizendo: Santo, Santo, Santo é o Senhor Deus, o Todo-Poderoso, aquele que era, e que é, e que há de vir."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ ὅταν ⸀δώσουσιν τὰ ζῷα δόξαν καὶ τιμὴν καὶ εὐχαριστίαν τῷ καθημένῳ ἐπὶ ⸂τῷ θρόνῳ⸃, τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων,",
+    "pt_aa": "E, sempre que os seres viventes davam glória e honra e ações de graças ao que estava assentado sobre o trono, ao que vive pelos séculos dos séculos,"
+   },
+   "10": {
+    "grego_sblgnt": "πεσοῦνται οἱ εἴκοσι τέσσαρες πρεσβύτεροι ἐνώπιον τοῦ καθημένου ἐπὶ τοῦ θρόνου, καὶ προσκυνήσουσιν τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων, καὶ βαλοῦσιν τοὺς στεφάνους αὐτῶν ἐνώπιον τοῦ θρόνου, λέγοντες·",
+    "pt_aa": "os vinte e quatro anciãos prostravam-se diante do que estava assentado sobre o trono, e adoravam ao que vive pelos séculos dos séculos; e lançavam as suas coroas diante do trono, dizendo:"
+   },
+   "11": {
+    "grego_sblgnt": "Ἄξιος εἶ, ὁ κύριος καὶ ὁ θεὸς ⸀ἡμῶν, λαβεῖν τὴν δόξαν καὶ τὴν τιμὴν καὶ τὴν δύναμιν, ὅτι σὺ ἔκτισας ⸀τὰ πάντα, καὶ διὰ τὸ θέλημά σου ἦσαν καὶ ἐκτίσθησαν.",
+    "pt_aa": "Digno és, Senhor nosso e Deus nosso, de receber a glória e a honra e o poder; porque tu criaste todas as coisas, e por tua vontade existiram e foram criadas."
+   }
+  },
+  "5": {
+   "1": {
+    "grego_sblgnt": "Καὶ εἶδον ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου βιβλίον γεγραμμένον ἔσωθεν καὶ ⸀ὄπισθεν, κατεσφραγισμένον σφραγῖσιν ἑπτά.",
+    "pt_aa": "Vi na destra do que estava assentado sobre o trono um livro escrito por dentro e por fora, bem selado com sete selos."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ εἶδον ἄγγελον ἰσχυρὸν κηρύσσοντα ἐν φωνῇ μεγάλῃ· Τίς ⸀ἄξιος ἀνοῖξαι τὸ βιβλίον καὶ λῦσαι τὰς σφραγῖδας αὐτοῦ;",
+    "pt_aa": "Vi também um anjo forte, clamando com grande voz: Quem é digno de abrir o livro e de romper os seus selos?"
+   },
+   "3": {
+    "grego_sblgnt": "καὶ οὐδεὶς ἐδύνατο ἐν τῷ ⸀οὐρανῷ ⸂οὐδὲ ἐπὶ τῆς γῆς οὐδὲ⸃ ὑποκάτω τῆς γῆς ἀνοῖξαι τὸ βιβλίον οὔτε βλέπειν αὐτό.",
+    "pt_aa": "E ninguém no céu, nem na terra, nem debaixo da terra, podia abrir o livro, nem olhar para ele."
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ⸀ἐγὼ ἔκλαιον πολὺ ὅτι οὐδεὶς ἄξιος εὑρέθη ἀνοῖξαι τὸ βιβλίον οὔτε βλέπειν αὐτό·",
+    "pt_aa": "E eu chorava muito, porque não fora achado ninguém digno de abrir o livro nem de olhar para ele."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ εἷς ἐκ τῶν πρεσβυτέρων λέγει μοι· Μὴ κλαῖε· ἰδοὺ ἐνίκησεν ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ, ⸀ἀνοῖξαι τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.",
+    "pt_aa": "E disse-me um dentre os anciãos: Não chores; eis que o Leão da tribo de Judá, a raiz de Davi, venceu para abrir o livro e romper os sete selos."
+   },
+   "6": {
+    "grego_sblgnt": "Καὶ εἶδον ἐν μέσῳ τοῦ θρόνου καὶ τῶν τεσσάρων ζῴων καὶ ἐν μέσῳ τῶν πρεσβυτέρων ἀρνίον ⸀ἑστηκὸς ὡς ἐσφαγμένον, ⸀ἔχων κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά, ⸀οἵ εἰσιν τὰ ἑπτὰ πνεύματα τοῦ θεοῦ, ⸀ἀπεσταλμένοι εἰς πᾶσαν τὴν γῆν.",
+    "pt_aa": "Nisto vi, entre o trono e os quatro seres viventes, no meio dos anciãos, um Cordeiro em pé, como havendo sido morto, e tinha sete chifres e sete olhos, que são os sete espíritos de Deus, enviados por toda a terra."
+   },
+   "7": {
+    "grego_sblgnt": "καὶ ἦλθεν καὶ εἴληφεν ἐκ τῆς δεξιᾶς τοῦ καθημένου ἐπὶ τοῦ θρόνου.",
+    "pt_aa": "E veio e tomou o livro da destra do que estava assentado sobre o trono."
+   },
+   "8": {
+    "grego_sblgnt": "καὶ ὅτε ἔλαβεν τὸ βιβλίον, τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι ἔπεσαν ἐνώπιον τοῦ ἀρνίου, ἔχοντες ἕκαστος κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν ⸀αἱ προσευχαὶ τῶν ἁγίων·",
+    "pt_aa": "Logo que tomou o livro, os quatro seres viventes e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo cada um deles uma harpa e taças de ouro cheias de incenso, que são as orações dos santos."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ ᾄδουσιν ᾠδὴν καινὴν λέγοντες· Ἄξιος εἶ λαβεῖν τὸ βιβλίον καὶ ἀνοῖξαι τὰς σφραγῖδας αὐτοῦ, ὅτι ἐσφάγης καὶ ἠγόρασας τῷ ⸀θεῷ ἐν τῷ αἵματί σου ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους,",
+    "pt_aa": "E cantavam um cântico novo, dizendo: Digno és de tomar o livro, e de abrir os seus selos; porque foste morto, e com o teu sangue compraste para Deus homens de toda tribo, e língua, e povo e nação;"
+   },
+   "10": {
+    "grego_sblgnt": "καὶ ἐποίησας αὐτοὺς τῷ θεῷ ἡμῶν ⸀βασιλείαν καὶ ἱερεῖς, καὶ ⸀βασιλεύουσιν ἐπὶ τῆς γῆς.",
+    "pt_aa": "e para o nosso Deus os fizeste reino, e sacerdotes; e eles reinarão sobre a terra."
+   },
+   "11": {
+    "grego_sblgnt": "Καὶ εἶδον, καὶ ⸀ἤκουσα φωνὴν ἀγγέλων πολλῶν κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων, καὶ ἦν ὁ ἀριθμὸς αὐτῶν μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,",
+    "pt_aa": "E olhei, e vi a voz de muitos anjos ao redor do trono e dos seres viventes e dos anciãos; e o número deles era miríades de miríades; e o número deles era miríades de miríades e milhares de milhares,"
+   },
+   "12": {
+    "grego_sblgnt": "λέγοντες φωνῇ μεγάλῃ· Ἄξιόν ἐστιν τὸ ἀρνίον τὸ ἐσφαγμένον λαβεῖν τὴν δύναμιν ⸀καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.",
+    "pt_aa": "que com grande voz diziam: Digno é o Cordeiro, que foi morto, de receber o poder, e riqueza, e sabedoria, e força, e honra, e glória, e louvor."
+   },
+   "13": {
+    "grego_sblgnt": "καὶ πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς ⸀θαλάσσης, καὶ τὰ ἐν αὐτοῖς ⸀πάντα, ἤκουσα λέγοντας· Τῷ καθημένῳ ἐπὶ ⸂τῷ θρόνῳ⸃ καὶ τῷ ἀρνίῳ ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν ⸀αἰώνων.",
+    "pt_aa": "Ouvi também a toda criatura que está no céu, e na terra, e debaixo da terra, e no mar, e a todas as coisas que neles há, dizerem: Ao que está assentado sobre o trono, e ao Cordeiro, seja o louvor, e a honra, e a glória, e o domínio pelos séculos dos séculos:"
+   },
+   "14": {
+    "grego_sblgnt": "καὶ τὰ τέσσαρα ζῷα ⸀ἔλεγον· Ἀμήν. καὶ οἱ πρεσβύτεροι ἔπεσαν καὶ προσεκύνησαν.",
+    "pt_aa": "e os quatro seres viventes diziam: Amém. E os anciãos prostraram-se e adoraram."
+   }
+  },
+  "6": {
+   "1": {
+    "grego_sblgnt": "Καὶ εἶδον ⸀ὅτε ἤνοιξεν τὸ ἀρνίον μίαν ἐκ τῶν ἑπτὰ σφραγίδων, καὶ ἤκουσα ἑνὸς ἐκ τῶν τεσσάρων ζῴων λέγοντος ὡς φωνῇ βροντῆς· ⸀Ἔρχου.",
+    "pt_aa": "E vi quando o Cordeiro abriu um dos sete selos, e ouvi um dos quatro seres viventes dizer numa voz como de trovão: Vem!"
+   },
+   "2": {
+    "grego_sblgnt": "καὶ ⸂εἶδον, καὶ⸃ ἰδοὺ ἵππος λευκός, καὶ ὁ καθήμενος ἐπ’ αὐτὸν ἔχων τόξον, καὶ ἐδόθη αὐτῷ στέφανος, καὶ ἐξῆλθεν νικῶν καὶ ἵνα νικήσῃ.",
+    "pt_aa": "Olhei, e eis um cavalo branco; e o que estava montado nele tinha um arco; e foi-lhe dada uma coroa, e saiu vencendo, e para vencer."
+   },
+   "3": {
+    "grego_sblgnt": "Καὶ ὅτε ἤνοιξεν τὴν ⸂σφραγῖδα τὴν δευτέραν⸃, ἤκουσα τοῦ δευτέρου ζῴου λέγοντος· Ἔρχου.",
+    "pt_aa": "Quando ele abriu o segundo selo, ouvi o segundo ser vivente dizer: Vem!"
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ἐξῆλθεν ἄλλος ἵππος πυρρός, καὶ τῷ καθημένῳ ἐπ’ αὐτὸν ἐδόθη αὐτῷ λαβεῖν τὴν εἰρήνην ἐκ τῆς γῆς ⸀καὶ ἵνα ἀλλήλους ⸀σφάξουσιν, καὶ ἐδόθη αὐτῷ μάχαιρα μεγάλη.",
+    "pt_aa": "E saiu outro cavalo, um cavalo vermelho; e ao que estava montado nele foi dado que tirasse a paz da terra, de modo que os homens se matassem uns aos outros; e foi-lhe dada uma grande espada."
+   },
+   "5": {
+    "grego_sblgnt": "Καὶ ὅτε ἤνοιξε τὴν σφραγῖδα τὴν τρίτην, ἤκουσα τοῦ τρίτου ζῴου λέγοντος· Ἔρχου. καὶ ⸀εἶδον, καὶ ἰδοὺ ἵππος μέλας, καὶ ὁ καθήμενος ἐπ’ αὐτὸν ἔχων ζυγὸν ἐν τῇ χειρὶ αὐτοῦ.",
+    "pt_aa": "Quando abriu o terceiro selo, ouvi o terceiro ser vivente dizer: Vem! E olhei, e eis um cavalo preto; e o que estava montado nele tinha uma balança na mão."
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ἤκουσα ⸀ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων ζῴων λέγουσαν· Χοῖνιξ σίτου δηναρίου, καὶ τρεῖς χοίνικες ⸀κριθῶν δηναρίου· καὶ τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς.",
+    "pt_aa": "E ouvi como que uma voz no meio dos quatro seres viventes, que dizia: Um queniz de trigo por um denário, e três quenizes de cevada por um denário; e não danifiques o azeite e o vinho."
+   },
+   "7": {
+    "grego_sblgnt": "Καὶ ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν τετάρτην, ἤκουσα ⸀φωνὴν τοῦ τετάρτου ζῴου λέγοντος· ⸀Ἔρχου.",
+    "pt_aa": "Quando abriu o quarto selo, ouvi a voz do quarto ser vivente dizer: Vem!"
+   },
+   "8": {
+    "grego_sblgnt": "καὶ ⸂εἶδον, καὶ⸃ ἰδοὺ ἵππος χλωρός, καὶ ὁ καθήμενος ἐπάνω αὐτοῦ ὄνομα αὐτῷ ὁ Θάνατος, καὶ ὁ ᾅδης ἠκολούθει ⸂μετ’ αὐτοῦ⸃, καὶ ἐδόθη ⸀αὐτοῖς ἐξουσία ἐπὶ τὸ τέταρτον τῆς γῆς, ἀποκτεῖναι ἐν ῥομφαίᾳ καὶ ἐν λιμῷ καὶ ἐν θανάτῳ καὶ ὑπὸ τῶν θηρίων τῆς γῆς.",
+    "pt_aa": "E olhei, e eis um cavalo amarelo, e o que estava montado nele chamava-se Morte; e o inferno seguia com ele; e foi-lhe dada autoridade sobre a quarta parte da terra, para matar com a espada, e com a fome, e com a peste, e com as feras da terra."
+   },
+   "9": {
+    "grego_sblgnt": "Καὶ ὅτε ἤνοιξεν τὴν πέμπτην σφραγῖδα, εἶδον ὑποκάτω τοῦ θυσιαστηρίου τὰς ψυχὰς τῶν ἐσφαγμένων διὰ τὸν λόγον τοῦ θεοῦ καὶ διὰ τὴν ⸀μαρτυρίαν ἣν εἶχον.",
+    "pt_aa": "Quando abriu o quinto selo, vi debaixo do altar as almas dos que tinham sido mortos por causa da palavra de Deus e por causa do testemunho que deram."
+   },
+   "10": {
+    "grego_sblgnt": "καὶ ἔκραξαν φωνῇ μεγάλῃ λέγοντες· Ἕως πότε, ὁ δεσπότης ὁ ἅγιος καὶ ἀληθινός, οὐ κρίνεις καὶ ἐκδικεῖς τὸ αἷμα ἡμῶν ἐκ τῶν κατοικούντων ἐπὶ τῆς γῆς;",
+    "pt_aa": "E clamaram com grande voz, dizendo: Até quando, ó Soberano, santo e verdadeiro, não julgas e vingas o nosso sangue dos que habitam sobre a terra?."
+   },
+   "11": {
+    "grego_sblgnt": "καὶ ἐδόθη αὐτοῖς ἑκάστῳ στολὴ λευκή, καὶ ἐρρέθη αὐτοῖς ἵνα ⸀ἀναπαύσονται ἔτι χρόνον ⸀μικρόν, ἕως ⸀πληρωθῶσιν καὶ οἱ σύνδουλοι αὐτῶν καὶ οἱ ἀδελφοὶ ⸀αὐτῶν οἱ μέλλοντες ⸀ἀποκτέννεσθαι ὡς καὶ αὐτοί.",
+    "pt_aa": "E foram dadas a cada um deles compridas vestes brancas e foi-lhes dito que repousassem ainda por um pouco de tempo, até que se completasse o número de seus conservos, que haviam de ser mortos, como também eles o foram."
+   },
+   "12": {
+    "grego_sblgnt": "Καὶ εἶδον ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν ἕκτην, καὶ σεισμὸς μέγας ἐγένετο, καὶ ὁ ἥλιος ⸂ἐγένετο μέλας⸃ ὡς σάκκος τρίχινος, καὶ ἡ σελήνη ὅλη ἐγένετο ὡς αἷμα,",
+    "pt_aa": "E vi quando abriu o sexto selo, e houve um grande terremoto; e o sol tornou-se negro como saco de cilício, e a lua toda tornou-se como sangue;"
+   },
+   "13": {
+    "grego_sblgnt": "καὶ οἱ ἀστέρες τοῦ οὐρανοῦ ἔπεσαν εἰς τὴν γῆν, ὡς συκῆ ⸀βάλλει τοὺς ὀλύνθους αὐτῆς ὑπὸ ἀνέμου μεγάλου σειομένη,",
+    "pt_aa": "e as estrelas do céu caíram sobre a terra, como quando a figueira, sacudida por um vento forte, deixa cair os seus figos verdes."
+   },
+   "14": {
+    "grego_sblgnt": "καὶ ὁ οὐρανὸς ἀπεχωρίσθη ὡς βιβλίον ἑλισσόμενον, καὶ πᾶν ὄρος καὶ νῆσος ἐκ τῶν τόπων αὐτῶν ἐκινήθησαν.",
+    "pt_aa": "E o céu recolheu-se como um livro que se enrola; e todos os montes e ilhas foram removidos dos seus lugares."
+   },
+   "15": {
+    "grego_sblgnt": "καὶ οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ οἱ χιλίαρχοι καὶ οἱ πλούσιοι καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος ἔκρυψαν ἑαυτοὺς εἰς τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν ὀρέων·",
+    "pt_aa": "E os reis da terra, e os grandes, e os chefes militares, e os ricos, e os poderosos, e todo escravo, e todo livre, se esconderam nas cavernas e nas rochas das montanhas;"
+   },
+   "16": {
+    "grego_sblgnt": "καὶ λέγουσιν τοῖς ὄρεσιν καὶ ταῖς πέτραις· Πέσετε ἐφ’ ἡμᾶς καὶ κρύψατε ἡμᾶς ἀπὸ προσώπου τοῦ καθημένου ἐπὶ τοῦ θρόνου καὶ ἀπὸ τῆς ὀργῆς τοῦ ἀρνίου,",
+    "pt_aa": "e diziam aos montes e aos rochedos: Caí sobre nós, e escondei-nos da face daquele que está assentado sobre o trono, e da ira do Cordeiro;"
+   },
+   "17": {
+    "grego_sblgnt": "ὅτι ἦλθεν ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς ⸀αὐτῶν, καὶ τίς δύναται σταθῆναι;",
+    "pt_aa": "porque é vindo o grande dia da ira deles; e quem poderá subsistir?"
+   }
+  },
+  "7": {
+   "1": {
+    "grego_sblgnt": "⸀Μετὰ τοῦτο εἶδον τέσσαρας ἀγγέλους ἑστῶτας ἐπὶ τὰς τέσσαρας γωνίας τῆς γῆς, κρατοῦντας τοὺς τέσσαρας ἀνέμους τῆς γῆς, ἵνα μὴ πνέῃ ἄνεμος ἐπὶ τῆς γῆς μήτε ἐπὶ τῆς θαλάσσης μήτε ἐπὶ ⸀πᾶν δένδρον.",
+    "pt_aa": "Depois disto vi quatro anjos em pé nos quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ εἶδον ἄλλον ἄγγελον ἀναβαίνοντα ἀπὸ ἀνατολῆς ἡλίου, ἔχοντα σφραγῖδα θεοῦ ζῶντος, καὶ ἔκραξεν φωνῇ μεγάλῃ τοῖς τέσσαρσιν ἀγγέλοις οἷς ἐδόθη αὐτοῖς ἀδικῆσαι τὴν γῆν καὶ τὴν θάλασσαν,",
+    "pt_aa": "E vi outro anjo subir do lado do sol nascente, tendo o selo do Deus vivo; e clamou com grande voz aos quatro anjos, quem fora dado que danificassem a terra e o mar,"
+   },
+   "3": {
+    "grego_sblgnt": "λέγων· Μὴ ἀδικήσητε τὴν γῆν μήτε τὴν θάλασσαν μήτε τὰ δένδρα, ⸀ἄχρι σφραγίσωμεν τοὺς δούλους τοῦ θεοῦ ἡμῶν ἐπὶ τῶν μετώπων αὐτῶν.",
+    "pt_aa": "dizendo: Não danifiques a terra, nem o mar, nem as árvores, até que selemos na sua fronte os servos do nosso Deus."
+   },
+   "4": {
+    "grego_sblgnt": "Καὶ ἤκουσα τὸν ἀριθμὸν τῶν ἐσφραγισμένων, ⸀ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες, ⸀ἐσφραγισμένοι ἐκ πάσης φυλῆς υἱῶν Ἰσραήλ·",
+    "pt_aa": "E ouvi o número dos que foram assinalados com o selo, cento e quarenta e quatro mil de todas as tribos dos filhos de Israel:"
+   },
+   "5": {
+    "grego_sblgnt": "ἐκ φυλῆς Ἰούδα δώδεκα χιλιάδες ⸀ἐσφραγισμένοι, ἐκ φυλῆς Ῥουβὴν δώδεκα χιλιάδες, ἐκ φυλῆς Γὰδ δώδεκα χιλιάδες,",
+    "pt_aa": "da tribo de Judá havia doze mil assinalados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil;"
+   },
+   "6": {
+    "grego_sblgnt": "ἐκ φυλῆς Ἀσὴρ δώδεκα χιλιάδες, ἐκ φυλῆς Νεφθαλὶμ δώδεκα χιλιάδες, ἐκ φυλῆς Μανασσῆ δώδεκα χιλιάδες,",
+    "pt_aa": "da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil;"
+   },
+   "7": {
+    "grego_sblgnt": "ἐκ φυλῆς Συμεὼν δώδεκα χιλιάδες, ἐκ φυλῆς Λευὶ δώδεκα χιλιάδες, ἐκ φυλῆς Ἰσσαχὰρ δώδεκα χιλιάδες,",
+    "pt_aa": "da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil;"
+   },
+   "8": {
+    "grego_sblgnt": "ἐκ φυλῆς Ζαβουλὼν δώδεκα χιλιάδες, ἐκ φυλῆς Ἰωσὴφ δώδεκα χιλιάδες, ἐκ φυλῆς Βενιαμὶν δώδεκα χιλιάδες ⸀ἐσφραγισμένοι.",
+    "pt_aa": "da tribo de Zabulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil assinalados."
+   },
+   "9": {
+    "grego_sblgnt": "Μετὰ ταῦτα εἶδον, καὶ ἰδοὺ ὄχλος πολύς, ὃν ἀριθμῆσαι ⸀αὐτὸν οὐδεὶς ἐδύνατο, ἐκ παντὸς ἔθνους καὶ φυλῶν καὶ λαῶν καὶ γλωσσῶν, ⸀ἑστῶτες ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τοῦ ἀρνίου, περιβεβλημένους στολὰς λευκάς, καὶ ⸀φοίνικες ἐν ταῖς χερσὶν αὐτῶν·",
+    "pt_aa": "Depois destas coisas olhei, e eis uma grande multidão, que ninguém podia contar, de todas as nações, tribos, povos e línguas, que estavam em pé diante do trono e em presença do Cordeiro, trajando compridas vestes brancas, e com palmas nas mãos;"
+   },
+   "10": {
+    "grego_sblgnt": "καὶ κράζουσι φωνῇ μεγάλῃ λέγοντες· Ἡ σωτηρία τῷ θεῷ ἡμῶν τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ.",
+    "pt_aa": "e clamavam com grande voz: Salvação ao nosso Deus, que está assentado sobre o trono, e ao Cordeiro."
+   },
+   "11": {
+    "grego_sblgnt": "καὶ πάντες οἱ ἄγγελοι εἱστήκεισαν κύκλῳ τοῦ θρόνου καὶ τῶν πρεσβυτέρων καὶ τῶν τεσσάρων ζῴων, καὶ ἔπεσαν ἐνώπιον τοῦ θρόνου ἐπὶ τὰ πρόσωπα αὐτῶν καὶ προσεκύνησαν τῷ θεῷ,",
+    "pt_aa": "E todos os anjos estavam em pé ao redor do trono e dos anciãos e dos quatro seres viventes, e prostraram-se diante do trono sobre seus rostos, e adoraram a Deus,"
+   },
+   "12": {
+    "grego_sblgnt": "λέγοντες· Ἀμήν· ἡ εὐλογία καὶ ἡ δόξα καὶ ἡ σοφία καὶ ἡ εὐχαριστία καὶ ἡ τιμὴ καὶ ἡ δύναμις καὶ ἡ ἰσχὺς τῷ θεῷ ἡμῶν εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+    "pt_aa": "dizendo: Amém. Louvor, e glória, e sabedoria, e ações de graças, e honra, e poder, e força ao nosso Deus, pelos séculos dos séculos. Amém."
+   },
+   "13": {
+    "grego_sblgnt": "Καὶ ἀπεκρίθη εἷς ἐκ τῶν πρεσβυτέρων λέγων μοι· Οὗτοι οἱ περιβεβλημένοι τὰς στολὰς τὰς λευκὰς τίνες εἰσὶν καὶ πόθεν ἦλθον;",
+    "pt_aa": "E um dos anciãos me perguntou: Estes que trajam as compridas vestes brancas, quem são eles e donde vieram?"
+   },
+   "14": {
+    "grego_sblgnt": "καὶ ⸀εἴρηκα αὐτῷ· Κύριέ μου, σὺ οἶδας. καὶ εἶπέν μοι· Οὗτοί εἰσιν οἱ ἐρχόμενοι ἐκ τῆς θλίψεως τῆς μεγάλης, καὶ ἔπλυναν τὰς στολὰς αὐτῶν καὶ ἐλεύκαναν ⸀αὐτὰς ἐν τῷ αἵματι τοῦ ἀρνίου.",
+    "pt_aa": "Respondi-lhe: Meu Senhor, tu sabes. Disse-me ele: Estes são os que vêm da grande tribulação, e levaram as suas vestes e as branquearam no sangue do Cordeiro."
+   },
+   "15": {
+    "grego_sblgnt": "διὰ τοῦτό εἰσιν ἐνώπιον τοῦ θρόνου τοῦ θεοῦ, καὶ λατρεύουσιν αὐτῷ ἡμέρας καὶ νυκτὸς ἐν τῷ ναῷ αὐτοῦ, καὶ ὁ καθήμενος ἐπὶ ⸂τοῦ θρόνου⸃ σκηνώσει ἐπ’ αὐτούς.",
+    "pt_aa": "Por isso estão diante do trono de Deus, e o servem de dia e de noite no seu santuário; e aquele que está assentado sobre o trono estenderá o seu tabernáculo sobre eles."
+   },
+   "16": {
+    "grego_sblgnt": "οὐ πεινάσουσιν ἔτι ⸀οὐδὲ διψήσουσιν ἔτι, οὐδὲ μὴ πέσῃ ἐπ’ αὐτοὺς ὁ ἥλιος οὐδὲ πᾶν καῦμα,",
+    "pt_aa": "Nunca mais terão fome, nunca mais terão sede; nem cairá sobre eles o sol, nem calor algum;"
+   },
+   "17": {
+    "grego_sblgnt": "ὅτι τὸ ἀρνίον τὸ ἀνὰ μέσον τοῦ θρόνου ⸀ποιμανεῖ αὐτούς, καὶ ⸀ὁδηγήσει αὐτοὺς ἐπὶ ζωῆς πηγὰς ὑδάτων· καὶ ἐξαλείψει ὁ θεὸς πᾶν δάκρυον ἐκ τῶν ὀφθαλμῶν αὐτῶν.",
+    "pt_aa": "porque o Cordeiro que está no meio, diante do trono, os apascentará e os conduzirá às fontes das águas da vida; e Deus lhes enxugará dos olhos toda lágrima."
+   }
+  },
+  "8": {
+   "1": {
+    "grego_sblgnt": "Καὶ ⸀ὅταν ἤνοιξεν τὴν σφραγῖδα τὴν ἑβδόμην, ἐγένετο σιγὴ ἐν τῷ οὐρανῷ ὡς ἡμιώριον.",
+    "pt_aa": "Quando abriu o sétimo selo, fez-se silêncio no céu, quase por meia hora."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ εἶδον τοὺς ἑπτὰ ἀγγέλους οἳ ἐνώπιον τοῦ θεοῦ ἑστήκασιν, καὶ ἐδόθησαν αὐτοῖς ἑπτὰ σάλπιγγες.",
+    "pt_aa": "E vi os sete anjos que estavam em pé diante de Deus, e lhes foram dadas sete trombetas."
+   },
+   "3": {
+    "grego_sblgnt": "Καὶ ἄλλος ἄγγελος ἦλθεν καὶ ἐστάθη ἐπὶ τοῦ θυσιαστηρίου ἔχων λιβανωτὸν χρυσοῦν, καὶ ἐδόθη αὐτῷ θυμιάματα πολλὰ ἵνα ⸀δώσει ταῖς προσευχαῖς τῶν ἁγίων πάντων ἐπὶ τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ θρόνου.",
+    "pt_aa": "Veio outro anjo, e pôs-se junto ao altar, tendo um incensário de ouro; e foi-lhe dado muito incenso, para que o oferecesse com as orações de todos os santos sobre o altar de ouro que está diante do trono."
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ἀνέβη ὁ καπνὸς τῶν θυμιαμάτων ταῖς προσευχαῖς τῶν ἁγίων ἐκ χειρὸς τοῦ ἀγγέλου ἐνώπιον τοῦ θεοῦ.",
+    "pt_aa": "E da mão do anjo subiu diante de Deus a fumaça do incenso com as orações dos santos."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ εἴληφεν ὁ ἄγγελος τὸν λιβανωτόν, καὶ ἐγέμισεν αὐτὸν ἐκ τοῦ πυρὸς τοῦ θυσιαστηρίου, καὶ ἔβαλεν εἰς τὴν γῆν· καὶ ἐγένοντο βρονταὶ καὶ φωναὶ καὶ ἀστραπαὶ καὶ σεισμός.",
+    "pt_aa": "Depois do anjo tomou o incensário, encheu-o do fogo do altar e o lançou sobre a terra; e houve trovões, vozes, relâmpagos e terremoto."
+   },
+   "6": {
+    "grego_sblgnt": "Καὶ οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ σάλπιγγας ἡτοίμασαν ⸀αὑτοὺς ἵνα σαλπίσωσιν.",
+    "pt_aa": "Então os sete anjos que tinham as sete trombetas prepararam-se para tocar."
+   },
+   "7": {
+    "grego_sblgnt": "Καὶ ὁ πρῶτος ἐσάλπισεν· καὶ ἐγένετο χάλαζα καὶ πῦρ μεμιγμένα ἐν αἵματι, καὶ ἐβλήθη εἰς τὴν γῆν· καὶ τὸ τρίτον τῆς γῆς κατεκάη, καὶ τὸ τρίτον τῶν δένδρων κατεκάη, καὶ πᾶς χόρτος χλωρὸς κατεκάη.",
+    "pt_aa": "O primeiro anjo tocou a sua trombeta, e houve saraiva e fogo misturado com sangue, que foram lançados na terra; e foi queimada a terça parte da terra, a terça parte das árvores, e toda a erva verde."
+   },
+   "8": {
+    "grego_sblgnt": "Καὶ ὁ δεύτερος ἄγγελος ἐσάλπισεν· καὶ ὡς ὄρος μέγα ⸀πυρὶ καιόμενον ἐβλήθη εἰς τὴν θάλασσαν· καὶ ἐγένετο τὸ τρίτον τῆς θαλάσσης αἷμα,",
+    "pt_aa": "O segundo anjo tocou a sua trombeta, e foi lançado no mar como que um grande monte ardendo em fogo, e tornou-se em sangue a terça parte do mar."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ ἀπέθανε τὸ τρίτον ⸀τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ, τὰ ἔχοντα ψυχάς, καὶ τὸ τρίτον τῶν πλοίων ⸀διεφθάρησαν.",
+    "pt_aa": "E morreu a terça parte das criaturas viventes que havia no mar, e foi destruída a terça parte dos navios."
+   },
+   "10": {
+    "grego_sblgnt": "Καὶ ὁ τρίτος ἄγγελος ἐσάλπισεν· καὶ ἔπεσεν ἐκ τοῦ οὐρανοῦ ἀστὴρ μέγας καιόμενος ὡς λαμπάς, καὶ ἔπεσεν ἐπὶ τὸ τρίτον τῶν ποταμῶν καὶ ἐπὶ τὰς πηγὰς τῶν ὑδάτων.",
+    "pt_aa": "O terceiro anjo tocou a sua trombeta, e caiu do céu uma grande estrela, ardendo como uma tocha, e caiu sobre a terça parte dos rios, e sobre as fontes das águas."
+   },
+   "11": {
+    "grego_sblgnt": "καὶ τὸ ὄνομα τοῦ ἀστέρος λέγεται· ⸀ὁ Ἄψινθος. καὶ ἐγένετο τὸ τρίτον τῶν ὑδάτων εἰς ἄψινθον, καὶ πολλοὶ τῶν ἀνθρώπων ἀπέθανον ἐκ τῶν ὑδάτων, ὅτι ἐπικράνθησαν.",
+    "pt_aa": "O nome da estrela era Absinto; e a terça parte das águas tornou-se em absinto, e muitos homens morreram das águas, porque se tornaram amargas."
+   },
+   "12": {
+    "grego_sblgnt": "Καὶ ὁ τέταρτος ἄγγελος ἐσάλπισεν· καὶ ἐπλήγη τὸ τρίτον τοῦ ἡλίου καὶ τὸ τρίτον τῆς σελήνης καὶ τὸ τρίτον τῶν ἀστέρων, ἵνα σκοτισθῇ τὸ τρίτον αὐτῶν καὶ ⸂ἡ ἡμέρα μὴ φάνῃ τὸ τρίτον αὐτῆς⸃, καὶ ἡ νὺξ ὁμοίως.",
+    "pt_aa": "O quarto anjo tocou a sua trombeta, e foi ferida a terça parte do sol, a terça parte da lua, e a terça parte das estrelas; para que a terça parte deles se escurecesse, e a terça parte do dia não brilhante, e semelhantemente a da noite."
+   },
+   "13": {
+    "grego_sblgnt": "Καὶ εἶδον, καὶ ἤκουσα ἑνὸς ἀετοῦ πετομένου ἐν μεσουρανήματι λέγοντος φωνῇ μεγάλῃ· Οὐαὶ οὐαὶ οὐαὶ ⸂τοὺς κατοικοῦντας⸃ ἐπὶ τῆς γῆς ἐκ τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων σαλπίζειν.",
+    "pt_aa": "E olhei, e ouvi uma águia que, voando pelo meio do céu, dizia com grande voz: Ai, ai, ai dos que habitam sobre a terra! por causa dos outros toques de trombeta dos três anjos que ainda vão tocar."
+   }
+  },
+  "9": {
+   "1": {
+    "grego_sblgnt": "Καὶ ὁ πέμπτος ἄγγελος ἐσάλπισεν· καὶ εἶδον ἀστέρα ἐκ τοῦ οὐρανοῦ πεπτωκότα εἰς τὴν γῆν, καὶ ἐδόθη αὐτῷ ἡ κλεὶς τοῦ φρέατος τῆς ἀβύσσου·",
+    "pt_aa": "O quinto anjo tocou a sua trombeta, e vi uma estrela que do céu caíra sobre a terra; e foi-lhe dada a chave do poço do abismo."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ ἤνοιξεν τὸ φρέαρ τῆς ἀβύσσου, καὶ ἀνέβη καπνὸς ἐκ τοῦ φρέατος ὡς καπνὸς καμίνου ⸀μεγάλης, καὶ ⸀ἐσκοτώθη ὁ ἥλιος καὶ ὁ ἀὴρ ἐκ τοῦ καπνοῦ τοῦ φρέατος.",
+    "pt_aa": "E abriu o poço do abismo, e subiu fumaça do poço, como fumaça de uma grande fornalha; e com a fumaça do poço escureceram-se o sol e o ar."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ἐκ τοῦ καπνοῦ ἐξῆλθον ἀκρίδες εἰς τὴν γῆν, καὶ ἐδόθη αὐταῖς ἐξουσία ὡς ἔχουσιν ἐξουσίαν οἱ σκορπίοι τῆς γῆς.",
+    "pt_aa": "Da fumaça saíram gafanhotos sobre a terra; e foi-lhes dado poder, como o que têm os escorpiões da terra."
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ἐρρέθη αὐταῖς ἵνα μὴ ⸀ἀδικήσουσιν τὸν χόρτον τῆς γῆς οὐδὲ πᾶν χλωρὸν οὐδὲ πᾶν δένδρον, εἰ μὴ τοὺς ἀνθρώπους οἵτινες οὐκ ἔχουσι τὴν σφραγῖδα τοῦ θεοῦ ἐπὶ τῶν ⸀μετώπων.",
+    "pt_aa": "Foi-lhes dito que não fizessem dano à erva da terra, nem a verdura alguma, nem a árvore alguma, mas somente aos homens que não têm na fronte o selo de Deus."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ ἐδόθη ⸀αὐτοῖς ἵνα μὴ ἀποκτείνωσιν αὐτούς, ἀλλ’ ἵνα ⸀βασανισθήσονται μῆνας πέντε· καὶ ὁ βασανισμὸς αὐτῶν ὡς βασανισμὸς σκορπίου, ὅταν παίσῃ ἄνθρωπον.",
+    "pt_aa": "Foi-lhes permitido, não que os matassem, mas que por cinco meses os atormentassem. E o seu tormento era semelhante ao tormento do escorpião, quando fere o homem."
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ἐν ταῖς ἡμέραις ἐκείναις ζητήσουσιν οἱ ἄνθρωποι τὸν θάνατον καὶ οὐ μὴ εὑρήσουσιν αὐτόν, καὶ ἐπιθυμήσουσιν ἀποθανεῖν καὶ ⸀φεύγει ⸂ὁ θάνατος ἀπ’ αὐτῶν⸃.",
+    "pt_aa": "Naqueles dias os homens buscarão a morte, e de modo algum a acharão; e desejarão morrer, e a morte fugirá deles."
+   },
+   "7": {
+    "grego_sblgnt": "Καὶ τὰ ὁμοιώματα τῶν ἀκρίδων ὅμοια ἵπποις ἡτοιμασμένοις εἰς πόλεμον, καὶ ἐπὶ τὰς κεφαλὰς αὐτῶν ὡς στέφανοι ⸂ὅμοιοι χρυσῷ⸃, καὶ τὰ πρόσωπα αὐτῶν ὡς πρόσωπα ἀνθρώπων,",
+    "pt_aa": "A aparência dos gafanhotos era semelhante à de cavalos aparelhados para a guerra; e sobre as suas cabeças havia como que umas coroas semelhantes ao ouro; e os seus rostos eram como rostos de homens."
+   },
+   "8": {
+    "grego_sblgnt": "καὶ εἶχον τρίχας ὡς τρίχας γυναικῶν, καὶ οἱ ὀδόντες αὐτῶν ὡς λεόντων ἦσαν,",
+    "pt_aa": "Tinham cabelos como cabelos de mulheres, e os seus dentes eram como os de leões."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ εἶχον θώρακας ὡς θώρακας σιδηροῦς, καὶ ἡ φωνὴ τῶν πτερύγων αὐτῶν ὡς φωνὴ ἁρμάτων ἵππων πολλῶν τρεχόντων εἰς πόλεμον·",
+    "pt_aa": "Tinham couraças como couraças de ferro; e o ruído das suas asas era como o ruído de carros de muitos cavalos que correm ao combate."
+   },
+   "10": {
+    "grego_sblgnt": "καὶ ἔχουσιν οὐρὰς ὁμοίας σκορπίοις καὶ κέντρα, καὶ ἐν ταῖς οὐραῖς αὐτῶν ⸂ἡ ἐξουσία αὐτῶν⸃ ἀδικῆσαι τοὺς ἀνθρώπους μῆνας πέντε.",
+    "pt_aa": "Tinham caudas com ferrões, semelhantes às caudas dos escorpiões; e nas suas caudas estava o seu poder para fazer dano aos homens por cinco meses."
+   },
+   "11": {
+    "grego_sblgnt": "⸂ἔχουσιν ἐπ’ αὐτῶν βασιλέα τὸν⸃ ἄγγελον τῆς ἀβύσσου· ὄνομα αὐτῷ Ἑβραϊστὶ Ἀβαδδών ⸂καὶ ἐν⸃ τῇ Ἑλληνικῇ ὄνομα ἔχει Ἀπολλύων.",
+    "pt_aa": "Tinham sobre si como rei o anjo do abismo, cujo nome em hebraico é Abadom e em grego Apoliom."
+   },
+   "12": {
+    "grego_sblgnt": "Ἡ οὐαὶ ἡ μία ἀπῆλθεν· ἰδοὺ ἔρχεται ἔτι δύο οὐαὶ μετὰ ταῦτα.",
+    "pt_aa": "Passado é já um ai; eis que depois disso vêm ainda dois ais."
+   },
+   "13": {
+    "grego_sblgnt": "Καὶ ὁ ἕκτος ἄγγελος ἐσάλπισεν· καὶ ἤκουσα φωνὴν μίαν ἐκ ⸀τῶν κεράτων τοῦ θυσιαστηρίου τοῦ χρυσοῦ τοῦ ἐνώπιον τοῦ θεοῦ,",
+    "pt_aa": "O sexto anjo tocou a sua trombeta; e ouvi uma voz que vinha das quatro pontas do altar de ouro que estava diante de Deus,"
+   },
+   "14": {
+    "grego_sblgnt": "⸀λέγοντα τῷ ἕκτῳ ἀγγέλῳ, ὁ ἔχων τὴν σάλπιγγα· Λῦσον τοὺς τέσσαρας ἀγγέλους τοὺς δεδεμένους ἐπὶ τῷ ποταμῷ τῷ μεγάλῳ Εὐφράτῃ.",
+    "pt_aa": "a qual dizia ao sexto anjo, que tinha a trombeta: Solta os quatro anjos que se acham presos junto do grande rio Eufrates."
+   },
+   "15": {
+    "grego_sblgnt": "καὶ ἐλύθησαν οἱ τέσσαρες ἄγγελοι οἱ ἡτοιμασμένοι εἰς τὴν ὥραν ⸀καὶ ἡμέραν καὶ μῆνα καὶ ἐνιαυτόν, ἵνα ἀποκτείνωσιν τὸ τρίτον τῶν ἀνθρώπων.",
+    "pt_aa": "E foram soltos os quatro anjos que haviam sido preparados para aquela hora e dia e mês e ano, a fim de matarem a terça parte dos homens."
+   },
+   "16": {
+    "grego_sblgnt": "καὶ ὁ ἀριθμὸς τῶν στρατευμάτων τοῦ ⸀ἱππικοῦ ⸀δισμυριάδες μυριάδων· ἤκουσα τὸν ἀριθμὸν αὐτῶν.",
+    "pt_aa": "O número dos exércitos dos cavaleiros era de duas miríades de miríades; pois ouvi o número deles."
+   },
+   "17": {
+    "grego_sblgnt": "καὶ οὕτως εἶδον τοὺς ἵππους ἐν τῇ ὁράσει καὶ τοὺς καθημένους ἐπ’ αὐτῶν, ἔχοντας θώρακας πυρίνους καὶ ὑακινθίνους καὶ θειώδεις· καὶ αἱ κεφαλαὶ τῶν ἵππων ὡς κεφαλαὶ λεόντων, καὶ ἐκ τῶν στομάτων αὐτῶν ἐκπορεύεται πῦρ καὶ καπνὸς καὶ θεῖον.",
+    "pt_aa": "E assim vi os cavalos nesta visão: os que sobre eles estavam montados tinham couraças de fogo, e de jacinto, e de enxofre; e as cabeças dos cavalos eram como cabeças de leões; e de suas bocas saíam fogo, fumaça e enxofre."
+   },
+   "18": {
+    "grego_sblgnt": "ἀπὸ τῶν τριῶν πληγῶν τούτων ἀπεκτάνθησαν τὸ τρίτον τῶν ἀνθρώπων, ⸀ἐκ τοῦ πυρὸς καὶ τοῦ καπνοῦ καὶ τοῦ θείου τοῦ ἐκπορευομένου ἐκ τῶν στομάτων αὐτῶν.",
+    "pt_aa": "Por estas três pragas foi morta a terça parte dos homens, isto é, pelo fogo, pela fumaça e pelo enxofre, que saíam das suas bocas."
+   },
+   "19": {
+    "grego_sblgnt": "ἡ γὰρ ἐξουσία τῶν ἵππων ἐν τῷ στόματι αὐτῶν ἐστιν καὶ ἐν ταῖς οὐραῖς αὐτῶν· αἱ γὰρ οὐραὶ αὐτῶν ὅμοιαι ⸀ὄφεσιν, ἔχουσαι κεφαλάς, καὶ ἐν αὐταῖς ἀδικοῦσιν.",
+    "pt_aa": "Porque o poder dos cavalos estava nas suas bocas e nas suas caudas. Porquanto as suas caudas eram semelhantes a serpentes, e tinham cabeças, e com elas causavam dano."
+   },
+   "20": {
+    "grego_sblgnt": "Καὶ οἱ λοιποὶ τῶν ἀνθρώπων, οἳ οὐκ ἀπεκτάνθησαν ἐν ταῖς πληγαῖς ταύταις, ⸀οὐδὲ μετενόησαν ἐκ τῶν ἔργων τῶν χειρῶν αὐτῶν, ἵνα μὴ ⸀προσκυνήσουσιν τὰ δαιμόνια καὶ τὰ εἴδωλα τὰ χρυσᾶ καὶ τὰ ἀργυρᾶ καὶ τὰ χαλκᾶ καὶ τὰ λίθινα καὶ τὰ ξύλινα, ἃ οὔτε βλέπειν ⸀δύνανται οὔτε ἀκούειν οὔτε περιπατεῖν,",
+    "pt_aa": "Os outros homens, que não foram mortos por estas pragas, não se arrependeram das obras das suas mãos, para deixarem de adorar aos demônios, e aos ídolos de ouro, de prata, de bronze, de pedra e de madeira, que nem podem ver, nem ouvir, nem andar."
+   },
+   "21": {
+    "grego_sblgnt": "καὶ οὐ μετενόησαν ἐκ τῶν φόνων αὐτῶν οὔτε ἐκ τῶν ⸀φαρμάκων αὐτῶν οὔτε ἐκ τῆς πορνείας αὐτῶν οὔτε ἐκ τῶν κλεμμάτων αὐτῶν.",
+    "pt_aa": "Também não se arrependeram dos seus homicídios, nem das suas feitiçarias, nem da sua prostituição, nem dos seus furtos."
+   }
+  },
+  "10": {
+   "1": {
+    "grego_sblgnt": "Καὶ εἶδον ⸀ἄλλον ἄγγελον ἰσχυρὸν καταβαίνοντα ἐκ τοῦ οὐρανοῦ, περιβεβλημένον νεφέλην, καὶ ἡ ἶρις ἐπὶ ⸂τὴν κεφαλὴν⸃ αὐτοῦ, καὶ τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος, καὶ οἱ πόδες αὐτοῦ ὡς στῦλοι πυρός,",
+    "pt_aa": "E vi outro anjo forte que descia do céu, vestido de uma nuvem; por cima da sua cabeça estava o arco-íris; o seu rosto era como o sol, e os seus pés como colunas de fogo,"
+   },
+   "2": {
+    "grego_sblgnt": "καὶ ἔχων ἐν τῇ χειρὶ αὐτοῦ ⸀βιβλαρίδιον ἠνεῳγμένον. καὶ ἔθηκεν τὸν πόδα αὐτοῦ τὸν δεξιὸν ἐπὶ τῆς θαλάσσης, τὸν δὲ εὐώνυμον ἐπὶ τῆς γῆς,",
+    "pt_aa": "e tinha na mão um livrinho aberto. Pôs o seu pé direito sobre o mar, e o esquerdo sobre a terra,"
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ἔκραξεν φωνῇ μεγάλῃ ὥσπερ λέων μυκᾶται. καὶ ὅτε ἔκραξεν, ἐλάλησαν αἱ ἑπτὰ βρονταὶ τὰς ἑαυτῶν φωνάς.",
+    "pt_aa": "e clamou com grande voz, assim como ruge o leão; e quando clamou, os sete trovões fizeram soar as suas vozes."
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ὅτε ἐλάλησαν αἱ ἑπτὰ βρονταί, ἤμελλον γράφειν· καὶ ἤκουσα φωνὴν ἐκ τοῦ οὐρανοῦ λέγουσαν· Σφράγισον ἃ ἐλάλησαν αἱ ἑπτὰ βρονταί, καὶ μὴ αὐτὰ γράψῃς.",
+    "pt_aa": "Quando os sete trovões acabaram de soar eu já ia escrever, mas ouvi uma voz do céu, que dizia: Sela o que os sete trovões falaram, e não o escrevas."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ ὁ ἄγγελος, ὃν εἶδον ἑστῶτα ἐπὶ τῆς θαλάσσης καὶ ἐπὶ τῆς γῆς, ἦρεν τὴν χεῖρα αὐτοῦ τὴν δεξιὰν εἰς τὸν οὐρανόν,",
+    "pt_aa": "O anjo que vi em pé sobre o mar e sobre a terra levantou a mão direita ao céu,"
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ⸀ὤμοσεν τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων, ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὰ ἐν αὐτῷ καὶ τὴν γῆν καὶ τὰ ἐν αὐτῇ καὶ τὴν θάλασσαν καὶ τὰ ἐν αὐτῇ, ὅτι χρόνος οὐκέτι ἔσται·",
+    "pt_aa": "e jurou por aquele que vive pelos séculos dos séculos, o qual criou o céu e o que nele há, e a terra e o que nela há, e o mar e o que nele há, que não haveria mais demora,"
+   },
+   "7": {
+    "grego_sblgnt": "ἀλλ’ ἐν ταῖς ἡμέραις τῆς φωνῆς τοῦ ἑβδόμου ἀγγέλου, ὅταν μέλλῃ σαλπίζειν, καὶ ἐτελέσθη τὸ μυστήριον τοῦ θεοῦ, ὡς εὐηγγέλισεν τοὺς ⸂ἑαυτοῦ δούλους⸃ τοὺς προφήτας.",
+    "pt_aa": "mas que nos dias da voz do sétimo anjo, quando este estivesse para tocar a trombeta, se cumpriria o mistério de Deus, como anunciou aos seus servos, os profetas."
+   },
+   "8": {
+    "grego_sblgnt": "Καὶ ἡ φωνὴ ἣν ἤκουσα ἐκ τοῦ οὐρανοῦ, πάλιν ⸀λαλοῦσαν μετ’ ἐμοῦ καὶ ⸀λέγουσαν· Ὕπαγε λάβε τὸ ⸀βιβλίον τὸ ἠνεῳγμένον ἐν τῇ χειρὶ τοῦ ἀγγέλου τοῦ ἑστῶτος ἐπὶ τῆς θαλάσσης καὶ ἐπὶ τῆς γῆς.",
+    "pt_aa": "A voz que eu do céu tinha ouvido tornou a falar comigo, e disse: Vai, e toma o livro que está aberto na mão do anjo que se acha em pé sobre o mar e sobre a terra."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ ⸀ἀπῆλθα πρὸς τὸν ἄγγελον λέγων αὐτῷ δοῦναί μοι τὸ ⸀βιβλαρίδιον. καὶ λέγει μοι· Λάβε καὶ κατάφαγε αὐτό, καὶ πικρανεῖ σου τὴν κοιλίαν, ἀλλ’ ἐν τῷ στόματί σου ἔσται γλυκὺ ὡς μέλι.",
+    "pt_aa": "E fui ter com o anjo e lhe pedi que me desse o livrinho. Disse-me ele: Toma-o, e come-o; ele fará amargo o teu ventre, mas na tua boca será doce como mel."
+   },
+   "10": {
+    "grego_sblgnt": "καὶ ἔλαβον τὸ ⸀βιβλαρίδιον ἐκ τῆς χειρὸς τοῦ ἀγγέλου καὶ κατέφαγον αὐτό, καὶ ἦν ἐν τῷ στόματί μου ὡς μέλι γλυκύ· καὶ ὅτε ἔφαγον αὐτό, ἐπικράνθη ἡ κοιλία μου.",
+    "pt_aa": "Tomei o livrinho da mão do anjo, e o comi; e na minha boca era doce como mel; mas depois que o comi, o meu ventre ficou amargo."
+   },
+   "11": {
+    "grego_sblgnt": "Καὶ λέγουσίν μοι· Δεῖ σε πάλιν προφητεῦσαι ἐπὶ λαοῖς ⸀καὶ ἔθνεσιν καὶ γλώσσαις καὶ βασιλεῦσιν πολλοῖς.",
+    "pt_aa": "Então me disseram: Importa que profetizes outra vez a muitos povos, e nações, e línguas, e reis."
+   }
+  },
+  "11": {
+   "1": {
+    "grego_sblgnt": "Καὶ ἐδόθη μοι κάλαμος ὅμοιος ῥάβδῳ, λέγων· ⸀Ἔγειρε καὶ μέτρησον τὸν ναὸν τοῦ θεοῦ καὶ τὸ θυσιαστήριον καὶ τοὺς προσκυνοῦντας ἐν αὐτῷ.",
+    "pt_aa": "Foi-me dada uma cana semelhante a uma vara; e foi-me dito: Levanta-te, mede o santuário de Deus, e o altar, e os que nele adoram."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ τὴν αὐλὴν τὴν ἔξωθεν τοῦ ναοῦ ἔκβαλε ⸀ἔξωθεν, καὶ μὴ αὐτὴν μετρήσῃς, ὅτι ἐδόθη τοῖς ἔθνεσιν, καὶ τὴν πόλιν τὴν ἁγίαν πατήσουσιν μῆνας ⸀τεσσεράκοντα δύο.",
+    "pt_aa": "Mas deixa o átrio que está fora do santuário, e não o meças; porque foi dado aos gentios; e eles pisarão a cidade santa por quarenta e dois meses."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ δώσω τοῖς δυσὶν μάρτυσίν μου, καὶ προφητεύσουσιν ἡμέρας χιλίας διακοσίας ἑξήκοντα, ⸀περιβεβλημένοι σάκκους.",
+    "pt_aa": "E concederei às minhas duas testemunhas que, vestidas de saco, profetizem por mil duzentos e sessenta dias."
+   },
+   "4": {
+    "grego_sblgnt": "Οὗτοί εἰσιν αἱ δύο ἐλαῖαι καὶ αἱ δύο λυχνίαι αἱ ἐνώπιον τοῦ κυρίου τῆς γῆς ⸀ἑστῶτες.",
+    "pt_aa": "Estas são as duas oliveiras e os dois candeeiros que estão diante do Senhor da terra."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ εἴ τις αὐτοὺς θέλει ἀδικῆσαι, πῦρ ἐκπορεύεται ἐκ τοῦ στόματος αὐτῶν καὶ κατεσθίει τοὺς ἐχθροὺς αὐτῶν· καὶ εἴ τις ⸂θελήσῃ αὐτοὺς⸃ ἀδικῆσαι, οὕτως δεῖ αὐτὸν ἀποκτανθῆναι.",
+    "pt_aa": "E, se alguém lhes quiser fazer mal, das suas bocas sairá fogo e devorará os seus inimigos; pois se alguém lhes quiser fazer mal, importa que assim seja morto."
+   },
+   "6": {
+    "grego_sblgnt": "οὗτοι ἔχουσιν ⸂τὴν ἐξουσίαν κλεῖσαι τὸν οὐρανόν⸃, ἵνα μὴ ὑετὸς βρέχῃ τὰς ἡμέρας τῆς προφητείας αὐτῶν, καὶ ἐξουσίαν ἔχουσιν ἐπὶ τῶν ὑδάτων στρέφειν αὐτὰ εἰς αἷμα καὶ πατάξαι τὴν γῆν ⸂ἐν πάσῃ πληγῇ ὁσάκις ἐὰν θελήσωσιν⸃.",
+    "pt_aa": "Elas têm poder para fechar o céu, para que não chova durante os dias da sua profecia; e têm poder sobre as águas para convertê-las em sangue, e para ferir a terra com toda sorte de pragas, quantas vezes quiserem."
+   },
+   "7": {
+    "grego_sblgnt": "Καὶ ὅταν τελέσωσιν τὴν μαρτυρίαν αὐτῶν, τὸ θηρίον τὸ ἀναβαῖνον ἐκ τῆς ἀβύσσου ποιήσει μετ’ αὐτῶν πόλεμον καὶ νικήσει αὐτοὺς καὶ ἀποκτενεῖ αὐτούς.",
+    "pt_aa": "E, quando acabarem o seu testemunho, a besta que sobe do abismo lhes fará guerra e as vencerá e matará."
+   },
+   "8": {
+    "grego_sblgnt": "καὶ τὸ πτῶμα αὐτῶν ἐπὶ τῆς πλατείας τῆς πόλεως τῆς μεγάλης, ἥτις καλεῖται πνευματικῶς Σόδομα καὶ Αἴγυπτος, ὅπου καὶ ὁ κύριος αὐτῶν ἐσταυρώθη.",
+    "pt_aa": "E jazerão os seus corpos na praça da grande cidade, que espiritualmente se chama Sodoma e Egito, onde também o seu Senhor foi crucificado."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ βλέπουσιν ἐκ τῶν λαῶν καὶ φυλῶν καὶ γλωσσῶν καὶ ἐθνῶν τὸ πτῶμα αὐτῶν ἡμέρας τρεῖς ⸀καὶ ἥμισυ, καὶ τὰ πτώματα αὐτῶν οὐκ ⸀ἀφίουσιν τεθῆναι εἰς μνῆμα.",
+    "pt_aa": "Homens de vários povos, e tribos e línguas, e nações verão os seus corpos por três dias e meio, e não permitirão que sejam sepultados."
+   },
+   "10": {
+    "grego_sblgnt": "καὶ οἱ κατοικοῦντες ἐπὶ τῆς γῆς χαίρουσιν ἐπ’ αὐτοῖς καὶ ⸀εὐφραίνονται, καὶ δῶρα ⸀πέμψουσιν ἀλλήλοις, ὅτι οὗτοι οἱ δύο προφῆται ἐβασάνισαν τοὺς κατοικοῦντας ἐπὶ τῆς γῆς.",
+    "pt_aa": "E os que habitam sobre a terra se regozijarão sobre eles, e se alegrarão; e mandarão presentes uns aos outros, porquanto estes dois profetas atormentaram os que habitam sobre a terra."
+   },
+   "11": {
+    "grego_sblgnt": "Καὶ μετὰ τὰς τρεῖς ἡμέρας καὶ ἥμισυ πνεῦμα ζωῆς ἐκ τοῦ θεοῦ εἰσῆλθεν ⸂ἐν αὐτοῖς⸃, καὶ ἔστησαν ἐπὶ τοὺς πόδας αὐτῶν, καὶ φόβος μέγας ⸀ἐπέπεσεν ἐπὶ τοὺς θεωροῦντας αὐτούς·",
+    "pt_aa": "E depois daqueles três dias e meio o espírito de vida, vindo de Deus, entrou neles, e puseram-se sobre seus pés, e caiu grande temor sobre os que os viram."
+   },
+   "12": {
+    "grego_sblgnt": "καὶ ⸀ἤκουσαν ⸂φωνῆς μεγάλης⸃ ἐκ τοῦ οὐρανοῦ ⸀λεγούσης αὐτοῖς· ⸀Ἀνάβατε ὧδε, καὶ ἀνέβησαν εἰς τὸν οὐρανὸν ἐν τῇ νεφέλῃ, καὶ ἐθεώρησαν αὐτοὺς οἱ ἐχθροὶ αὐτῶν.",
+    "pt_aa": "E ouviram uma grande voz do céu, que lhes dizia: Subi para cá. E subiram ao céu em uma nuvem; e os seus inimigos os viram."
+   },
+   "13": {
+    "grego_sblgnt": "καὶ ἐν ἐκείνῃ τῇ ⸀ὥρᾳ ἐγένετο σεισμὸς μέγας, καὶ τὸ δέκατον τῆς πόλεως ἔπεσεν, καὶ ἀπεκτάνθησαν ἐν τῷ σεισμῷ ὀνόματα ἀνθρώπων χιλιάδες ἑπτά, καὶ οἱ λοιποὶ ἔμφοβοι ἐγένοντο καὶ ἔδωκαν δόξαν τῷ θεῷ τοῦ οὐρανοῦ.",
+    "pt_aa": "E naquela hora houve um grande terremoto, e caiu a décima parte da cidade, e no terremoto foram mortos sete mil homens; e os demais ficaram atemorizados, e deram glória ao Deus do céu."
+   },
+   "14": {
+    "grego_sblgnt": "Ἡ οὐαὶ ἡ δευτέρα ἀπῆλθεν· ⸂ἰδοὺ ἡ οὐαὶ ἡ τρίτη⸃ ἔρχεται ταχύ.",
+    "pt_aa": "É passado o segundo ai; eis que cedo vem o terceiro."
+   },
+   "15": {
+    "grego_sblgnt": "Καὶ ὁ ἕβδομος ἄγγελος ἐσάλπισεν· καὶ ἐγένοντο φωναὶ μεγάλαι ἐν τῷ οὐρανῷ ⸀λέγοντες· Ἐγένετο ἡ βασιλεία τοῦ κόσμου τοῦ κυρίου ἡμῶν καὶ τοῦ χριστοῦ αὐτοῦ, καὶ βασιλεύσει εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+    "pt_aa": "E tocou o sétimo anjo a sua trombeta, e houve no céu grandes vozes, que diziam: O reino do mundo passou a ser de nosso Senhor e do seu Cristo, e ele reinará pelos séculos dos séculos."
+   },
+   "16": {
+    "grego_sblgnt": "Καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι οἱ ἐνώπιον τοῦ ⸂θεοῦ καθήμενοι⸃ ἐπὶ τοὺς θρόνους αὐτῶν ἔπεσαν ἐπὶ τὰ πρόσωπα αὐτῶν καὶ προσεκύνησαν τῷ θεῷ,",
+    "pt_aa": "E os vinte e quatro anciãos, que estão assentados em seus tronos diante de Deus, prostraram-se sobre seus rostos e adoraram a Deus,"
+   },
+   "17": {
+    "grego_sblgnt": "λέγοντες· Εὐχαριστοῦμέν σοι, κύριε, ὁ θεός, ὁ παντοκράτωρ, ὁ ὢν καὶ ὁ ἦν, ὅτι εἴληφας τὴν δύναμίν σου τὴν μεγάλην καὶ ἐβασίλευσας.",
+    "pt_aa": "dizendo: Graças te damos, Senhor Deus Todo-Poderoso, que és, e que eras, porque tens tomado o teu grande poder, e começaste a reinar."
+   },
+   "18": {
+    "grego_sblgnt": "καὶ τὰ ἔθνη ὠργίσθησαν, καὶ ἦλθεν ἡ ὀργή σου καὶ ὁ καιρὸς τῶν νεκρῶν κριθῆναι καὶ δοῦναι τὸν μισθὸν τοῖς δούλοις σου τοῖς προφήταις καὶ τοῖς ἁγίοις καὶ τοῖς φοβουμένοις τὸ ὄνομά σου, ⸂τοὺς μικροὺς καὶ τοὺς μεγάλους⸃, καὶ διαφθεῖραι τοὺς διαφθείροντας τὴν γῆν.",
+    "pt_aa": "Iraram-se, na verdade, as nações; então veio a tua ira, e o tempo de serem julgados os mortos, e o tempo de dares recompensa aos teus servos, os profetas, e aos santos, e aos que temem o teu nome, a pequenos e a grandes, e o tempo de destruíres os que destroem a terra."
+   },
+   "19": {
+    "grego_sblgnt": "Καὶ ἠνοίγη ὁ ναὸς τοῦ θεοῦ ⸀ὁ ἐν τῷ οὐρανῷ, καὶ ὤφθη ἡ κιβωτὸς τῆς διαθήκης ⸀αὐτοῦ ἐν τῷ ναῷ αὐτοῦ· καὶ ἐγένοντο ἀστραπαὶ καὶ φωναὶ καὶ βρονταὶ ⸂καὶ σεισμὸς⸃ καὶ χάλαζα μεγάλη.",
+    "pt_aa": "Abriu-se o santuário de Deus que está no céu, e no seu santuário foi vista a arca do seu pacto; e houve relâmpagos, vozes e trovões, e terremoto e grande saraivada."
+   }
+  },
+  "12": {
+   "1": {
+    "grego_sblgnt": "Καὶ σημεῖον μέγα ὤφθη ἐν τῷ οὐρανῷ, γυνὴ περιβεβλημένη τὸν ἥλιον, καὶ ἡ σελήνη ὑποκάτω τῶν ποδῶν αὐτῆς, καὶ ἐπὶ τῆς κεφαλῆς αὐτῆς στέφανος ἀστέρων δώδεκα,",
+    "pt_aa": "E viu-se um grande sinal no céu: uma mulher vestida do sol, tendo a lua debaixo dos seus pés, e uma coroa de doze estrelas sobre a sua cabeça."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ ἐν γαστρὶ ἔχουσα· ⸂καὶ κράζει⸃ ὠδίνουσα καὶ βασανιζομένη τεκεῖν.",
+    "pt_aa": "E estando grávida, gritava com as dores do parto, sofrendo tormentos para dar à luz."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ὤφθη ἄλλο σημεῖον ἐν τῷ οὐρανῷ, καὶ ἰδοὺ δράκων ⸂μέγας πυρρός⸃, ἔχων κεφαλὰς ἑπτὰ καὶ κέρατα δέκα καὶ ἐπὶ τὰς κεφαλὰς αὐτοῦ ἑπτὰ διαδήματα,",
+    "pt_aa": "Viu-se também outro sinal no céu: eis um grande dragão vermelho que tinha sete cabeças e dez chifres, e sobre as suas cabeças sete diademas;"
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ἡ οὐρὰ αὐτοῦ σύρει τὸ τρίτον τῶν ἀστέρων τοῦ οὐρανοῦ, καὶ ἔβαλεν αὐτοὺς εἰς τὴν γῆν. καὶ ὁ δράκων ἕστηκεν ἐνώπιον τῆς γυναικὸς τῆς μελλούσης τεκεῖν, ἵνα ὅταν τέκῃ τὸ τέκνον αὐτῆς καταφάγῃ.",
+    "pt_aa": "a sua cauda levava após si a terça parte das estrelas do céu, e lançou-as sobre a terra; e o dragão parou diante da mulher que estava para dar à luz, para que, dando ela à luz, lhe devorasse o filho."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ ἔτεκεν υἱόν, ⸀ἄρσεν, ὃς μέλλει ποιμαίνειν πάντα τὰ ἔθνη ἐν ῥάβδῳ σιδηρᾷ· καὶ ἡρπάσθη τὸ τέκνον αὐτῆς πρὸς τὸν θεὸν καὶ πρὸς τὸν θρόνον αὐτοῦ.",
+    "pt_aa": "E deu à luz um filho, um varão que há de reger todas as nações com vara de ferro; e o seu filho foi arrebatado para Deus e para o seu trono."
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ἡ γυνὴ ἔφυγεν εἰς τὴν ἔρημον, ὅπου ἔχει ἐκεῖ τόπον ἡτοιμασμένον ⸀ἀπὸ τοῦ θεοῦ, ἵνα ἐκεῖ ⸀τρέφωσιν αὐτὴν ἡμέρας χιλίας διακοσίας ἑξήκοντα.",
+    "pt_aa": "E a mulher fugiu para o deserto, onde já tinha lugar preparado por Deus, para que ali fosse alimentada durante mil duzentos e sessenta dias."
+   },
+   "7": {
+    "grego_sblgnt": "Καὶ ἐγένετο πόλεμος ἐν τῷ οὐρανῷ, ὁ Μιχαὴλ καὶ οἱ ἄγγελοι αὐτοῦ ⸀τοῦ πολεμῆσαι μετὰ τοῦ δράκοντος. καὶ ὁ δράκων ἐπολέμησεν καὶ οἱ ἄγγελοι αὐτοῦ,",
+    "pt_aa": "Então houve guerra no céu: Miguel e os seus anjos batalhavam contra o dragão. E o dragão e os seus anjos batalhavam,"
+   },
+   "8": {
+    "grego_sblgnt": "καὶ οὐκ ⸀ἴσχυσεν, οὐδὲ τόπος εὑρέθη ⸀αὐτῶν ἔτι ἐν τῷ οὐρανῷ.",
+    "pt_aa": "mas não prevaleceram, nem mais o seu lugar se achou no céu."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ ἐβλήθη ὁ δράκων ὁ μέγας, ὁ ὄφις ὁ ἀρχαῖος, ὁ καλούμενος Διάβολος καὶ ⸀ὁ Σατανᾶς, ὁ πλανῶν τὴν οἰκουμένην ὅλην— ἐβλήθη εἰς τὴν γῆν, καὶ οἱ ἄγγελοι αὐτοῦ μετ’ αὐτοῦ ἐβλήθησαν.",
+    "pt_aa": "E foi precipitado o grande dragão, a antiga serpente, que se chama o Diabo e Satanás, que engana todo o mundo; foi precipitado na terra, e os seus anjos foram precipitados com ele."
+   },
+   "10": {
+    "grego_sblgnt": "Καὶ ἤκουσα φωνὴν μεγάλην ἐν τῷ οὐρανῷ λέγουσαν· Ἄρτι ἐγένετο ἡ σωτηρία καὶ ἡ δύναμις καὶ ἡ βασιλεία τοῦ θεοῦ ἡμῶν καὶ ἡ ἐξουσία τοῦ χριστοῦ αὐτοῦ, ὅτι ἐβλήθη ὁ ⸀κατήγωρ τῶν ἀδελφῶν ἡμῶν, ὁ κατηγορῶν ⸀αὐτοὺς ἐνώπιον τοῦ θεοῦ ἡμῶν ἡμέρας καὶ νυκτός.",
+    "pt_aa": "Então, ouvi uma grande voz no céu, que dizia: Agora é chegada a salvação, e o poder, e o reino do nosso Deus, e a autoridade do seu Cristo; porque já foi lançado fora o acusador de nossos irmãos, o qual diante do nosso Deus os acusava dia e noite."
+   },
+   "11": {
+    "grego_sblgnt": "καὶ αὐτοὶ ἐνίκησαν αὐτὸν διὰ τὸ αἷμα τοῦ ἀρνίου καὶ διὰ τὸν λόγον τῆς μαρτυρίας αὐτῶν, καὶ οὐκ ἠγάπησαν τὴν ψυχὴν αὐτῶν ἄχρι θανάτου·",
+    "pt_aa": "E eles o venceram pelo sangue do Cordeiro e pela palavra do seu testemunho; e não amaram as suas vidas até a morte."
+   },
+   "12": {
+    "grego_sblgnt": "διὰ τοῦτο εὐφραίνεσθε, ⸀οἱ οὐρανοὶ καὶ οἱ ἐν αὐτοῖς σκηνοῦντες. οὐαὶ ⸂τὴν γῆν καὶ τὴν θάλασσαν⸃, ὅτι κατέβη ὁ διάβολος πρὸς ὑμᾶς, ἔχων θυμὸν μέγαν, εἰδὼς ὅτι ὀλίγον καιρὸν ἔχει.",
+    "pt_aa": "Pelo que alegrai-vos, ó céus, e vós que neles habitais. Mas ai da terra e do mar! porque o Diabo desceu a vós com grande ira, sabendo que pouco tempo lhe resta."
+   },
+   "13": {
+    "grego_sblgnt": "Καὶ ὅτε εἶδεν ὁ δράκων ὅτι ἐβλήθη εἰς τὴν γῆν, ἐδίωξεν τὴν γυναῖκα ἥτις ἔτεκεν τὸν ἄρσενα.",
+    "pt_aa": "Quando o dragão se viu precipitado na terra, perseguiu a mulher que dera à luz o filho varão."
+   },
+   "14": {
+    "grego_sblgnt": "καὶ ἐδόθησαν τῇ γυναικὶ ⸀αἱ δύο πτέρυγες τοῦ ἀετοῦ τοῦ μεγάλου, ἵνα πέτηται εἰς τὴν ἔρημον εἰς τὸν τόπον αὐτῆς, ⸂ὅπου τρέφεται⸃ ἐκεῖ καιρὸν καὶ καιροὺς καὶ ἥμισυ καιροῦ ἀπὸ προσώπου τοῦ ὄφεως.",
+    "pt_aa": "E foram dadas à mulher as duas asas da grande águia, para que voasse para o deserto, ao seu lugar, onde é sustentada por um tempo, e tempos, e metade de um tempo, fora da vista da serpente."
+   },
+   "15": {
+    "grego_sblgnt": "καὶ ἔβαλεν ὁ ὄφις ἐκ τοῦ στόματος αὐτοῦ ὀπίσω τῆς γυναικὸς ὕδωρ ὡς ποταμόν, ἵνα αὐτὴν ποταμοφόρητον ποιήσῃ.",
+    "pt_aa": "E a serpente lançou da sua boca, atrás da mulher, água como um rio, para fazer que ela fosse arrebatada pela corrente."
+   },
+   "16": {
+    "grego_sblgnt": "καὶ ἐβοήθησεν ἡ γῆ τῇ γυναικί, καὶ ἤνοιξεν ἡ γῆ τὸ στόμα αὐτῆς καὶ κατέπιεν τὸν ποταμὸν ὃν ἔβαλεν ὁ δράκων ἐκ τοῦ στόματος αὐτοῦ·",
+    "pt_aa": "A terra, porém acudiu à mulher; e a terra abriu a boca, e tragou o rio que o dragão lançara da sua boca."
+   },
+   "17": {
+    "grego_sblgnt": "καὶ ὠργίσθη ὁ δράκων ἐπὶ τῇ γυναικί, καὶ ἀπῆλθεν ποιῆσαι πόλεμον μετὰ τῶν λοιπῶν τοῦ σπέρματος αὐτῆς, τῶν τηρούντων τὰς ἐντολὰς τοῦ θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν Ἰησοῦ·",
+    "pt_aa": "E o dragão irou-se contra a mulher, e foi fazer guerra aos demais filhos dela, os que guardam os mandamentos de Deus, e mantêm o testemunho de Jesus."
+   },
+   "18": {
+    "grego_sblgnt": "καὶ ⸀ἐστάθη ἐπὶ τὴν ἄμμον τῆς θαλάσσης.",
+    "pt_aa": "E o dragão parou sobre a areia do mar."
+   }
+  },
+  "13": {
+   "1": {
+    "grego_sblgnt": "Καὶ εἶδον ἐκ τῆς θαλάσσης θηρίον ἀναβαῖνον, ἔχον κέρατα δέκα καὶ κεφαλὰς ἑπτά, καὶ ἐπὶ τῶν κεράτων αὐτοῦ δέκα διαδήματα, καὶ ἐπὶ τὰς κεφαλὰς αὐτοῦ ⸀ὀνόματα βλασφημίας.",
+    "pt_aa": "Então vi subir do mar uma besta que tinha dez chifres e sete cabeças, e sobre os seus chifres dez diademas, e sobre as suas cabeças nomes de blasfêmia."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ τὸ θηρίον ὃ εἶδον ἦν ὅμοιον παρδάλει, καὶ οἱ πόδες αὐτοῦ ὡς ἄρκου, καὶ τὸ στόμα αὐτοῦ ὡς στόμα λέοντος. καὶ ἔδωκεν αὐτῷ ὁ δράκων τὴν δύναμιν αὐτοῦ καὶ τὸν θρόνον αὐτοῦ καὶ ἐξουσίαν μεγάλην.",
+    "pt_aa": "E a besta que vi era semelhante ao leopardo, e os seus pés como os de urso, e a sua boca como a de leão; e o dragão deu-lhe o seu poder e o seu trono e grande autoridade."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ μίαν ἐκ τῶν κεφαλῶν αὐτοῦ ⸀ὡς ἐσφαγμένην εἰς θάνατον, καὶ ἡ πληγὴ τοῦ θανάτου αὐτοῦ ἐθεραπεύθη. καὶ ⸀ἐθαυμάσθη ⸂ὅλη ἡ γῆ⸃ ὀπίσω τοῦ θηρίου,",
+    "pt_aa": "Também vi uma de suas cabeças como se fora ferida de morte, mas a sua ferida mortal foi curada. Toda a terra se maravilhou, seguindo a besta,"
+   },
+   "4": {
+    "grego_sblgnt": "καὶ προσεκύνησαν τῷ δράκοντι ⸂ὅτι ἔδωκεν⸃ τὴν ἐξουσίαν τῷ θηρίῳ, καὶ προσεκύνησαν τῷ θηρίῳ λέγοντες· Τίς ὅμοιος τῷ θηρίῳ, καὶ τίς ⸀δύναται πολεμῆσαι μετ’ αὐτοῦ;",
+    "pt_aa": "e adoraram o dragão, porque deu à besta a sua autoridade; e adoraram a besta, dizendo: Quem é semelhante à besta? quem poderá batalhar contra ela?"
+   },
+   "5": {
+    "grego_sblgnt": "Καὶ ἐδόθη αὐτῷ στόμα λαλοῦν μεγάλα καὶ ⸀βλασφημίας, καὶ ἐδόθη αὐτῷ ⸀ἐξουσία ποιῆσαι μῆνας ⸀τεσσεράκοντα δύο.",
+    "pt_aa": "Foi-lhe dada uma boca que proferia arrogâncias e blasfêmias; e deu-se-lhe autoridade para atuar por quarenta e dois meses."
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ἤνοιξε τὸ στόμα αὐτοῦ εἰς ⸀βλασφημίας πρὸς τὸν θεόν, βλασφημῆσαι τὸ ὄνομα αὐτοῦ καὶ τὴν σκηνὴν αὐτοῦ, τοὺς ἐν τῷ οὐρανῷ σκηνοῦντας.",
+    "pt_aa": "E abriu a boca em blasfêmias contra Deus, para blasfemar do seu nome e do seu tabernáculo e dos que habitam no céu."
+   },
+   "7": {
+    "grego_sblgnt": "καὶ ἐδόθη αὐτῷ ποιῆσαι πόλεμον μετὰ τῶν ἁγίων καὶ νικῆσαι αὐτούς, καὶ ἐδόθη αὐτῷ ἐξουσία ἐπὶ πᾶσαν φυλὴν καὶ λαὸν καὶ γλῶσσαν καὶ ἔθνος.",
+    "pt_aa": "Também lhe foi permitido fazer guerra aos santos, e vencê-los; e deu-se-lhe autoridade sobre toda tribo, e povo, e língua e nação."
+   },
+   "8": {
+    "grego_sblgnt": "καὶ προσκυνήσουσιν ⸀αὐτὸν πάντες οἱ κατοικοῦντες ἐπὶ τῆς γῆς, ⸀οὗ οὐ γέγραπται τὸ ὄνομα ⸀αὐτοῦ ἐν τῷ βιβλίῳ τῆς ζωῆς τοῦ ἀρνίου τοῦ ἐσφαγμένου ἀπὸ καταβολῆς κόσμου.",
+    "pt_aa": "E adorá-la-ão todos os que habitam sobre a terra, esses cujos nomes não estão escritos no livro do Cordeiro que foi morto desde a fundação do mundo."
+   },
+   "9": {
+    "grego_sblgnt": "Εἴ τις ἔχει οὖς ἀκουσάτω.",
+    "pt_aa": "Se alguém tem ouvidos, ouça."
+   },
+   "10": {
+    "grego_sblgnt": "εἴ τις ⸂εἰς αἰχμαλωσίαν, εἰς αἰχμαλωσίαν⸃ ὑπάγει· εἴ τις ἐν μαχαίρῃ ⸀ἀποκτανθῆναι αὐτὸν ἐν μαχαίρῃ ἀποκτανθῆναι. ὧδέ ἐστιν ἡ ὑπομονὴ καὶ ἡ πίστις τῶν ἁγίων.",
+    "pt_aa": "Se alguém leva em cativeiro, em cativeiro irá; se alguém matar à espada, necessário é que à espada seja morto. Aqui está a perseverança e a fé dos santos."
+   },
+   "11": {
+    "grego_sblgnt": "Καὶ εἶδον ἄλλο θηρίον ἀναβαῖνον ἐκ τῆς γῆς, καὶ εἶχεν κέρατα δύο ὅμοια ἀρνίῳ, καὶ ἐλάλει ὡς δράκων.",
+    "pt_aa": "E vi subir da terra outra besta, e tinha dois chifres semelhantes aos de um cordeiro; e falava como dragão."
+   },
+   "12": {
+    "grego_sblgnt": "καὶ τὴν ἐξουσίαν τοῦ πρώτου θηρίου πᾶσαν ποιεῖ ἐνώπιον αὐτοῦ. καὶ ⸀ποιεῖ τὴν γῆν καὶ τοὺς ἐν αὐτῇ κατοικοῦντας ἵνα ⸀προσκυνήσουσιν τὸ θηρίον τὸ πρῶτον, οὗ ἐθεραπεύθη ἡ πληγὴ τοῦ θανάτου αὐτοῦ.",
+    "pt_aa": "Também exercia toda a autoridade da primeira besta na sua presença; e fazia que a terra e os que nela habitavam adorassem a primeira besta, cuja ferida mortal fora curada."
+   },
+   "13": {
+    "grego_sblgnt": "καὶ ποιεῖ σημεῖα μεγάλα, ⸂ἵνα καὶ πῦρ ποιῇ⸃ ἐκ τοῦ οὐρανοῦ ⸂καταβαίνειν εἰς⸃ τὴν γῆν ἐνώπιον τῶν ἀνθρώπων.",
+    "pt_aa": "E operava grandes sinais, de maneira que fazia até descer fogo do céu à terra, à vista dos homens;"
+   },
+   "14": {
+    "grego_sblgnt": "καὶ πλανᾷ ⸀τοὺς κατοικοῦντας ἐπὶ τῆς γῆς διὰ τὰ σημεῖα ἃ ἐδόθη αὐτῷ ποιῆσαι ἐνώπιον τοῦ θηρίου, λέγων τοῖς κατοικοῦσιν ἐπὶ τῆς γῆς ποιῆσαι εἰκόνα τῷ θηρίῳ, ⸂ὃς ἔχει⸃ τὴν πληγὴν ⸂τῆς μαχαίρης καὶ ἔζησεν⸃.",
+    "pt_aa": "e, por meio dos sinais que lhe foi permitido fazer na presença da besta, enganava os que habitavam sobre a terra e lhes dizia que fizessem uma imagem à besta que recebera a ferida da espada e vivia."
+   },
+   "15": {
+    "grego_sblgnt": "καὶ ἐδόθη ⸀αὐτῷ ⸂δοῦναι πνεῦμα⸃ τῇ εἰκόνι τοῦ θηρίου, ἵνα καὶ λαλήσῃ ἡ εἰκὼν τοῦ θηρίου καὶ ποιήσῃ ⸀ἵνα ὅσοι ἐὰν μὴ προσκυνήσωσιν τῇ εἰκόνι τοῦ θηρίου ἀποκτανθῶσιν.",
+    "pt_aa": "Foi-lhe concedido também dar fôlego à imagem da besta, para que a imagem da besta falasse, e fizesse que fossem mortos todos os que não adorassem a imagem da besta."
+   },
+   "16": {
+    "grego_sblgnt": "καὶ ποιεῖ πάντας, τοὺς μικροὺς καὶ τοὺς μεγάλους, καὶ τοὺς πλουσίους καὶ τοὺς πτωχούς, καὶ τοὺς ἐλευθέρους καὶ τοὺς δούλους, ἵνα ⸀δῶσιν αὐτοῖς ⸀χάραγμα ἐπὶ τῆς χειρὸς αὐτῶν τῆς δεξιᾶς ἢ ἐπὶ τὸ μέτωπον αὐτῶν,",
+    "pt_aa": "E fez que a todos, pequenos e grandes, ricos e pobres, livres e escravos, lhes fosse posto um sinal na mão direita, ou na fronte,"
+   },
+   "17": {
+    "grego_sblgnt": "καὶ ἵνα μή τις ⸀δύνηται ἀγοράσαι ἢ πωλῆσαι εἰ μὴ ὁ ἔχων τὸ χάραγμα, τὸ ὄνομα τοῦ θηρίου ἢ τὸν ἀριθμὸν τοῦ ὀνόματος αὐτοῦ.",
+    "pt_aa": "para que ninguém pudesse comprar ou vender, senão aquele que tivesse o sinal, ou o nome da besta, ou o número do seu nome."
+   },
+   "18": {
+    "grego_sblgnt": "ὧδε ἡ σοφία ἐστίν· ὁ ἔχων νοῦν ψηφισάτω τὸν ἀριθμὸν τοῦ θηρίου, ἀριθμὸς γὰρ ἀνθρώπου ἐστίν· καὶ ὁ ἀριθμὸς ⸀αὐτοῦ ⸂ἑξακόσιοι ἑξήκοντα ἕξ⸃.",
+    "pt_aa": "Aqui há sabedoria. Aquele que tem entendimento, calcule o número da besta; porque é o número de um homem, e o seu número é seiscentos e sessenta e seis."
+   }
+  },
+  "14": {
+   "1": {
+    "grego_sblgnt": "Καὶ εἶδον, καὶ ἰδοὺ τὸ ἀρνίον ⸀ἑστὸς ἐπὶ τὸ ὄρος Σιών, καὶ μετ’ ⸀αὐτοῦ ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες ἔχουσαι τὸ ὄνομα αὐτοῦ καὶ τὸ ὄνομα τοῦ πατρὸς αὐτοῦ γεγραμμένον ἐπὶ τῶν μετώπων αὐτῶν.",
+    "pt_aa": "E olhei, e eis o Cordeiro em pé sobre o Monte Sião, e com ele cento e quarenta e quatro mil, que traziam na fronte escrito o nome dele e o nome de seu Pai."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ ἤκουσα φωνὴν ἐκ τοῦ οὐρανοῦ ὡς φωνὴν ὑδάτων πολλῶν καὶ ὡς φωνὴν βροντῆς μεγάλης, καὶ ἡ φωνὴ ἣν ἤκουσα ὡς κιθαρῳδῶν κιθαριζόντων ἐν ταῖς κιθάραις αὐτῶν.",
+    "pt_aa": "E ouvi uma voz do céu, como a voz de muitas águas, e como a voz de um grande trovão e a voz que ouvi era como de harpistas, que tocavam as suas harpas."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ᾄδουσιν ⸀ὡς ᾠδὴν καινὴν ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τῶν τεσσάρων ζῴων καὶ τῶν πρεσβυτέρων· καὶ οὐδεὶς ἐδύνατο μαθεῖν τὴν ᾠδὴν εἰ μὴ αἱ ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες, οἱ ἠγορασμένοι ἀπὸ τῆς γῆς.",
+    "pt_aa": "E cantavam um cântico novo diante do trono, e diante dos quatro seres viventes e dos anciãos; e ninguém podia aprender aquele cântico, senão os cento e quarenta e quatro mil, aqueles que foram comprados da terra."
+   },
+   "4": {
+    "grego_sblgnt": "οὗτοί εἰσιν οἳ μετὰ γυναικῶν οὐκ ἐμολύνθησαν, παρθένοι γάρ εἰσιν· ⸀οὗτοι οἱ ἀκολουθοῦντες τῷ ἀρνίῳ ὅπου ἂν ⸀ὑπάγῃ· ⸁οὗτοι ἠγοράσθησαν ἀπὸ τῶν ἀνθρώπων ἀπαρχὴ τῷ θεῷ καὶ τῷ ἀρνίῳ,",
+    "pt_aa": "Estes são os que não se contaminaram com mulheres; porque são virgens. Estes são os que seguem o Cordeiro para onde quer que vá. Estes foram comprados dentre os homens para serem as primícias para Deus e para o Cordeiro."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ ⸂ἐν τῷ στόματι αὐτῶν οὐχ εὑρέθη⸃ ψεῦδος· ⸀ἄμωμοί εἰσιν.",
+    "pt_aa": "E na sua boca não se achou engano; porque são irrepreensíveis."
+   },
+   "6": {
+    "grego_sblgnt": "Καὶ εἶδον ⸀ἄλλον ἄγγελον πετόμενον ἐν μεσουρανήματι, ἔχοντα εὐαγγέλιον αἰώνιον εὐαγγελίσαι ⸀ἐπὶ τοὺς καθημένους ἐπὶ τῆς γῆς καὶ ἐπὶ πᾶν ἔθνος καὶ φυλὴν καὶ γλῶσσαν καὶ λαόν,",
+    "pt_aa": "E vi outro anjo voando pelo meio do céu, e tinha um evangelho eterno para proclamar aos que habitam sobre a terra e a toda nação, e tribo, e língua, e povo,"
+   },
+   "7": {
+    "grego_sblgnt": "λέγων ἐν φωνῇ μεγάλῃ· Φοβήθητε τὸν ⸀θεὸν καὶ δότε αὐτῷ δόξαν, ὅτι ἦλθεν ἡ ὥρα τῆς κρίσεως αὐτοῦ, καὶ προσκυνήσατε ⸂τῷ ποιήσαντι⸃ τὸν οὐρανὸν καὶ τὴν γῆν ⸀καὶ θάλασσαν καὶ πηγὰς ὑδάτων.",
+    "pt_aa": "dizendo com grande voz: Temei a Deus, e dai-lhe glória; porque é chegada a hora do seu juízo; e adorai aquele que fez o céu, e a terra, e o mar, e as fontes das águas."
+   },
+   "8": {
+    "grego_sblgnt": "Καὶ ἄλλος ⸂δεύτερος ἄγγελος⸃ ἠκολούθησεν λέγων· Ἔπεσεν, ⸀ἔπεσεν Βαβυλὼν ἡ μεγάλη, ⸀ἣ ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς πεπότικεν πάντα τὰ ἔθνη.",
+    "pt_aa": "Um segundo anjo o seguiu, dizendo: Caiu, caiu a grande Babilônia, que a todas as nações deu a beber do vinho da ira da sua prostituição."
+   },
+   "9": {
+    "grego_sblgnt": "Καὶ ἄλλος ἄγγελος τρίτος ἠκολούθησεν αὐτοῖς λέγων ἐν φωνῇ μεγάλῃ· Εἴ τις προσκυνεῖ τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ, καὶ λαμβάνει χάραγμα ἐπὶ τοῦ μετώπου αὐτοῦ ἢ ἐπὶ τὴν χεῖρα αὐτοῦ,",
+    "pt_aa": "Seguiu-os ainda um terceiro anjo, dizendo com grande voz: Se alguém adorar a besta, e a sua imagem, e receber o sinal na fronte, ou na mão,"
+   },
+   "10": {
+    "grego_sblgnt": "καὶ αὐτὸς πίεται ἐκ τοῦ οἴνου τοῦ θυμοῦ τοῦ θεοῦ τοῦ κεκερασμένου ἀκράτου ἐν τῷ ποτηρίῳ τῆς ὀργῆς αὐτοῦ, καὶ βασανισθήσεται ἐν πυρὶ καὶ θείῳ ἐνώπιον ⸂ἀγγέλων ἁγίων⸃ καὶ ἐνώπιον τοῦ ἀρνίου.",
+    "pt_aa": "também o tal beberá do vinho da ira de Deus, que se acha preparado sem mistura, no cálice da sua ira; e será atormentado com fogo e enxofre diante dos santos anjos e diante do Cordeiro."
+   },
+   "11": {
+    "grego_sblgnt": "καὶ ὁ καπνὸς τοῦ βασανισμοῦ αὐτῶν εἰς αἰῶνας αἰώνων ἀναβαίνει, καὶ οὐκ ἔχουσιν ἀνάπαυσιν ἡμέρας καὶ νυκτός, οἱ προσκυνοῦντες τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ, καὶ εἴ τις λαμβάνει τὸ χάραγμα τοῦ ὀνόματος αὐτοῦ.",
+    "pt_aa": "A fumaça do seu tormento sobe para todo o sempre; e não têm repouso nem de dia nem de noite os que adoram a besta e a sua imagem, nem aquele que recebe o sinal do seu nome."
+   },
+   "12": {
+    "grego_sblgnt": "Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν, οἱ τηροῦντες τὰς ἐντολὰς τοῦ θεοῦ καὶ τὴν πίστιν Ἰησοῦ.",
+    "pt_aa": "Aqui está a perseverança dos santos, daqueles que guardam os mandamentos de Deus e a fé em Jesus."
+   },
+   "13": {
+    "grego_sblgnt": "Καὶ ἤκουσα φωνῆς ἐκ τοῦ οὐρανοῦ λεγούσης· Γράψον· Μακάριοι οἱ νεκροὶ οἱ ἐν κυρίῳ ἀποθνῄσκοντες ἀπ’ ἄρτι. ⸂ναί, λέγει⸃ τὸ πνεῦμα, ἵνα ⸀ἀναπαήσονται ἐκ τῶν κόπων αὐτῶν, τὰ ⸀γὰρ ἔργα αὐτῶν ἀκολουθεῖ μετ’ αὐτῶν.",
+    "pt_aa": "Então ouvi uma voz do céu, que dizia: Escreve: Bem-aventurados os mortos que desde agora morrem no Senhor. Sim, diz o Espírito, para que descansem dos seus trabalhos, pois as suas obras os acompanham."
+   },
+   "14": {
+    "grego_sblgnt": "Καὶ εἶδον, καὶ ἰδοὺ νεφέλη λευκή, καὶ ἐπὶ τὴν νεφέλην καθήμενον ὅμοιον ⸀υἱὸν ἀνθρώπου, ἔχων ἐπὶ τῆς κεφαλῆς αὐτοῦ στέφανον χρυσοῦν καὶ ἐν τῇ χειρὶ αὐτοῦ δρέπανον ὀξύ.",
+    "pt_aa": "E olhei, e eis uma nuvem branca, e assentado sobre a nuvem um semelhante a filho de homem, que tinha sobre a cabeça uma coroa de ouro, e na mão uma foice afiada."
+   },
+   "15": {
+    "grego_sblgnt": "καὶ ἄλλος ἄγγελος ἐξῆλθεν ἐκ τοῦ ναοῦ κράζων ἐν φωνῇ μεγάλῃ τῷ καθημένῳ ἐπὶ τῆς νεφέλης· Πέμψον τὸ δρέπανόν σου καὶ θέρισον, ὅτι ἦλθεν ἡ ὥρα θερίσαι, ὅτι ἐξηράνθη ὁ θερισμὸς τῆς γῆς.",
+    "pt_aa": "E outro anjo saiu do santuário, clamando com grande voz ao que estava assentado sobre a nuvem: Lança a tua foice e ceifa, porque é chegada a hora de ceifar, porque já a seara da terra está madura."
+   },
+   "16": {
+    "grego_sblgnt": "καὶ ἔβαλεν ὁ καθήμενος ἐπὶ ⸂τῆς νεφέλης⸃ τὸ δρέπανον αὐτοῦ ἐπὶ τὴν γῆν, καὶ ἐθερίσθη ἡ γῆ.",
+    "pt_aa": "Então aquele que estava assentado sobre a nuvem meteu a sua foice à terra, e a terra foi ceifada."
+   },
+   "17": {
+    "grego_sblgnt": "Καὶ ἄλλος ἄγγελος ἐξῆλθεν ἐκ τοῦ ναοῦ τοῦ ἐν τῷ οὐρανῷ, ἔχων καὶ αὐτὸς δρέπανον ὀξύ.",
+    "pt_aa": "Ainda outro anjo saiu do santuário que está no céu, o qual também tinha uma foice afiada."
+   },
+   "18": {
+    "grego_sblgnt": "καὶ ἄλλος ⸀ἄγγελος ἐκ τοῦ θυσιαστηρίου, ⸀ὁ ἔχων ἐξουσίαν ἐπὶ τοῦ πυρός, καὶ ἐφώνησεν ⸀φωνῇ μεγάλῃ τῷ ἔχοντι τὸ δρέπανον τὸ ὀξὺ λέγων· Πέμψον σου τὸ δρέπανον τὸ ὀξὺ καὶ τρύγησον τοὺς βότρυας τῆς ἀμπέλου τῆς γῆς, ὅτι ἤκμασαν αἱ σταφυλαὶ αὐτῆς.",
+    "pt_aa": "E saiu do altar outro anjo, que tinha poder sobre o fogo, e clamou com grande voz ao que tinha a foice afiada, dizendo: Lança a tua foice afiada, e vindima os cachos da vinha da terra, porque já as suas uvas estão maduras."
+   },
+   "19": {
+    "grego_sblgnt": "καὶ ἔβαλεν ὁ ἄγγελος τὸ δρέπανον αὐτοῦ εἰς τὴν γῆν, καὶ ἐτρύγησεν τὴν ἄμπελον τῆς γῆς, καὶ ἔβαλεν εἰς τὴν ληνὸν τοῦ θυμοῦ τοῦ θεοῦ τὸν μέγαν.",
+    "pt_aa": "E o anjo meteu a sua foice à terra, e vindimou as uvas da vinha da terra, e lançou-as no grande lagar da ira de Deus."
+   },
+   "20": {
+    "grego_sblgnt": "καὶ ἐπατήθη ἡ ληνὸς ἔξωθεν τῆς πόλεως, καὶ ἐξῆλθεν αἷμα ἐκ τῆς ληνοῦ ἄχρι τῶν χαλινῶν τῶν ἵππων ἀπὸ σταδίων χιλίων ἑξακοσίων.",
+    "pt_aa": "E o lagar foi pisado fora da cidade, e saiu sangue do lagar até os freios dos cavalos, pelo espaço de mil e seiscentos estádios."
+   }
+  },
+  "15": {
+   "1": {
+    "grego_sblgnt": "Καὶ εἶδον ἄλλο σημεῖον ἐν τῷ οὐρανῷ μέγα καὶ θαυμαστόν, ἀγγέλους ἑπτὰ ἔχοντας πληγὰς ἑπτὰ τὰς ἐσχάτας, ὅτι ἐν αὐταῖς ἐτελέσθη ὁ θυμὸς τοῦ θεοῦ.",
+    "pt_aa": "Vi no céu ainda outro sinal, grande e admirável: sete anjos, que tinham as sete últimas pragas; porque nelas é consumada a ira de Deus."
+   },
+   "2": {
+    "grego_sblgnt": "Καὶ εἶδον ὡς θάλασσαν ὑαλίνην μεμιγμένην πυρί, καὶ τοὺς νικῶντας ἐκ τοῦ θηρίου καὶ ἐκ τῆς εἰκόνος αὐτοῦ καὶ ἐκ τοῦ ἀριθμοῦ τοῦ ὀνόματος αὐτοῦ ἑστῶτας ἐπὶ τὴν θάλασσαν τὴν ὑαλίνην, ἔχοντας κιθάρας τοῦ θεοῦ.",
+    "pt_aa": "E vi como que um mar de vidro misturado com fogo; e os que tinham vencido a besta e a sua imagem e o número do seu nome estavam em pé junto ao mar de vidro, e tinham harpas de Deus."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ᾄδουσιν τὴν ᾠδὴν Μωϋσέως τοῦ δούλου τοῦ θεοῦ καὶ τὴν ᾠδὴν τοῦ ἀρνίου λέγοντες· Μεγάλα καὶ θαυμαστὰ τὰ ἔργα σου, κύριε, ὁ θεός, ὁ παντοκράτωρ· δίκαιαι καὶ ἀληθιναὶ αἱ ὁδοί σου, ὁ βασιλεὺς τῶν ⸀αἰώνων·",
+    "pt_aa": "E cantavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro, dizendo: Grandes e admiráveis são as tuas obras, ó Senhor Deus Todo-Poderoso; justos e verdadeiros são os teus caminhos, ó Rei dos séculos."
+   },
+   "4": {
+    "grego_sblgnt": "τίς οὐ μὴ ⸀φοβηθῇ, κύριε, καὶ ⸀δοξάσει τὸ ὄνομά σου, ὅτι μόνος ⸀ὅσιος; ὅτι πάντα τὰ ἔθνη ἥξουσιν καὶ προσκυνήσουσιν ἐνώπιόν σου, ὅτι τὰ δικαιώματά σου ἐφανερώθησαν.",
+    "pt_aa": "Quem não te temerá, Senhor, e não glorificará o teu nome? Pois só tu és santo; por isso todas as nações virão e se prostrarão diante de ti, porque os teus juízos são manifestos."
+   },
+   "5": {
+    "grego_sblgnt": "Καὶ μετὰ ταῦτα εἶδον, καὶ ἠνοίγη ὁ ναὸς τῆς σκηνῆς τοῦ μαρτυρίου ἐν τῷ οὐρανῷ,",
+    "pt_aa": "Depois disto olhei, e abriu-se o santuário do tabernáculo do testemunho no céu;"
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ἐξῆλθον οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ πληγὰς ἐκ τοῦ ναοῦ, ⸀ἐνδεδυμένοι ⸀λίνον καθαρὸν λαμπρὸν καὶ περιεζωσμένοι περὶ τὰ στήθη ζώνας χρυσᾶς.",
+    "pt_aa": "e saíram do santuário os sete anjos que tinham as sete pragas, vestidos de linho puro e resplandecente, e cingidos, à altura do peito com cintos de ouro."
+   },
+   "7": {
+    "grego_sblgnt": "καὶ ἓν ἐκ τῶν τεσσάρων ζῴων ἔδωκεν τοῖς ἑπτὰ ἀγγέλοις ἑπτὰ φιάλας χρυσᾶς γεμούσας τοῦ θυμοῦ τοῦ θεοῦ τοῦ ζῶντος εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+    "pt_aa": "Um dos quatro seres viventes deu aos sete anjos sete taças de ouro, cheias da ira do Deus que vive pelos séculos dos séculos."
+   },
+   "8": {
+    "grego_sblgnt": "καὶ ἐγεμίσθη ὁ ναὸς καπνοῦ ἐκ τῆς δόξης τοῦ θεοῦ καὶ ἐκ τῆς δυνάμεως αὐτοῦ, καὶ οὐδεὶς ἐδύνατο εἰσελθεῖν εἰς τὸν ναὸν ἄχρι τελεσθῶσιν αἱ ἑπτὰ πληγαὶ τῶν ἑπτὰ ἀγγέλων.",
+    "pt_aa": "E o santuário se encheu de fumaça pela glória de Deus e pelo seu poder; e ninguém podia entrar no santuário, enquanto não se consumassem as sete pragas dos sete anjos."
+   }
+  },
+  "16": {
+   "1": {
+    "grego_sblgnt": "Καὶ ἤκουσα ⸂μεγάλης φωνῆς⸃ ἐκ τοῦ ναοῦ λεγούσης τοῖς ἑπτὰ ἀγγέλοις· Ὑπάγετε καὶ ⸀ἐκχέετε τὰς ἑπτὰ φιάλας τοῦ θυμοῦ τοῦ θεοῦ εἰς τὴν γῆν.",
+    "pt_aa": "E ouvi, vinda do santuário, uma grande voz, que dizia aos sete anjos: Ide e derramai sobre a terra as sete taças, da ira de Deus."
+   },
+   "2": {
+    "grego_sblgnt": "Καὶ ἀπῆλθεν ὁ πρῶτος καὶ ἐξέχεεν τὴν φιάλην αὐτοῦ εἰς τὴν γῆν· καὶ ἐγένετο ἕλκος κακὸν καὶ πονηρὸν ἐπὶ τοὺς ἀνθρώπους τοὺς ἔχοντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ.",
+    "pt_aa": "Então foi o primeiro e derramou a sua taça sobre a terra; e apareceu uma chaga ruim e maligna nos homens que tinham o sinal da besta e que adoravam a sua imagem."
+   },
+   "3": {
+    "grego_sblgnt": "Καὶ ὁ ⸀δεύτερος ἐξέχεεν τὴν φιάλην αὐτοῦ εἰς τὴν θάλασσαν· καὶ ἐγένετο αἷμα ὡς νεκροῦ, καὶ πᾶσα ψυχὴ ⸀ζωῆς ἀπέθανεν ⸀τὰ ἐν τῇ θαλάσσῃ.",
+    "pt_aa": "O segundo anjo derramou a sua taça no mar, que se tornou em sangue como de um morto, e morreu todo ser vivente que estava no mar."
+   },
+   "4": {
+    "grego_sblgnt": "Καὶ ὁ τρίτος ἐξέχεεν τὴν φιάλην αὐτοῦ εἰς τοὺς ποταμοὺς ⸀καὶ τὰς πηγὰς τῶν ὑδάτων· καὶ ἐγένετο αἷμα.",
+    "pt_aa": "O terceiro anjo derramou a sua taça nos rios e nas fontes das águas, e se tornaram em sangue."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ ἤκουσα τοῦ ἀγγέλου τῶν ὑδάτων λέγοντος· Δίκαιος εἶ, ὁ ὢν καὶ ὁ ἦν, ⸀ὁ ὅσιος, ὅτι ταῦτα ἔκρινας,",
+    "pt_aa": "E ouvi o anjo das águas dizer: Justo és tu, que és e que eras, o Santo; porque julgaste estas coisas;"
+   },
+   "6": {
+    "grego_sblgnt": "ὅτι αἷμα ἁγίων καὶ προφητῶν ἐξέχεαν, καὶ αἷμα αὐτοῖς ⸀δέδωκας πιεῖν· ἄξιοί εἰσιν.",
+    "pt_aa": "porque derramaram o sangue de santos e de profetas, e tu lhes tens dado sangue a beber; eles o merecem."
+   },
+   "7": {
+    "grego_sblgnt": "καὶ ἤκουσα τοῦ θυσιαστηρίου λέγοντος· Ναί, κύριε, ὁ θεός, ὁ παντοκράτωρ, ἀληθιναὶ καὶ δίκαιαι αἱ κρίσεις σου.",
+    "pt_aa": "E ouvi uma voz do altar, que dizia: Na verdade, ó Senhor Deus Todo-Poderoso, verdadeiros e justos são os teus juízos."
+   },
+   "8": {
+    "grego_sblgnt": "Καὶ ὁ ⸀τέταρτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ἥλιον· καὶ ἐδόθη αὐτῷ καυματίσαι ⸂τοὺς ἀνθρώπους ἐν πυρί⸃.",
+    "pt_aa": "O quarto anjo derramou a sua taça sobre o sol, e foi-lhe permitido que abrasasse os homens com fogo."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ ἐκαυματίσθησαν οἱ ἄνθρωποι καῦμα μέγα· καὶ ⸀ἐβλασφήμησαν τὸ ὄνομα τοῦ θεοῦ τοῦ ἔχοντος ⸀τὴν ἐξουσίαν ἐπὶ τὰς πληγὰς ταύτας, καὶ οὐ μετενόησαν δοῦναι αὐτῷ δόξαν.",
+    "pt_aa": "E os homens foram abrasados com grande calor; e blasfemaram o nome de Deus, que tem poder sobre estas pragas; e não se arrependeram para lhe darem glória."
+   },
+   "10": {
+    "grego_sblgnt": "Καὶ ὁ πέμπτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν θρόνον τοῦ θηρίου· καὶ ἐγένετο ἡ βασιλεία αὐτοῦ ἐσκοτωμένη, καὶ ἐμασῶντο τὰς γλώσσας αὐτῶν ἐκ τοῦ πόνου,",
+    "pt_aa": "O quinto anjo derramou a sua taça sobre o trono da besta, e o seu reino se fez tenebroso; e os homens mordiam de dor as suas línguas."
+   },
+   "11": {
+    "grego_sblgnt": "καὶ ἐβλασφήμησαν τὸν θεὸν τοῦ οὐρανοῦ ἐκ τῶν πόνων αὐτῶν καὶ ἐκ τῶν ἑλκῶν αὐτῶν, καὶ οὐ μετενόησαν ἐκ τῶν ἔργων αὐτῶν.",
+    "pt_aa": "E por causa das suas dores, e por causa das suas chagas, blasfemaram o Deus do céu; e não se arrependeram das suas obras."
+   },
+   "12": {
+    "grego_sblgnt": "Καὶ ὁ ἕκτος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ποταμὸν τὸν μέγαν ⸀τὸν Εὐφράτην· καὶ ἐξηράνθη τὸ ὕδωρ αὐτοῦ, ἵνα ἑτοιμασθῇ ἡ ὁδὸς τῶν βασιλέων τῶν ἀπὸ ἀνατολῆς ἡλίου.",
+    "pt_aa": "O sexto anjo derramou a sua taça sobre o grande rio Eufrates; e a sua água secou-se, para que se preparasse o caminho dos reis que vêm do oriente."
+   },
+   "13": {
+    "grego_sblgnt": "καὶ εἶδον ἐκ τοῦ στόματος τοῦ δράκοντος καὶ ἐκ τοῦ στόματος τοῦ θηρίου καὶ ἐκ τοῦ στόματος τοῦ ψευδοπροφήτου πνεύματα ⸂τρία ἀκάθαρτα⸃ ὡς βάτραχοι·",
+    "pt_aa": "E da boca do dragão, e da boca da besta, e da boca do falso profeta, vi saírem três espíritos imundos, semelhantes a rãs."
+   },
+   "14": {
+    "grego_sblgnt": "εἰσὶν γὰρ πνεύματα δαιμονίων ποιοῦντα σημεῖα, ἃ ἐκπορεύεται ἐπὶ τοὺς βασιλεῖς τῆς οἰκουμένης ὅλης, συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον τῆς ⸀ἡμέρας τῆς μεγάλης τοῦ θεοῦ τοῦ παντοκράτορος—",
+    "pt_aa": "Pois são espíritos de demônios, que operam sinais; os quais vão ao encontro dos reis de todo o mundo, para os congregar para a batalha do grande dia do Deus Todo-Poderoso."
+   },
+   "15": {
+    "grego_sblgnt": "Ἰδοὺ ἔρχομαι ὡς κλέπτης. μακάριος ὁ γρηγορῶν καὶ τηρῶν τὰ ἱμάτια αὐτοῦ, ἵνα μὴ γυμνὸς περιπατῇ καὶ βλέπωσιν τὴν ἀσχημοσύνην αὐτοῦ—",
+    "pt_aa": "{Eis que venho como ladrão. Bem-aventurado aquele que vigia, e guarda as suas vestes, para que não ande nu, e não se veja a sua nudez.}"
+   },
+   "16": {
+    "grego_sblgnt": "καὶ συνήγαγεν αὐτοὺς εἰς τὸν τόπον τὸν καλούμενον Ἑβραϊστὶ Ἁρμαγεδών.",
+    "pt_aa": "E eles os congregaram no lugar que em hebraico se chama Armagedom."
+   },
+   "17": {
+    "grego_sblgnt": "Καὶ ὁ ἕβδομος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ἀέρα— καὶ ἐξῆλθεν φωνὴ μεγάλη ⸀ἐκ τοῦ ⸀ναοῦ ἀπὸ τοῦ θρόνου λέγουσα· Γέγονεν—",
+    "pt_aa": "O sétimo anjo derramou a sua taça no ar; e saiu uma grande voz do santuário, da parte do trono, dizendo: Está feito."
+   },
+   "18": {
+    "grego_sblgnt": "καὶ ἐγένοντο ἀστραπαὶ καὶ ⸂φωναὶ καὶ βρονταί⸃, καὶ σεισμὸς ⸀ἐγένετο μέγας, οἷος οὐκ ἐγένετο ἀφ’ οὗ ⸂ἄνθρωποι ἐγένοντο⸃ ἐπὶ τῆς γῆς τηλικοῦτος σεισμὸς οὕτω μέγας,",
+    "pt_aa": "E houve relâmpagos e vozes e trovões; houve também um grande terremoto, qual nunca houvera desde que há homens sobre a terra, terremoto tão forte quão grande;"
+   },
+   "19": {
+    "grego_sblgnt": "καὶ ἐγένετο ἡ πόλις ἡ μεγάλη εἰς τρία μέρη, καὶ αἱ πόλεις τῶν ἐθνῶν ἔπεσαν· καὶ Βαβυλὼν ἡ μεγάλη ἐμνήσθη ἐνώπιον τοῦ θεοῦ δοῦναι αὐτῇ τὸ ποτήριον τοῦ οἴνου τοῦ θυμοῦ τῆς ὀργῆς αὐτοῦ·",
+    "pt_aa": "e a grande cidade fendeu-se em três partes, e as cidades das nações caíram; e Deus lembrou-se da grande Babilônia, para lhe dar o cálice do vinho do furor da sua ira."
+   },
+   "20": {
+    "grego_sblgnt": "καὶ πᾶσα νῆσος ἔφυγεν, καὶ ὄρη οὐχ εὑρέθησαν.",
+    "pt_aa": "Todas ilhas fugiram, e os montes não mais se acharam."
+   },
+   "21": {
+    "grego_sblgnt": "καὶ χάλαζα μεγάλη ὡς ταλαντιαία καταβαίνει ἐκ τοῦ οὐρανοῦ ἐπὶ τοὺς ἀνθρώπους· καὶ ἐβλασφήμησαν οἱ ἄνθρωποι τὸν θεὸν ἐκ τῆς πληγῆς τῆς χαλάζης, ὅτι μεγάλη ἐστὶν ἡ πληγὴ αὐτῆς σφόδρα.",
+    "pt_aa": "E sobre os homens caiu do céu uma grande saraivada, pedras quase do peso de um talento; e os homens blasfemaram de Deus por causa da praga da saraivada; porque a sua praga era mui grande."
+   }
+  },
+  "17": {
+   "1": {
+    "grego_sblgnt": "Καὶ ἦλθεν εἷς ἐκ τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας, καὶ ἐλάλησεν μετ’ ἐμοῦ λέγων· Δεῦρο, δείξω σοι τὸ κρίμα τῆς πόρνης τῆς μεγάλης τῆς καθημένης ἐπὶ ⸀ὑδάτων πολλῶν,",
+    "pt_aa": "Veio um dos sete anjos que tinham as sete taças, e falou comigo, dizendo: Vem, mostrar-te-ei a condenação da grande prostituta que está assentada sobre muitas águas;"
+   },
+   "2": {
+    "grego_sblgnt": "μεθ’ ἧς ἐπόρνευσαν οἱ βασιλεῖς τῆς γῆς, καὶ ἐμεθύσθησαν οἱ κατοικοῦντες τὴν γῆν ἐκ τοῦ οἴνου τῆς πορνείας αὐτῆς.",
+    "pt_aa": "com a qual se prostituíram os reis da terra; e os que habitam sobre a terra se embriagaram com o vinho da sua prostituição."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ἀπήνεγκέν με εἰς ἔρημον ἐν πνεύματι. καὶ εἶδον γυναῖκα καθημένην ἐπὶ θηρίον κόκκινον, ⸀γέμοντα ὀνόματα βλασφημίας, ⸀ἔχων κεφαλὰς ἑπτὰ καὶ κέρατα δέκα.",
+    "pt_aa": "Então ele me levou em espírito a um deserto; e vi uma mulher montada numa besta cor de escarlata, que estava cheia de nomes de blasfêmia, e que tinha sete cabeças e dez chifres."
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ἡ γυνὴ ἦν περιβεβλημένη πορφυροῦν καὶ κόκκινον, ⸀καὶ κεχρυσωμένη ⸀χρυσίῳ καὶ λίθῳ τιμίῳ καὶ μαργαρίταις, ἔχουσα ποτήριον χρυσοῦν ἐν τῇ χειρὶ αὐτῆς γέμον βδελυγμάτων καὶ τὰ ἀκάθαρτα τῆς πορνείας αὐτῆς,",
+    "pt_aa": "A mulher estava vestida de púrpura e de escarlata, e adornada de ouro, pedras preciosas e pérolas; e tinha na mão um cálice de ouro, cheio das abominações, e da imundícia da prostituição;"
+   },
+   "5": {
+    "grego_sblgnt": "καὶ ἐπὶ τὸ μέτωπον αὐτῆς ὄνομα γεγραμμένον, μυστήριον, Βαβυλὼν ἡ μεγάλη, ἡ μήτηρ τῶν πορνῶν καὶ τῶν βδελυγμάτων τῆς γῆς.",
+    "pt_aa": "e na sua fronte estava escrito um nome simbólico: A grande Babilônia, a mãe das prostituições e das abominações da terra."
+   },
+   "6": {
+    "grego_sblgnt": "καὶ εἶδον τὴν γυναῖκα μεθύουσαν ἐκ τοῦ αἵματος τῶν ἁγίων ⸀καὶ ἐκ τοῦ αἵματος τῶν μαρτύρων Ἰησοῦ. Καὶ ἐθαύμασα ἰδὼν αὐτὴν θαῦμα μέγα·",
+    "pt_aa": "E vi que a mulher estava embriagada com o sangue dos santos e com o sangue dos mártires de Jesus. Quando a vi, maravilhei-me com grande admiração."
+   },
+   "7": {
+    "grego_sblgnt": "καὶ εἶπέν μοι ὁ ἄγγελος· Διὰ τί ἐθαύμασας; ἐγὼ ἐρῶ σοι τὸ μυστήριον τῆς γυναικὸς καὶ τοῦ θηρίου τοῦ βαστάζοντος αὐτήν, τοῦ ἔχοντος τὰς ἑπτὰ κεφαλὰς καὶ τὰ δέκα κέρατα·",
+    "pt_aa": "Ao que o anjo me disse: Por que te admiraste? Eu te direi o mistério da mulher, e da besta que a leva, a qual tem sete cabeças e dez chifres."
+   },
+   "8": {
+    "grego_sblgnt": "τὸ θηρίον ὃ εἶδες ἦν καὶ οὐκ ἔστιν, καὶ μέλλει ἀναβαίνειν ἐκ τῆς ἀβύσσου, καὶ εἰς ἀπώλειαν ⸀ὑπάγει· καὶ ⸀θαυμασθήσονται οἱ κατοικοῦντες ἐπὶ τῆς γῆς, ὧν οὐ γέγραπται ⸂τὸ ὄνομα⸃ ἐπὶ τὸ βιβλίον τῆς ζωῆς ἀπὸ καταβολῆς κόσμου, βλεπόντων ⸂τὸ θηρίον ὅτι ἦν⸃ καὶ οὐκ ἔστιν καὶ παρέσται.",
+    "pt_aa": "A besta que viste era e já não é; todavia está para subir do abismo, e vai-se para a perdição; e os que habitam sobre a terra e cujos nomes não estão escritos no livro da vida desde a fundação do mundo se admirarão, quando virem a besta que era e já não é, e que tornará a vir."
+   },
+   "9": {
+    "grego_sblgnt": "Ὧδε ὁ νοῦς ὁ ἔχων σοφίαν. αἱ ἑπτὰ κεφαλαὶ ἑπτὰ ὄρη εἰσίν, ὅπου ἡ γυνὴ κάθηται ἐπ’ αὐτῶν. καὶ βασιλεῖς ⸂ἑπτά εἰσιν⸃·",
+    "pt_aa": "Aqui está a mente que tem sabedoria. As sete cabeças são sete montes, sobre os quais a mulher está assentada;"
+   },
+   "10": {
+    "grego_sblgnt": "οἱ πέντε ἔπεσαν, ὁ εἷς ἔστιν, ὁ ἄλλος οὔπω ἦλθεν, καὶ ὅταν ἔλθῃ ὀλίγον ⸂αὐτὸν δεῖ⸃ μεῖναι,",
+    "pt_aa": "são também sete reis: cinco já caíram; um existe; e o outro ainda não é vindo; e quando vier, deve permanecer pouco tempo."
+   },
+   "11": {
+    "grego_sblgnt": "καὶ τὸ θηρίον ὃ ἦν καὶ οὐκ ἔστιν. καὶ ⸀αὐτὸς ὄγδοός ἐστιν καὶ ἐκ τῶν ἑπτά ἐστιν, καὶ εἰς ἀπώλειαν ὑπάγει.",
+    "pt_aa": "A besta que era e já não é, é também o oitavo rei, e é dos sete, e vai-se para a perdição."
+   },
+   "12": {
+    "grego_sblgnt": "καὶ τὰ δέκα κέρατα ἃ εἶδες δέκα βασιλεῖς εἰσιν, οἵτινες βασιλείαν οὔπω ἔλαβον, ἀλλὰ ἐξουσίαν ὡς βασιλεῖς μίαν ὥραν λαμβάνουσιν μετὰ τοῦ θηρίου.",
+    "pt_aa": "Os dez chifres que viste são dez reis, os quais ainda não receberam o reino, mas receberão autoridade, como reis, por uma hora, juntamente com a besta."
+   },
+   "13": {
+    "grego_sblgnt": "οὗτοι μίαν ⸂γνώμην ἔχουσιν⸃, καὶ τὴν δύναμιν ⸀καὶ ἐξουσίαν αὐτῶν τῷ θηρίῳ διδόασιν.",
+    "pt_aa": "Estes têm um mesmo intento, e entregarão o seu poder e autoridade à besta."
+   },
+   "14": {
+    "grego_sblgnt": "οὗτοι μετὰ τοῦ ἀρνίου πολεμήσουσιν, καὶ τὸ ἀρνίον νικήσει αὐτούς, ὅτι κύριος κυρίων ἐστὶν καὶ βασιλεὺς βασιλέων, καὶ οἱ μετ’ αὐτοῦ κλητοὶ καὶ ἐκλεκτοὶ καὶ πιστοί.",
+    "pt_aa": "Estes combaterão contra o Cordeiro, e o Cordeiro os vencerá, porque é o Senhor dos senhores e o Rei dos reis; vencerão também os que estão com ele, os chamados, e eleitos, e fiéis."
+   },
+   "15": {
+    "grego_sblgnt": "Καὶ λέγει μοι· Τὰ ὕδατα ἃ εἶδες, οὗ ἡ πόρνη κάθηται, λαοὶ καὶ ὄχλοι εἰσὶν καὶ ἔθνη καὶ γλῶσσαι.",
+    "pt_aa": "Disse-me ainda: As águas que viste, onde se assenta a prostituta, são povos, multidões, nações e línguas."
+   },
+   "16": {
+    "grego_sblgnt": "καὶ τὰ δέκα κέρατα ἃ εἶδες καὶ τὸ θηρίον, οὗτοι μισήσουσι τὴν πόρνην, καὶ ἠρημωμένην ποιήσουσιν αὐτὴν καὶ ⸀γυμνήν, καὶ τὰς σάρκας αὐτῆς φάγονται, καὶ αὐτὴν κατακαύσουσιν ἐν πυρί·",
+    "pt_aa": "E os dez chifres que viste, e a besta, estes odiarão a prostituta e a tornarão desolada e nua, e comerão as suas carnes, e a queimarão no fogo."
+   },
+   "17": {
+    "grego_sblgnt": "ὁ γὰρ θεὸς ἔδωκεν εἰς τὰς καρδίας αὐτῶν ποιῆσαι τὴν γνώμην αὐτοῦ, καὶ ποιῆσαι ⸂μίαν γνώμην⸃ καὶ δοῦναι τὴν βασιλείαν αὐτῶν τῷ θηρίῳ, ἄχρι ⸀τελεσθήσονται οἱ λόγοι τοῦ θεοῦ.",
+    "pt_aa": "Porque Deus lhes pôs nos corações o executarem o intento dele, chegarem a um acordo, e entregarem à besta o seu reino, até que se cumpram as palavras de Deus."
+   },
+   "18": {
+    "grego_sblgnt": "καὶ ἡ γυνὴ ἣν εἶδες ἔστιν ἡ πόλις ἡ μεγάλη ἡ ἔχουσα βασιλείαν ἐπὶ τῶν βασιλέων τῆς γῆς.",
+    "pt_aa": "E a mulher que viste é a grande cidade que reina sobre os reis da terra."
+   }
+  },
+  "18": {
+   "1": {
+    "grego_sblgnt": "Μετὰ ταῦτα εἶδον ἄλλον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ, ἔχοντα ἐξουσίαν μεγάλην, καὶ ἡ γῆ ἐφωτίσθη ἐκ τῆς δόξης αὐτοῦ.",
+    "pt_aa": "Depois destas coisas vi descer do céu outro anjo que tinha grande autoridade, e a terra foi iluminada com a sua glória."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ ἔκραξεν ⸀ἐν ἰσχυρᾷ φωνῇ λέγων· Ἔπεσεν, ⸀ἔπεσεν Βαβυλὼν ἡ μεγάλη, καὶ ἐγένετο κατοικητήριον ⸀δαιμονίων καὶ φυλακὴ παντὸς πνεύματος ἀκαθάρτου καὶ φυλακὴ παντὸς ὀρνέου ἀκαθάρτου ⸂καὶ φυλακὴ παντὸς θηρίου ἀκαθάρτου⸃ καὶ μεμισημένου,",
+    "pt_aa": "E ele clamou com voz forte, dizendo: Caiu, caiu a grande Babilônia, e se tornou morada de demônios, e guarida de todo espírito imundo, e guarida de toda ave imunda e detestável."
+   },
+   "3": {
+    "grego_sblgnt": "ὅτι ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς ⸀πέπτωκαν πάντα τὰ ἔθνη, καὶ οἱ βασιλεῖς τῆς γῆς μετ’ αὐτῆς ἐπόρνευσαν, καὶ οἱ ἔμποροι τῆς γῆς ἐκ τῆς δυνάμεως τοῦ στρήνους αὐτῆς ἐπλούτησαν.",
+    "pt_aa": "Porque todas as nações têm bebido do vinho da ira da sua prostituição, e os reis da terra se prostituíram com ela; e os mercadores da terra se enriqueceram com a abundância de suas delícias."
+   },
+   "4": {
+    "grego_sblgnt": "Καὶ ἤκουσα ἄλλην φωνὴν ἐκ τοῦ οὐρανοῦ λέγουσαν· ⸀Ἐξέλθατε, ⸂ὁ λαός μου, ἐξ αὐτῆς⸃, ἵνα μὴ συγκοινωνήσητε ταῖς ἁμαρτίαις αὐτῆς, καὶ ἐκ τῶν πληγῶν αὐτῆς ἵνα μὴ λάβητε·",
+    "pt_aa": "Ouvi outra voz do céu dizer: Sai dela, povo meu, para que não sejas participante dos sete pecados, e para que não incorras nas suas pragas."
+   },
+   "5": {
+    "grego_sblgnt": "ὅτι ἐκολλήθησαν αὐτῆς αἱ ἁμαρτίαι ἄχρι τοῦ οὐρανοῦ, καὶ ἐμνημόνευσεν ὁ θεὸς τὰ ἀδικήματα αὐτῆς.",
+    "pt_aa": "Porque os seus pecados se acumularam até o céu, e Deus se lembrou das iniqüidades dela."
+   },
+   "6": {
+    "grego_sblgnt": "ἀπόδοτε αὐτῇ ὡς καὶ αὐτὴ ἀπέδωκεν, καὶ ⸀διπλώσατε ⸀τὰ διπλᾶ κατὰ τὰ ἔργα αὐτῆς· ἐν τῷ ποτηρίῳ ᾧ ἐκέρασεν κεράσατε αὐτῇ διπλοῦν·",
+    "pt_aa": "Tornai a dar-lhe como também ela vos tem dado, e retribuí-lhe em dobro conforme as suas obras; no cálice em que vos deu de beber dai-lhe a ela em dobro."
+   },
+   "7": {
+    "grego_sblgnt": "ὅσα ἐδόξασεν αὑτὴν καὶ ἐστρηνίασεν, τοσοῦτον δότε αὐτῇ βασανισμὸν καὶ πένθος. ὅτι ἐν τῇ καρδίᾳ αὐτῆς λέγει ὅτι Κάθημαι βασίλισσα, καὶ χήρα οὐκ εἰμί, καὶ πένθος οὐ μὴ ἴδω.",
+    "pt_aa": "Quanto ela se glorificou, e em delícias esteve, tanto lhe dai de tormento e de pranto; pois que ela diz em seu coração: Estou assentada como rainha, e não sou viúva, e de modo algum verei o pranto."
+   },
+   "8": {
+    "grego_sblgnt": "διὰ τοῦτο ἐν μιᾷ ἡμέρᾳ ἥξουσιν αἱ πληγαὶ αὐτῆς, θάνατος καὶ πένθος καὶ λιμός, καὶ ἐν πυρὶ κατακαυθήσεται· ὅτι ἰσχυρὸς κύριος ὁ θεὸς ὁ κρίνας αὐτήν.",
+    "pt_aa": "Por isso, num mesmo dia virão as suas pragas, a morte, e o pranto, e a fome; e será consumida no fogo; porque forte é o Senhor Deus que a julga."
+   },
+   "9": {
+    "grego_sblgnt": "Καὶ κλαύσουσιν καὶ κόψονται ἐπ’ αὐτὴν οἱ βασιλεῖς τῆς γῆς οἱ μετ’ αὐτῆς πορνεύσαντες καὶ στρηνιάσαντες, ὅταν βλέπωσιν τὸν καπνὸν τῆς πυρώσεως αὐτῆς,",
+    "pt_aa": "E os reis da terra, que com ela se prostituíram e viveram em delícias, sobre ela chorarão e prantearão, quando virem a fumaça do seu incêndio;"
+   },
+   "10": {
+    "grego_sblgnt": "ἀπὸ μακρόθεν ἑστηκότες διὰ τὸν φόβον τοῦ βασανισμοῦ αὐτῆς λέγοντες· Οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, Βαβυλὼν ἡ πόλις ἡ ἰσχυρά, ὅτι μιᾷ ὥρᾳ ἦλθεν ἡ κρίσις σου.",
+    "pt_aa": "e, estando de longe por medo do tormento dela, dirão: Ai! ai da grande cidade, Babilônia, a cidade forte! pois numa só hora veio o teu julgamento."
+   },
+   "11": {
+    "grego_sblgnt": "Καὶ οἱ ἔμποροι τῆς γῆς ⸂κλαίουσιν καὶ πενθοῦσιν⸃ ἐπ’ ⸀αὐτήν, ὅτι τὸν γόμον αὐτῶν οὐδεὶς ἀγοράζει οὐκέτι,",
+    "pt_aa": "E sobre ela choram e lamentam os mercadores da terra; porque ninguém compra mais as suas mercadorias:"
+   },
+   "12": {
+    "grego_sblgnt": "γόμον χρυσοῦ καὶ ἀργύρου καὶ λίθου τιμίου καὶ ⸀μαργαριτῶν καὶ βυσσίνου καὶ ⸀πορφύρας καὶ σιρικοῦ καὶ κοκκίνου, καὶ πᾶν ξύλον θύϊνον καὶ πᾶν σκεῦος ἐλεφάντινον καὶ πᾶν σκεῦος ἐκ ξύλου τιμιωτάτου καὶ χαλκοῦ καὶ σιδήρου καὶ μαρμάρου,",
+    "pt_aa": "mercadorias de ouro, de prata, de pedras preciosas, de pérolas, de linho fino, de púrpura, de seda e de escarlata; e toda espécie de madeira odorífera, e todo objeto de marfim, de madeira preciosíssima, de bronze, de ferro e de mármore;"
+   },
+   "13": {
+    "grego_sblgnt": "καὶ κιννάμωμον ⸂καὶ ἄμωμον⸃ καὶ θυμιάματα καὶ μύρον καὶ λίβανον καὶ οἶνον καὶ ἔλαιον καὶ σεμίδαλιν καὶ σῖτον καὶ ⸂κτήνη καὶ πρόβατα⸃, καὶ ἵππων καὶ ῥεδῶν καὶ σωμάτων, καὶ ψυχὰς ἀνθρώπων.",
+    "pt_aa": "e canela, especiarias, perfume, mirra e incenso; e vinho, azeite, flor de farinha e trigo; e gado, ovelhas, cavalos e carros; e escravos, e até almas de homens."
+   },
+   "14": {
+    "grego_sblgnt": "καὶ ἡ ὀπώρα ⸂σου τῆς ἐπιθυμίας τῆς ψυχῆς⸃ ἀπῆλθεν ἀπὸ σοῦ, καὶ πάντα τὰ λιπαρὰ καὶ τὰ λαμπρὰ ἀπώλετο ἀπὸ σοῦ, καὶ ⸀οὐκέτι ⸂οὐ μὴ αὐτὰ εὑρήσουσιν⸃.",
+    "pt_aa": "Também os frutos que a tua alma cobiçava foram-se de ti; e todas as coisas delicadas e suntuosas se foram de ti, e nunca mais se acharão."
+   },
+   "15": {
+    "grego_sblgnt": "οἱ ἔμποροι τούτων, οἱ πλουτήσαντες ἀπ’ αὐτῆς, ἀπὸ μακρόθεν στήσονται διὰ τὸν φόβον τοῦ βασανισμοῦ αὐτῆς κλαίοντες καὶ πενθοῦντες,",
+    "pt_aa": "Os mercadores destas coisas, que por ela se enriqueceram, ficarão de longe por medo do tormento dela, chorando e lamentando,"
+   },
+   "16": {
+    "grego_sblgnt": "⸀λέγοντες· Οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, ἡ περιβεβλημένη βύσσινον καὶ πορφυροῦν καὶ κόκκινον καὶ ⸀κεχρυσωμένη χρυσίῳ καὶ λίθῳ τιμίῳ καὶ ⸀μαργαρίτῃ,",
+    "pt_aa": "dizendo: Ai! ai da grande cidade, da que estava vestida de linho fino, de púrpura, de escarlata, e adornada com ouro, e pedras preciosas, e pérolas! porque numa só hora foram assoladas tantas riquezas."
+   },
+   "17": {
+    "grego_sblgnt": "ὅτι μιᾷ ὥρᾳ ἠρημώθη ὁ τοσοῦτος πλοῦτος. Καὶ πᾶς κυβερνήτης καὶ πᾶς ὁ ἐπὶ τόπον πλέων, καὶ ναῦται καὶ ὅσοι τὴν θάλασσαν ἐργάζονται, ἀπὸ μακρόθεν ἔστησαν",
+    "pt_aa": "E todo piloto, e todo o que navega para qualquer porto e todos os marinheiros, e todos os que trabalham no mar se puseram de longe;"
+   },
+   "18": {
+    "grego_sblgnt": "καὶ ⸀ἔκραξαν βλέποντες τὸν καπνὸν τῆς πυρώσεως αὐτῆς λέγοντες· Τίς ὁμοία τῇ πόλει τῇ μεγάλῃ;",
+    "pt_aa": "e, contemplando a fumaça do incêndio dela, clamavam: Que cidade é semelhante a esta grande cidade?"
+   },
+   "19": {
+    "grego_sblgnt": "καὶ ἔβαλον χοῦν ἐπὶ τὰς κεφαλὰς αὐτῶν καὶ ⸀ἔκραξαν κλαίοντες καὶ ⸀πενθοῦντες λέγοντες· Οὐαὶ οὐαί, ἡ πόλις ἡ μεγάλη, ἐν ᾗ ἐπλούτησαν πάντες οἱ ἔχοντες τὰ πλοῖα ἐν τῇ θαλάσσῃ ἐκ τῆς τιμιότητος αὐτῆς, ὅτι μιᾷ ὥρᾳ ἠρημώθη.",
+    "pt_aa": "E lançaram pó sobre as suas cabeças, e clamavam, chorando e lamentando, dizendo: Ai! ai da grande cidade, na qual todos os que tinham naus no mar se enriqueceram em razão da sua opulência! porque numa só hora foi assolada."
+   },
+   "20": {
+    "grego_sblgnt": "Εὐφραίνου ἐπ’ αὐτῇ, οὐρανέ, καὶ οἱ ἅγιοι καὶ οἱ ἀπόστολοι καὶ οἱ προφῆται, ὅτι ἔκρινεν ὁ θεὸς τὸ κρίμα ὑμῶν ἐξ αὐτῆς.",
+    "pt_aa": "Exulta sobre ela, ó céu, e vós, santos e apóstolos e profetas; porque Deus vindicou a vossa causa contra ela."
+   },
+   "21": {
+    "grego_sblgnt": "Καὶ ἦρεν εἷς ἄγγελος ἰσχυρὸς λίθον ὡς ⸀μύλινον μέγαν, καὶ ἔβαλεν εἰς τὴν θάλασσαν λέγων· Οὕτως ὁρμήματι βληθήσεται Βαβυλὼν ἡ μεγάλη πόλις, καὶ οὐ μὴ εὑρεθῇ ἔτι.",
+    "pt_aa": "Um forte anjo levantou uma pedra, qual uma grande mó, e lançou-a no mar, dizendo: Com igual ímpeto será lançada Babilônia, a grande cidade, e nunca mais será achada."
+   },
+   "22": {
+    "grego_sblgnt": "καὶ φωνὴ κιθαρῳδῶν καὶ μουσικῶν καὶ αὐλητῶν καὶ σαλπιστῶν οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι, καὶ πᾶς τεχνίτης πάσης τέχνης οὐ μὴ εὑρεθῇ ἐν σοὶ ἔτι, καὶ φωνὴ μύλου οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι,",
+    "pt_aa": "E em ti não se ouvirá mais o som de harpistas, de músicos, de flautistas e de trombeteiros; e nenhum artífice de arte alguma se achará mais em ti; e em ti não mais se ouvirá ruído de mó;"
+   },
+   "23": {
+    "grego_sblgnt": "καὶ φῶς λύχνου οὐ μὴ φάνῃ ἐν σοὶ ἔτι, καὶ φωνὴ νυμφίου καὶ νύμφης οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι· ὅτι οἱ ἔμποροί σου ἦσαν οἱ μεγιστᾶνες τῆς γῆς, ὅτι ἐν τῇ φαρμακείᾳ σου ἐπλανήθησαν πάντα τὰ ἔθνη,",
+    "pt_aa": "e luz de candeia não mais brilhará em ti, e voz de noivo e de noiva não mais em ti se ouvirá; porque os teus mercadores eram os grandes da terra; porque todas as nações foram enganadas pelas tuas feitiçarias."
+   },
+   "24": {
+    "grego_sblgnt": "καὶ ἐν αὐτῇ ⸀αἷμα προφητῶν καὶ ἁγίων εὑρέθη καὶ πάντων τῶν ἐσφαγμένων ἐπὶ τῆς γῆς.",
+    "pt_aa": "E nela se achou o sangue dos profetas, e dos santos, e de todos os que foram mortos na terra."
+   }
+  },
+  "19": {
+   "1": {
+    "grego_sblgnt": "Μετὰ ταῦτα ἤκουσα ὡς φωνὴν μεγάλην ὄχλου πολλοῦ ἐν τῷ οὐρανῷ λεγόντων· Ἁλληλουϊά· ἡ σωτηρία καὶ ἡ ⸂δόξα καὶ ἡ δύναμις⸃ τοῦ θεοῦ ἡμῶν,",
+    "pt_aa": "Depois destas coisas, ouvi no céu como que uma grande voz de uma imensa multidão, que dizia: Aleluia! A salvação e a glória e o poder pertencem ao nosso Deus;"
+   },
+   "2": {
+    "grego_sblgnt": "ὅτι ἀληθιναὶ καὶ δίκαιαι αἱ κρίσεις αὐτοῦ· ὅτι ἔκρινεν τὴν πόρνην τὴν μεγάλην ἥτις ⸀ἔφθειρεν τὴν γῆν ἐν τῇ πορνείᾳ αὐτῆς, καὶ ἐξεδίκησεν τὸ αἷμα τῶν δούλων αὐτοῦ ἐκ χειρὸς αὐτῆς.",
+    "pt_aa": "porque verdadeiros e justos são os seus juízos, pois julgou a grande prostituta, que havia corrompido a terra com a sua prostituição, e das mãos dela vingou o sangue dos seus servos."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ δεύτερον ⸀εἴρηκαν· Ἁλληλουϊά· καὶ ὁ καπνὸς αὐτῆς ἀναβαίνει εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+    "pt_aa": "E outra vez disseram: Aleluia. E a fumaça dela sobe pelos séculos dos séculos."
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ἔπεσαν οἱ πρεσβύτεροι οἱ εἴκοσι τέσσαρες καὶ τὰ τέσσαρα ζῷα, καὶ προσεκύνησαν τῷ θεῷ τῷ καθημένῳ ἐπὶ ⸂τῷ θρόνῳ⸃ λέγοντες· Ἀμήν, Ἁλληλουϊά.",
+    "pt_aa": "Então os vinte e quatro anciãos e os quatro seres viventes prostraram-se e adoraram a Deus que está assentado no trono, dizendo: Amém. Aleluia!"
+   },
+   "5": {
+    "grego_sblgnt": "Καὶ φωνὴ ἀπὸ τοῦ θρόνου ἐξῆλθεν λέγουσα· Αἰνεῖτε ⸂τῷ θεῷ⸃ ἡμῶν, πάντες οἱ δοῦλοι αὐτοῦ, ⸀καὶ οἱ φοβούμενοι αὐτόν, οἱ μικροὶ καὶ οἱ μεγάλοι.",
+    "pt_aa": "E saiu do trono uma voz, dizendo: Louvai o nosso Deus, vós, todos os seus servos, e vós que o temeis, assim pequenos como grandes."
+   },
+   "6": {
+    "grego_sblgnt": "καὶ ἤκουσα ὡς φωνὴν ὄχλου πολλοῦ καὶ ὡς φωνὴν ὑδάτων πολλῶν καὶ ὡς φωνὴν βροντῶν ἰσχυρῶν, ⸀λεγόντων· Ἁλληλουϊά, ὅτι ἐβασίλευσεν κύριος, ὁ ⸀θεός, ὁ παντοκράτωρ.",
+    "pt_aa": "Também ouvi uma voz como a de grande multidão, como a voz de muitas águas, e como a voz de fortes trovões, que dizia: Aleluia! porque já reina o Senhor nosso Deus, o Todo-Poderoso."
+   },
+   "7": {
+    "grego_sblgnt": "χαίρωμεν καὶ ⸀ἀγαλλιῶμεν, καὶ ⸀δώσομεν τὴν δόξαν αὐτῷ, ὅτι ἦλθεν ὁ γάμος τοῦ ἀρνίου, καὶ ἡ γυνὴ αὐτοῦ ἡτοίμασεν ἑαυτήν,",
+    "pt_aa": "Regozijemo-nos, e exultemos, e demos-lhe a glória; porque são chegadas as bodas do Cordeiro, e já a sua noiva se preparou,"
+   },
+   "8": {
+    "grego_sblgnt": "καὶ ἐδόθη αὐτῇ ἵνα περιβάληται βύσσινον ⸀λαμπρὸν καθαρόν, τὸ γὰρ βύσσινον τὰ δικαιώματα τῶν ἁγίων ἐστίν.",
+    "pt_aa": "e foi-lhe permitido vestir-se de linho fino, resplandecente e puro; pois o linho fino são as obras justas dos santos."
+   },
+   "9": {
+    "grego_sblgnt": "Καὶ λέγει μοι· Γράψον· Μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου κεκλημένοι. καὶ λέγει μοι· Οὗτοι οἱ λόγοι ἀληθινοὶ τοῦ θεοῦ εἰσιν.",
+    "pt_aa": "E disse-me: Escreve: Bem-aventurados aqueles que são chamados à ceia das bodas do Cordeiro. Disse-me ainda: Estas são as verdadeiras palavras de Deus."
+   },
+   "10": {
+    "grego_sblgnt": "καὶ ἔπεσα ἔμπροσθεν τῶν ποδῶν αὐτοῦ προσκυνῆσαι αὐτῷ. καὶ λέγει μοι· Ὅρα μή· σύνδουλός σού εἰμι καὶ τῶν ἀδελφῶν σου τῶν ἐχόντων τὴν μαρτυρίαν Ἰησοῦ· τῷ θεῷ προσκύνησον· ἡ γὰρ ⸀μαρτυρία Ἰησοῦ ἐστιν τὸ πνεῦμα τῆς προφητείας.",
+    "pt_aa": "Então me lancei a seus pés para adorá-lo, mas ele me disse: Olha, não faças tal: sou conservo teu e de teus irmãos, que têm o testemunho de Jesus; adora a Deus; pois o testemunho de Jesus é o espírito da profecia."
+   },
+   "11": {
+    "grego_sblgnt": "Καὶ εἶδον τὸν οὐρανὸν ἠνεῳγμένον, καὶ ἰδοὺ ἵππος λευκός, καὶ ὁ καθήμενος ἐπ’ αὐτὸν ⸂πιστὸς καλούμενος⸃ καὶ ἀληθινός, καὶ ἐν δικαιοσύνῃ κρίνει καὶ πολεμεῖ.",
+    "pt_aa": "E vi o céu aberto, e eis um cavalo branco; e o que estava montado nele chama-se Fiel e Verdadeiro; e julga a peleja com justiça."
+   },
+   "12": {
+    "grego_sblgnt": "οἱ δὲ ὀφθαλμοὶ ⸀αὐτοῦ φλὸξ πυρός, καὶ ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα πολλά, ⸀ἔχων ὄνομα γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ μὴ αὐτός,",
+    "pt_aa": "Os seus olhos eram como chama de fogo; sobre a sua cabeça havia muitos diademas; e tinha um nome escrito, que ninguém sabia senão ele mesmo."
+   },
+   "13": {
+    "grego_sblgnt": "καὶ περιβεβλημένος ἱμάτιον ⸀βεβαμμένον αἵματι, καὶ ⸀κέκληται τὸ ὄνομα αὐτοῦ ὁ Λόγος τοῦ Θεοῦ.",
+    "pt_aa": "Estava vestido de um manto salpicado de sangue; e o nome pelo qual se chama é o Verbo de Deus."
+   },
+   "14": {
+    "grego_sblgnt": "καὶ τὰ στρατεύματα ⸀τὰ ἐν τῷ οὐρανῷ ἠκολούθει αὐτῷ ἐφ’ ἵπποις λευκοῖς, ἐνδεδυμένοι βύσσινον λευκὸν καθαρόν.",
+    "pt_aa": "Seguiam-no os exércitos que estão no céu, em cavalos brancos, e vestidos de linho fino, branco e puro."
+   },
+   "15": {
+    "grego_sblgnt": "καὶ ἐκ τοῦ στόματος αὐτοῦ ἐκπορεύεται ⸀ῥομφαία ὀξεῖα, ἵνα ἐν αὐτῇ πατάξῃ τὰ ἔθνη, καὶ αὐτὸς ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ· καὶ αὐτὸς πατεῖ τὴν ληνὸν τοῦ οἴνου τοῦ θυμοῦ τῆς ὀργῆς τοῦ θεοῦ τοῦ παντοκράτορος.",
+    "pt_aa": "Da sua boca saía uma espada afiada, para ferir com ela as nações; ele as regerá com vara de ferro; e ele mesmo é o que pisa o lagar do vinho do furor da ira do Deus Todo-Poderoso."
+   },
+   "16": {
+    "grego_sblgnt": "καὶ ἔχει ἐπὶ τὸ ἱμάτιον καὶ ἐπὶ τὸν μηρὸν αὐτοῦ ὄνομα γεγραμμένον· Βασιλεὺς βασιλέων καὶ κύριος κυρίων.",
+    "pt_aa": "No manto, sobre a sua coxa tem escrito o nome: Rei dos reis e Senhor dos senhores."
+   },
+   "17": {
+    "grego_sblgnt": "Καὶ εἶδον ⸀ἕνα ἄγγελον ἑστῶτα ἐν τῷ ἡλίῳ, καὶ ⸀ἔκραξεν φωνῇ μεγάλῃ λέγων πᾶσι τοῖς ὀρνέοις τοῖς πετομένοις ἐν μεσουρανήματι· Δεῦτε συνάχθητε εἰς τὸ δεῖπνον τὸ μέγα τοῦ θεοῦ,",
+    "pt_aa": "E vi um anjo em pé no sol; e clamou com grande voz, dizendo a todas as aves que voavam pelo meio do céu: Vinde, ajuntai-vos para a grande ceia de Deus,"
+   },
+   "18": {
+    "grego_sblgnt": "ἵνα φάγητε σάρκας βασιλέων καὶ σάρκας χιλιάρχων καὶ σάρκας ἰσχυρῶν καὶ σάρκας ἵππων καὶ τῶν καθημένων ἐπ’ ⸀αὐτῶν, καὶ σάρκας πάντων ἐλευθέρων τε καὶ δούλων καὶ μικρῶν ⸀καὶ μεγάλων.",
+    "pt_aa": "para comerdes carnes de reis, carnes de comandantes, carnes de poderosos, carnes de cavalos e dos que neles montavam, sim, carnes de todos os homens, livres e escravos, pequenos e grandes."
+   },
+   "19": {
+    "grego_sblgnt": "καὶ εἶδον τὸ θηρίον καὶ τοὺς βασιλεῖς τῆς γῆς καὶ τὰ στρατεύματα αὐτῶν συνηγμένα ποιῆσαι ⸀τὸν πόλεμον μετὰ τοῦ καθημένου ἐπὶ τοῦ ἵππου καὶ μετὰ τοῦ στρατεύματος αὐτοῦ.",
+    "pt_aa": "E vi a besta, e os reis da terra, e os seus exércitos reunidos para fazerem guerra àquele que estava montado no cavalo, e ao seu exército."
+   },
+   "20": {
+    "grego_sblgnt": "καὶ ἐπιάσθη τὸ θηρίον καὶ ⸂μετ’ αὐτοῦ ὁ⸃ ψευδοπροφήτης ὁ ποιήσας τὰ σημεῖα ἐνώπιον αὐτοῦ, ἐν οἷς ἐπλάνησεν τοὺς λαβόντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ· ζῶντες ἐβλήθησαν οἱ δύο εἰς τὴν λίμνην τοῦ πυρὸς ⸂τῆς καιομένης⸃ ἐν θείῳ.",
+    "pt_aa": "E a besta foi presa, e com ela o falso profeta que fizera diante dela os sinais com que enganou os que receberam o sinal da besta e os que adoraram a sua imagem. Estes dois foram lançados vivos no lago de fogo que arde com enxofre."
+   },
+   "21": {
+    "grego_sblgnt": "καὶ οἱ λοιποὶ ἀπεκτάνθησαν ἐν τῇ ῥομφαίᾳ τοῦ καθημένου ἐπὶ τοῦ ἵππου τῇ ἐξελθούσῃ ἐκ τοῦ στόματος αὐτοῦ, καὶ πάντα τὰ ὄρνεα ἐχορτάσθησαν ἐκ τῶν σαρκῶν αὐτῶν.",
+    "pt_aa": "E os demais foram mortos pela espada que saía da boca daquele que estava montado no cavalo; e todas as aves se fartaram das carnes deles."
+   }
+  },
+  "20": {
+   "1": {
+    "grego_sblgnt": "Καὶ εἶδον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ, ἔχοντα τὴν κλεῖν τῆς ἀβύσσου καὶ ἅλυσιν μεγάλην ἐπὶ τὴν χεῖρα αὐτοῦ.",
+    "pt_aa": "E vi descer do céu um anjo, que tinha a chave do abismo e uma grande cadeia na sua mão."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ ἐκράτησεν τὸν δράκοντα, ⸂ὁ ὄφις ὁ ἀρχαῖος⸃, ὅς ἐστιν Διάβολος καὶ ὁ ⸀Σατανᾶς, καὶ ἔδησεν αὐτὸν χίλια ἔτη,",
+    "pt_aa": "Ele prendeu o dragão, a antiga serpente, que é o Diabo e Satanás, e o amarrou por mil anos."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ἔβαλεν αὐτὸν εἰς τὴν ἄβυσσον, καὶ ἔκλεισεν καὶ ἐσφράγισεν ἐπάνω αὐτοῦ, ἵνα μὴ ⸀πλανήσῃ ἔτι τὰ ἔθνη, ἄχρι τελεσθῇ τὰ χίλια ἔτη· ⸀μετὰ ταῦτα δεῖ ⸂λυθῆναι αὐτὸν⸃ μικρὸν χρόνον.",
+    "pt_aa": "Lançou-o no abismo, o qual fechou e selou sobre ele, para que não enganasse mais as nações até que os mil anos se completassem. Depois disto é necessário que ele seja solto por um pouco de tempo."
+   },
+   "4": {
+    "grego_sblgnt": "Καὶ εἶδον θρόνους, καὶ ἐκάθισαν ἐπ’ αὐτούς, καὶ κρίμα ἐδόθη αὐτοῖς, καὶ τὰς ψυχὰς τῶν πεπελεκισμένων διὰ τὴν μαρτυρίαν Ἰησοῦ καὶ διὰ τὸν λόγον τοῦ θεοῦ, καὶ οἵτινες οὐ προσεκύνησαν τὸ θηρίον οὐδὲ τὴν εἰκόνα αὐτοῦ καὶ οὐκ ἔλαβον τὸ χάραγμα ἐπὶ τὸ μέτωπον καὶ ἐπὶ τὴν χεῖρα αὐτῶν· καὶ ἔζησαν καὶ ἐβασίλευσαν μετὰ τοῦ χριστοῦ ⸀χίλια ἔτη.",
+    "pt_aa": "Então vi uns tronos; e aos que se assentaram sobre eles foi dado o poder de julgar; e vi as almas daqueles que foram degolados por causa do testemunho de Jesus e da palavra de Deus, e que não adoraram a besta nem a sua imagem, e não receberam o sinal na fronte nem nas mãos; e reviveram, e reinaram com Cristo durante mil anos."
+   },
+   "5": {
+    "grego_sblgnt": "⸀οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν ἄχρι τελεσθῇ τὰ χίλια ἔτη. αὕτη ἡ ἀνάστασις ἡ πρώτη.",
+    "pt_aa": "Mas os outros mortos não reviveram, até que os mil anos se completassem. Esta é a primeira ressurreição."
+   },
+   "6": {
+    "grego_sblgnt": "μακάριος καὶ ἅγιος ὁ ἔχων μέρος ἐν τῇ ἀναστάσει τῇ πρώτῃ· ἐπὶ τούτων ὁ δεύτερος θάνατος οὐκ ἔχει ἐξουσίαν, ἀλλ’ ἔσονται ἱερεῖς τοῦ θεοῦ καὶ τοῦ χριστοῦ, καὶ βασιλεύσουσιν μετ’ αὐτοῦ ⸀χίλια ἔτη.",
+    "pt_aa": "Bem-aventurado e santo é aquele que tem parte na primeira ressurreição; sobre estes não tem poder a segunda morte; mas serão sacerdotes de Deus e de Cristo, e reinarão com ele durante os mil anos."
+   },
+   "7": {
+    "grego_sblgnt": "Καὶ ὅταν τελεσθῇ τὰ χίλια ἔτη, λυθήσεται ὁ Σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ,",
+    "pt_aa": "Ora, quando se completarem os mil anos, Satanás será solto da sua prisão,"
+   },
+   "8": {
+    "grego_sblgnt": "καὶ ἐξελεύσεται πλανῆσαι τὰ ἔθνη τὰ ἐν ταῖς τέσσαρσι γωνίαις τῆς γῆς, τὸν Γὼγ ⸀καὶ Μαγώγ, συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον, ὧν ὁ ἀριθμὸς ⸀αὐτῶν ὡς ἡ ἄμμος τῆς θαλάσσης.",
+    "pt_aa": "e sairá a enganar as nações que estão nos quatro cantos da terra, Gogue e Magogue, cujo número é como a areia do mar, a fim de ajuntá-las para a batalha."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ ἀνέβησαν ἐπὶ τὸ πλάτος τῆς γῆς, καὶ ⸀ἐκύκλευσαν τὴν παρεμβολὴν τῶν ἁγίων καὶ τὴν πόλιν τὴν ἠγαπημένην. καὶ κατέβη πῦρ ⸂ἐκ τοῦ οὐρανοῦ⸃ καὶ κατέφαγεν αὐτούς·",
+    "pt_aa": "E subiram sobre a largura da terra, e cercaram o arraial dos santos e a cidade querida; mas desceu fogo do céu, e os devorou;"
+   },
+   "10": {
+    "grego_sblgnt": "καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου, ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης, καὶ βασανισθήσονται ἡμέρας καὶ νυκτὸς εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+    "pt_aa": "e o Diabo, que os enganava, foi lançado no lago de fogo e enxofre, onde estão a besta e o falso profeta; e de dia e de noite serão atormentados pelos séculos dos séculos."
+   },
+   "11": {
+    "grego_sblgnt": "Καὶ εἶδον θρόνον μέγαν λευκὸν καὶ τὸν καθήμενον ⸂ἐπ’ αὐτοῦ⸃, οὗ ἀπὸ ⸀τοῦ προσώπου ἔφυγεν ἡ γῆ καὶ ὁ οὐρανός, καὶ τόπος οὐχ εὑρέθη αὐτοῖς.",
+    "pt_aa": "E vi um grande trono branco e o que estava assentado sobre ele, de cuja presença fugiram a terra e o céu; e não foi achado lugar para eles."
+   },
+   "12": {
+    "grego_sblgnt": "καὶ εἶδον τοὺς νεκρούς, τοὺς μεγάλους καὶ τοὺς μικρούς, ἑστῶτας ἐνώπιον τοῦ θρόνου, καὶ βιβλία ἠνοίχθησαν· καὶ ἄλλο βιβλίον ἠνοίχθη, ὅ ἐστιν τῆς ζωῆς· καὶ ἐκρίθησαν οἱ νεκροὶ ἐκ τῶν γεγραμμένων ἐν τοῖς βιβλίοις κατὰ τὰ ἔργα αὐτῶν.",
+    "pt_aa": "E vi os mortos, grandes e pequenos, em pé diante do trono; e abriram-se uns livros; e abriu-se outro livro, que é o da vida; e os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as suas obras."
+   },
+   "13": {
+    "grego_sblgnt": "καὶ ἔδωκεν ἡ θάλασσα τοὺς νεκροὺς τοὺς ἐν αὐτῇ, καὶ ὁ θάνατος καὶ ὁ ᾅδης ἔδωκαν τοὺς νεκροὺς τοὺς ἐν αὐτοῖς, καὶ ἐκρίθησαν ἕκαστος κατὰ τὰ ἔργα αὐτῶν.",
+    "pt_aa": "O mar entregou os mortos que nele havia; e a morte e o além entregaram os mortos que neles havia; e foram julgados, cada um segundo as suas obras."
+   },
+   "14": {
+    "grego_sblgnt": "καὶ ὁ θάνατος καὶ ὁ ᾅδης ἐβλήθησαν εἰς τὴν λίμνην τοῦ πυρός. οὗτος ὁ ⸂θάνατος ὁ δεύτερός⸃ ἐστιν, ἡ λίμνη τοῦ πυρός.",
+    "pt_aa": "E a morte e o inferno foram lançados no lago de fogo. Esta é a segunda morte, o lago de fogo."
+   },
+   "15": {
+    "grego_sblgnt": "καὶ εἴ τις οὐχ εὑρέθη ἐν ⸂τῇ βίβλῳ⸃ τῆς ζωῆς γεγραμμένος, ἐβλήθη εἰς τὴν λίμνην τοῦ πυρός.",
+    "pt_aa": "E todo aquele que não foi achado inscrito no livro da vida, foi lançado no lago de fogo."
+   }
+  },
+  "21": {
+   "1": {
+    "grego_sblgnt": "Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν· ὁ γὰρ πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ ἀπῆλθαν, καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι.",
+    "pt_aa": "E vi um novo céu e uma nova terra. Porque já se foram o primeiro céu e a primeira terra, e o mar já não existe."
+   },
+   "2": {
+    "grego_sblgnt": "καὶ τὴν πόλιν τὴν ἁγίαν Ἰερουσαλὴμ καινὴν εἶδον καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ, ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς.",
+    "pt_aa": "E vi a santa cidade, a nova Jerusalém, que descia do céu da parte de Deus, adereçada como uma noiva ataviada para o seu noivo."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ ἤκουσα φωνῆς μεγάλης ἐκ τοῦ ⸀θρόνου λεγούσης· Ἰδοὺ ἡ σκηνὴ τοῦ θεοῦ μετὰ τῶν ἀνθρώπων, καὶ σκηνώσει μετ’ αὐτῶν, καὶ αὐτοὶ ⸀λαοὶ αὐτοῦ ἔσονται, καὶ αὐτὸς ὁ θεὸς ⸂μετ’ αὐτῶν ἔσται⸃,",
+    "pt_aa": "E ouvi uma grande voz, vinda do trono, que dizia: Eis que o tabernáculo de Deus está com os homens, pois com eles habitará, e eles serão o seu povo, e Deus mesmo estará com eles."
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ἐξαλείψει πᾶν δάκρυον ⸀ἐκ τῶν ὀφθαλμῶν αὐτῶν, καὶ ὁ θάνατος οὐκ ἔσται ἔτι· οὔτε πένθος οὔτε κραυγὴ οὔτε πόνος οὐκ ἔσται ⸀ἔτι. τὰ πρῶτα ἀπῆλθαν.",
+    "pt_aa": "Ele enxugará de seus olhos toda lágrima; e não haverá mais morte, nem haverá mais pranto, nem lamento, nem dor; porque já as primeiras coisas são passadas."
+   },
+   "5": {
+    "grego_sblgnt": "Καὶ εἶπεν ὁ καθήμενος ἐπὶ τῷ θρόνῳ· Ἰδοὺ ⸂καινὰ ποιῶ πάντα⸃. καὶ ⸀λέγει· Γράψον, ὅτι οὗτοι οἱ λόγοι ⸂πιστοὶ καὶ ἀληθινοί⸃ εἰσιν.",
+    "pt_aa": "E o que estava assentado sobre o trono disse: Eis que faço novas todas as coisas. E acrescentou: Escreve; porque estas palavras são fiéis e verdadeiras."
+   },
+   "6": {
+    "grego_sblgnt": "καὶ εἶπέν μοι· ⸂Γέγοναν. ἐγὼ⸃ τὸ Ἄλφα καὶ τὸ Ὦ, ἡ ἀρχὴ καὶ τὸ τέλος. ἐγὼ τῷ διψῶντι δώσω ἐκ τῆς πηγῆς τοῦ ὕδατος τῆς ζωῆς δωρεάν.",
+    "pt_aa": "Disse-me ainda: está cumprido: Eu sou o Alfa e o Ômega, o princípio e o fim. A quem tiver sede, de graça lhe darei a beber da fonte da água da vida."
+   },
+   "7": {
+    "grego_sblgnt": "ὁ νικῶν κληρονομήσει ταῦτα, καὶ ἔσομαι αὐτῷ θεὸς καὶ αὐτὸς ἔσται μοι υἱός.",
+    "pt_aa": "Aquele que vencer herdará estas coisas; e eu serei seu Deus, e ele será meu filho."
+   },
+   "8": {
+    "grego_sblgnt": "τοῖς δὲ δειλοῖς καὶ ⸀ἀπίστοις καὶ ἐβδελυγμένοις καὶ φονεῦσι καὶ πόρνοις καὶ φαρμάκοις καὶ εἰδωλολάτραις καὶ πᾶσι τοῖς ψευδέσιν τὸ μέρος αὐτῶν ἐν τῇ λίμνῃ τῇ καιομένῃ πυρὶ καὶ θείῳ, ὅ ἐστιν ὁ θάνατος ὁ δεύτερος.",
+    "pt_aa": "Mas, quanto aos medrosos, e aos incrédulos, e aos abomináveis, e aos homicidas, e aos adúlteros, e aos feiticeiros, e aos idólatras, e a todos os mentirosos, a sua parte será no lago ardente de fogo e enxofre, que é a segunda morte."
+   },
+   "9": {
+    "grego_sblgnt": "Καὶ ἦλθεν εἷς ἐκ τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας, ⸂τῶν γεμόντων⸃ τῶν ἑπτὰ πληγῶν τῶν ἐσχάτων, καὶ ἐλάλησεν μετ’ ἐμοῦ λέγων· Δεῦρο, δείξω σοι τὴν ⸂νύμφην τὴν γυναῖκα⸃ τοῦ ἀρνίου.",
+    "pt_aa": "E veio um dos sete anjos que tinham as sete taças cheias das sete últimas pragas, e falou comigo, dizendo: Vem, mostrar-te-ei a noiva, a esposa do Cordeiro."
+   },
+   "10": {
+    "grego_sblgnt": "καὶ ἀπήνεγκέν με ἐν πνεύματι ἐπὶ ὄρος μέγα καὶ ὑψηλόν, καὶ ἔδειξέν μοι τὴν ⸀πόλιν τὴν ἁγίαν Ἰερουσαλὴμ καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ,",
+    "pt_aa": "E levou-me em espírito a um grande e alto monte, e mostrou-me a santa cidade de Jerusalém, que descia do céu da parte de Deus,"
+   },
+   "11": {
+    "grego_sblgnt": "ἔχουσαν τὴν δόξαν τοῦ θεοῦ· ὁ φωστὴρ αὐτῆς ὅμοιος λίθῳ τιμιωτάτῳ, ὡς λίθῳ ἰάσπιδι κρυσταλλίζοντι·",
+    "pt_aa": "tendo a glória de Deus; e o seu brilho era semelhante a uma pedra preciosíssima, como se fosse jaspe cristalino;"
+   },
+   "12": {
+    "grego_sblgnt": "ἔχουσα τεῖχος μέγα καὶ ὑψηλόν, ἔχουσα πυλῶνας δώδεκα, καὶ ἐπὶ ⸂τοῖς πυλῶσιν⸃ ἀγγέλους δώδεκα, καὶ ὀνόματα ἐπιγεγραμμένα ἅ ⸀ἐστιν τῶν δώδεκα ⸀φυλῶν υἱῶν Ἰσραήλ·",
+    "pt_aa": "e tinha um grande e alto muro com doze portas, e nas portas doze anjos, e nomes escritos sobre elas, que são os nomes das doze tribos dos filhos de Israel."
+   },
+   "13": {
+    "grego_sblgnt": "ἀπὸ ⸀ἀνατολῆς πυλῶνες τρεῖς, καὶ ἀπὸ βορρᾶ πυλῶνες τρεῖς, καὶ ἀπὸ νότου πυλῶνες τρεῖς, καὶ ἀπὸ δυσμῶν πυλῶνες τρεῖς·",
+    "pt_aa": "Ao oriente havia três portas, ao norte três portas, ao sul três portas, e ao ocidente três portas."
+   },
+   "14": {
+    "grego_sblgnt": "καὶ τὸ τεῖχος τῆς πόλεως ⸀ἔχων θεμελίους δώδεκα, καὶ ἐπ’ αὐτῶν δώδεκα ὀνόματα τῶν δώδεκα ἀποστόλων τοῦ ἀρνίου.",
+    "pt_aa": "O muro da cidade tinha doze fundamentos, e neles estavam os nomes dos doze apóstolos do Cordeiro."
+   },
+   "15": {
+    "grego_sblgnt": "Καὶ ὁ λαλῶν μετ’ ἐμοῦ εἶχεν μέτρον κάλαμον χρυσοῦν, ἵνα μετρήσῃ τὴν πόλιν καὶ τοὺς πυλῶνας αὐτῆς καὶ τὸ τεῖχος αὐτῆς.",
+    "pt_aa": "E aquele que falava comigo tinha por medida uma cana de ouro, para medir a cidade, as suas portas e o seu muro."
+   },
+   "16": {
+    "grego_sblgnt": "καὶ ἡ πόλις τετράγωνος κεῖται, καὶ τὸ μῆκος αὐτῆς ⸀ὅσον τὸ πλάτος. καὶ ἐμέτρησεν τὴν πόλιν τῷ καλάμῳ ἐπὶ ⸀σταδίους δώδεκα ⸀χιλιάδων· τὸ μῆκος καὶ τὸ πλάτος καὶ τὸ ὕψος αὐτῆς ἴσα ἐστίν.",
+    "pt_aa": "A cidade era quadrangular; e o seu comprimento era igual à sua largura. E mediu a cidade com a cana e tinha ela doze mil estádios; e o seu cumprimento, largura e altura eram iguais."
+   },
+   "17": {
+    "grego_sblgnt": "καὶ ἐμέτρησεν τὸ τεῖχος αὐτῆς ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν, μέτρον ἀνθρώπου, ὅ ἐστιν ἀγγέλου.",
+    "pt_aa": "Também mediu o seu muro, e era de cento e quarenta e quatro côvados, segundo a medida de homem, isto é, de anjo."
+   },
+   "18": {
+    "grego_sblgnt": "⸀καὶ ἡ ἐνδώμησις τοῦ τείχους αὐτῆς ἴασπις, καὶ ἡ πόλις χρυσίον καθαρὸν ὅμοιον ὑάλῳ καθαρῷ·",
+    "pt_aa": "O muro era construído de jaspe, e a cidade era de ouro puro, semelhante a vidro límpido."
+   },
+   "19": {
+    "grego_sblgnt": "⸀οἱ θεμέλιοι τοῦ τείχους τῆς πόλεως παντὶ λίθῳ τιμίῳ κεκοσμημένοι· ὁ θεμέλιος ὁ πρῶτος ἴασπις, ὁ δεύτερος σάπφιρος, ὁ τρίτος χαλκηδών, ὁ τέταρτος σμάραγδος,",
+    "pt_aa": "Os fundamentos do muro da cidade estavam adornados de toda espécie de pedras preciosas. O primeiro fundamento era de jaspe; o segundo, de safira; o terceiro, de calcedônia; o quarto, de esmeralda;"
+   },
+   "20": {
+    "grego_sblgnt": "ὁ πέμπτος σαρδόνυξ, ὁ ἕκτος σάρδιον, ὁ ἕβδομος χρυσόλιθος, ὁ ὄγδοος βήρυλλος, ὁ ἔνατος τοπάζιον, ὁ δέκατος χρυσόπρασος, ὁ ἑνδέκατος ὑάκινθος, ὁ δωδέκατος ἀμέθυστος·",
+    "pt_aa": "o quinto, de sardônica; o sexto, de sárdio; o sétimo, de crisólito; o oitavo, de berilo; o nono, de topázio; o décimo, de crisópraso; o undécimo, de jacinto; o duodécimo, de ametista."
+   },
+   "21": {
+    "grego_sblgnt": "καὶ οἱ δώδεκα πυλῶνες δώδεκα μαργαρῖται, ἀνὰ εἷς ἕκαστος τῶν πυλώνων ἦν ἐξ ἑνὸς μαργαρίτου· καὶ ἡ πλατεῖα τῆς πόλεως χρυσίον καθαρὸν ὡς ὕαλος διαυγής.",
+    "pt_aa": "As doze portas eram doze pérolas: cada uma das portas era de uma só pérola; e a praça da cidade era de ouro puro, transparente como vidro."
+   },
+   "22": {
+    "grego_sblgnt": "Καὶ ναὸν οὐκ εἶδον ἐν αὐτῇ, ὁ γὰρ κύριος, ὁ θεός, ὁ παντοκράτωρ, ναὸς αὐτῆς ἐστιν, καὶ τὸ ἀρνίον.",
+    "pt_aa": "Nela não vi santuário, porque o seu santuário é o Senhor Deus Todo-Poderoso, e o Cordeiro."
+   },
+   "23": {
+    "grego_sblgnt": "καὶ ἡ πόλις οὐ χρείαν ἔχει τοῦ ἡλίου οὐδὲ τῆς σελήνης, ἵνα φαίνωσιν αὐτῇ, ἡ γὰρ δόξα τοῦ θεοῦ ἐφώτισεν αὐτήν, καὶ ὁ λύχνος αὐτῆς τὸ ἀρνίον.",
+    "pt_aa": "A cidade não necessita nem do sol, nem da lua, para que nela resplandeçam, porém a glória de Deus a tem alumiado, e o Cordeiro é a sua lâmpada."
+   },
+   "24": {
+    "grego_sblgnt": "καὶ περιπατήσουσιν τὰ ἔθνη διὰ τοῦ φωτὸς αὐτῆς· καὶ οἱ βασιλεῖς τῆς γῆς φέρουσιν ⸂τὴν δόξαν αὐτῶν⸃ εἰς αὐτήν·",
+    "pt_aa": "As nações andarão à sua luz; e os reis da terra trarão para ela a sua glória."
+   },
+   "25": {
+    "grego_sblgnt": "καὶ οἱ πυλῶνες αὐτῆς οὐ μὴ κλεισθῶσιν ἡμέρας, νὺξ γὰρ οὐκ ἔσται ἐκεῖ,",
+    "pt_aa": "As suas portas não se fecharão de dia, e noite ali não haverá;"
+   },
+   "26": {
+    "grego_sblgnt": "καὶ οἴσουσιν τὴν δόξαν καὶ τὴν τιμὴν τῶν ἐθνῶν εἰς αὐτήν.",
+    "pt_aa": "e a ela trarão a glória e a honra das nações."
+   },
+   "27": {
+    "grego_sblgnt": "καὶ οὐ μὴ εἰσέλθῃ εἰς αὐτὴν πᾶν κοινὸν καὶ ⸀ποιῶν βδέλυγμα καὶ ψεῦδος, εἰ μὴ οἱ γεγραμμένοι ἐν τῷ βιβλίῳ τῆς ζωῆς τοῦ ἀρνίου.",
+    "pt_aa": "E não entrará nela coisa alguma impura, nem o que pratica abominação ou mentira; mas somente os que estão inscritos no livro da vida do Cordeiro."
+   }
+  },
+  "22": {
+   "1": {
+    "grego_sblgnt": "Καὶ ἔδειξέν μοι ⸀ποταμὸν ὕδατος ζωῆς λαμπρὸν ὡς κρύσταλλον, ἐκπορευόμενον ἐκ τοῦ θρόνου τοῦ θεοῦ καὶ τοῦ ἀρνίου",
+    "pt_aa": "E mostrou-me o rio da água da vida, claro como cristal, que procedia do trono de Deus e do Cordeiro."
+   },
+   "2": {
+    "grego_sblgnt": "ἐν μέσῳ τῆς πλατείας αὐτῆς· καὶ τοῦ ποταμοῦ ἐντεῦθεν καὶ ἐκεῖθεν ξύλον ζωῆς ποιοῦν καρποὺς δώδεκα, κατὰ μῆνα ἕκαστον ⸀ἀποδιδοῦν τὸν καρπὸν αὐτοῦ, καὶ τὰ φύλλα τοῦ ξύλου εἰς θεραπείαν τῶν ἐθνῶν.",
+    "pt_aa": "No meio da sua praça, e de ambos os lados do rio, estava a árvore da vida, que produz doze frutos, dando seu fruto de mês em mês; e as folhas da árvore são para a cura das nações."
+   },
+   "3": {
+    "grego_sblgnt": "καὶ πᾶν κατάθεμα οὐκ ἔσται ἔτι. καὶ ὁ θρόνος τοῦ θεοῦ καὶ τοῦ ἀρνίου ἐν αὐτῇ ἔσται, καὶ οἱ δοῦλοι αὐτοῦ λατρεύσουσιν αὐτῷ,",
+    "pt_aa": "Ali não haverá jamais maldição. Nela estará o trono de Deus e do Cordeiro, e os seus servos o servirão,"
+   },
+   "4": {
+    "grego_sblgnt": "καὶ ὄψονται τὸ πρόσωπον αὐτοῦ, καὶ τὸ ὄνομα αὐτοῦ ἐπὶ τῶν μετώπων αὐτῶν.",
+    "pt_aa": "e verão a sua face; e nas suas frontes estará o seu nome."
+   },
+   "5": {
+    "grego_sblgnt": "καὶ νὺξ οὐκ ἔσται ⸀ἔτι, καὶ ⸂οὐκ ἔχουσιν χρείαν⸃ ⸀φωτὸς λύχνου καὶ ⸀φῶς ἡλίου, ὅτι κύριος ὁ θεὸς φωτίσει ⸀ἐπ’ αὐτούς, καὶ βασιλεύσουσιν εἰς τοὺς αἰῶνας τῶν αἰώνων.",
+    "pt_aa": "E ali não haverá mais noite, e não necessitarão de luz de lâmpada nem de luz do sol, porque o Senhor Deus os alumiará; e reinarão pelos séculos dos séculos."
+   },
+   "6": {
+    "grego_sblgnt": "Καὶ ⸀εἶπέν μοι· Οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί, καὶ ⸀ὁ κύριος, ὁ θεὸς τῶν πνευμάτων τῶν προφητῶν, ἀπέστειλεν τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει·",
+    "pt_aa": "E disse-me: Estas palavras são fiéis e verdadeiras; e o Senhor, o Deus dos espíritos dos profetas, enviou o seu anjo, para mostrar aos seus servos as coisas que em breve hão de acontecer."
+   },
+   "7": {
+    "grego_sblgnt": "καὶ ἰδοὺ ἔρχομαι ταχύ· μακάριος ὁ τηρῶν τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου.",
+    "pt_aa": "Eis que cedo venho! Bem-aventurado aquele que guarda as palavras da profecia deste livro."
+   },
+   "8": {
+    "grego_sblgnt": "Κἀγὼ Ἰωάννης ὁ ἀκούων καὶ βλέπων ταῦτα. καὶ ὅτε ἤκουσα καὶ ἔβλεψα, ἔπεσα προσκυνῆσαι ἔμπροσθεν τῶν ποδῶν τοῦ ἀγγέλου τοῦ δεικνύοντός μοι ταῦτα.",
+    "pt_aa": "Eu, João, sou o que ouvi e vi estas coisas. E quando as ouvi e vi, prostrei-me aos pés do anjo que mas mostrava, para o adorar."
+   },
+   "9": {
+    "grego_sblgnt": "καὶ λέγει μοι· Ὅρα μή· σύνδουλός σού εἰμι καὶ τῶν ἀδελφῶν σου τῶν προφητῶν καὶ τῶν τηρούντων τοὺς λόγους τοῦ βιβλίου τούτου· τῷ θεῷ προσκύνησον.",
+    "pt_aa": "Mas ele me disse: Olha, não faças tal; porque eu sou conservo teu e de teus irmãos, os profetas, e dos que guardam as palavras deste livro. Adora a Deus."
+   },
+   "10": {
+    "grego_sblgnt": "Καὶ λέγει μοι· Μὴ σφραγίσῃς τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου, ὁ καιρὸς γὰρ ἐγγύς ἐστιν.",
+    "pt_aa": "Disse-me ainda: Não seles as palavras da profecia deste livro; porque próximo está o tempo."
+   },
+   "11": {
+    "grego_sblgnt": "ὁ ἀδικῶν ἀδικησάτω ἔτι, καὶ ὁ ῥυπαρὸς ⸀ῥυπαρευθήτω ἔτι, καὶ ὁ δίκαιος δικαιοσύνην ποιησάτω ἔτι, καὶ ὁ ἅγιος ἁγιασθήτω ἔτι.",
+    "pt_aa": "Quem é injusto, faça injustiça ainda: e quem está sujo, suje-se ainda; e quem é justo, faça justiça ainda; e quem é santo, santifique-se ainda."
+   },
+   "12": {
+    "grego_sblgnt": "Ἰδοὺ ἔρχομαι ταχύ, καὶ ὁ μισθός μου μετ’ ἐμοῦ, ἀποδοῦναι ἑκάστῳ ὡς τὸ ἔργον ⸀ἐστὶν αὐτοῦ.",
+    "pt_aa": "Eis que cedo venho e está comigo a minha recompensa, para retribuir a cada um segundo a sua obra."
+   },
+   "13": {
+    "grego_sblgnt": "ἐγὼ τὸ Ἄλφα καὶ τὸ Ὦ, ὁ πρῶτος καὶ ὁ ἔσχατος, ⸀ἡ ἀρχὴ καὶ ⸀τὸ τέλος.",
+    "pt_aa": "Eu sou o Alfa e o Ômega, o primeiro e o derradeiro, o princípio e o fim."
+   },
+   "14": {
+    "grego_sblgnt": "Μακάριοι οἱ ⸂πλύνοντες τὰς στολὰς αὐτῶν⸃, ἵνα ἔσται ἡ ἐξουσία αὐτῶν ἐπὶ τὸ ξύλον τῆς ζωῆς καὶ τοῖς πυλῶσιν εἰσέλθωσιν εἰς τὴν πόλιν.",
+    "pt_aa": "Bem-aventurados aqueles que lavam as suas vestes {no sangue do Cordeiro} para que tenham direito à arvore da vida, e possam entrar na cidade pelas portas."
+   },
+   "15": {
+    "grego_sblgnt": "ἔξω οἱ κύνες καὶ οἱ φάρμακοι καὶ οἱ πόρνοι καὶ οἱ φονεῖς καὶ οἱ εἰδωλολάτραι καὶ πᾶς φιλῶν καὶ ποιῶν ψεῦδος.",
+    "pt_aa": "Ficarão de fora os cães, os feiticeiros, os adúlteros, os homicidas, os idólatras, e todo o que ama e pratica a mentira."
+   },
+   "16": {
+    "grego_sblgnt": "Ἐγὼ Ἰησοῦς ἔπεμψα τὸν ἄγγελόν μου μαρτυρῆσαι ὑμῖν ταῦτα ἐπὶ ταῖς ἐκκλησίαις. ἐγώ εἰμι ἡ ῥίζα καὶ τὸ γένος Δαυίδ, ὁ ἀστὴρ ὁ λαμπρός, ὁ πρωϊνός.",
+    "pt_aa": "Eu, Jesus, enviei o meu anjo para vos testificar estas coisas a favor das igrejas. Eu sou a raiz e a geração de Davi, a resplandecente estrela da manhã."
+   },
+   "17": {
+    "grego_sblgnt": "καὶ τὸ πνεῦμα καὶ ἡ νύμφη λέγουσιν· Ἔρχου· καὶ ὁ ἀκούων εἰπάτω· Ἔρχου· καὶ ὁ διψῶν ἐρχέσθω, ὁ θέλων λαβέτω ὕδωρ ζωῆς δωρεάν.",
+    "pt_aa": "E o Espírito e a noiva dizem: Vem. E quem ouve, diga: Vem. E quem tem sede, venha; e quem quiser, receba de graça a água da vida."
+   },
+   "18": {
+    "grego_sblgnt": "Μαρτυρῶ ἐγὼ παντὶ τῷ ἀκούοντι τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου· ἐάν τις ἐπιθῇ ἐπ’ αὐτά, ⸀ἐπιθήσει ὁ θεὸς ἐπ’ αὐτὸν τὰς πληγὰς τὰς γεγραμμένας ἐν τῷ βιβλίῳ τούτῳ·",
+    "pt_aa": "Eu testifico a todo aquele que ouvir as palavras da profecia deste livro: Se alguém lhes acrescentar alguma coisa, Deus lhe acrescentará as pragas que estão escritas neste livro;"
+   },
+   "19": {
+    "grego_sblgnt": "καὶ ἐάν τις ἀφέλῃ ἀπὸ τῶν λόγων τοῦ βιβλίου τῆς προφητείας ταύτης, ⸀ἀφελεῖ ὁ θεὸς τὸ μέρος αὐτοῦ ἀπὸ τοῦ ξύλου τῆς ζωῆς καὶ ἐκ τῆς πόλεως τῆς ἁγίας, τῶν γεγραμμένων ἐν τῷ βιβλίῳ τούτῳ.",
+    "pt_aa": "e se alguém tirar qualquer coisa das palavras do livro desta profecia, Deus lhe tirará a sua parte da árvore da vida, e da cidade santa, que estão descritas neste livro."
+   },
+   "20": {
+    "grego_sblgnt": "Λέγει ὁ μαρτυρῶν ταῦτα· Ναί· ἔρχομαι ταχύ. Ἀμήν· ⸀ἔρχου, κύριε Ἰησοῦ.",
+    "pt_aa": "Aquele que testifica estas coisas diz: Certamente cedo venho. Amém; vem, Senhor Jesus."
+   },
+   "21": {
+    "grego_sblgnt": "Ἡ χάρις τοῦ κυρίου ⸀Ἰησοῦ μετὰ ⸀πάντων.",
+    "pt_aa": "A graça do Senhor Jesus seja com todos."
+   }
+  }
+ },
+ "estatisticas": {
+  "capitulos": 22,
+  "versiculos": 405,
+  "palavras_hebraico": 0
+ }
+}

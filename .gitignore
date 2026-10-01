@@ -1,0 +1,15 @@
+# Fontes originais comprimidas (re-baixáveis com: bash ferramentas/00_baixar_fontes.sh)
+dados/bruto/morphhb_wlc.tgz
+dados/bruto/sblgnt.tgz
+dados/bruto/deutero.tgz
+dados/bruto/aramaico_corpora_gz/
+dados/bruto/lxx_swete/*.gz
+dados/bruto/biblia-master/
+dados/bruto/deutero/
+dados/bruto/aramaic_atlas/
+
+# Ambientes e caches
+__pycache__/
+*.pyc
+.venv/
+node_modules/

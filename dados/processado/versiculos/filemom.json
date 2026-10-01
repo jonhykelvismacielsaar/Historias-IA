@@ -1,0 +1,147 @@
+{
+ "livro": "Filemom",
+ "slug": "filemom",
+ "nome_hebraico": "אֶל פִּילֵימוֹן",
+ "ordem": 57,
+ "testamento": "NT",
+ "grupo": "Cartas de Paulo",
+ "fontes": [
+  "aramaico",
+  "portugues_aa",
+  "grego_sblgnt"
+ ],
+ "capitulos": {
+  "1": {
+   "1": {
+    "peshitta": "ܦܘܠܘܣ ܐܣܝܪܗ ܕܝܫܘܥ ܡܫܝܚܐ ܘܛܝܡܬܐܘܣ ܐܚܐ ܠܦܝܠܡܘܢ ܚܒܝܒܐ ܘܦܠܚܐ ܕܥܡܢ",
+    "grego_sblgnt": "Παῦλος δέσμιος Χριστοῦ Ἰησοῦ καὶ Τιμόθεος ὁ ἀδελφὸς Φιλήμονι τῷ ἀγαπητῷ καὶ συνεργῷ ἡμῶν",
+    "pt_aa": "Paulo, prisioneiro de Cristo Jesus, e o irmão Timóteo, ao amado Filemom, nosso companheiro de trabalho,"
+   },
+   "2": {
+    "peshitta": "ܘܠܐܦܝܐ ܚܒܝܒܬܢ ܘܠܐܪܟܝܦܘܣ ܦܠܚܐ ܕܥܡܢ ܘܠܥܕܬܐ ܕܒܒܝܬܟ",
+    "grego_sblgnt": "καὶ Ἀπφίᾳ τῇ ⸀ἀδελφῇ καὶ Ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν καὶ τῇ κατ’ οἶκόν σου ἐκκλησίᾳ·",
+    "pt_aa": "e à nossa irmã Áfia, e a Arquipo, nosso companheiro de lutas, e à igreja que está em tua casa:"
+   },
+   "3": {
+    "peshitta": "ܛܝܒܘܬܐ ܥܡܟܘܢ ܘܫܠܡܐ ܡܢ ܐܠܗܐ ܐܒܘܢ ܘܡܢ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "pt_aa": "Graças a vós, e paz da parte de Deus nosso Pai, e do Senhor Jesus Cristo."
+   },
+   "4": {
+    "peshitta": "ܡܘܕܐ ܐܢܐ ܠܐܠܗܝ ܒܟܠܙܒܢ ܘܡܬܕܟܪ ܐܢܐ ܠܟ ܒܨܠܘܬܝ",
+    "grego_sblgnt": "Εὐχαριστῶ τῷ θεῷ μου πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου,",
+    "pt_aa": "Sempre dou graças ao meu Deus, lembrando-me de ti nas minhas orações,"
+   },
+   "5": {
+    "peshitta": "ܗܐ ܡܢ ܕܫܡܥܬ ܗܝܡܢܘܬܟ ܘܚܘܒܐ ܕܐܝܬ ܠܟ ܠܘܬ ܡܪܢ ܝܫܘܥ ܘܠܘܬ ܟܠܗܘܢ ܩܕܝܫܐ",
+    "grego_sblgnt": "ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις ⸀πρὸς τὸν κύριον Ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους,",
+    "pt_aa": "ao ouvir falar do amor e da fé que tens para com o Senhor Jesus e para com todos os santos;"
+   },
+   "6": {
+    "peshitta": "ܕܬܗܘܐ ܫܘܬܦܘܬܐ ܕܗܝܡܢܘܬܟ ܝܗܒܐ ܦܐܪܐ ܒܥܒܕܐ ܘܒܝܕܥܬܐ ܕܟܠ ܛܒܢ ܕܐܝܬ ܠܟܘܢ ܒܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ ⸀τοῦ ἐν ἡμῖν εἰς ⸀Χριστόν·",
+    "pt_aa": "para que a comunicação da tua fé se torne eficaz, no pleno conhecimento de todo o bem que em nós há para com Cristo."
+   },
+   "7": {
+    "peshitta": "ܚܕܘܬܐ ܓܝܪ ܣܓܝܐܬܐ ܐܝܬ ܠܢ ܘܒܘܝܐܐ ܕܒܝܕ ܚܘܒܟ ܐܬܬܢܝܚܘ ܪܚܡܐ ܕܩܕܝܫܐ",
+    "grego_sblgnt": "⸀χαρὰν γὰρ ⸂πολλὴν ἔσχον⸃ καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου, ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ, ἀδελφέ.",
+    "pt_aa": "Pois tive grande gozo e consolação no teu amor, porque por ti, irmão, os corações dos santos têm sido reanimados."
+   },
+   "8": {
+    "peshitta": "ܡܛܠ ܗܕܐ ܦܪܗܣܝܐ ܣܓܝܐܬܐ ܐܝܬ ܠܝ ܒܡܫܝܚܐ ܕܐܦܩܘܕ ܠܟ ܐܝܠܝܢ ܕܙܕܩܢ",
+    "grego_sblgnt": "Διό, πολλὴν ἐν Χριστῷ παρρησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον,",
+    "pt_aa": "Pelo que, embora tenha em Cristo plena liberdade para te mandar o que convém,"
+   },
+   "9": {
+    "peshitta": "ܡܛܠ ܚܘܒܐ ܕܝܢ ܡܒܥܐ ܗܘ ܒܥܐ ܐܢܐ ܡܢܟ ܐܢܐ ܦܘܠܘܣ ܕܐܝܬܝ ܣܒܐ ܐܝܟ ܕܝܕܥ ܐܢܬ ܗܫܐ ܕܝܢ ܐܦ ܐܣܝܪܐ ܕܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος ⸂Χριστοῦ Ἰησοῦ⸃—",
+    "pt_aa": "todavia prefiro rogar-te por esse teu amor, sendo eu como sou, Paulo o velho, e agora até prisioneiro de Cristo Jesus,"
+   },
+   "10": {
+    "peshitta": "ܘܒܥܐ ܐܢܐ ܡܢܟ ܥܠ ܒܪܝ ܐܝܢܐ ܕܝܠܕܬ ܒܐܣܘܪܝ ܐܢܣܝܡܘܣ",
+    "grego_sblgnt": "παρακαλῶ σε περὶ τοῦ ἐμοῦ τέκνου, ὃν ἐγέννησα ἐν τοῖς ⸀δεσμοῖς Ὀνήσιμον,",
+    "pt_aa": "sim, rogo-te por meu filho Onésimo, que gerei nas minhas prisões;"
+   },
+   "11": {
+    "peshitta": "ܗܘ ܕܒܙܒܢ ܠܝܬ ܗܘܐ ܠܟ ܒܗ ܚܫܚܘ ܗܫܐ ܕܝܢ ܐܦ ܠܟ ܐܦ ܠܝ ܛܒ ܚܫܚ",
+    "grego_sblgnt": "τόν ποτέ σοι ἄχρηστον νυνὶ ⸀δὲ σοὶ καὶ ἐμοὶ εὔχρηστον,",
+    "pt_aa": "o qual outrora te foi inútil, mas agora a ti e a mim é muito útil;"
+   },
+   "12": {
+    "peshitta": "ܘܫܕܪܬܗ ܠܟ ܐܢܬ ܕܝܢ ܐܝܟ ܕܠܝܠܕܐ ܕܝܠܝ ܗܟܢܐ ܩܒܠܝܗܝ",
+    "grego_sblgnt": "ὃν ἀνέπεμψά ⸂σοι αὐτόν, τοῦτ’ ἔστιν τὰ ἐμὰ σπλάγχνα⸃·",
+    "pt_aa": "eu to torno a enviar, a ele que é o meu próprio coração."
+   },
+   "13": {
+    "peshitta": "ܨܒܐ ܗܘܝܬ ܓܝܪ ܕܠܘܬܝ ܐܚܕܝܘܗܝ ܕܢܗܘܐ ܡܫܡܫ ܠܝ ܚܠܦܝܟ ܒܐܣܘܪܐ ܕܐܘܢܓܠܝܘܢ",
+    "grego_sblgnt": "ὃν ἐγὼ ἐβουλόμην πρὸς ἐμαυτὸν κατέχειν, ἵνα ὑπὲρ σοῦ ⸂μοι διακονῇ⸃ ἐν τοῖς δεσμοῖς τοῦ εὐαγγελίου,",
+    "pt_aa": "Eu bem quisera retê-lo comigo, para que em teu lugar me servisse nas prisões do evangelho;"
+   },
+   "14": {
+    "peshitta": "ܒܠܥܕ ܡܠܟܟ ܕܝܢ ܠܐ ܨܒܝܬ ܡܕܡ ܠܡܥܒܕ ܕܠܐ ܐܝܟ ܕܒܩܛܝܪܐ ܬܗܘܐ ܛܒܬܟ ܐܠܐ ܒܨܒܝܢܟ",
+    "grego_sblgnt": "χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι, ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον·",
+    "pt_aa": "mas sem o teu consentimento nada quis fazer, para que o teu benefício não fosse como por força, mas, sim, espontâneo."
+   },
+   "15": {
+    "peshitta": "ܟܒܪ ܕܝܢ ܐܦ ܡܛܠ ܗܕܐ ܫܢܝ ܕܫܥܬܐ ܕܠܥܠܡ ܬܐܚܕܝܘܗܝ",
+    "grego_sblgnt": "τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν ἵνα αἰώνιον αὐτὸν ἀπέχῃς,",
+    "pt_aa": "Porque bem pode ser que ele se tenha separado de ti por algum tempo, para que o recobrasses para sempre,"
+   },
+   "16": {
+    "peshitta": "ܠܐ ܡܟܝܠ ܐܝܟ ܥܒܕܐ ܐܠܐ ܝܬܝܪ ܡܢ ܥܒܕܐ ܐܚܐ ܚܒܝܒܐ ܕܝܠܝ ܚܕ ܟܡܐ ܕܝܠܟ ܘܒܒܣܪ ܘܒܡܪܢ",
+    "grego_sblgnt": "οὐκέτι ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν κυρίῳ.",
+    "pt_aa": "não já como escravo, antes mais do que escravo, como irmão amado, particularmente de mim, e quanto mais de ti, tanto na carne como também no Senhor."
+   },
+   "17": {
+    "peshitta": "ܐܢ ܗܟܝܠ ܐܝܬܝܟ ܠܝ ܫܘܬܦܐ ܩܒܠܝܗܝ ܐܝܟ ܕܠܝ",
+    "grego_sblgnt": "Εἰ οὖν με ἔχεις κοινωνόν, προσλαβοῦ αὐτὸν ὡς ἐμέ.",
+    "pt_aa": "Assim pois, se me tens por companheiro, recebe-o como a mim mesmo."
+   },
+   "18": {
+    "peshitta": "ܘܐܢ ܡܕܡ ܚܣܪܟ ܐܘ ܚܝܒ ܗܕܐ ܥܠܝ ܚܫܘܒ",
+    "grego_sblgnt": "εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει, τοῦτο ἐμοὶ ⸀ἐλλόγα·",
+    "pt_aa": "E, se te fez algum dano, ou te deve alguma coisa, lança-o minha conta."
+   },
+   "19": {
+    "peshitta": "ܐܢܐ ܦܘܠܘܣ ܟܬܒܬ ܒܐܝܕܝ ܐܢܐ ܦܪܥ ܐܢܐ ܕܠܐ ܐܡܪ ܠܟ ܕܐܦ ܢܦܫܟ ܚܝܒ ܐܢܬ ܠܝ",
+    "grego_sblgnt": "ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί, ἐγὼ ἀποτίσω· ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις.",
+    "pt_aa": "Eu, Paulo, de meu próprio punho o escrevo, eu o pagarei, para não te dizer que ainda a ti mesmo a mim te deves."
+   },
+   "20": {
+    "peshitta": "ܐܝܢ ܐܚܝ ܐܢܐ ܐܬܬܢܝܚ ܒܟ ܒܡܪܢ ܐܢܝܚ ܪܚܡܝ ܒܡܫܝܚܐ",
+    "grego_sblgnt": "ναί, ἀδελφέ, ἐγώ σου ὀναίμην ἐν κυρίῳ· ἀνάπαυσόν μου τὰ σπλάγχνα ἐν ⸀Χριστῷ.",
+    "pt_aa": "Sim, irmão, eu quisera regozijar-me de ti no Senhor; reanima o meu coração em Cristo."
+   },
+   "21": {
+    "peshitta": "ܡܛܠ ܕܬܟܝܠ ܐܢܐ ܕܫܡܥ ܐܢܬ ܠܝ ܟܬܒܬ ܠܟ ܘܝܕܥ ܐܢܐ ܕܝܬܝܪ ܡܢ ܡܐ ܕܐܡܪ ܐܢܐ ܥܒܕ ܐܢܬ",
+    "grego_sblgnt": "πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι, εἰδὼς ὅτι καὶ ὑπὲρ ⸀ἃ λέγω ποιήσεις.",
+    "pt_aa": "Escrevo-te confiado na tua obediência, sabendo que farás ainda mais do que peço."
+   },
+   "22": {
+    "peshitta": "ܒܚܕܐ ܕܝܢ ܐܦ ܛܝܒ ܠܝ ܒܝܬ ܡܫܪܝܐ ܡܣܒܪ ܐܢܐ ܓܝܪ ܕܒܨܠܘܬܟܘܢ ܡܬܝܗܒ ܐܢܐ ܠܟܘܢ",
+    "grego_sblgnt": "ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν, ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν.",
+    "pt_aa": "E ao mesmo tempo, prepara-me também pousada, pois espero que pelas vossas orações hei de ser concedido."
+   },
+   "23": {
+    "peshitta": "ܫܐܠ ܒܫܠܡܟ ܐܦܦܪܐ ܫܒܝܐ ܕܥܡܝ ܒܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "⸀Ἀσπάζεταί σε Ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν Χριστῷ Ἰησοῦ,",
+    "pt_aa": "Saúda-te Epafras, meu companheiro de prisão em Cristo Jesus,"
+   },
+   "24": {
+    "peshitta": "ܘܡܪܩܘܣ ܘܐܪܣܛܪܟܘܣ ܘܕܡܐ ܘܠܘܩܐ ܡܥܕܪܢܝ",
+    "grego_sblgnt": "Μᾶρκος, Ἀρίσταρχος, Δημᾶς, Λουκᾶς, οἱ συνεργοί μου.",
+    "pt_aa": "assim como Marcos, Aristarco, Demas e Lucas, meus cooperadores."
+   },
+   "25": {
+    "peshitta": "ܛܝܒܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡ ܪܘܚܟܘܢ ܐܡܝܢ",
+    "grego_sblgnt": "Ἡ χάρις τοῦ ⸀κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ⸀ὑμῶν.",
+    "pt_aa": "A graça do Senhor Jesus Cristo seja com o vosso espírito."
+   }
+  }
+ },
+ "estatisticas": {
+  "capitulos": 1,
+  "versiculos": 25,
+  "palavras_hebraico": 0
+ }
+}

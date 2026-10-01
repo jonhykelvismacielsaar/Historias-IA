@@ -1,0 +1,2237 @@
+{
+ "livro": "1 Coríntios",
+ "slug": "1corintios",
+ "nome_hebraico": "אֶל הַקּוֹרִנְתִּים א׳",
+ "ordem": 46,
+ "testamento": "NT",
+ "grupo": "Cartas de Paulo",
+ "fontes": [
+  "aramaico",
+  "portugues_aa",
+  "grego_sblgnt"
+ ],
+ "capitulos": {
+  "1": {
+   "1": {
+    "peshitta": "ܦܘܠܘܣ ܩܪܝܐ ܘܫܠܝܚܐ ܕܝܫܘܥ ܡܫܝܚܐ ܒܨܒܝܢܗ ܕܐܠܗܐ ܘܣܘܣܬܢܣ ܐܚܐ",
+    "grego_sblgnt": "Παῦλος κλητὸς ἀπόστολος ⸂Χριστοῦ Ἰησοῦ⸃ διὰ θελήματος θεοῦ καὶ Σωσθένης ὁ ἀδελφὸς",
+    "pt_aa": "Paulo, chamado para ser apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Sóstenes,"
+   },
+   "2": {
+    "peshitta": "ܠܥܕܬܐ ܕܐܠܗܐ ܕܒܩܘܪܢܬܘܣ ܩܪܝܐ ܘܩܕܝܫܐ ܕܒܝܫܘܥ ܡܫܝܚܐ ܡܩܕܫܝܢ ܘܠܟܠܗܘܢ ܐܝܠܝܢ ܕܩܪܝܢ ܫܡܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܒܟܠ ܐܬܪ ܕܝܠܗܘܢ ܘܕܝܠܢ",
+    "grego_sblgnt": "τῇ ἐκκλησίᾳ τοῦ θεοῦ, ⸂ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ, τῇ οὔσῃ ἐν Κορίνθῳ,⸃ κλητοῖς ἁγίοις, σὺν πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἐν παντὶ τόπῳ ⸀αὐτῶν καὶ ἡμῶν·",
+    "pt_aa": "à igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados para serem santos, com todos os que em todo lugar invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:"
+   },
+   "3": {
+    "peshitta": "ܛܝܒܘܬܐ ܥܡܟܘܢ ܘܫܠܡܐ ܡܢ ܐܠܗܐ ܐܒܘܢ ܘܡܢ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "pt_aa": "Graça seja convosco, e paz, da parte de Deus nosso Pai, e do Senhor Jesus Cristo."
+   },
+   "4": {
+    "peshitta": "ܡܘܕܐ ܐܢܐ ܠܐܠܗܝ ܒܟܠܙܒܢ ܚܠܦܝܟܘܢ ܥܠ ܛܝܒܘܬܐ ܕܐܠܗܐ ܕܐܬܝܗܒܬ ܠܟܘܢ ܒܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "Εὐχαριστῶ τῷ θεῷ ⸀μου πάντοτε περὶ ὑμῶν ἐπὶ τῇ χάριτι τοῦ θεοῦ τῇ δοθείσῃ ὑμῖν ἐν Χριστῷ Ἰησοῦ,",
+    "pt_aa": "Sempre dou graças a Deus por vós, pela graça de Deus que vos foi dada em Cristo Jesus;"
+   },
+   "5": {
+    "peshitta": "ܕܒܟܠ ܡܕܡ ܥܬܪܬܘܢ ܒܗ ܒܟܠ ܡܠܐ ܘܒܟܠ ܝܕܥܬܐ",
+    "grego_sblgnt": "ὅτι ἐν παντὶ ἐπλουτίσθητε ἐν αὐτῷ, ἐν παντὶ λόγῳ καὶ πάσῃ γνώσει,",
+    "pt_aa": "porque em tudo fostes enriquecidos nele, em toda palavra e em todo o conhecimento,"
+   },
+   "6": {
+    "peshitta": "ܐܝܟ ܕܣܗܕܘܬܗ ܕܡܫܝܚܐ ܐܫܬܪܪܬ ܒܟܘܢ",
+    "grego_sblgnt": "καθὼς τὸ μαρτύριον τοῦ Χριστοῦ ἐβεβαιώθη ἐν ὑμῖν,",
+    "pt_aa": "assim como o testemunho de Cristo foi confirmado entre vós;"
+   },
+   "7": {
+    "peshitta": "ܕܠܐ ܐܬܒܨܪܬܘܢ ܒܚܕܐ ܡܢ ܡܘܗܒܬܗ ܐܠܐ ܡܣܟܝܢ ܐܢܬܘܢ ܠܓܠܝܢܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "ὥστε ὑμᾶς μὴ ὑστερεῖσθαι ἐν μηδενὶ χαρίσματι, ἀπεκδεχομένους τὴν ἀποκάλυψιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ·",
+    "pt_aa": "de maneira que nenhum dom vos falta, enquanto aguardais a manifestação de nosso Senhor Jesus Cristo,"
+   },
+   "8": {
+    "peshitta": "ܕܗܘ ܢܫܪܪܟܘܢ ܥܕܡܐ ܠܐܚܪܝܬܐ ܕܕܠܐ ܪܫܝܢ ܬܗܘܘܢ ܒܝܘܡܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "ὃς καὶ βεβαιώσει ὑμᾶς ἕως τέλους ἀνεγκλήτους ἐν τῇ ἡμέρᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.",
+    "pt_aa": "o qual também vos confirmará até o fim, para serdes irrepreensíveis no dia de nosso Senhor Jesus Cristo."
+   },
+   "9": {
+    "peshitta": "ܡܗܝܡܢ ܗܘ ܐܠܗܐ ܕܒܐܝܕܗ ܐܬܩܪܝܬܘܢ ܠܫܘܬܦܘܬܐ ܕܒܪܗ ܝܫܘܥ ܡܫܝܚܐ ܡܪܢ",
+    "grego_sblgnt": "πιστὸς ὁ θεὸς δι’ οὗ ἐκλήθητε εἰς κοινωνίαν τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.",
+    "pt_aa": "Fiel é Deus, pelo qual fostes chamados para a comunhão de seu Filho Jesus Cristo nosso Senhor."
+   },
+   "10": {
+    "peshitta": "ܒܥܐ ܐܢܐ ܕܝܢ ܡܢܟܘܢ ܐܚܝ ܒܫܡܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܬܗܘܐ ܚܕܐ ܡܠܬܐ ܠܟܠܟܘܢ ܘܠܐ ܢܗܘܝܢ ܒܟܘܢ ܦܠܓܘܬܐ ܐܠܐ ܬܗܘܘܢ ܓܡܝܪܝܢ ܒܚܕܐ ܬܪܥܝܬܐ ܘܒܚܕ ܪܥܝܢܐ",
+    "grego_sblgnt": "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, διὰ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἵνα τὸ αὐτὸ λέγητε πάντες, καὶ μὴ ᾖ ἐν ὑμῖν σχίσματα, ἦτε δὲ κατηρτισμένοι ἐν τῷ αὐτῷ νοῒ καὶ ἐν τῇ αὐτῇ γνώμῃ.",
+    "pt_aa": "Rogo-vos, irmãos, em nome de nosso Senhor Jesus Cristo, que sejais concordes no falar, e que não haja dissensões entre vós; antes sejais unidos no mesmo pensamento e no mesmo parecer."
+   },
+   "11": {
+    "peshitta": "ܫܠܚܘ ܠܝ ܓܝܪ ܥܠܝܟܘܢ ܐܚܝ ܡܢ ܒܝܬ ܟܠܐܐ ܕܚܪܝܢܐ ܐܝܬ ܒܝܢܬܟܘܢ",
+    "grego_sblgnt": "ἐδηλώθη γάρ μοι περὶ ὑμῶν, ἀδελφοί μου, ὑπὸ τῶν Χλόης ὅτι ἔριδες ἐν ὑμῖν εἰσιν.",
+    "pt_aa": "Pois a respeito de vós, irmãos meus, fui informado pelos da família de Cloé que há contendas entre vós."
+   },
+   "12": {
+    "peshitta": "ܗܕܐ ܕܝܢ ܐܡܪ ܐܢܐ ܕܐܝܬ ܡܢܟܘܢ ܕܐܡܪ ܐܢܐ ܕܦܘܠܘܣ ܐܢܐ ܘܐܝܬ ܕܐܡܪ ܐܢܐ ܕܐܦܠܘ ܐܢܐ ܘܐܝܬ ܕܐܡܪ ܐܢܐ ܕܟܐܦܐ ܐܢܐ ܘܐܝܬ ܕܐܡܪ ܐܢܐ ܕܡܫܝܚܐ ܐܢܐ",
+    "grego_sblgnt": "λέγω δὲ τοῦτο ὅτι ἕκαστος ὑμῶν λέγει· Ἐγὼ μέν εἰμι Παύλου, Ἐγὼ δὲ Ἀπολλῶ, Ἐγὼ δὲ Κηφᾶ, Ἐγὼ δὲ Χριστοῦ.",
+    "pt_aa": "Quero dizer com isto, que cada um de vós diz: Eu sou de Paulo; ou, Eu de Apolo; ou Eu sou de Cefas; ou, Eu de Cristo."
+   },
+   "13": {
+    "peshitta": "ܕܠܡܐ ܐܬܦܠܓ ܠܗ ܡܫܝܚܐ ܐܘ ܠܡܐ ܦܘܠܘܣ ܐܙܕܩܦ ܥܠ ܐܦܝܟܘܢ ܐܘ ܒܫܡܗ ܕܦܘܠܘܣ ܥܡܕܬܘܢ",
+    "grego_sblgnt": "μεμέρισται ὁ Χριστός; μὴ Παῦλος ἐσταυρώθη ὑπὲρ ὑμῶν, ἢ εἰς τὸ ὄνομα Παύλου ἐβαπτίσθητε;",
+    "pt_aa": "será que Cristo está dividido? foi Paulo crucificado por amor de vós? ou fostes vós batizados em nome de Paulo?"
+   },
+   "14": {
+    "peshitta": "ܡܘܕܐ ܐܢܐ ܠܐܠܗܝ ܕܠܐܢܫ ܡܢܟܘܢ ܠܐ ܐܥܡܕܬ ܐܠܐ ܠܟܪܝܣܦܘܣ ܘܠܓܐܝܘܣ",
+    "grego_sblgnt": "⸀εὐχαριστῶ ὅτι οὐδένα ὑμῶν ἐβάπτισα εἰ μὴ Κρίσπον καὶ Γάϊον,",
+    "pt_aa": "Dou graças a Deus que a nenhum de vós batizei, senão a Crispo e a Gaio;"
+   },
+   "15": {
+    "peshitta": "ܕܠܐ ܐܢܫ ܢܐܡܪ ܕܒܫܡܝ ܐܥܡܕܬ",
+    "grego_sblgnt": "ἵνα μή τις εἴπῃ ὅτι εἰς τὸ ἐμὸν ὄνομα ⸀ἐβαπτίσθητε·",
+    "pt_aa": "para que ninguém diga que fostes batizados em meu nome."
+   },
+   "16": {
+    "peshitta": "ܐܥܡܕܬ ܕܝܢ ܐܦ ܠܒܝܬܗ ܕܐܣܛܦܢܐ ܬܘܒ ܕܝܢ ܠܐ ܝܕܥ ܐܢܐ ܐܢ ܠܐܢܫ ܐܚܪܝܢ ܐܥܡܕܬ",
+    "grego_sblgnt": "ἐβάπτισα δὲ καὶ τὸν Στεφανᾶ οἶκον· λοιπὸν οὐκ οἶδα εἴ τινα ἄλλον ἐβάπτισα.",
+    "pt_aa": "É verdade, batizei também a família de Estéfanas, além destes, não sei se batizei algum outro."
+   },
+   "17": {
+    "peshitta": "ܠܐ ܓܝܪ ܫܕܪܢܝ ܡܫܝܚܐ ܠܡܥܡܕܘ ܐܠܐ ܠܡܣܒܪܘ ܠܐ ܒܚܟܡܬ ܡܠܐ ܕܠܐ ܢܣܬܪܩ ܙܩܝܦܗ ܕܡܫܝܚܐ",
+    "grego_sblgnt": "οὐ γὰρ ἀπέστειλέν με Χριστὸς βαπτίζειν ἀλλὰ εὐαγγελίζεσθαι, οὐκ ἐν σοφίᾳ λόγου, ἵνα μὴ κενωθῇ ὁ σταυρὸς τοῦ Χριστοῦ.",
+    "pt_aa": "Porque Cristo não me enviou para batizar, mas para pregar o evangelho; não em sabedoria de palavras, para não se tornar vã a cruz de Cristo."
+   },
+   "18": {
+    "peshitta": "ܡܠܬܐ ܓܝܪ ܕܙܩܝܦܐ ܠܐܒܝܕܐ ܫܛܝܘܬܐ ܗܝ ܠܢ ܕܝܢ ܠܐܝܠܝܢ ܕܚܝܝܢܢ ܚܝܠܐ ܗܝ ܕܐܠܗܐ",
+    "grego_sblgnt": "Ὁ λόγος γὰρ ὁ τοῦ σταυροῦ τοῖς μὲν ἀπολλυμένοις μωρία ἐστίν, τοῖς δὲ σῳζομένοις ἡμῖν δύναμις θεοῦ ἐστιν.",
+    "pt_aa": "Porque a palavra da cruz é deveras loucura para os que perecem; mas para nós, que somos salvos, é o poder de Deus."
+   },
+   "19": {
+    "peshitta": "ܟܬܝܒ ܓܝܪ ܕܐܘܒܕ ܚܟܡܬܐ ܕܚܟܝܡܐ ܘܐܓܠܘܙ ܬܪܥܝܬܐ ܕܣܟܘܠܬܢܐ",
+    "grego_sblgnt": "γέγραπται γάρ· Ἀπολῶ τὴν σοφίαν τῶν σοφῶν, καὶ τὴν σύνεσιν τῶν συνετῶν ἀθετήσω.",
+    "pt_aa": "porque está escrito: Destruirei a sabedoria dos sábios, e aniquilarei a sabedoria o entendimento dos entendidos."
+   },
+   "20": {
+    "peshitta": "ܐܝܟܐ ܗܘ ܚܟܝܡܐ ܐܘ ܐܝܟܐ ܗܘ ܣܦܪܐ ܐܘ ܐܝܟܐ ܗܘ ܕܪܘܫܐ ܕܥܠܡܐ ܗܢܐ ܠܐ ܗܐ ܐܫܛܝܗ ܐܠܗܐ ܚܟܡܬܗ ܕܥܠܡܐ ܗܢܐ",
+    "grego_sblgnt": "ποῦ σοφός; ποῦ γραμματεύς; ποῦ συζητητὴς τοῦ αἰῶνος τούτου; οὐχὶ ἐμώρανεν ὁ θεὸς τὴν σοφίαν τοῦ ⸀κόσμου;",
+    "pt_aa": "Onde está o sábio? Onde o escriba? Onde o questionador deste século? Porventura não tornou Deus louca a sabedoria deste mundo?"
+   },
+   "21": {
+    "peshitta": "ܡܛܠ ܓܝܪ ܕܒܚܟܡܬܗ ܕܐܠܗܐ ܠܐ ܝܕܥ ܥܠܡܐ ܒܚܟܡܬܐ ܠܐܠܗܐ ܨܒܐ ܐܠܗܐ ܕܒܫܛܝܘܬܐ ܕܟܪܘܙܘܬܐ ܢܚܐ ܠܐܝܠܝܢ ܕܡܗܝܡܢܝܢ",
+    "grego_sblgnt": "ἐπειδὴ γὰρ ἐν τῇ σοφίᾳ τοῦ θεοῦ οὐκ ἔγνω ὁ κόσμος διὰ τῆς σοφίας τὸν θεόν, εὐδόκησεν ὁ θεὸς διὰ τῆς μωρίας τοῦ κηρύγματος σῶσαι τοὺς πιστεύοντας.",
+    "pt_aa": "Visto como na sabedoria de Deus o mundo pela sua sabedoria não conheceu a Deus, aprouve a Deus salvar pela loucura da pregação os que crêem."
+   },
+   "22": {
+    "peshitta": "ܡܛܠ ܕܝܗܘܕܝܐ ܐܬܘܬܐ ܫܐܠܝܢ ܘܐܪܡܝܐ ܚܟܡܬܐ ܒܥܝܢ",
+    "grego_sblgnt": "ἐπειδὴ καὶ Ἰουδαῖοι ⸀σημεῖα αἰτοῦσιν καὶ Ἕλληνες σοφίαν ζητοῦσιν·",
+    "pt_aa": "Pois, enquanto os judeus pedem sinal, e os gregos buscam sabedoria,"
+   },
+   "23": {
+    "peshitta": "ܚܢܢ ܕܝܢ ܡܟܪܙܝܢܢ ܡܫܝܚܐ ܟܕ ܙܩܝܦ ܬܘܩܠܬܐ ܠܝܗܘܕܝܐ ܘܠܐܪܡܝܐ ܫܛܝܘܬܐ",
+    "grego_sblgnt": "ἡμεῖς δὲ κηρύσσομεν Χριστὸν ἐσταυρωμένον, Ἰουδαίοις μὲν σκάνδαλον ⸀ἔθνεσιν δὲ μωρίαν,",
+    "pt_aa": "nós pregamos a Cristo crucificado, que é escândalo para os judeus, e loucura para os gregos,"
+   },
+   "24": {
+    "peshitta": "ܠܗܢܘܢ ܕܝܢ ܕܩܪܝܢ ܝܗܘܕܝܐ ܘܐܪܡܝܐ ܡܫܝܚܐ ܚܝܠܐ ܕܐܠܗܐ ܘܚܟܡܬܐ ܕܐܠܗܐ",
+    "grego_sblgnt": "αὐτοῖς δὲ τοῖς κλητοῖς, Ἰουδαίοις τε καὶ Ἕλλησιν, Χριστὸν θεοῦ δύναμιν καὶ θεοῦ σοφίαν.",
+    "pt_aa": "mas para os que são chamados, tanto judeus como gregos, Cristo, poder de Deus, e sabedoria de Deus."
+   },
+   "25": {
+    "peshitta": "ܡܛܠ ܕܫܛܝܘܬܗ ܕܐܠܗܐ ܚܟܝܡܐ ܗܝ ܡܢ ܒܢܝܢܫܐ ܘܟܪܝܗܘܬܗ ܕܐܠܗܐ ܚܝܠܬܢܝܐ ܗܝ ܡܢ ܒܢܝ ܐܢܫܐ",
+    "grego_sblgnt": "ὅτι τὸ μωρὸν τοῦ θεοῦ σοφώτερον τῶν ἀνθρώπων ἐστίν, καὶ τὸ ἀσθενὲς τοῦ θεοῦ ἰσχυρότερον τῶν ⸀ἀνθρώπων.",
+    "pt_aa": "Porque a loucura de Deus é mais sábia que os homens; e a fraqueza de Deus é mais forte que os homens."
+   },
+   "26": {
+    "peshitta": "ܚܙܘ ܓܝܪ ܐܦ ܩܪܝܬܟܘܢ ܐܚܝ ܕܠܐ ܣܓܝܐܝܢ ܒܟܘܢ ܚܟܝܡܐ ܒܒܣܪ ܘܠܐ ܣܓܝܐܝܢ ܒܟܘܢ ܚܝܠܬܢܐ ܘܠܐ ܣܓܝܐܝܢ ܒܟܘܢ ܒܢܝ ܛܘܗܡܐ ܪܒܐ",
+    "grego_sblgnt": "Βλέπετε γὰρ τὴν κλῆσιν ὑμῶν, ἀδελφοί, ὅτι οὐ πολλοὶ σοφοὶ κατὰ σάρκα, οὐ πολλοὶ δυνατοί, οὐ πολλοὶ εὐγενεῖς·",
+    "pt_aa": "Ora, vede, irmãos, a vossa vocação, que não são muitos os sábios segundo a carne, nem muitos os poderosos. nem muitos os nobres que são chamados."
+   },
+   "27": {
+    "peshitta": "ܐܠܐ ܓܒܐ ܐܠܗܐ ܠܣܟܠܘܗܝ ܕܥܠܡܐ ܕܢܒܗܬ ܠܚܟܝܡܐ ܘܓܒܐ ܟܪܝܗܘܗܝ ܕܥܠܡܐ ܕܢܒܗܬ ܠܚܝܠܬܢܐ",
+    "grego_sblgnt": "ἀλλὰ τὰ μωρὰ τοῦ κόσμου ἐξελέξατο ὁ θεός, ἵνα ⸂καταισχύνῃ τοὺς σοφούς⸃, καὶ τὰ ἀσθενῆ τοῦ κόσμου ἐξελέξατο ὁ θεός, ἵνα καταισχύνῃ τὰ ἰσχυρά,",
+    "pt_aa": "Pelo contrário, Deus escolheu as coisas loucas do mundo para confundir os sábios; e Deus escolheu as coisas fracas do mundo para confundir as fortes;"
+   },
+   "28": {
+    "peshitta": "ܘܓܒܐ ܠܐܝܠܝܢ ܕܒܨܝܪ ܛܘܗܡܗܘܢ ܒܥܠܡܐ ܘܠܡܣܠܝܐ ܘܠܐܝܠܝܢ ܕܠܝܬ ܐܢܘܢ ܕܢܒܛܠ ܠܐܝܠܝܢ ܕܐܝܬܝܗܘܢ",
+    "grego_sblgnt": "καὶ τὰ ἀγενῆ τοῦ κόσμου καὶ τὰ ἐξουθενημένα ἐξελέξατο ὁ θεός, ⸀τὰ μὴ ὄντα, ἵνα τὰ ὄντα καταργήσῃ,",
+    "pt_aa": "e Deus escolheu as coisas ignóbeis do mundo, e as desprezadas, e as que não são, para reduzir a nada as que são;"
+   },
+   "29": {
+    "peshitta": "ܕܠܐ ܢܫܬܒܗܪ ܟܠ ܒܣܪ ܩܕܡܘܗܝ",
+    "grego_sblgnt": "ὅπως μὴ καυχήσηται πᾶσα σὰρξ ἐνώπιον τοῦ θεοῦ.",
+    "pt_aa": "para que nenhum mortal se glorie na presença de Deus."
+   },
+   "30": {
+    "peshitta": "ܐܦ ܐܢܬܘܢ ܕܝܢ ܡܢܗ ܐܢܬܘܢ ܒܝܫܘܥ ܡܫܝܚܐ ܗܘ ܕܗܘܐ ܠܢ ܚܟܡܬܐ ܡܢ ܐܠܗܐ ܘܙܕܝܩܘܬܐ ܘܩܕܝܫܘܬܐ ܘܦܘܪܩܢܐ",
+    "grego_sblgnt": "ἐξ αὐτοῦ δὲ ὑμεῖς ἐστε ἐν Χριστῷ Ἰησοῦ, ὃς ἐγενήθη ⸂σοφία ἡμῖν⸃ ἀπὸ θεοῦ, δικαιοσύνη τε καὶ ἁγιασμὸς καὶ ἀπολύτρωσις,",
+    "pt_aa": "Mas vós sois dele, em Cristo Jesus, o qual para nós foi feito por Deus sabedoria, e justiça, e santificação, e redenção;"
+   },
+   "31": {
+    "peshitta": "ܐܝܟ ܕܟܬܝܒ ܕܡܢ ܕܡܫܬܒܗܪ ܒܡܪܝܐ ܢܫܬܒܗܪ",
+    "grego_sblgnt": "ἵνα καθὼς γέγραπται· Ὁ καυχώμενος ἐν κυρίῳ καυχάσθω.",
+    "pt_aa": "para que, como está escrito: Aquele que se gloria, glorie-se no Senhor."
+   }
+  },
+  "2": {
+   "1": {
+    "peshitta": "ܘܐܢܐ ܐܚܝ ܟܕ ܐܬܝܬ ܠܘܬܟܘܢ ܠܐ ܒܡܡܠܠܐ ܪܘܪܒܐ ܐܦܠܐ ܒܚܟܡܬܐ ܣܒܪܬܟܘܢ ܐܪܙܗ ܕܐܠܗܐ",
+    "grego_sblgnt": "Κἀγὼ ἐλθὼν πρὸς ὑμᾶς, ἀδελφοί, ἦλθον οὐ καθ’ ὑπεροχὴν λόγου ἢ σοφίας καταγγέλλων ὑμῖν τὸ ⸀μαρτύριον τοῦ θεοῦ.",
+    "pt_aa": "E eu, irmãos, quando fui ter convosco, anunciando-vos o testemunho de Deus, não fui com sublimidade de palavras ou de sabedoria."
+   },
+   "2": {
+    "peshitta": "ܘܠܐ ܕܢܬ ܢܦܫܝ ܒܝܢܬܟܘܢ ܐܝܟ ܕܡܕܡ ܝܕܥ ܐܢܐ ܐܠܐ ܐܢ ܠܝܫܘܥ ܡܫܝܚܐ ܐܦ ܠܗ ܟܕ ܙܩܝܦ",
+    "grego_sblgnt": "οὐ γὰρ ἔκρινά ⸂τι εἰδέναι⸃ ἐν ὑμῖν εἰ μὴ Ἰησοῦν Χριστὸν καὶ τοῦτον ἐσταυρωμένον·",
+    "pt_aa": "Porque nada me propus saber entre vós, senão a Jesus Cristo, e este crucificado."
+   },
+   "3": {
+    "peshitta": "ܘܐܢܐ ܒܕܚܠܬܐ ܣܓܝܐܬܐ ܘܒܪܬܝܬܐ ܗܘܝܬ ܠܘܬܟܘܢ",
+    "grego_sblgnt": "κἀγὼ ἐν ἀσθενείᾳ καὶ ἐν φόβῳ καὶ ἐν τρόμῳ πολλῷ ἐγενόμην πρὸς ὑμᾶς,",
+    "pt_aa": "E eu estive convosco em fraqueza, e em temor, e em grande tremor."
+   },
+   "4": {
+    "peshitta": "ܘܡܠܬܝ ܘܟܪܘܙܘܬܝ ܠܐ ܗܘܬ ܒܡܦܝܣܢܘܬܐ ܕܡܠܐ ܕܚܟܡܬܐ ܐܠܐ ܒܬܚܘܝܬܐ ܕܪܘܚܐ ܘܕܚܝܠܐ",
+    "grego_sblgnt": "καὶ ὁ λόγος μου καὶ τὸ κήρυγμά μου οὐκ ἐν ⸂πειθοῖ σοφίας⸃ ἀλλ’ ἐν ἀποδείξει πνεύματος καὶ δυνάμεως,",
+    "pt_aa": "A minha linguagem e a minha pregação não consistiram em palavras persuasivas de sabedoria, mas em demonstração do Espírito de poder;"
+   },
+   "5": {
+    "peshitta": "ܕܠܐ ܬܗܘܐ ܗܝܡܢܘܬܟܘܢ ܒܚܟܡܬܐ ܕܒܢܝܢܫܐ ܐܠܐ ܒܚܝܠܐ ܕܐܠܗܐ",
+    "grego_sblgnt": "ἵνα ἡ πίστις ὑμῶν μὴ ᾖ ἐν σοφίᾳ ἀνθρώπων ἀλλ’ ἐν δυνάμει θεοῦ.",
+    "pt_aa": "para que a vossa fé não se apoiasse na sabedoria dos homens, mas no poder de Deus."
+   },
+   "6": {
+    "peshitta": "ܚܟܡܬܐ ܕܝܢ ܡܡܠܠܝܢܢ ܒܓܡܝܪܐ ܚܟܡܬܐ ܠܐ ܕܗܢܐ ܥܠܡܐ ܐܦܠܐ ܕܫܠܝܛܢܘܗܝ ܕܥܠܡܐ ܗܢܐ ܕܡܬܒܛܠܝܢ",
+    "grego_sblgnt": "Σοφίαν δὲ λαλοῦμεν ἐν τοῖς τελείοις, σοφίαν δὲ οὐ τοῦ αἰῶνος τούτου οὐδὲ τῶν ἀρχόντων τοῦ αἰῶνος τούτου τῶν καταργουμένων·",
+    "pt_aa": "Na verdade, entre os perfeitos falamos sabedoria, não porém a sabedoria deste mundo, nem dos príncipes deste mundo, que estão sendo reduzidos a nada;"
+   },
+   "7": {
+    "peshitta": "ܐܠܐ ܡܡܠܠܝܢܢ ܚܟܡܬܐ ܕܐܠܗܐ ܒܐܪܙ ܗܝ ܕܡܟܣܝܐ ܗܘܬ ܘܩܕܡ ܗܘܐ ܦܪܫܗ ܐܠܗܐ ܡܢ ܩܕܡ ܥܠܡܐ ܠܫܘܒܚܐ ܕܝܠܢ",
+    "grego_sblgnt": "ἀλλὰ λαλοῦμεν ⸂θεοῦ σοφίαν⸃ ἐν μυστηρίῳ, τὴν ἀποκεκρυμμένην, ἣν προώρισεν ὁ θεὸς πρὸ τῶν αἰώνων εἰς δόξαν ἡμῶν·",
+    "pt_aa": "mas falamos a sabedoria de Deus em mistério, que esteve oculta, a qual Deus preordenou antes dos séculos para nossa glória;"
+   },
+   "8": {
+    "peshitta": "ܗܝ ܕܚܕ ܡܢ ܫܠܝܛܢܐ ܕܥܠܡܐ ܗܢܐ ܠܐ ܝܕܥܗ ܐܠܘ ܓܝܪ ܝܕܥܘܗ ܠܘ ܠܡܪܗ ܕܬܫܒܘܚܬܐ ܙܩܦܝܢ ܗܘܘ",
+    "grego_sblgnt": "ἣν οὐδεὶς τῶν ἀρχόντων τοῦ αἰῶνος τούτου ἔγνωκεν, εἰ γὰρ ἔγνωσαν, οὐκ ἂν τὸν κύριον τῆς δόξης ἐσταύρωσαν·",
+    "pt_aa": "a qual nenhum dos príncipes deste mundo compreendeu; porque se a tivessem compreendido, não teriam crucificado o Senhor da glória."
+   },
+   "9": {
+    "peshitta": "ܐܠܐ ܐܝܟ ܕܟܬܝܒ ܕܥܝܢܐ ܠܐ ܚܙܬ ܘܐܕܢܐ ܠܐ ܫܡܥܬ ܘܥܠ ܠܒܐ ܕܒܪܢܫܐ ܠܐ ܣܠܩ ܡܕܡ ܕܛܝܒ ܐܠܗܐ ܠܐܝܠܝܢ ܕܪܚܡܝܢ ܠܗ",
+    "grego_sblgnt": "ἀλλὰ καθὼς γέγραπται· Ἃ ὀφθαλμὸς οὐκ εἶδεν καὶ οὖς οὐκ ἤκουσεν καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη, ⸀ὅσα ἡτοίμασεν ὁ θεὸς τοῖς ἀγαπῶσιν αὐτόν.",
+    "pt_aa": "Mas, como está escrito: As coisas que olhos não viram, nem ouvidos ouviram, nem penetraram o coração do homem, são as que Deus preparou para os que o amam."
+   },
+   "10": {
+    "peshitta": "ܠܢ ܕܝܢ ܓܠܐ ܐܠܗܐ ܒܪܘܚܗ ܪܘܚܐ ܓܝܪ ܟܠܡܕܡ ܒܨܝܐ ܐܦ ܥܘܡܩܘܗܝ ܕܐܠܗܐ",
+    "grego_sblgnt": "ἡμῖν ⸀γὰρ ⸂ἀπεκάλυψεν ὁ θεὸς⸃ διὰ τοῦ ⸀πνεύματος, τὸ γὰρ πνεῦμα πάντα ἐραυνᾷ, καὶ τὰ βάθη τοῦ θεοῦ.",
+    "pt_aa": "Porque Deus no-las revelou pelo seu Espírito; pois o Espírito esquadrinha todas as coisas, mesmos as profundezas de Deus."
+   },
+   "11": {
+    "peshitta": "ܐܝܢܐ ܗܘ ܓܝܪ ܒܪܢܫܐ ܕܝܕܥ ܕܒܒܪܢܫܐ ܐܠܐ ܐܢ ܪܘܚܐ ܕܒܪ ܕܒܗ ܗܟܢܐ ܐܦ ܕܒܐܠܗܐ ܐܢܫ ܠܐ ܝܕܥ ܐܠܐ ܐܢ ܪܘܚܗ ܕܐܠܗܐ",
+    "grego_sblgnt": "τίς γὰρ οἶδεν ἀνθρώπων τὰ τοῦ ἀνθρώπου εἰ μὴ τὸ πνεῦμα τοῦ ἀνθρώπου τὸ ἐν αὐτῷ; οὕτως καὶ τὰ τοῦ θεοῦ οὐδεὶς ⸀ἔγνωκεν εἰ μὴ τὸ πνεῦμα τοῦ θεοῦ.",
+    "pt_aa": "Pois, qual dos homens entende as coisas do homem, senão o espírito do homem que nele está? assim também as coisas de Deus, ninguém as compreendeu, senão o Espírito de Deus."
+   },
+   "12": {
+    "peshitta": "ܚܢܢ ܕܝܢ ܠܐ ܗܘܐ ܪܘܚܐ ܕܥܠܡܐ ܢܣܒܢ ܐܠܐ ܪܘܚܐ ܕܡܢ ܐܠܗܐ ܕܢܕܥ ܡܘܗܒܬܐ ܕܡܢ ܐܠܗܐ ܐܬܝܗܒ ܠܢ",
+    "grego_sblgnt": "ἡμεῖς δὲ οὐ τὸ πνεῦμα τοῦ κόσμου ἐλάβομεν ἀλλὰ τὸ πνεῦμα τὸ ἐκ τοῦ θεοῦ, ἵνα εἰδῶμεν τὰ ὑπὸ τοῦ θεοῦ χαρισθέντα ἡμῖν·",
+    "pt_aa": "Ora, nós não temos recebido o espírito do mundo, mas sim o Espírito que provém de Deus, a fim de compreendermos as coisas que nos foram dadas gratuitamente por Deus;"
+   },
+   "13": {
+    "peshitta": "ܐܝܠܝܢ ܕܐܦ ܡܡܠܠܝܢܢ ܠܐ ܗܘܐ ܒܝܘܠܦܢܐ ܕܡܠܐ ܕܚܟܡܬܐ ܕܒܢܝܢܫܐ ܐܠܐ ܒܝܘܠܦܢܐ ܕܪܘܚܐ ܘܠܪܘܚܢܐ ܪܘܚܢܝܬܐ ܡܦܚܡܝܢܢ",
+    "grego_sblgnt": "ἃ καὶ λαλοῦμεν οὐκ ἐν διδακτοῖς ἀνθρωπίνης σοφίας λόγοις, ἀλλ’ ἐν διδακτοῖς ⸀πνεύματος, πνευματικοῖς πνευματικὰ συγκρίνοντες.",
+    "pt_aa": "as quais também falamos, não com palavras ensinadas pela sabedoria humana, mas com palavras ensinadas pelo Espírito Santo, comparando coisas espirituais com espirituais."
+   },
+   "14": {
+    "peshitta": "ܒܪܢܫܐ ܓܝܪ ܕܒܢܦܫ ܗܘ ܠܐ ܡܩܒܠ ܪܘܚܢܝܬܐ ܫܛܝܘܬܐ ܐܢܝܢ ܓܝܪ ܠܗ ܘܠܐ ܡܫܟܚ ܕܢܕܥ ܕܒܪܘܚ ܡܬܕܝܢ",
+    "grego_sblgnt": "Ψυχικὸς δὲ ἄνθρωπος οὐ δέχεται τὰ τοῦ πνεύματος τοῦ θεοῦ, μωρία γὰρ αὐτῷ ἐστίν, καὶ οὐ δύναται γνῶναι, ὅτι πνευματικῶς ἀνακρίνεται·",
+    "pt_aa": "Ora, o homem natural não aceita as coisas do Espírito de Deus, porque para ele são loucura; e não pode entendê-las, porque elas se discernem espiritualmente."
+   },
+   "15": {
+    "peshitta": "ܪܘܚܢܐ ܕܝܢ ܟܠ ܡܕܡ ܕܐܢ ܘܗܘ ܡܢ ܐܢܫ ܠܐ ܡܬܕܝܢ",
+    "grego_sblgnt": "ὁ δὲ πνευματικὸς ἀνακρίνει ⸀τὰ πάντα, αὐτὸς δὲ ὑπ’ οὐδενὸς ἀνακρίνεται.",
+    "pt_aa": "Mas o que é espiritual discerne bem tudo, enquanto ele por ninguém é discernido."
+   },
+   "16": {
+    "peshitta": "ܡܢܘ ܓܝܪ ܝܕܥ ܪܥܝܢܗ ܕܡܪܝܐ ܕܢܠܦܝܘܗܝ ܠܢ ܕܝܢ ܪܥܝܢܐ ܕܡܫܝܚܐ ܐܝܬ ܠܢ",
+    "grego_sblgnt": "τίς γὰρ ἔγνω νοῦν κυρίου, ὃς συμβιβάσει αὐτόν; ἡμεῖς δὲ νοῦν Χριστοῦ ἔχομεν.",
+    "pt_aa": "Pois, quem jamais conheceu a mente do Senhor, para que possa instruí-lo? Mas nós temos a mente de Cristo."
+   }
+  },
+  "3": {
+   "1": {
+    "peshitta": "ܘܐܢܐ ܐܚܝ ܠܐ ܐܫܟܚܬ ܕܐܡܠܠ ܥܡܟܘܢ ܐܝܟ ܕܥܡ ܪܘܚܢܐ ܐܠܐ ܐܝܟ ܕܥܡ ܦܓܪܢܐ ܘܐܝܟ ܕܠܝܠܘܕܐ ܒܡܫܝܚܐ",
+    "grego_sblgnt": "Κἀγώ, ἀδελφοί, οὐκ ἠδυνήθην ⸂λαλῆσαι ὑμῖν⸃ ὡς πνευματικοῖς ἀλλ’ ὡς ⸀σαρκίνοις, ὡς νηπίοις ἐν Χριστῷ.",
+    "pt_aa": "E eu, irmãos não vos pude falar como a espirituais, mas como a carnais, como a criancinhas em Cristo."
+   },
+   "2": {
+    "peshitta": "ܚܠܒܐ ܐܫܩܝܬܟܘܢ ܘܠܐ ܝܗܒܬ ܠܟܘܢ ܡܐܟܘܠܬܐ ܠܐ ܓܝܪ ܥܕܟܝܠ ܡܫܟܚܝܢ ܗܘܝܬܘܢ ܐܠܐ ܐܦܠܐ ܗܫܐ ܡܫܟܚܝܢ ܐܢܬܘܢ",
+    "grego_sblgnt": "γάλα ὑμᾶς ἐπότισα, ⸀οὐ βρῶμα, οὔπω γὰρ ἐδύνασθε. ἀλλ’ ⸀οὐδὲ ἔτι νῦν δύνασθε,",
+    "pt_aa": "Leite vos dei por alimento, e não comida sólida, porque não a podíeis suportar; nem ainda agora podeis;"
+   },
+   "3": {
+    "peshitta": "ܥܕܟܝܠ ܓܝܪ ܒܒܣܪ ܐܢܬܘܢ ܐܝܟܐ ܓܝܪ ܕܐܝܬ ܒܟܘܢ ܚܣܡܐ ܘܚܪܝܢܐ ܘܦܠܓܘܬܐ ܠܐ ܗܐ ܦܓܪܢܐ ܐܢܬܘܢ ܘܒܒܣܪ ܡܗܠܟܝܢ ܐܢܬܘܢ",
+    "grego_sblgnt": "ἔτι γὰρ σαρκικοί ἐστε. ὅπου γὰρ ἐν ὑμῖν ζῆλος καὶ ⸀ἔρις, οὐχὶ σαρκικοί ἐστε καὶ κατὰ ἄνθρωπον περιπατεῖτε;",
+    "pt_aa": "porquanto ainda sois carnais; pois, havendo entre vós inveja e contendas, não sois porventura carnais, e não estais andando segundo os homens?"
+   },
+   "4": {
+    "peshitta": "ܡܐ ܕܐܡܪ ܓܝܪ ܐܢܫ ܐܢܫ ܡܢܟܘܢ ܐܢܐ ܕܦܘܠܘܣ ܐܢܐ ܘܐܚܪܢܐ ܐܡܪ ܐܢܐ ܕܐܦܠܘ ܐܢܐ ܠܐ ܗܐ ܦܓܪܢܐ ܐܢܬܘܢ",
+    "grego_sblgnt": "ὅταν γὰρ λέγῃ τις· Ἐγὼ μέν εἰμι Παύλου, ἕτερος δέ· Ἐγὼ Ἀπολλῶ, ⸂οὐκ ἄνθρωποί⸃ ἐστε;",
+    "pt_aa": "Porque, dizendo um: Eu sou de Paulo; e outro: Eu de Apolo; não sois apenas homens?"
+   },
+   "5": {
+    "peshitta": "ܡܢܘ ܓܝܪ ܦܘܠܘܣ ܐܘ ܡܢܘ ܐܦܠܘ ܐܠܐ ܡܫܡܫܢܐ ܕܒܐܝܕܝܗܘܢ ܗܝܡܢܬܘܢ ܘܐܢܫ ܐܢܫ ܐܝܟ ܕܝܗܒ ܠܗ ܡܪܝܐ",
+    "grego_sblgnt": "⸀Τί οὖν ἐστιν ⸂Ἀπολλῶς; τί δέ ἐστιν Παῦλος⸃; ⸀διάκονοι δι’ ὧν ἐπιστεύσατε, καὶ ἑκάστῳ ὡς ὁ κύριος ἔδωκεν.",
+    "pt_aa": "Pois, que é Apolo, e que é Paulo, senão ministros pelos quais crestes, e isso conforme o que o Senhor concedeu a cada um?"
+   },
+   "6": {
+    "peshitta": "ܐܢܐ ܢܨܒܬ ܘܐܦܠܘ ܐܫܩܝ ܐܠܐ ܐܠܗܐ ܪܒܝ",
+    "grego_sblgnt": "ἐγὼ ἐφύτευσα, Ἀπολλῶς ἐπότισεν, ἀλλὰ ὁ θεὸς ηὔξανεν·",
+    "pt_aa": "Eu plantei; Apolo regou; mas Deus deu o crescimento."
+   },
+   "7": {
+    "peshitta": "ܠܐ ܗܟܝܠ ܗܘ ܕܢܨܒ ܐܝܬܘܗܝ ܡܕܡ ܘܠܐ ܗܘ ܕܡܫܩܐ ܐܠܐ ܐܠܗܐ ܕܡܪܒܐ",
+    "grego_sblgnt": "ὥστε οὔτε ὁ φυτεύων ἐστίν τι οὔτε ὁ ποτίζων, ἀλλ’ ὁ αὐξάνων θεός.",
+    "pt_aa": "De modo que, nem o que planta é alguma coisa, nem o que rega, mas Deus, que dá o crescimento."
+   },
+   "8": {
+    "peshitta": "ܡܢ ܕܢܨܒ ܕܝܢ ܘܡܢ ܕܡܫܩܐ ܚܕ ܐܢܘܢ ܘܐܢܫ ܐܝܟ ܥܡܠܗ ܐܓܪܗ ܡܩܒܠ",
+    "grego_sblgnt": "ὁ φυτεύων δὲ καὶ ὁ ποτίζων ἕν εἰσιν, ἕκαστος δὲ τὸν ἴδιον μισθὸν λήμψεται κατὰ τὸν ἴδιον κόπον,",
+    "pt_aa": "Ora, uma só coisa é o que planta e o que rega; e cada um receberá o seu galardão segundo o seu trabalho."
+   },
+   "9": {
+    "peshitta": "ܥܡ ܐܠܗܐ ܓܝܪ ܦܠܚܝܢܢ ܘܦܘܠܚܢܐ ܕܐܠܗܐ ܘܒܢܝܢܐ ܕܐܠܗܐ ܐܢܬܘܢ ܐܢܘܢ",
+    "grego_sblgnt": "θεοῦ γάρ ἐσμεν συνεργοί· θεοῦ γεώργιον, θεοῦ οἰκοδομή ἐστε.",
+    "pt_aa": "Porque nós somos cooperadores de Deus; vós sois lavoura de Deus e edifício de Deus."
+   },
+   "10": {
+    "peshitta": "ܘܐܝܟ ܛܝܒܘܬܐ ܕܐܠܗܐ ܕܐܬܝܗܒܬ ܠܝ ܣܡܬ ܫܬܐܣܬܐ ܐܝܟ ܐܪܕܟܠܐ ܚܟܝܡܐ ܐܚܪܢܐ ܕܝܢ ܥܠܝܗ ܒܢܐ ܟܠܢܫ ܕܝܢ ܢܚܙܐ ܐܝܟܢ ܒܢܐ ܥܠܝܗ",
+    "grego_sblgnt": "Κατὰ τὴν χάριν τοῦ θεοῦ τὴν δοθεῖσάν μοι ὡς σοφὸς ἀρχιτέκτων θεμέλιον ⸀ἔθηκα, ἄλλος δὲ ἐποικοδομεῖ. ἕκαστος δὲ βλεπέτω πῶς ἐποικοδομεῖ·",
+    "pt_aa": "Segundo a graça de Deus que me foi dada, lancei eu como sábio construtor, o fundamento, e outro edifica sobre ele; mas veja cada um como edifica sobre ele."
+   },
+   "11": {
+    "peshitta": "ܫܬܐܣܬܐ ܓܝܪ ܐܚܪܬܐ ܣܛܪ ܡܢ ܗܕܐ ܕܣܝܡܐ ܐܢܫ ܠܐ ܡܫܟܚ ܠܡܣܡ ܕܐܝܬܝܗ ܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "θεμέλιον γὰρ ἄλλον οὐδεὶς δύναται θεῖναι παρὰ τὸν κείμενον, ὅς ἐστιν Ἰησοῦς Χριστός·",
+    "pt_aa": "Porque ninguém pode lançar outro fundamento, além do que já está posto, o qual é Jesus Cristo."
+   },
+   "12": {
+    "peshitta": "ܘܐܢ ܐܢܫ ܕܝܢ ܒܢܐ ܥܠ ܗܕܐ ܫܬܐܣܬܐ ܕܗܒܐ ܐܘ ܣܐܡܐ ܐܘ ܟܐܦܐ ܝܩܝܪܬܐ ܐܘ ܩܝܣܐ ܐܘ ܥܡܝܪܐ ܐܘ ܚܒܬܐ",
+    "grego_sblgnt": "εἰ δέ τις ἐποικοδομεῖ ἐπὶ τὸν ⸀θεμέλιον ⸂χρυσόν, ἄργυρον⸃, λίθους τιμίους, ξύλα, χόρτον, καλάμην,",
+    "pt_aa": "E, se alguém sobre este fundamento levanta um edifício de ouro, prata, pedras preciosas, madeira, feno, palha,"
+   },
+   "13": {
+    "peshitta": "ܥܒܕܐ ܕܟܠܢܫ ܡܬܓܠܐ ܝܘܡܐ ܓܝܪ ܗܘ ܓܠܐ ܠܗ ܡܛܠ ܕܒܢܘܪܐ ܡܬܓܠܐ ܘܥܒܕܗ ܕܟܠܢܫ ܐܝܟܢܐ ܐܝܬܘܗܝ ܢܘܪܐ ܬܦܪܫܝܘܗܝ",
+    "grego_sblgnt": "ἑκάστου τὸ ἔργον φανερὸν γενήσεται, ἡ γὰρ ἡμέρα δηλώσει· ὅτι ἐν πυρὶ ἀποκαλύπτεται, καὶ ἑκάστου τὸ ἔργον ὁποῖόν ἐστιν τὸ πῦρ ⸀αὐτὸ δοκιμάσει.",
+    "pt_aa": "a obra de cada um se manifestará; pois aquele dia a demonstrará, porque será revelada no fogo, e o fogo provará qual seja a obra de cada um."
+   },
+   "14": {
+    "peshitta": "ܘܐܝܢܐ ܕܢܩܘܐ ܥܒܕܗ ܗܘ ܕܒܢܐ ܐܓܪܗ ܢܩܒܠ",
+    "grego_sblgnt": "εἴ τινος τὸ ἔργον μενεῖ ὃ ἐποικοδόμησεν, μισθὸν λήμψεται·",
+    "pt_aa": "Se permanecer a obra que alguém sobre ele edificou, esse receberá galardão."
+   },
+   "15": {
+    "peshitta": "ܘܐܝܢܐ ܕܥܒܕܗ ܢܐܩܕ ܢܚܣܪ ܗܘ ܕܝܢ ܢܫܬܘܙܒ ܗܟܢܐ ܕܝܢ ܐܝܟ ܕܡܢ ܢܘܪܐ",
+    "grego_sblgnt": "εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται, αὐτὸς δὲ σωθήσεται, οὕτως δὲ ὡς διὰ πυρός.",
+    "pt_aa": "Se a obra de alguém se queimar, sofrerá ele prejuízo; mas o tal será salvo todavia como que pelo fogo."
+   },
+   "16": {
+    "peshitta": "ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܗܝܟܠܗ ܐܢܬܘܢ ܕܐܠܗܐ ܘܪܘܚܗ ܕܐܠܗܐ ܥܡܪܐ ܒܟܘܢ",
+    "grego_sblgnt": "Οὐκ οἴδατε ὅτι ναὸς θεοῦ ἐστε καὶ τὸ πνεῦμα τοῦ θεοῦ ⸂οἰκεῖ ἐν ὑμῖν⸃;",
+    "pt_aa": "Não sabeis vós que sois santuário de Deus, e que o Espírito de Deus habita em vós?"
+   },
+   "17": {
+    "peshitta": "ܘܡܢ ܕܡܚܒܠ ܗܝܟܠܗ ܕܐܠܗܐ ܡܚܒܠ ܠܗ ܐܠܗܐ ܗܝܟܠܗ ܓܝܪ ܕܐܠܗܐ ܩܕܝܫ ܗܘ ܕܐܢܬܘܢ ܐܢܘܢ",
+    "grego_sblgnt": "εἴ τις τὸν ναὸν τοῦ θεοῦ φθείρει, φθερεῖ τοῦτον ὁ θεός· ὁ γὰρ ναὸς τοῦ θεοῦ ἅγιός ἐστιν, οἵτινές ἐστε ὑμεῖς.",
+    "pt_aa": "Se alguém destruir o santuário de Deus, Deus o destruirá; porque sagrado é o santuário de Deus, que sois vós."
+   },
+   "18": {
+    "peshitta": "ܐܢܫ ܠܐ ܢܛܥܐ ܢܦܫܗ ܡܢ ܕܣܒܪ ܒܟܘܢ ܕܚܟܝܡ ܗܘ ܒܥܠܡܐ ܗܢܐ ܢܗܘܐ ܠܗ ܣܟܠܐ ܕܢܗܘܐ ܚܟܝܡܐ",
+    "grego_sblgnt": "Μηδεὶς ἑαυτὸν ἐξαπατάτω· εἴ τις δοκεῖ σοφὸς εἶναι ἐν ὑμῖν ἐν τῷ αἰῶνι τούτῳ, μωρὸς γενέσθω, ἵνα γένηται σοφός,",
+    "pt_aa": "Ninguém se engane a si mesmo; se alguém dentre vós se tem por sábio neste mundo, faça-se louco para se tornar sábio."
+   },
+   "19": {
+    "peshitta": "ܚܟܡܬܗ ܓܝܪ ܕܥܠܡܐ ܗܢܐ ܠܠܘܬܐ ܗܝ ܠܘܬ ܐܠܗܐ ܟܬܝܒ ܗܘ ܓܝܪ ܕܐܚܕ ܚܟܝܡܐ ܒܚܪܥܘܬܗܘܢ",
+    "grego_sblgnt": "ἡ γὰρ σοφία τοῦ κόσμου τούτου μωρία παρὰ τῷ θεῷ ἐστιν· γέγραπται γάρ· Ὁ δρασσόμενος τοὺς σοφοὺς ἐν τῇ πανουργίᾳ αὐτῶν·",
+    "pt_aa": "Porque a sabedoria deste mundo é loucura diante de Deus; pois está escrito: Ele apanha os sábios na sua própria astúcia;"
+   },
+   "20": {
+    "peshitta": "ܘܬܘܒ ܡܪܝܐ ܝܕܥ ܡܚܫܒܬܗܘܢ ܕܚܟܝܡܐ ܕܣܪܝܩܢ ܐܢܝܢ",
+    "grego_sblgnt": "καὶ πάλιν· Κύριος γινώσκει τοὺς διαλογισμοὺς τῶν σοφῶν ὅτι εἰσὶν μάταιοι.",
+    "pt_aa": "e outra vez: O Senhor conhece as cogitações dos sábios, que são vãs."
+   },
+   "21": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܠܐ ܐܢܫ ܢܫܬܒܗܪ ܒܒܢܝܢܫܐ ܟܠܡܕܡ ܓܝܪ ܕܝܠܟܘܢ ܗܘ",
+    "grego_sblgnt": "ὥστε μηδεὶς καυχάσθω ἐν ἀνθρώποις· πάντα γὰρ ὑμῶν ἐστιν,",
+    "pt_aa": "Portanto ninguém se glorie nos homens; porque tudo é vosso;"
+   },
+   "22": {
+    "peshitta": "ܐܢ ܦܘܠܘܣ ܘܐܢ ܐܦܠܘ ܘܐܢ ܟܐܦܐ ܘܐܢ ܥܠܡܐ ܘܐܢ ܚܝܐ ܘܐܢ ܡܘܬܐ ܘܐܢ ܕܩܝܡܢ ܘܐܢ ܕܥܬܝܕܢ ܟܠ ܡܕܡ ܕܝܠܟܘܢ ܗܘ",
+    "grego_sblgnt": "εἴτε Παῦλος εἴτε Ἀπολλῶς εἴτε Κηφᾶς εἴτε κόσμος εἴτε ζωὴ εἴτε θάνατος εἴτε ἐνεστῶτα εἴτε μέλλοντα, πάντα ⸀ὑμῶν,",
+    "pt_aa": "seja Paulo, ou Apolo, ou Cefas; seja o mundo, ou a vida, ou a morte; sejam as coisas presentes, ou as vindouras, tudo é vosso,"
+   },
+   "23": {
+    "peshitta": "ܘܐܢܬܘܢ ܕܡܫܝܚܐ ܘܡܫܝܚܐ ܕܐܠܗܐ",
+    "grego_sblgnt": "ὑμεῖς δὲ Χριστοῦ, Χριστὸς δὲ θεοῦ.",
+    "pt_aa": "e vós de Cristo, e Cristo de Deus."
+   }
+  },
+  "4": {
+   "1": {
+    "peshitta": "ܗܟܢܐ ܗܘܝܢ ܚܫܝܒܝܢ ܠܟܘܢ ܐܝܟ ܡܫܡܫܢܐ ܕܡܫܝܚܐ ܘܪܒܝ ܒܬܐ ܕܐܪܙܘܗܝ ܕܐܠܗܐ",
+    "grego_sblgnt": "Οὕτως ἡμᾶς λογιζέσθω ἄνθρωπος ὡς ὑπηρέτας Χριστοῦ καὶ οἰκονόμους μυστηρίων θεοῦ.",
+    "pt_aa": "Que os homens nos considerem, pois, como ministros de Cristo, e despenseiros dos mistérios de Deus."
+   },
+   "2": {
+    "peshitta": "ܗܪܟܐ ܡܟܝܠ ܡܬܒܥܐ ܒܪܒܝ ܒܬܐ ܕܐܢܫ ܟܕ ܡܗܝܡܢ ܢܫܬܟܚ",
+    "grego_sblgnt": "⸀ὧδε λοιπὸν ζητεῖται ἐν τοῖς οἰκονόμοις ἵνα πιστός τις εὑρεθῇ.",
+    "pt_aa": "Ora, além disso, o que se requer nos despenseiros é que cada um seja encontrado fiel."
+   },
+   "3": {
+    "peshitta": "ܠܝ ܕܝܢ ܗܕܐ ܒܨܝܪܘܬܐ ܗܝ ܠܝ ܕܡܢܟܘܢ ܐܬܕܝܢ ܐܘ ܡܢ ܟܠ ܒܪ ܐܢܫ ܐܠܐ ܐܦܠܐ ܐܢܐ ܢܦܫܝ ܕܐܢ ܐܢܐ",
+    "grego_sblgnt": "ἐμοὶ δὲ εἰς ἐλάχιστόν ἐστιν, ἵνα ὑφ’ ὑμῶν ἀνακριθῶ ἢ ὑπὸ ἀνθρωπίνης ἡμέρας· ἀλλ’ οὐδὲ ἐμαυτὸν ἀνακρίνω·",
+    "pt_aa": "Todavia, a mim mui pouco se me dá de ser julgado por vós, ou por qualquer tribunal humano; nem eu tampouco a mim mesmo me julgo."
+   },
+   "4": {
+    "peshitta": "ܠܐ ܓܝܪ ܡܕܡ ܒܢܦܫܝ ܚܫܝܫ ܐܢܐ ܐܠܐ ܠܘ ܒܗܕܐ ܐܙܕܕܩܬ ܕܝܢܝ ܓܝܪ ܡܪܝܐ ܗܘ",
+    "grego_sblgnt": "οὐδὲν γὰρ ἐμαυτῷ σύνοιδα, ἀλλ’ οὐκ ἐν τούτῳ δεδικαίωμαι, ὁ δὲ ἀνακρίνων με κύριός ἐστιν.",
+    "pt_aa": "Porque, embora em nada me sinta culpado, nem por isso sou justificado; pois quem me julga é o Senhor."
+   },
+   "5": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܠܐ ܡܢ ܩܕܡ ܙܒܢܐ ܬܗܘܘܢ ܕܝܢܝܢ ܥܕܡܐ ܕܢܐܬܐ ܡܪܝܐ ܗܘ ܕܡܢܗܪ ܟܣܝܬܗ ܕܚܫܘܟܐ ܘܓܠܐ ܡܚܫܒܬܗܘܢ ܕܠܒܘܬܐ ܘܗܝܕܝܢ ܢܗܘܐ ܫܘܒܚܐ ܠܐܢܫ ܐܢܫ ܡܢ ܐܠܗܐ",
+    "grego_sblgnt": "ὥστε μὴ πρὸ καιροῦ τι κρίνετε, ἕως ἂν ἔλθῃ ὁ κύριος, ὃς καὶ φωτίσει τὰ κρυπτὰ τοῦ σκότους καὶ φανερώσει τὰς βουλὰς τῶν καρδιῶν, καὶ τότε ὁ ἔπαινος γενήσεται ἑκάστῳ ἀπὸ τοῦ θεοῦ.",
+    "pt_aa": "Portanto nada julgueis antes do tempo, até que venha o Senhor, o qual não só trará à luz as coisas ocultas das trevas, mas também manifestará os desígnios dos corações; e então cada um receberá de Deus o seu louvor."
+   },
+   "6": {
+    "peshitta": "ܗܠܝܢ ܕܝܢ ܐܚܝ ܡܛܠܬܟܘܢ ܗܘ ܣܡܬ ܥܠ ܦܪܨܘܦܐ ܕܝܠܝ ܘܕܐܦܠܘ ܕܒܢ ܬܐܠܦܘܢ ܕܠܐ ܬܬܪܥܘܢ ܝܬܝܪ ܡܢ ܡܐ ܕܟܬܝܒ ܘܐܢܫ ܥܠ ܚܒܪܗ ܠܐ ܢܬܪܝܡ ܡܛܠ ܐܢܫ",
+    "grego_sblgnt": "Ταῦτα δέ, ἀδελφοί, μετεσχημάτισα εἰς ἐμαυτὸν καὶ ⸀Ἀπολλῶν δι’ ὑμᾶς, ἵνα ἐν ἡμῖν μάθητε τό· Μὴ ὑπὲρ ⸀ἃ ⸀γέγραπται, ἵνα μὴ εἷς ὑπὲρ τοῦ ἑνὸς φυσιοῦσθε κατὰ τοῦ ἑτέρου.",
+    "pt_aa": "Ora, irmãos, estas coisas eu as apliquei figuradamente a mim e a Apolo, por amor de vós; para que em nós aprendais a não ir além do que está escrito, de modo que nenhum de vós se ensoberbeça a favor de um contra outro."
+   },
+   "7": {
+    "peshitta": "ܡܢܘ ܓܝܪ ܒܨܟ ܐܘ ܡܢܐ ܐܝܬ ܠܟ ܕܠܐ ܢܣܒܬ ܘܐܢ ܢܣܒܬ ܠܡܢܐ ܡܫܬܒܗܪ ܐܢܬ ܐܝܟ ܗܘ ܕܠܐ ܢܣܒܬ",
+    "grego_sblgnt": "τίς γάρ σε διακρίνει; τί δὲ ἔχεις ὃ οὐκ ἔλαβες; εἰ δὲ καὶ ἔλαβες, τί καυχᾶσαι ὡς μὴ λαβών;",
+    "pt_aa": "Pois, quem te diferença? E que tens tu que não tenhas recebido? E, se o recebeste, por que te glorias, como se não o houveras recebido?"
+   },
+   "8": {
+    "peshitta": "ܡܢ ܟܕܘ ܣܒܥܬܘܢ ܠܟܘܢ ܘܥܬܪܬܘܢ ܘܒܠܥܕܝܢ ܐܡܠܟܬܘܢ ܐܫܬܘܦ ܕܝܢ ܐܡܠܟܬܘܢ ܕܐܦ ܚܢܢ ܢܡܠܟ ܥܡܟܘܢ",
+    "grego_sblgnt": "Ἤδη κεκορεσμένοι ἐστέ, ἤδη ἐπλουτήσατε, χωρὶς ἡμῶν ἐβασιλεύσατε· καὶ ὄφελόν γε ἐβασιλεύσατε, ἵνα καὶ ἡμεῖς ὑμῖν συμβασιλεύσωμεν.",
+    "pt_aa": "Já estais fartos! já estais ricos! sem nós já chegastes a reinar! e oxalá reinásseis de fato, para que também nós reinássemos convosco!"
+   },
+   "9": {
+    "peshitta": "ܣܒܪ ܐܢܐ ܓܝܪ ܕܠܢ ܠܫܠܝܚܐ ܐܚܪܝܐ ܗܘ ܣܡܢ ܐܠܗܐ ܐܝܟ ܕܠܡܘܬܐ ܕܗܘܝܢ ܬܐܛܪܘܢ ܠܥܠܡܐ ܘܠܡܠܐܟܐ ܘܠܒܢܝܢܫܐ",
+    "grego_sblgnt": "δοκῶ ⸀γάρ, ὁ θεὸς ἡμᾶς τοὺς ἀποστόλους ἐσχάτους ἀπέδειξεν ὡς ἐπιθανατίους, ὅτι θέατρον ἐγενήθημεν τῷ κόσμῳ καὶ ἀγγέλοις καὶ ἀνθρώποις.",
+    "pt_aa": "Porque tenho para mim, que Deus a nós, apóstolos, nos pôs por últimos, como condenados à morte; pois somos feitos espetáculo ao mundo, tanto a anjos como a homens."
+   },
+   "10": {
+    "peshitta": "ܚܢܢ ܫܛܝܐ ܡܛܠ ܡܫܝܚܐ ܐܢܬܘܢ ܕܝܢ ܚܟܝܡܐ ܒܡܫܝܚܐ ܚܢܢ ܟܪܝܗܐ ܘܐܢܬܘܢ ܚܝܠܬܢܐ ܐܢܬܘܢ ܡܫܬܒܚܝܢ ܘܚܢܢ ܡܨܛܥܪܝܢ",
+    "grego_sblgnt": "ἡμεῖς μωροὶ διὰ Χριστόν, ὑμεῖς δὲ φρόνιμοι ἐν Χριστῷ· ἡμεῖς ἀσθενεῖς, ὑμεῖς δὲ ἰσχυροί· ὑμεῖς ἔνδοξοι, ἡμεῖς δὲ ἄτιμοι.",
+    "pt_aa": "Nós somos loucos por amor de Cristo, e vós sábios em Cristo; nós fracos, e vós fortes; vós ilustres, e nós desprezíveis."
+   },
+   "11": {
+    "peshitta": "ܥܕܡܐ ܠܗܕܐ ܫܥܬܐ ܟܦܢܝܢܢ ܘܨܗܝܢܢ ܘܥܪܛܠܝܝܢܢ ܘܡܬܩܦܚܝܢܢ ܘܒܝܬ ܩܝܡܐ ܠܝܬ ܠܢ",
+    "grego_sblgnt": "ἄχρι τῆς ἄρτι ὥρας καὶ πεινῶμεν καὶ διψῶμεν καὶ γυμνιτεύομεν καὶ κολαφιζόμεθα καὶ ἀστατοῦμεν",
+    "pt_aa": "Até a presente hora padecemos fome, e sede; estamos nus, e recebemos bofetadas, e não temos pousada certa,"
+   },
+   "12": {
+    "peshitta": "ܘܠܐܝܢܢ ܟܕ ܦܠܚܝܢܢ ܒܐܝܕܝܢ ܡܨܥܪܝܢ ܠܢ ܘܡܒܪܟܝܢܢ ܪܕܦܝܢ ܠܢ ܘܡܣܝܒܪܝܢܢ",
+    "grego_sblgnt": "καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν· λοιδορούμενοι εὐλογοῦμεν, διωκόμενοι ἀνεχόμεθα,",
+    "pt_aa": "e nos afadigamos, trabalhando com nossas próprias mãos; somos injuriados, e bendizemos; somos perseguidos, e o suportamos;"
+   },
+   "13": {
+    "peshitta": "ܡܨܚܝܢ ܠܢ ܘܒܥܝܢܢ ܡܢܗܘܢ ܐܝܟ ܢܦܬܐ ܕܥܠܡܐ ܗܘܝܢ ܘܟܘܦܪܐ ܕܟܠܢܫ ܥܕܡܐ ܠܗܫܐ",
+    "grego_sblgnt": "⸀δυσφημούμενοι παρακαλοῦμεν· ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν, πάντων περίψημα ἕως ἄρτι.",
+    "pt_aa": "somos difamados, e exortamos; até o presente somos considerados como o refugo do mundo, e como a escória de tudo."
+   },
+   "14": {
+    "peshitta": "ܠܐ ܗܘܐ ܐܝܟ ܕܐܒܗܬܟܘܢ ܟܬܒ ܐܢܐ ܗܠܝܢ ܐܠܐ ܐܝܟ ܕܠܒܢܝܐ ܚܒܝܒܐ ܡܪܬܐ ܐܢܐ",
+    "grego_sblgnt": "Οὐκ ἐντρέπων ὑμᾶς γράφω ταῦτα, ἀλλ’ ὡς τέκνα μου ἀγαπητὰ ⸀νουθετῶν·",
+    "pt_aa": "Não escrevo estas coisas para vos envergonhar, mas para vos admoestar, como a filhos meus amados."
+   },
+   "15": {
+    "peshitta": "ܐܢ ܓܝܪ ܪܒܘ ܬܪܐܐ ܢܗܘܘܢ ܠܟܘܢ ܒܡܫܝܚܐ ܐܠܐ ܠܐ ܣܓܝܐܐ ܐܒܗܐ ܒܝܫܘܥ ܓܝܪ ܡܫܝܚܐ ܐܢܐ ܗܘ ܐܘܠܕܬܟܘܢ ܒܣܒܪܬܐ",
+    "grego_sblgnt": "ἐὰν γὰρ μυρίους παιδαγωγοὺς ἔχητε ἐν Χριστῷ, ἀλλ’ οὐ πολλοὺς πατέρας, ἐν γὰρ Χριστῷ Ἰησοῦ διὰ τοῦ εὐαγγελίου ἐγὼ ὑμᾶς ἐγέννησα.",
+    "pt_aa": "Porque ainda que tenhais dez mil aios em Cristo, não tendes contudo muitos pais; pois eu pelo evangelho vos gerei em Cristo Jesus."
+   },
+   "16": {
+    "peshitta": "ܒܥܐ ܐܢܐ ܗܟܝܠ ܡܢܟܘܢ ܕܒܝ ܬܬܕܡܘܢ",
+    "grego_sblgnt": "παρακαλῶ οὖν ὑμᾶς, μιμηταί μου γίνεσθε.",
+    "pt_aa": "Rogo-vos, portanto, que sejais meus imitadores."
+   },
+   "17": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܫܕܪܬ ܠܘܬܟܘܢ ܠܛܝܡܬܐܘܣ ܕܐܝܬܘܗܝ ܒܪܝ ܚܒܝܒܐ ܘܡܗܝܡܢܐ ܒܡܪܝܐ ܕܗܘ ܢܥܗܕܟܘܢ ܐܘܪܚܬܝ ܕܒܡܫܝܚܐ ܐܝܟ ܡܕܡ ܕܡܠܦ ܐܢܐ ܒܟܠܗܝܢ ܥܕܬܐ",
+    "grego_sblgnt": "διὰ τοῦτο ἔπεμψα ὑμῖν Τιμόθεον, ὅς ἐστίν ⸂μου τέκνον⸃ ἀγαπητὸν καὶ πιστὸν ἐν κυρίῳ, ὃς ὑμᾶς ἀναμνήσει τὰς ὁδούς μου τὰς ἐν Χριστῷ ⸀Ἰησοῦ, καθὼς πανταχοῦ ἐν πάσῃ ἐκκλησίᾳ διδάσκω.",
+    "pt_aa": "Por isso mesmo vos enviei Timóteo, que é meu filho amado, e fiel no Senhor; o qual vos lembrará os meus caminhos em Cristo, como por toda parte eu ensino em cada igreja."
+   },
+   "18": {
+    "peshitta": "ܐܝܟ ܗܘ ܕܝܢ ܕܠܐ ܐܬܐ ܐܢܐ ܠܘܬܟܘܢ ܐܬܚܬܪܘ ܐܢܫܐ ܡܢܟܘܢ",
+    "grego_sblgnt": "ὡς μὴ ἐρχομένου δέ μου πρὸς ὑμᾶς ἐφυσιώθησάν τινες·",
+    "pt_aa": "Mas alguns andam inchados, como se eu não houvesse de ir ter convosco."
+   },
+   "19": {
+    "peshitta": "ܐܠܐ ܐܢ ܡܪܝܐ ܨܒܐ ܒܥܓܠ ܐܬܐ ܐܢܐ ܠܘܬܟܘܢ ܘܐܕܥ ܠܐ ܡܠܬܗܘܢ ܕܗܠܝܢ ܕܡܪܝܡܝܢ ܢܦܫܗܘܢ ܐܠܐ ܚܝܠܗܘܢ",
+    "grego_sblgnt": "ἐλεύσομαι δὲ ταχέως πρὸς ὑμᾶς, ἐὰν ὁ κύριος θελήσῃ, καὶ γνώσομαι οὐ τὸν λόγον τῶν πεφυσιωμένων ἀλλὰ τὴν δύναμιν,",
+    "pt_aa": "Em breve, porém, irei ter convosco, se o Senhor quiser, e então conhecerei, não as palavras dos que andam inchados, mas o poder."
+   },
+   "20": {
+    "peshitta": "ܡܠܟܘܬܗ ܓܝܪ ܕܐܠܗܐ ܠܐ ܗܘܬ ܒܡܠܬܐ ܐܠܐ ܒܚܝܠܐ",
+    "grego_sblgnt": "οὐ γὰρ ἐν λόγῳ ἡ βασιλεία τοῦ θεοῦ ἀλλ’ ἐν δυνάμει.",
+    "pt_aa": "Porque o reino de Deus não consiste em palavras, mas em poder."
+   },
+   "21": {
+    "peshitta": "ܐܝܟܢܐ ܨܒܝܢ ܐܢܬܘܢ ܒܚܘܛܪܐ ܐܬܐ ܠܘܬܟܘܢ ܐܘ ܒܚܘܒܐ ܘܒܪܘܚܐ ܡܟܝܟܬܐ",
+    "grego_sblgnt": "τί θέλετε; ἐν ῥάβδῳ ἔλθω πρὸς ὑμᾶς, ἢ ἐν ἀγάπῃ πνεύματί τε πραΰτητος;",
+    "pt_aa": "Que quereis? Irei a vós com vara, ou com amor e espírito de mansidão?"
+   }
+  },
+  "5": {
+   "1": {
+    "peshitta": "ܣܟܐ ܡܫܬܡܥܐ ܒܝܢܬܟܘܢ ܙܢܝܘܬܐ ܘܕܐܝܟ ܗܕܐ ܙܢܝܘܬܐ ܐܝܕܐ ܕܐܦܠܐ ܒܝܬ ܚܢܦܐ ܡܫܬܡܗܐ ܥܕܡܐ ܕܢܣܒ ܒܪܐ ܐܢܬܬ ܐܒܘܗܝ",
+    "grego_sblgnt": "Ὅλως ἀκούεται ἐν ὑμῖν πορνεία, καὶ τοιαύτη πορνεία ἥτις οὐδὲ ἐν τοῖς ⸀ἔθνεσιν, ὥστε γυναῖκά τινα τοῦ πατρὸς ἔχειν.",
+    "pt_aa": "Geralmente se ouve que há entre vós imoralidade, imoralidade que nem mesmo entre os gentios se vê, a ponto de haver quem vive com a mulher de seu pai."
+   },
+   "2": {
+    "peshitta": "ܘܐܢܬܘܢ ܚܬܝܪܝܢ ܐܢܬܘܢ ܘܠܐ ܕܝܢ ܝܬܝܪܐܝܬ ܝܬܒܬܘܢ ܒܐܒܠܐ ܕܢܫܬܩܠ ܡܢ ܒܝܢܬܟܘܢ ܗܘ ܡܢ ܕܗܢܐ ܣܘܥܪܢܐ ܣܥܪ",
+    "grego_sblgnt": "καὶ ὑμεῖς πεφυσιωμένοι ἐστέ, καὶ οὐχὶ μᾶλλον ἐπενθήσατε, ἵνα ⸀ἀρθῇ ἐκ μέσου ὑμῶν ὁ τὸ ἔργον τοῦτο ⸀ποιήσας;",
+    "pt_aa": "E vós estais inchados? e nem ao menos pranteastes para que fosse tirado do vosso meio quem praticou esse mal?"
+   },
+   "3": {
+    "peshitta": "ܐܢܐ ܓܝܪ ܟܕ ܪܚܝܩ ܐܢܐ ܡܢܟܘܢ ܒܦܓܪ ܘܩܪܝܒ ܐܢܐ ܠܟܘܢ ܒܪܘܚ ܡܢ ܟܕܘ ܕܢܬ ܐܝܟ ܩܪܝܒܐ ܠܗܘ ܡܢ ܕܗܕܐ ܣܥܪ",
+    "grego_sblgnt": "Ἐγὼ μὲν γάρ, ⸀ἀπὼν τῷ σώματι παρὼν δὲ τῷ πνεύματι, ἤδη κέκρικα ὡς παρὼν τὸν οὕτως τοῦτο κατεργασάμενον",
+    "pt_aa": "Eu, na verdade, ainda que ausente no corpo, mas presente no espírito, já julguei, como se estivesse presente, aquele que cometeu este ultraje."
+   },
+   "4": {
+    "peshitta": "ܕܒܫܡܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܬܬܟܢܫܘܢ ܟܠܟܘܢ ܘܐܢܐ ܥܡܟܘܢ ܒܪܘܚ ܥܡ ܚܝܠܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "ἐν τῷ ὀνόματι τοῦ κυρίου ἡμῶν ⸀Ἰησοῦ, συναχθέντων ὑμῶν καὶ τοῦ ἐμοῦ πνεύματος σὺν τῇ δυνάμει τοῦ κυρίου ἡμῶν ⸁Ἰησοῦ,",
+    "pt_aa": "Em nome de nosso Senhor Jesus, congregados vós e o meu espírito, pelo poder de nosso Senhor Jesus,"
+   },
+   "5": {
+    "peshitta": "ܘܬܫܠܡܘܢܗ ܠܗܢܐ ܠܣܛܢܐ ܠܐܒܕܢܐ ܕܦܓܪܗ ܕܒܪܘܚ ܢܚܐ ܒܝܘܡܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "παραδοῦναι τὸν τοιοῦτον τῷ Σατανᾷ εἰς ὄλεθρον τῆς σαρκός, ἵνα τὸ πνεῦμα σωθῇ ἐν τῇ ἡμέρᾳ τοῦ ⸀κυρίου.",
+    "pt_aa": "seja entregue a Satanás para destruição da carne, para que o espírito seja salvo no dia do Senhor Jesus."
+   },
+   "6": {
+    "peshitta": "ܠܐ ܫܦܝܪ ܫܘܒܗܪܟܘܢ ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܚܡܝܪܐ ܩܠܝܠ ܟܠܗ ܓܒܝܠܬܐ ܡܚܡܥ",
+    "grego_sblgnt": "Οὐ καλὸν τὸ καύχημα ὑμῶν. οὐκ οἴδατε ὅτι μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ;",
+    "pt_aa": "Não é boa a vossa jactância. Não sabeis que um pouco de fermento leveda a massa toda?"
+   },
+   "7": {
+    "peshitta": "ܕܟܘ ܡܢܟܘܢ ܚܡܝܪܐ ܥܬܝܩܐ ܕܬܗܘܘܢ ܓܒܝܠܬܐ ܚܕܬܐ ܐܝܟܢܐ ܕܐܝܬܝܟܘܢ ܦܛܝܪܐ ܦܨܚܐ ܓܝܪ ܕܝܠܢ ܡܫܝܚܐ ܗܘ ܕܐܬܢܟܣ ܚܠܦܝܢ",
+    "grego_sblgnt": "ἐκκαθάρατε τὴν παλαιὰν ζύμην, ἵνα ἦτε νέον φύραμα, καθώς ἐστε ἄζυμοι. καὶ γὰρ τὸ πάσχα ⸀ἡμῶν ἐτύθη Χριστός·",
+    "pt_aa": "Expurgai o fermento velho, para que sejais massa nova, assim como sois sem fermento. Porque Cristo, nossa páscoa, já foi sacrificado."
+   },
+   "8": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܢܥܒܕ ܥܕܥܕܐ ܠܐ ܒܚܡܝܪܐ ܥܬܝܩܐ ܘܠܐ ܒܚܡܝܪܐ ܕܒܝܫܘܬܐ ܘܕܡܪܝܪܘܬܐ ܐܠܐ ܒܚܡܝܪܐ ܕܕܟܝܘܬܐ ܘܕܩܕܝܫܘܬܐ",
+    "grego_sblgnt": "ὥστε ἑορτάζωμεν, μὴ ἐν ζύμῃ παλαιᾷ μηδὲ ἐν ζύμῃ κακίας καὶ πονηρίας, ἀλλ’ ἐν ἀζύμοις εἰλικρινείας καὶ ἀληθείας.",
+    "pt_aa": "Pelo que celebremos a festa, não com o fermento velho, nem com o fermento da malícia e da corrupção, mas com os ázimos da sinceridade e da verdade."
+   },
+   "9": {
+    "peshitta": "ܟܬܒܬ ܠܟܘܢ ܒܐܓܪܬܐ ܕܠܐ ܬܬܚܠܛܘܢ ܥܡ ܙܢܝܐ",
+    "grego_sblgnt": "Ἔγραψα ὑμῖν ἐν τῇ ἐπιστολῇ μὴ συναναμίγνυσθαι πόρνοις,",
+    "pt_aa": "Já por carta vos escrevi que não vos comunicásseis com os que se prostituem;"
+   },
+   "10": {
+    "peshitta": "ܠܐ ܕܝܢ ܐܡܪ ܐܢܐ ܥܠ ܙܢܝܐ ܕܒܥܠܡܐ ܗܢܐ ܐܘ ܥܠ ܥܠܘܒܐ ܐܘ ܥܠ ܚܛܘܦܐ ܐܘ ܥܠ ܦܠܚܝ ܦܬܟܪܐ ܘܐܢ ܠܐ ܚܝܒܝܢ ܗܘܝܬܘܢ ܐܦ ܡܢ ܥܠܡܐ ܠܡܦܩ",
+    "grego_sblgnt": "⸀οὐ πάντως τοῖς πόρνοις τοῦ κόσμου τούτου ἢ τοῖς πλεονέκταις ⸀καὶ ἅρπαξιν ἢ εἰδωλολάτραις, ἐπεὶ ⸀ὠφείλετε ἄρα ἐκ τοῦ κόσμου ἐξελθεῖν.",
+    "pt_aa": "com isso não me referia à comunicação em geral com os devassos deste mundo, ou com os avarentos, ou com os roubadores, ou com os idólatras; porque então vos seria necessário sair do mundo."
+   },
+   "11": {
+    "peshitta": "ܗܕܐ ܕܝܢ ܕܟܬܒܬ ܠܟܘܢ ܕܠܐ ܬܬܚܠܛܘܢ ܐܢ ܐܝܬ ܕܡܬܩܪܐ ܐܚܐ ܘܐܝܬܘܗܝ ܙܢܝܐ ܐܘ ܥܠܘܒܐ ܐܘ ܦܠܚ ܦܬܟܪܐ ܐܘ ܡܨܥܪܢ ܐܘ ܪܘܝ ܐܘ ܚܛܘܦ ܥܡ ܐܝܢܐ ܕܗܟܢܐ ܗܘ ܐܦܠܐ ܠܚܡܐ ܠܡܐܟܠ",
+    "grego_sblgnt": "νῦν δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ, τῷ τοιούτῳ μηδὲ συνεσθίειν.",
+    "pt_aa": "Mas agora vos escrevo que não vos comuniqueis com aquele que, dizendo-se irmão, for devasso, ou avarento, ou idólatra, ou maldizente, ou beberrão, ou roubador; com esse tal nem sequer comais."
+   },
+   "12": {
+    "peshitta": "ܡܐ ܠܝ ܓܝܪ ܠܡܕܢ ܠܒܪܝܐ ܐܢܬܘܢ ܠܕܠܓܘ ܕܘܢܘ",
+    "grego_sblgnt": "τί γάρ ⸀μοι τοὺς ἔξω κρίνειν; οὐχὶ τοὺς ἔσω ὑμεῖς κρίνετε,",
+    "pt_aa": "Pois, que me importa julgar os que estão de fora? Não julgais vós os que estão de dentro?"
+   },
+   "13": {
+    "peshitta": "ܠܒܪܝܐ ܕܝܢ ܐܠܗܐ ܕܐܢ ܘܫܘܩܠܘܗܝ ܠܒܝܫܐ ܡܢ ܒܝܢܬܟܘܢ",
+    "grego_sblgnt": "τοὺς δὲ ἔξω ὁ θεὸς ⸀κρίνει; ⸀ἐξάρατε τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν.",
+    "pt_aa": "Mas Deus julga os que estão de fora. Tirai esse iníquo do meio de vós."
+   }
+  },
+  "6": {
+   "1": {
+    "peshitta": "ܡܡܪܚ ܐܢܫ ܡܢܟܘܢ ܟܕ ܐܝܬ ܠܗ ܕܝܢܐ ܥܡ ܐܚܘܗܝ ܕܢܕܘܢ ܩܕܡ ܥܘܠܐ ܘܠܐ ܩܕܡ ܩܕܝܫܐ",
+    "grego_sblgnt": "Τολμᾷ τις ὑμῶν πρᾶγμα ἔχων πρὸς τὸν ἕτερον κρίνεσθαι ἐπὶ τῶν ἀδίκων, καὶ οὐχὶ ἐπὶ τῶν ἁγίων;",
+    "pt_aa": "Ousa algum de vós, tendo uma queixa contra outro, ir a juízo perante os injustos, e não perante os santos?"
+   },
+   "2": {
+    "peshitta": "ܐܘ ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܩܕܝܫܐ ܠܥܠܡܐ ܢܕܘܢܘܢ ܘܐܢ ܥܠܡܐ ܒܟܘܢ ܡܬܕܝܢ ܠܐ ܫܘܝܢ ܐܢܬܘܢ ܠܡܕܢ ܕܝܢܐ ܕܩܕܩܐ",
+    "grego_sblgnt": "⸀ἢ οὐκ οἴδατε ὅτι οἱ ἅγιοι τὸν κόσμον κρινοῦσιν; καὶ εἰ ἐν ὑμῖν κρίνεται ὁ κόσμος, ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων;",
+    "pt_aa": "Ou não sabeis vós que os santos hão de julgar o mundo? Ora, se o mundo há de ser julgado por vós, sois porventura indignos de julgar as coisas mínimas?"
+   },
+   "3": {
+    "peshitta": "ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܠܡܠܐܟܐ ܕܝܢܝܢܢ ܚܕ ܟܡܐ ܐܝܠܝܢ ܕܕܥܠܡܐ ܐܢܝܢ ܗܢܐ",
+    "grego_sblgnt": "οὐκ οἴδατε ὅτι ἀγγέλους κρινοῦμεν, μήτιγε βιωτικά;",
+    "pt_aa": "Não sabeis vós que havemos de julgar os anjos? Quanto mais as coisas pertencentes a esta vida?"
+   },
+   "4": {
+    "peshitta": "ܐܠܐ ܐܢ ܐܝܬ ܠܟܘܢ ܕܝܢܐ ܥܠ ܕܥܠܡܐ ܠܐܝܠܝܢ ܕܒܣܝܢ ܒܥܕܬܐ ܐܘܬܒܘ ܠܟܘܢ ܒܕܝܢܐ",
+    "grego_sblgnt": "βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε, τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ, τούτους καθίζετε;",
+    "pt_aa": "Então, se tiverdes negócios em juízo, pertencentes a esta vida, constituís como juízes deles os que são de menos estima na igreja?"
+   },
+   "5": {
+    "peshitta": "ܠܟܘܐܪܐ ܗܘ ܕܝܢ ܐܡܪ ܐܢܐ ܠܟܘܢ ܗܟܢܐ ܠܝܬ ܒܟܘܢ ܐܦܠܐ ܚܕ ܚܟܝܡܐ ܕܢܫܟܚ ܢܫܘܐ ܒܝܬ ܐܚܐ ܠܐܚܘܗܝ",
+    "grego_sblgnt": "πρὸς ἐντροπὴν ὑμῖν λέγω. οὕτως οὐκ ἔνι ἐν ὑμῖν ⸂οὐδεὶς σοφὸς⸃ ὃς δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ⸀ἀδελφοῦ αὐτοῦ,",
+    "pt_aa": "Para vos envergonhar o digo. Será que não há entre vós sequer um sábio, que possa julgar entre seus irmãos?"
+   },
+   "6": {
+    "peshitta": "ܐܠܐ ܐܚܐ ܥܡ ܐܚܘܗܝ ܡܬܕܝܢ ܘܬܘܒ ܩܕܡ ܐܝܠܝܢ ܕܠܐ ܡܗܝܡܢܝܢ",
+    "grego_sblgnt": "ἀλλὰ ἀδελφὸς μετὰ ἀδελφοῦ κρίνεται, καὶ τοῦτο ἐπὶ ἀπίστων;",
+    "pt_aa": "Mas vai um irmão a juízo contra outro irmão, e isto perante incrédulos?"
+   },
+   "7": {
+    "peshitta": "ܡܢ ܟܕܘ ܗܟܝܠ ܩܢܘܡܟܘܢ ܚܒܬܘܢ ܠܟܘܢ ܕܕܝܢܐ ܚܕ ܥܡ ܚܕ ܐܝܬ ܠܟܘܢ ܡܛܠ ܡܢܐ ܓܝܪ ܠܐ ܡܬܥܠܒܝܢ ܐܢܬܘܢ ܘܡܛܠ ܡܢܐ ܠܐ ܡܬܓܠܙܝܢ ܐܢܬܘܢ",
+    "grego_sblgnt": "ἤδη μὲν ⸀οὖν ὅλως ἥττημα ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθ’ ἑαυτῶν· διὰ τί οὐχὶ μᾶλλον ἀδικεῖσθε; διὰ τί οὐχὶ μᾶλλον ἀποστερεῖσθε;",
+    "pt_aa": "Na verdade já é uma completa derrota para vós o terdes demandadas uns contra os outros. Por que não sofreis antes a injustiça? Por que não sofreis antes a fraude?"
+   },
+   "8": {
+    "peshitta": "ܐܠܐ ܐܢܬܘܢ ܥܠܒܝܢ ܐܢܬܘܢ ܘܓܠܙܝܢ ܐܢܬܘܢ ܐܦ ܠܐܚܝܟܘܢ",
+    "grego_sblgnt": "ἀλλὰ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε, καὶ ⸀τοῦτο ἀδελφούς.",
+    "pt_aa": "Mas vós mesmos é que fazeis injustiça e defraudais; e isto a irmãos."
+   },
+   "9": {
+    "peshitta": "ܐܘ ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܥܘܠܐ ܡܠܟܘܬܗ ܕܐܠܗܐ ܠܐ ܝܪܬܝܢ ܠܐ ܬܛܥܘܢ ܠܐ ܙܢܝܐ ܘܠܐ ܦܠܚܝ ܦܬܟܪܐ ܘܠܐ ܓܝܪܐ ܘܠܐ ܡܚܒܠܐ ܘܠܐ ܫܟܒܝ ܥܡ ܕܟܪܐ",
+    "grego_sblgnt": "Ἢ οὐκ οἴδατε ὅτι ἄδικοι ⸂θεοῦ βασιλείαν⸃ οὐ κληρονομήσουσιν; μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται",
+    "pt_aa": "Não sabeis que os injustos não herdarão o reino de Deus? Não vos enganeis: nem os devassos, nem os idólatras, nem os adúlteros, nem os efeminados, nem os sodomitas,"
+   },
+   "10": {
+    "peshitta": "ܘܠܐ ܥܠܘܒܐ ܘܠܐ ܓܢܒܐ ܘܠܐ ܪܘܝܐ ܘܠܐ ܡܨܥܪܢܐ ܘܠܐ ܚܛܘܦܐ ܗܠܝܢ ܡܠܟܘܬܗ ܕܐܠܗܐ ܠܐ ܝܪܬܝܢ",
+    "grego_sblgnt": "οὔτε ⸂κλέπται οὔτε πλεονέκται⸃, ⸀οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες βασιλείαν ⸀θεοῦ κληρονομήσουσιν.",
+    "pt_aa": "nem os ladrões, nem os avarentos, nem os bêbedos, nem os maldizentes, nem os roubadores herdarão o reino de Deus."
+   },
+   "11": {
+    "peshitta": "ܘܗܠܝܢ ܐܝܬ ܗܘܝ ܒܐܢܫ ܐܢܫ ܡܢܟܘܢ ܐܠܐ ܣܚܝܬܘܢ ܘܐܬܩܕܫܬܘܢ ܘܐܙܕܕܩܬܘܢ ܒܫܡܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܘܒܪܘܚܗ ܕܐܠܗܢ",
+    "grego_sblgnt": "καὶ ταῦτά τινες ἦτε· ἀλλὰ ἀπελούσασθε, ἀλλὰ ἡγιάσθητε, ἀλλὰ ἐδικαιώθητε ἐν τῷ ὀνόματι τοῦ κυρίου ⸀Ἰησοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν.",
+    "pt_aa": "E tais fostes alguns de vós; mas fostes lavados, mas fostes santificados, mas fostes justificados em nome do Senhor Jesus Cristo e no Espírito do nosso Deus."
+   },
+   "12": {
+    "peshitta": "ܟܠ ܫܠܝܛ ܠܝ ܐܠܐ ܠܐ ܟܠ ܦܩܚ ܠܝ ܟܠ ܫܠܝܛ ܠܝ ܐܠܐ ܥܠܝ ܐܢܫ ܠܐ ܢܫܬܠܛ",
+    "grego_sblgnt": "Πάντα μοι ἔξεστιν· ἀλλ’ οὐ πάντα συμφέρει. πάντα μοι ἔξεστιν· ἀλλ’ οὐκ ἐγὼ ἐξουσιασθήσομαι ὑπό τινος.",
+    "pt_aa": "Todas as coisas me são lícitas, mas nem todas as coisas convêm. Todas as coisas me são lícitas; mas eu não me deixarei dominar por nenhuma delas."
+   },
+   "13": {
+    "peshitta": "ܡܐܟܘܠܬܐ ܕܟܪܣܐ ܘܟܪܣܐ ܕܡܐܟܘܠܬܐ ܐܠܗܐ ܕܝܢ ܠܬܪܬܝܗܝܢ ܡܒܛܠ ܦܓܪܐ ܕܝܢ ܠܐ ܠܙܢܝܘܬܐ ܐܠܐ ܠܡܪܢ ܘܡܪܢ ܠܦܓܪܐ",
+    "grego_sblgnt": "τὰ βρώματα τῇ κοιλίᾳ, καὶ ἡ κοιλία τοῖς βρώμασιν· ὁ δὲ θεὸς καὶ ταύτην καὶ ταῦτα καταργήσει. τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ, καὶ ὁ κύριος τῷ σώματι·",
+    "pt_aa": "Os alimentos são para o estômago e o estômago para os alimentos; Deus, porém aniquilará, tanto um como os outros. Mas o corpo não é para a prostituição, mas para o Senhor, e o Senhor para o corpo."
+   },
+   "14": {
+    "peshitta": "ܐܠܗܐ ܕܝܢ ܘܠܡܪܢ ܐܩܝܡ ܘܠܢ ܡܩܝܡ ܒܚܝܠܗ",
+    "grego_sblgnt": "ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως αὐτοῦ.",
+    "pt_aa": "Ora, Deus não somente ressuscitou ao Senhor, mas também nos ressuscitará a nós pelo seu poder."
+   },
+   "15": {
+    "peshitta": "ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܦܓܪܝܟܘܢ ܗܕܡܐ ܐܢܘܢ ܕܡܫܝܚܐ ܢܣܒ ܗܕܡܐ ܕܡܫܝܚܐ ܢܥܒܕܝܘܗܝ ܗܕܡܐ ܕܙܢܝܬܐ ܚܣ",
+    "grego_sblgnt": "οὐκ οἴδατε ὅτι τὰ σώματα ὑμῶν μέλη Χριστοῦ ἐστιν; ἄρας οὖν τὰ μέλη τοῦ Χριστοῦ ποιήσω πόρνης μέλη; μὴ γένοιτο.",
+    "pt_aa": "Não sabeis vós que os vossos corpos são membros de Cristo? Tomarei pois os membros de Cristo, e os farei membros de uma meretriz? De modo nenhum."
+   },
+   "16": {
+    "peshitta": "ܐܘ ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܡܢ ܕܢܩܦ ܠܙܢܝܬܐ ܚܕ ܗܘ ܦܓܪ ܐܡܝܪ ܓܝܪ ܕܢܗܘܘܢ ܬܪܝܗܘܢ ܚܕ ܦܓܪ",
+    "grego_sblgnt": "⸀ἢ οὐκ οἴδατε ὅτι ὁ κολλώμενος τῇ πόρνῃ ἓν σῶμά ἐστιν; Ἔσονται γάρ, φησίν, οἱ δύο εἰς σάρκα μίαν.",
+    "pt_aa": "Ou não sabeis que o que se une à meretriz, faz-se um corpo com ela? Porque, como foi dito, os dois serão uma só carne."
+   },
+   "17": {
+    "peshitta": "ܡܢ ܕܢܩܦ ܕܝܢ ܠܡܪܢ ܗܘܐ ܥܡܗ ܚܕܐ ܪܘܚ",
+    "grego_sblgnt": "ὁ δὲ κολλώμενος τῷ κυρίῳ ἓν πνεῦμά ἐστιν.",
+    "pt_aa": "Mas, o que se une ao Senhor é um só espírito com ele."
+   },
+   "18": {
+    "peshitta": "ܥܪܘܩܘ ܡܢ ܙܢܝܘܬܐ ܟܠ ܚܛܝܬܐ ܕܢܥܒܕ ܒܪܢܫܐ ܠܒܪ ܡܢ ܦܓܪܗ ܗܝ ܡܢ ܕܡܙܢܐ ܕܝܢ ܒܦܓܪܗ ܗܘ ܚܛܐ",
+    "grego_sblgnt": "φεύγετε τὴν πορνείαν· πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος ἐκτὸς τοῦ σώματός ἐστιν, ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶμα ἁμαρτάνει.",
+    "pt_aa": "Fugi da prostituição. Qualquer outro pecado que o homem comete, é fora do corpo; mas o que se prostitui peca contra o seu próprio corpo."
+   },
+   "19": {
+    "peshitta": "ܐܘ ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܦܓܪܟܘܢ ܗܝܟܠܐ ܗܘ ܕܪܘܚܐ ܕܩܘܕܫܐ ܕܥܡܪܐ ܒܟܘܢ ܗܝ ܕܩܒܠܬܘܢ ܡܢ ܐܠܗܐ ܘܠܐ ܗܘܝܬܘܢ ܕܢܦܫܟܘܢ",
+    "grego_sblgnt": "ἢ οὐκ οἴδατε ὅτι τὸ σῶμα ὑμῶν ναὸς τοῦ ἐν ὑμῖν ἁγίου πνεύματός ἐστιν, οὗ ἔχετε ἀπὸ θεοῦ; καὶ οὐκ ἐστὲ ἑαυτῶν,",
+    "pt_aa": "Ou não sabeis que o vosso corpo é santuário do Espírito Santo, que habita em vós, o qual possuís da parte de Deus, e que não sois de vós mesmos?"
+   },
+   "20": {
+    "peshitta": "ܐܙܕܒܢܬܘܢ ܓܝܪ ܒܕܡܝܐ ܗܘܝܬܘܢ ܗܟܝܠ ܡܫܒܚܝܢ ܠܐܠܗܐ ܒܦܓܪܟܘܢ ܘܒܪܘܚܟܘܢ ܗܢܘܢ ܕܐܝܬܝܗܘܢ ܕܐܠܗܐ",
+    "grego_sblgnt": "ἠγοράσθητε γὰρ τιμῆς· δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ⸀ὑμῶν.",
+    "pt_aa": "Porque fostes comprados por preço; glorificai pois a Deus no vosso corpo."
+   }
+  },
+  "7": {
+   "1": {
+    "peshitta": "ܥܠ ܐܝܠܝܢ ܕܟܬܒܬܘܢ ܠܝ ܕܝܢ ܫܦܝܪ ܗܘ ܠܓܒܪܐ ܕܠܐܢܬܬܐ ܠܐ ܢܬܩܪܒ",
+    "grego_sblgnt": "Περὶ δὲ ὧν ⸀ἐγράψατε, καλὸν ἀνθρώπῳ γυναικὸς μὴ ἅπτεσθαι·",
+    "pt_aa": "Ora, quanto às coisas de que me escrevestes, bom seria que o homem não tocasse em mulher;"
+   },
+   "2": {
+    "peshitta": "ܐܠܐ ܡܛܠ ܙܢܝܘܬܐ ܐܢܫ ܐܢܬܬܗ ܢܐܚܘܕ ܘܐܢܬܬܐ ܠܒܥܠܗ ܬܐܚܘܕ",
+    "grego_sblgnt": "διὰ δὲ τὰς πορνείας ἕκαστος τὴν ἑαυτοῦ γυναῖκα ἐχέτω, καὶ ἑκάστη τὸν ἴδιον ἄνδρα ἐχέτω.",
+    "pt_aa": "mas, por causa da prostituição, tenha cada homem sua própria mulher e cada mulher seu próprio marido."
+   },
+   "3": {
+    "peshitta": "ܓܒܪܐ ܠܐܢܬܬܗ ܚܘܒܐ ܕܡܬܬܚܝܒ ܢܦܪܘܥ ܗܟܢܐ ܐܦ ܗܝ ܐܢܬܬܐ ܠܒܥܠܗ",
+    "grego_sblgnt": "τῇ γυναικὶ ὁ ἀνὴρ τὴν ⸀ὀφειλὴν ἀποδιδότω, ὁμοίως δὲ καὶ ἡ γυνὴ τῷ ἀνδρί.",
+    "pt_aa": "O marido pague à mulher o que lhe é devido, e do mesmo modo a mulher ao marido."
+   },
+   "4": {
+    "peshitta": "ܐܢܬܬܐ ܠܐ ܫܠܝܛܐ ܥܠ ܦܓܪܗ ܐܠܐ ܒܥܠܗ ܗܟܢܐ ܐܦ ܓܒܪܐ ܠܐ ܫܠܝܛ ܥܠ ܦܓܪܗ ܐܠܐ ܐܢܬܬܗ",
+    "grego_sblgnt": "ἡ γυνὴ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλὰ ὁ ἀνήρ· ὁμοίως δὲ καὶ ὁ ἀνὴρ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλὰ ἡ γυνή.",
+    "pt_aa": "A mulher não tem autoridade sobre o seu próprio corpo, mas sim o marido; e também da mesma sorte o marido não tem autoridade sobre o seu próprio corpo, mas sim a mulher."
+   },
+   "5": {
+    "peshitta": "ܠܐ ܗܟܝܠ ܬܓܠܙܘܢ ܚܕ ܠܚܕ ܐܠܐ ܐܡܬܝ ܕܬܪܝܟܘܢ ܬܫܬܘܘܢ ܒܙܒܢ ܕܬܬܥܢܘܢ ܠܨܘܡܐ ܘܠܨܠܘܬܐ ܘܬܘܒ ܠܗ ܠܨܒܘܬܐ ܬܬܦܢܘܢ ܕܠܐ ܢܢܣܝܟܘܢ ܣܛܢܐ ܡܛܠ ܪܓܬܐ ܕܦܓܪܟܘܢ",
+    "grego_sblgnt": "μὴ ἀποστερεῖτε ἀλλήλους, εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρὸν ἵνα ⸀σχολάσητε ⸀τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ ⸀ἦτε, ἵνα μὴ πειράζῃ ὑμᾶς ὁ Σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν.",
+    "pt_aa": "Não vos negueis um ao outro, senão de comum acordo por algum tempo, a fim de vos aplicardes à oração e depois vos ajuntardes outra vez, para que Satanás não vos tente pela vossa incontinência."
+   },
+   "6": {
+    "peshitta": "ܗܕܐ ܕܝܢ ܐܡܪ ܐܢܐ ܐܝܟ ܕܠܡܚܝܠܐ ܠܘ ܡܢ ܦܘܩܕܢܐ",
+    "grego_sblgnt": "τοῦτο δὲ λέγω κατὰ συγγνώμην, οὐ κατ’ ἐπιταγήν.",
+    "pt_aa": "Digo isto, porém, como que por concessão e não por mandamento."
+   },
+   "7": {
+    "peshitta": "ܐܢܐ ܓܝܪ ܨܒܐ ܐܢܐ ܕܟܠܗܘܢ ܒܢܝܢܫܐ ܐܟܘܬܝ ܢܗܘܘܢ ܒܕܟܝܘܬܐ ܐܠܐ ܟܠܢܫ ܡܘܗܒܬܐ ܝܗܝܒܐ ܠܗ ܡܢ ܐܠܗܐ ܐܝܬ ܕܗܟܢܐ ܘܐܝܬ ܕܗܟܢܐ",
+    "grego_sblgnt": "θέλω ⸀δὲ πάντας ἀνθρώπους εἶναι ὡς καὶ ἐμαυτόν· ἀλλὰ ἕκαστος ἴδιον ⸂ἔχει χάρισμα⸃ ἐκ θεοῦ, ⸀ὁ μὲν οὕτως, ⸁ὁ δὲ οὕτως.",
+    "pt_aa": "Contudo queria que todos os homens fossem como eu mesmo; mas cada um tem de Deus o seu próprio dom, um deste modo, e outro daquele."
+   },
+   "8": {
+    "peshitta": "ܐܡܪ ܐܢܐ ܕܝܢ ܠܐܝܠܝܢ ܕܠܝܬ ܠܗܘܢ ܢܫܐ ܘܠܐܪܡܠܬܐ ܕܦܩܚ ܠܗܘܢ ܐܢ ܢܩܘܘܢ ܐܟܘܬܝ",
+    "grego_sblgnt": "Λέγω δὲ τοῖς ἀγάμοις καὶ ταῖς χήραις, καλὸν ⸀αὐτοῖς ἐὰν μείνωσιν ὡς κἀγώ·",
+    "pt_aa": "Digo, porém, aos solteiros e às viúvas, que lhes é bom se ficarem como eu."
+   },
+   "9": {
+    "peshitta": "ܐܢ ܠܐ ܕܝܢ ܡܣܝܒܪܝܢ ܢܙܕܘܓܘܢ ܦܩܚ ܓܝܪ ܠܡܣܒ ܐܢܬܬܐ ܛܒ ܡܢ ܕܠܡܐܩܕ ܒܪܓܬܐ",
+    "grego_sblgnt": "εἰ δὲ οὐκ ἐγκρατεύονται, γαμησάτωσαν, κρεῖττον γάρ ἐστιν ⸀γαμῆσαι ἢ πυροῦσθαι.",
+    "pt_aa": "Mas, se não podem conter-se, casem-se. Porque é melhor casar do que abrasar-se."
+   },
+   "10": {
+    "peshitta": "ܠܐܝܠܝܢ ܕܝܢ ܕܐܝܬ ܠܗܘܢ ܢܫܐ ܡܦܩܕ ܐܢܐ ܠܐ ܐܢܐ ܐܠܐ ܡܪܝ ܕܐܢܬܬܐ ܡܢ ܒܥܠܗ ܠܐ ܬܦܪܘܫ",
+    "grego_sblgnt": "Τοῖς δὲ γεγαμηκόσιν παραγγέλλω, οὐκ ἐγὼ ἀλλὰ ὁ κύριος, γυναῖκα ἀπὸ ἀνδρὸς μὴ χωρισθῆναι—",
+    "pt_aa": "Todavia, aos casados, mando, não eu mas o Senhor, que a mulher não se aparte do marido;"
+   },
+   "11": {
+    "peshitta": "ܘܐܢ ܬܦܪܘܫ ܬܩܘܐ ܕܠܐ ܓܒܪܐ ܐܘ ܠܒܥܠܗ ܬܬܪܥܐ ܘܓܒܪܐ ܠܐܢܬܬܗ ܠܐ ܢܫܒܘܩ",
+    "grego_sblgnt": "ἐὰν δὲ καὶ χωρισθῇ, μενέτω ἄγαμος ἢ τῷ ἀνδρὶ καταλλαγήτω— καὶ ἄνδρα γυναῖκα μὴ ἀφιέναι.",
+    "pt_aa": "se, porém, se apartar, que fique sem casar, ou se reconcilie com o marido; e que o marido não deixe a mulher."
+   },
+   "12": {
+    "peshitta": "ܠܫܪܟܐ ܕܝܢ ܐܡܪ ܐܢܐ ܐܢܐ ܠܐ ܡܪܝ ܐܢ ܐܝܬ ܐܚܐ ܕܐܝܬ ܠܗ ܐܢܬܬܐ ܕܠܐ ܡܗܝܡܢܐ ܘܗܝ ܨܒܝܐ ܕܬܥܡܪ ܥܡܗ ܠܐ ܢܫܒܩܝܗ",
+    "grego_sblgnt": "Τοῖς δὲ λοιποῖς ⸂λέγω ἐγώ⸃, οὐχ ὁ κύριος· εἴ τις ἀδελφὸς γυναῖκα ἔχει ἄπιστον, καὶ αὕτη συνευδοκεῖ οἰκεῖν μετ’ αὐτοῦ, μὴ ἀφιέτω αὐτήν·",
+    "pt_aa": "Mas aos outros digo eu, não o Senhor: Se algum irmão tem mulher incrédula, e ela consente em habitar com ele, não se separe dela."
+   },
+   "13": {
+    "peshitta": "ܘܐܢܬܬܐ ܐܝܕܐ ܕܐܝܬ ܠܗ ܒܥܠܐ ܕܠܐ ܡܗܝܡܢ ܘܗܘ ܨܒܐ ܕܢܥܡܪ ܥܡܗ ܠܐ ܬܫܒܘܩ ܒܥܠܗ",
+    "grego_sblgnt": "καὶ γυνὴ ⸂εἴ τις⸃ ἔχει ἄνδρα ἄπιστον, καὶ ⸀οὗτος συνευδοκεῖ οἰκεῖν μετ’ αὐτῆς, μὴ ἀφιέτω ⸂τὸν ἄνδρα⸃.",
+    "pt_aa": "E se alguma mulher tem marido incrédulo, e ele consente em habitar com ela, não se separe dele."
+   },
+   "14": {
+    "peshitta": "ܡܩܕܫ ܗܘ ܓܝܪ ܓܒܪܐ ܐܝܢܐ ܕܠܐ ܡܗܝܡܢ ܒܐܢܬܬܐ ܕܡܗܝܡܢܐ ܘܡܩܕܫܐ ܗܝ ܐܢܬܬܐ ܐܝܕܐ ܕܠܐ ܡܗܝܡܢܐ ܒܓܒܪܐ ܕܡܗܝܡܢ ܘܐܢ ܠܐ ܒܢܝܗܘܢ ܛܡܐܝܢ ܐܢܘܢ ܗܫܐ ܕܝܢ ܕܟܝܢ ܐܢܘܢ",
+    "grego_sblgnt": "ἡγίασται γὰρ ὁ ἀνὴρ ὁ ἄπιστος ἐν τῇ γυναικί, καὶ ἡγίασται ἡ γυνὴ ἡ ἄπιστος ἐν τῷ ⸀ἀδελφῷ· ἐπεὶ ἄρα τὰ τέκνα ὑμῶν ἀκάθαρτά ἐστιν, νῦν δὲ ἅγιά ἐστιν.",
+    "pt_aa": "Porque o marido incrédulo é santificado pela mulher, e a mulher incrédula é santificada pelo marido crente; de outro modo, os vossos filhos seriam imundos; mas agora são santos."
+   },
+   "15": {
+    "peshitta": "ܐܢ ܕܝܢ ܗܘ ܕܠܐ ܡܗܝܡܢ ܦܪܫ ܢܦܪܘܫ ܠܐ ܡܫܥܒܕ ܐܚܐ ܐܘ ܚܬܐ ܒܗܠܝܢ ܠܫܠܡܐ ܗܘ ܩܪܢ ܐܠܗܐ",
+    "grego_sblgnt": "εἰ δὲ ὁ ἄπιστος χωρίζεται, χωριζέσθω· οὐ δεδούλωται ὁ ἀδελφὸς ἢ ἡ ἀδελφὴ ἐν τοῖς τοιούτοις, ἐν δὲ εἰρήνῃ κέκληκεν ⸀ἡμᾶς ὁ θεός.",
+    "pt_aa": "Mas, se o incrédulo se apartar, aparte-se; porque neste caso o irmão, ou a irmã, não está sujeito à servidão; pois Deus nos chamou em paz."
+   },
+   "16": {
+    "peshitta": "ܡܢܐ ܓܝܪ ܝܕܥܐ ܐܢܬܝ ܐܢܬܬܐ ܐܢ ܠܒܥܠܟܝ ܬܚܝܢ ܐܘ ܐܢܬ ܓܒܪܐ ܝܕܥ ܐܢܬ ܐܢ ܠܐܢܬܬܟ ܬܚܐ",
+    "grego_sblgnt": "τί γὰρ οἶδας, γύναι, εἰ τὸν ἄνδρα σώσεις; ἢ τί οἶδας, ἄνερ, εἰ τὴν γυναῖκα σώσεις;",
+    "pt_aa": "Pois, como sabes tu, ó mulher, se salvarás teu marido? ou, como sabes tu, ó marido, se salvarás tua mulher?"
+   },
+   "17": {
+    "peshitta": "ܐܠܐ ܐܢܫ ܐܢܫ ܐܝܟ ܕܦܠܓ ܠܗ ܡܪܝܐ ܘܐܢܫ ܐܝܟ ܕܩܪܝܗܝ ܐܠܗܐ ܗܟܢܐ ܢܗܠܟ ܘܐܦ ܠܟܠܗܝܢ ܥܕܬܐ ܗܟܢܐ ܡܦܩܕ ܐܢܐ",
+    "grego_sblgnt": "Εἰ μὴ ἑκάστῳ ὡς ⸀ἐμέρισεν ὁ ⸀κύριος, ἕκαστον ὡς κέκληκεν ὁ ⸀θεός, οὕτως περιπατείτω· καὶ οὕτως ἐν ταῖς ἐκκλησίαις πάσαις διατάσσομαι.",
+    "pt_aa": "Somente ande cada um como o Senhor lhe repartiu, cada um como Deus o chamou. E é isso o que ordeno em todas as igrejas."
+   },
+   "18": {
+    "peshitta": "ܐܢ ܟܕ ܓܙܝܪ ܐܢܫ ܐܬܩܪܝ ܠܐ ܢܗܦܘܟ ܠܗ ܠܥܘܪܠܘܬܐ ܘܐܢ ܒܥܘܪܠܘܬܐ ܐܬܩܪܝ ܠܐ ܢܓܙܘܪ",
+    "grego_sblgnt": "περιτετμημένος τις ἐκλήθη; μὴ ἐπισπάσθω· ἐν ἀκροβυστίᾳ ⸂κέκληταί τις⸃; μὴ περιτεμνέσθω.",
+    "pt_aa": "Foi chamado alguém, estando circuncidado? permaneça assim. Foi alguém chamado na incircuncisão? não se circuncide."
+   },
+   "19": {
+    "peshitta": "ܓܙܘܪܬܐ ܓܝܪ ܠܐ ܗܘܬ ܡܕܡ ܐܦ ܠܐ ܥܘܪܠܘܬܐ ܐܠܐ ܢܛܘܪܬܐ ܕܦܘܩܕܢܘܗܝ ܕܐܠܗܐ",
+    "grego_sblgnt": "ἡ περιτομὴ οὐδέν ἐστιν, καὶ ἡ ἀκροβυστία οὐδέν ἐστιν, ἀλλὰ τήρησις ἐντολῶν θεοῦ.",
+    "pt_aa": "A circuncisão nada é, e também a incircuncisão nada é, mas sim a observância dos mandamentos de Deus."
+   },
+   "20": {
+    "peshitta": "ܟܠܢܫ ܒܩܪܝܢܐ ܕܐܬܩܪܝ ܒܗ ܢܩܘܐ",
+    "grego_sblgnt": "ἕκαστος ἐν τῇ κλήσει ᾗ ἐκλήθη ἐν ταύτῃ μενέτω.",
+    "pt_aa": "Cada um fique no estado em que foi chamado."
+   },
+   "21": {
+    "peshitta": "ܐܢ ܥܒܕܐ ܐܬܩܪܝܬ ܠܐ ܢܬܒܛܠ ܠܟ ܐܠܐ ܐܦܢ ܡܫܟܚ ܐܢܬ ܠܡܬܚܪܪܘ ܓܒܝ ܠܟ ܕܬܦܠܘܚ",
+    "grego_sblgnt": "Δοῦλος ἐκλήθης; μή σοι μελέτω· ἀλλ’ εἰ καὶ δύνασαι ἐλεύθερος γενέσθαι, μᾶλλον χρῆσαι.",
+    "pt_aa": "Foste chamado sendo escravo? não te dê cuidado; mas se ainda podes tornar-te livre, aproveita a oportunidade."
+   },
+   "22": {
+    "peshitta": "ܐܝܢܐ ܓܝܪ ܕܥܒܕܐ ܐܬܩܪܝ ܒܡܪܢ ܡܚܪܪܐ ܗܘ ܕܐܠܗܐ ܗܟܢܐ ܐܦ ܐܝܢܐ ܕܒܪ ܚܐܪܐ ܐܬܩܪܝ ܥܒܕܐ ܗܘ ܕܡܫܝܚܐ",
+    "grego_sblgnt": "ὁ γὰρ ἐν κυρίῳ κληθεὶς δοῦλος ἀπελεύθερος κυρίου ἐστίν· ⸀ὁμοίως ὁ ἐλεύθερος κληθεὶς δοῦλός ἐστιν Χριστοῦ.",
+    "pt_aa": "Pois aquele que foi chamado no Senhor, mesmo sendo escravo, é um liberto do Senhor; e assim também o que foi chamado sendo livre, escravo é de Cristo."
+   },
+   "23": {
+    "peshitta": "ܒܕܡܝܐ ܐܙܕܒܢܬܘܢ ܠܐ ܬܗܘܘܢ ܥܒܕܐ ܕܒܢܝܢܫܐ",
+    "grego_sblgnt": "τιμῆς ἠγοράσθητε· μὴ γίνεσθε δοῦλοι ἀνθρώπων.",
+    "pt_aa": "Por preço fostes comprados; mas vos façais escravos de homens."
+   },
+   "24": {
+    "peshitta": "ܟܠܢܫ ܒܡܕܡ ܕܐܬܩܪܝ ܐܚܝ ܒܗ ܢܩܘܐ ܠܘܬ ܐܠܗܐ",
+    "grego_sblgnt": "ἕκαστος ἐν ᾧ ἐκλήθη, ἀδελφοί, ἐν τούτῳ μενέτω παρὰ θεῷ.",
+    "pt_aa": "Irmãos, cada um fique diante de Deus no estado em que foi chamado."
+   },
+   "25": {
+    "peshitta": "ܥܠ ܒܬܘܠܘܬܐ ܕܝܢ ܦܘܩܕܢܐ ܡܢ ܐܠܗܐ ܠܐ ܐܚܝܕ ܐܢܐ ܡܠܟܐ ܕܝܢ ܝܗܒ ܐܢܐ ܐܝܟ ܓܒܪܐ ܕܐܬܚܢܢܬ ܡܢ ܐܠܗܐ ܕܐܗܘܐ ܡܗܝܡܢ",
+    "grego_sblgnt": "Περὶ δὲ τῶν παρθένων ἐπιταγὴν κυρίου οὐκ ἔχω, γνώμην δὲ δίδωμι ὡς ἠλεημένος ὑπὸ κυρίου πιστὸς εἶναι.",
+    "pt_aa": "Ora, quanto às virgens, não tenho mandamento do Senhor; dou, porém, o meu parecer, como quem tem alcançado misericórdia do Senhor para ser fiel."
+   },
+   "26": {
+    "peshitta": "ܘܣܒܪ ܐܢܐ ܕܗܕܐ ܫܦܝܪܐ ܡܛܠ ܐܢܢܩܐ ܕܙܒܢܐ ܕܦܩܚ ܠܗ ܠܒܪܢܫܐ ܕܗܟܢܐ ܢܗܘܐ",
+    "grego_sblgnt": "νομίζω οὖν τοῦτο καλὸν ὑπάρχειν διὰ τὴν ἐνεστῶσαν ἀνάγκην, ὅτι καλὸν ἀνθρώπῳ τὸ οὕτως εἶναι.",
+    "pt_aa": "Acho, pois, que é bom, por causa da instante necessidade, que a pessoa fique como está."
+   },
+   "27": {
+    "peshitta": "ܐܣܝܪ ܐܢܬ ܒܐܢܬܬܐ ܠܐ ܬܒܥܐ ܫܪܝܐ ܫܪܐ ܐܢܬ ܡܢ ܐܢܬܬܐ ܠܐ ܬܒܥܐ ܐܢܬܬܐ",
+    "grego_sblgnt": "δέδεσαι γυναικί; μὴ ζήτει λύσιν· λέλυσαι ἀπὸ γυναικός; μὴ ζήτει γυναῖκα·",
+    "pt_aa": "Estás ligado a mulher? não procures separação. Estás livre de mulher? não procures casamento."
+   },
+   "28": {
+    "peshitta": "ܘܐܢ ܬܣܒ ܐܢܬܬܐ ܠܐ ܚܛܐ ܐܢܬ ܘܐܢ ܒܬܘܠܬܐ ܬܗܘܐ ܠܓܒܪܐ ܠܐ ܚܛܝܐ ܐܘܠܨܢܐ ܕܝܢ ܒܦܓܪ ܗܘܐ ܠܐܝܠܝܢ ܕܗܟܢܐ ܐܢܘܢ ܐܢܐ ܕܝܢ ܥܠܝܟܘܢ ܚܐܣ ܐܢܐ",
+    "grego_sblgnt": "ἐὰν δὲ καὶ ⸀γαμήσῃς, οὐχ ἥμαρτες. καὶ ἐὰν γήμῃ ἡ παρθένος, οὐχ ἥμαρτεν. θλῖψιν δὲ τῇ σαρκὶ ἕξουσιν οἱ τοιοῦτοι, ἐγὼ δὲ ὑμῶν φείδομαι.",
+    "pt_aa": "Mas, se te casares, não pecaste; e, se a virgem se casar, não pecou. Todavia estes padecerão tribulação na carne e eu quisera poupar-vos."
+   },
+   "29": {
+    "peshitta": "ܘܗܕܐ ܐܡܪ ܐܢܐ ܐܚܝ ܕܙܒܢܐ ܡܟܝܠ ܐܙܕܠܗܙ ܠܗ ܕܐܝܠܝܢ ܕܐܝܬ ܠܗܘܢ ܢܫܐ ܢܗܘܘܢ ܐܝܟ ܕܠܝܬ ܠܗܘܢ",
+    "grego_sblgnt": "τοῦτο δέ φημι, ἀδελφοί, ὁ καιρὸς συνεσταλμένος ⸂ἐστίν· τὸ λοιπὸν⸃ ἵνα καὶ οἱ ἔχοντες γυναῖκας ὡς μὴ ἔχοντες ὦσιν,",
+    "pt_aa": "Isto, porém, vos digo, irmãos, que o tempo se abrevia; pelo que, doravante, os que têm mulher sejam como se não a tivessem;"
+   },
+   "30": {
+    "peshitta": "ܘܐܝܠܝܢ ܕܒܟܝܢ ܐܝܟ ܠܐ ܒܟܝܢ ܘܐܝܠܝܢ ܕܚܕܝܢ ܐܝܟ ܠܐ ܚܕܝܢ ܘܐܝܠܝܢ ܕܙܒܢܝܢ ܐܝܟ ܠܐ ܡܩܕܝܢ",
+    "grego_sblgnt": "καὶ οἱ κλαίοντες ὡς μὴ κλαίοντες, καὶ οἱ χαίροντες ὡς μὴ χαίροντες, καὶ οἱ ἀγοράζοντες ὡς μὴ κατέχοντες,",
+    "pt_aa": "os que choram, como se não chorassem; os que folgam, como se não folgassem; os que compram, como se não possuíssem;"
+   },
+   "31": {
+    "peshitta": "ܘܐܝܠܝܢ ܕܡܬܚܫܚܝܢ ܒܥܠܡܐ ܗܢܐ ܠܐ ܠܒܪ ܡܢ ܙܕܩܐ ܕܚܫܚܬܐ ܥܒܪ ܠܗ ܓܝܪ ܐܣܟܡܗ ܕܥܠܡܐ ܗܢܐ",
+    "grego_sblgnt": "καὶ οἱ χρώμενοι ⸂τὸν κόσμον⸃ ὡς μὴ καταχρώμενοι· παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου.",
+    "pt_aa": "e os que usam deste mundo, como se dele não usassem em absoluto, porque a aparência deste mundo passa."
+   },
+   "32": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܨܒܐ ܐܢܐ ܕܕܠܐ ܨܦܬܐ ܬܗܘܘܢ ܐܝܢܐ ܓܝܪ ܕܠܝܬ ܠܗ ܐܢܬܬܐ ܪܢܐ ܒܕܡܪܗ ܕܐܝܟܢܐ ܢܫܦܪ ܠܡܪܗ",
+    "grego_sblgnt": "Θέλω δὲ ὑμᾶς ἀμερίμνους εἶναι. ὁ ἄγαμος μεριμνᾷ τὰ τοῦ κυρίου, πῶς ⸀ἀρέσῃ τῷ κυρίῳ·",
+    "pt_aa": "Pois quero que estejais livres de cuidado. Quem não é casado cuida das coisas do Senhor, em como há de agradar ao Senhor,"
+   },
+   "33": {
+    "peshitta": "ܘܐܝܢܐ ܕܐܝܬ ܠܗ ܐܢܬܬܐ ܝܨܦ ܕܥܠܡܐ ܕܐܝܟܢܐ ܢܫܦܪ ܠܐܢܬܬܗ",
+    "grego_sblgnt": "ὁ δὲ γαμήσας μεριμνᾷ τὰ τοῦ κόσμου, πῶς ⸀ἀρέσῃ τῇ γυναικί,",
+    "pt_aa": "mas quem é casado cuida das coisas do mundo, em como há de agradar a sua mulher,"
+   },
+   "34": {
+    "peshitta": "ܦܘܪܫܢܐ ܕܝܢ ܐܝܬ ܐܦ ܒܝܢܬ ܐܢܬܬܐ ܠܒܬܘܠܬܐ ܐܝܕܐ ܕܠܓܒܪܐ ܠܐ ܗܘܬ ܪܢܝܐ ܒܡܪܗ ܕܬܗܘܐ ܩܕܝܫܐ ܒܦܓܪܗ ܘܒܪܘܚܗ ܘܐܝܕܐ ܕܐܝܬ ܠܗ ܒܥܠܐ ܪܢܝܐ ܕܥܠܡܐ ܕܐܝܟܢܐ ܬܫܦܪ ܠܒܥܠܗ",
+    "grego_sblgnt": "⸀καὶ μεμέρισται. καὶ ἡ γυνὴ ⸂ἡ ἄγαμος⸃ καὶ ἡ ⸀παρθένος μεριμνᾷ τὰ τοῦ κυρίου, ἵνα ᾖ ἁγία καὶ ⸀τῷ σώματι καὶ ⸁τῷ πνεύματι· ἡ δὲ γαμήσασα μεριμνᾷ τὰ τοῦ κόσμου, πῶς ⸀ἀρέσῃ τῷ ἀνδρί.",
+    "pt_aa": "e está dividido. A mulher não casada e a virgem cuidam das coisas do Senhor para serem santas, tanto no corpo como no espírito; a casada, porém, cuida das coisas do mundo, em como há de agradar ao marido."
+   },
+   "35": {
+    "peshitta": "ܗܕܐ ܕܝܢ ܠܥܘܕܪܢܟܘܢ ܗܘ ܕܝܠܟܘܢ ܐܡܪ ܐܢܐ ܠܐ ܗܘܐ ܡܚܢܘܩܝܬܐ ܪܡܐ ܐܢܐ ܠܟܘܢ ܐܠܐ ܕܬܗܘܘܢ ܐܡܝܢܝܢ ܠܘܬ ܡܪܟܘܢ ܒܐܣܟܡܐ ܫܦܝܪܐ ܟܕ ܠܐ ܪܢܝܢ ܐܢܬܘܢ ܒܥܠܡܐ",
+    "grego_sblgnt": "τοῦτο δὲ πρὸς τὸ ὑμῶν αὐτῶν ⸀σύμφορον λέγω, οὐχ ἵνα βρόχον ὑμῖν ἐπιβάλω, ἀλλὰ πρὸς τὸ εὔσχημον καὶ ⸀εὐπάρεδρον τῷ κυρίῳ ἀπερισπάστως.",
+    "pt_aa": "E digo isto para proveito vosso; não para vos enredar, mas para o que é decente, e a fim de poderdes dedicar-vos ao Senhor sem distração alguma."
+   },
+   "36": {
+    "peshitta": "ܐܢ ܐܢܫ ܕܝܢ ܣܒܪ ܕܡܬܒܙܚ ܒܒܬܘܠܬܗ ܕܥܒܪ ܙܒܢܗ ܘܠܐ ܝܗܒܗ ܠܓܒܪܐ ܘܘܠܝܐ ܕܢܬܠܝܗ ܐܝܟ ܕܨܒܐ ܢܥܒܕ ܠܐ ܚܛܐ ܬܙܕܘܓ",
+    "grego_sblgnt": "Εἰ δέ τις ἀσχημονεῖν ἐπὶ τὴν παρθένον αὐτοῦ νομίζει ἐὰν ᾖ ὑπέρακμος, καὶ οὕτως ὀφείλει γίνεσθαι, ὃ θέλει ποιείτω· οὐχ ἁμαρτάνει· γαμείτωσαν.",
+    "pt_aa": "Mas, se alguém julgar que lhe é desairoso conservar solteira a sua filha donzela, se ela estiver passando da idade de se casar, e se for necessário, faça o que quiser; não peca; casem-se."
+   },
+   "37": {
+    "peshitta": "ܐܝܢܐ ܕܝܢ ܕܫܪܝܪܐܝܬ ܦܣܩ ܒܪܥܝܢܗ ܘܠܐ ܐܠܨܐ ܠܗ ܨܒܘܬܐ ܘܫܠܝܛ ܥܠ ܨܒܝܢܗ ܘܗܟܢܐ ܕܢ ܒܠܒܗ ܕܢܛܪ ܒܬܘܠܬܗ ܫܦܝܪ ܥܒܕ",
+    "grego_sblgnt": "ὃς δὲ ἕστηκεν ⸂ἐν τῇ καρδίᾳ αὐτοῦ ἑδραῖος⸃ μὴ ἔχων ἀνάγκην, ἐξουσίαν δὲ ἔχει περὶ τοῦ ἰδίου θελήματος, καὶ τοῦτο κέκρικεν ἐν τῇ ⸂ἰδίᾳ καρδίᾳ⸃, ⸀τηρεῖν τὴν ἑαυτοῦ παρθένον, καλῶς ⸀ποιήσει·",
+    "pt_aa": "Todavia aquele que está firme em seu coração, não tendo necessidade, mas tendo domínio sobre a sua própria vontade, se resolver no seu coração guardar virgem sua filha, fará bem."
+   },
+   "38": {
+    "peshitta": "ܘܐܝܢܐ ܗܟܝܠ ܕܝܗܒ ܒܬܘܠܬܗ ܫܦܝܪ ܥܒܕ ܘܐܝܢܐ ܕܠܐ ܝܗܒ ܒܬܘܠܬܗ ܝܬܝܪܐܝܬ ܫܦܝܪ ܥܒܕ",
+    "grego_sblgnt": "ὥστε καὶ ὁ ⸀γαμίζων ⸂τὴν παρθένον ἑαυτοῦ⸃ καλῶς ποιεῖ, ⸂καὶ ὁ⸃ μὴ ⸁γαμίζων κρεῖσσον ⸀ποιήσει.",
+    "pt_aa": "De modo que aquele que dá em casamento a sua filha donzela, faz bem; mas o que não a der, fará melhor."
+   },
+   "39": {
+    "peshitta": "ܐܢܬܬܐ ܟܡܐ ܕܚܝ ܒܥܠܗ ܐܣܝܪܐ ܗܝ ܒܢܡܘܣܐ ܐܢ ܕܝܢ ܢܕܡܟ ܒܥܠܗ ܡܚܪܪܐ ܗܝ ܕܬܗܘܐ ܠܡܢ ܕܨܒܝܐ ܒܠܚܘܕ ܒܡܪܢ",
+    "grego_sblgnt": "Γυνὴ ⸀δέδεται ἐφ’ ὅσον χρόνον ζῇ ὁ ἀνὴρ αὐτῆς· ἐὰν ⸀δὲ κοιμηθῇ ὁ ἀνήρ, ἐλευθέρα ἐστὶν ᾧ θέλει γαμηθῆναι, μόνον ἐν κυρίῳ·",
+    "pt_aa": "A mulher está ligada enquanto o marido vive; mas se falecer o marido, fica livre para casar com quem quiser, contanto que seja no Senhor."
+   },
+   "40": {
+    "peshitta": "ܛܘܒܝܗ ܕܝܢ ܐܢ ܗܟܢܐ ܬܩܘܐ ܐܝܟ ܪܥܝܢܝ ܕܝܠܝ ܣܒܪ ܐܢܐ ܕܝܢ ܐܦ ܐܢܐ ܕܪܘܚܐ ܕܐܠܗܐ ܐܝܬ ܒܝ",
+    "grego_sblgnt": "μακαριωτέρα δέ ἐστιν ἐὰν οὕτως μείνῃ, κατὰ τὴν ἐμὴν γνώμην, δοκῶ ⸀δὲ κἀγὼ πνεῦμα θεοῦ ἔχειν.",
+    "pt_aa": "Será, porém, mais feliz se permanecer como está, segundo o meu parecer, e eu penso que também tenho o Espírito de Deus."
+   }
+  },
+  "8": {
+   "1": {
+    "peshitta": "ܥܠ ܕܒܚܐ ܕܝܢ ܕܦܬܟܪܐ ܝܕܥܝܢܢ ܕܒܟܠܢ ܐܝܬ ܝܕܥܬܐ ܘܝܕܥܬܐ ܡܚܬܪܐ ܚܘܒܐ ܕܝܢ ܒܢܐ",
+    "grego_sblgnt": "Περὶ δὲ τῶν εἰδωλοθύτων, οἴδαμεν ὅτι πάντες γνῶσιν ἔχομεν. ἡ γνῶσις φυσιοῖ, ἡ δὲ ἀγάπη οἰκοδομεῖ.",
+    "pt_aa": "Ora, no tocante às coisas sacrificadas aos ídolos, sabemos que todos temos ciência. A ciência incha, mas o amor edifica."
+   },
+   "2": {
+    "peshitta": "ܐܢ ܐܢܫ ܕܝܢ ܣܒܪ ܕܝܕܥ ܡܕܡ ܠܐ ܥܕܟܝܠ ܡܕܡ ܝܕܥ ܐܝܟ ܡܐ ܕܘܠܐ ܠܗ ܠܡܕܥ",
+    "grego_sblgnt": "⸀εἴ τις δοκεῖ ⸀ἐγνωκέναι τι, ⸀οὔπω ⸀ἔγνω καθὼς δεῖ γνῶναι·",
+    "pt_aa": "Se alguém cuida saber alguma coisa, ainda não sabe como convém saber."
+   },
+   "3": {
+    "peshitta": "ܐܢ ܐܢܫ ܕܝܢ ܡܚܒ ܠܐܠܗܐ ܗܢܐ ܐܬܝܕܥ ܡܢܗ",
+    "grego_sblgnt": "εἰ δέ τις ἀγαπᾷ τὸν θεόν, οὗτος ἔγνωσται ὑπ’ αὐτοῦ.",
+    "pt_aa": "Mas, se alguém ama a Deus, esse é conhecido dele."
+   },
+   "4": {
+    "peshitta": "ܥܠ ܡܐܟܘܠܬܐ ܗܟܝܠ ܕܕܒܚܐ ܕܦܬܟܪܐ ܝܕܥܝܢܢ ܕܠܐ ܗܘܐ ܡܕܡ ܗܘ ܦܬܟܪܐ ܒܥܠܡܐ ܘܕܠܝܬ ܐܠܗ ܐܚܪܝܢ ܐܠܐ ܐܢ ܚܕ",
+    "grego_sblgnt": "Περὶ τῆς βρώσεως οὖν τῶν εἰδωλοθύτων οἴδαμεν ὅτι οὐδὲν εἴδωλον ἐν κόσμῳ, καὶ ὅτι οὐδεὶς ⸀θεὸς εἰ μὴ εἷς.",
+    "pt_aa": "Quanto, pois, ao comer das coisas sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo, e que não há outro Deus, senão um só."
+   },
+   "5": {
+    "peshitta": "ܐܦܢ ܓܝܪ ܐܝܬ ܕܡܬܩܪܝܢ ܐܠܗܐ ܐܘ ܒܫܡܝܐ ܐܘ ܒܐܪܥܐ ܐܝܟܢܐ ܕܐܝܬ ܐܠܗܐ ܣܓܝܐܐ ܘܡܪܘܬܐ ܣܓܝܐܐ",
+    "grego_sblgnt": "καὶ γὰρ εἴπερ εἰσὶν λεγόμενοι θεοὶ εἴτε ἐν οὐρανῷ εἴτε ἐπὶ γῆς, ὥσπερ εἰσὶν θεοὶ πολλοὶ καὶ κύριοι πολλοί,",
+    "pt_aa": "Pois, ainda que haja também alguns que se chamem deuses, quer no céu quer na terra {como há muitos deuses e muitos senhores},"
+   },
+   "6": {
+    "peshitta": "ܐܠܐ ܠܢ ܕܝܠܢ ܚܕ ܗܘ ܐܠܗܐ ܐܒܐ ܕܟܠ ܡܢܗ ܘܚܢܢ ܒܗ ܘܚܕ ܡܪܝܐ ܝܫܘܥ ܡܫܝܚܐ ܕܟܠ ܒܐܝܕܗ ܘܐܦ ܚܢܢ ܒܐܝܕܗ",
+    "grego_sblgnt": "ἀλλ’ ἡμῖν εἷς θεὸς ὁ πατήρ, ἐξ οὗ τὰ πάντα καὶ ἡμεῖς εἰς αὐτόν, καὶ εἷς κύριος Ἰησοῦς Χριστός, δι’ οὗ τὰ πάντα καὶ ἡμεῖς δι’ αὐτοῦ.",
+    "pt_aa": "todavia para nós há um só Deus, o Pai, de quem são todas as coisas e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual existem todas as coisas, e por ele nós também."
+   },
+   "7": {
+    "peshitta": "ܐܠܐ ܠܐ ܗܘܐ ܒܟܠܢܫ ܝܕܥܬܐ ܐܝܬ ܓܝܪ ܐܢܫܐ ܕܒܬܐܪܬܗܘܢ ܥܕܡܐ ܠܗܫܐ ܕܥܠ ܦܬܟܪܐ ܐܝܟ ܕܕܒܝܚܐ ܐܟܠܝܢ ܘܡܛܠ ܕܟܪܝܗܐ ܬܐܪܬܗܘܢ ܡܬܛܘܫܐ",
+    "grego_sblgnt": "Ἀλλ’ οὐκ ἐν πᾶσιν ἡ γνῶσις· τινὲς δὲ τῇ ⸀συνηθείᾳ ⸂ἕως ἄρτι τοῦ εἰδώλου⸃ ὡς εἰδωλόθυτον ἐσθίουσιν, καὶ ἡ συνείδησις αὐτῶν ἀσθενὴς οὖσα μολύνεται.",
+    "pt_aa": "Entretanto, nem em todos há esse conhecimento; pois alguns há que, acostumados até agora com o ídolo, comem como de coisas sacrificadas a um ídolo; e a sua consciência, sendo fraca, contamina-se."
+   },
+   "8": {
+    "peshitta": "ܡܐܟܘܠܬܐ ܕܝܢ ܠܐ ܡܩܪܒܐ ܠܢ ܠܐܠܗܐ ܠܐ ܓܝܪ ܐܢ ܐܟܠܝܢܢ ܡܬܝܬܪܝܢܢ ܘܠܐ ܐܢ ܠܐ ܢܐܟܘܠ ܡܬܒܨܪܝܢܢ",
+    "grego_sblgnt": "βρῶμα δὲ ἡμᾶς οὐ ⸀παραστήσει τῷ θεῷ· οὔτε ⸂γὰρ ἐὰν φάγωμεν, περισσεύομεν, οὔτε ἐὰν μὴ φάγωμεν, ὑστερούμεθα⸃.",
+    "pt_aa": "Não é, porém, a comida que nos há de recomendar a Deus; pois não somos piores se não comermos, nem melhores se comermos."
+   },
+   "9": {
+    "peshitta": "ܚܙܘ ܕܝܢ ܕܠܡܐ ܫܘܠܛܢܟܘܢ ܗܢܐ ܢܗܘܐ ܬܘܩܠܬܐ ܠܟܪܝܗܐ",
+    "grego_sblgnt": "βλέπετε δὲ μή πως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ⸀ἀσθενέσιν.",
+    "pt_aa": "Mas, vede que essa liberdade vossa não venha a ser motivo de tropeço para os fracos."
+   },
+   "10": {
+    "peshitta": "ܐܢ ܐܢܫ ܓܝܪ ܢܚܙܝܟ ܠܟ ܕܐܝܬ ܒܟ ܝܕܥܬܐ ܕܣܡܝܟ ܐܢܬ ܒܝܬ ܦܬܟܪܐ ܠܐ ܗܐ ܬܐܪܬܗ ܡܛܠ ܕܟܪܝܗ ܗܘ ܡܫܬܪܪܐ ܠܡܐܟܠ ܕܕܒܝܚܐ",
+    "grego_sblgnt": "ἐὰν γάρ τις ἴδῃ σὲ τὸν ἔχοντα γνῶσιν ἐν εἰδωλείῳ κατακείμενον, οὐχὶ ἡ συνείδησις αὐτοῦ ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ τὰ εἰδωλόθυτα ἐσθίειν;",
+    "pt_aa": "Porque, se alguém te vir a ti, que tens ciência, reclinado à mesa em templo de ídolos, não será induzido, sendo a sua consciência fraca, a comer das coisas sacrificadas aos ídolos?"
+   },
+   "11": {
+    "peshitta": "ܘܐܒܕ ܠܗ ܒܝܕܥܬܟ ܕܝܠܟ ܗܘ ܐܝܢܐ ܕܡܪܥ ܕܡܛܠܬܗ ܡܝܬ ܡܫܝܚܐ",
+    "grego_sblgnt": "⸂ἀπόλλυται γὰρ⸃ ὁ ἀσθενῶν ⸀ἐν τῇ σῇ γνώσει, ⸂ὁ ἀδελφὸς⸃ δι’ ὃν Χριστὸς ἀπέθανεν.",
+    "pt_aa": "Pela tua ciência, pois, perece aquele que é fraco, o teu irmão por quem Cristo morreu."
+   },
+   "12": {
+    "peshitta": "ܘܐܢ ܗܟܢܐ ܡܣܟܠܝܢ ܐܢܬܘܢ ܒܐܚܝܟܘܢ ܘܡܩܦܚܝܢ ܐܢܬܘܢ ܬܐܪܬܗܘܢ ܡܪܥܬܐ ܒܡܫܝܚܐ ܗܘ ܡܣܟܠܝܢ ܐܢܬܘܢ",
+    "grego_sblgnt": "οὕτως δὲ ἁμαρτάνοντες εἰς τοὺς ἀδελφοὺς καὶ τύπτοντες αὐτῶν τὴν συνείδησιν ἀσθενοῦσαν εἰς Χριστὸν ἁμαρτάνετε.",
+    "pt_aa": "Ora, pecando assim contra os irmãos, e ferindo-lhes a consciência quando fraca, pecais contra Cristo."
+   },
+   "13": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܐܢ ܡܐܟܘܠܬܐ ܡܟܫܠܐ ܠܐܚܝ ܠܥܠܡ ܒܣܪܐ ܠܐ ܐܟܘܠ ܕܠܐ ܐܟܫܠ ܠܐܚܝ",
+    "grego_sblgnt": "διόπερ εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου, οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα, ἵνα μὴ τὸν ἀδελφόν μου σκανδαλίσω.",
+    "pt_aa": "Pelo que, se a comida fizer tropeçar a meu irmão, nunca mais comerei carne, para não servir de tropeço a meu irmão."
+   }
+  },
+  "9": {
+   "1": {
+    "peshitta": "ܠܡܐ ܠܐ ܗܘܝܬ ܒܪ ܚܐܪܐ ܐܘ ܠܐ ܗܘܝܬ ܫܠܝܚܐ ܐܘ ܠܝܫܘܥ ܡܫܝܚܐ ܡܪܢ ܠܐ ܚܙܝܬ ܐܘ ܠܐ ܗܘܝܬܘܢ ܥܒܕܝ ܒܡܪܝ",
+    "grego_sblgnt": "Οὐκ εἰμὶ ⸂ἐλεύθερος; οὐκ εἰμὶ ἀπόστολος⸃; οὐχὶ ⸀Ἰησοῦν τὸν κύριον ἡμῶν ἑόρακα; οὐ τὸ ἔργον μου ὑμεῖς ἐστε ἐν κυρίῳ;",
+    "pt_aa": "Não sou eu livre? Não sou apóstolo? Não vi eu a Jesus nosso Senhor? Não sois vós obra minha no Senhor?"
+   },
+   "2": {
+    "peshitta": "ܘܐܢ ܠܐܚܪܢܐ ܠܐ ܗܘܝܬ ܫܠܝܚܐ ܐܠܐ ܠܟܘܢ ܐܝܬܝ ܘܚܬܡܐ ܕܫܠܝܚܘܬܝ ܐܢܬܘܢ ܐܢܘܢ",
+    "grego_sblgnt": "εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος, ἀλλά γε ὑμῖν εἰμι, ἡ γὰρ σφραγίς ⸂μου τῆς⸃ ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ.",
+    "pt_aa": "Se eu não sou apóstolo para os outros, ao menos para vós o sou; porque vós sois o selo do meu apostolado no Senhor."
+   },
+   "3": {
+    "peshitta": "ܘܡܦܩ ܒܪܘܚܝ ܠܐܝܠܝܢ ܕܕܝܢܝܢ ܠܝ ܗܢܘ",
+    "grego_sblgnt": "Ἡ ἐμὴ ἀπολογία τοῖς ἐμὲ ἀνακρίνουσίν ⸂ἐστιν αὕτη⸃.",
+    "pt_aa": "Esta é a minha defesa para com os que me acusam."
+   },
+   "4": {
+    "peshitta": "ܠܡܐ ܠܐ ܫܠܝܛ ܠܢ ܠܡܐܟܠ ܘܠܡܫܬܐ",
+    "grego_sblgnt": "μὴ οὐκ ἔχομεν ἐξουσίαν φαγεῖν καὶ ⸀πεῖν;",
+    "pt_aa": "Não temos nós direito de comer e de beber?"
+   },
+   "5": {
+    "peshitta": "ܘܠܡܐ ܠܐ ܫܠܝܛ ܠܢ ܚܬܐ ܐܢܬܬܐ ܠܡܟܪܟܘ ܥܡܢ ܐܝܟ ܫܪܟܐ ܕܫܠܝܚܐ ܘܐܝܟ ܐܚܘܗܝ ܕܡܪܢ ܘܐܝܟ ܟܐܦܐ",
+    "grego_sblgnt": "μὴ οὐκ ἔχομεν ἐξουσίαν ἀδελφὴν γυναῖκα περιάγειν, ὡς καὶ οἱ λοιποὶ ἀπόστολοι καὶ οἱ ἀδελφοὶ τοῦ κυρίου καὶ Κηφᾶς;",
+    "pt_aa": "Não temos nós direito de levar conosco esposa crente, como também os demais apóstolos, e os irmãos do Senhor, e Cefas?"
+   },
+   "6": {
+    "peshitta": "ܐܘ ܐܢܐ ܒܠܚܘܕ ܘܒܪܢܒܐ ܠܝܬ ܠܢ ܫܘܠܛܢܐ ܕܠܐ ܢܦܠܘܚ",
+    "grego_sblgnt": "ἢ μόνος ἐγὼ καὶ Βαρναβᾶς οὐκ ἔχομεν ἐξουσίαν ⸀μὴ ἐργάζεσθαι;",
+    "pt_aa": "Ou será que só eu e Barnabé não temos direito de deixar de trabalhar?"
+   },
+   "7": {
+    "peshitta": "ܡܢܘ ܕܡܦܠܚ ܒܦܠܚܘܬܐ ܒܢܦܩܬܐ ܕܢܦܫܗ ܐܘ ܡܢܘ ܕܢܨܒ ܟܪܡܐ ܘܡܢ ܦܐܪܘܗܝ ܠܐ ܐܟܠ ܐܘ ܡܢܘ ܕܪܥܐ ܥܢܐ ܘܡܢ ܚܠܒܐ ܕܡܪܥܝܬܗ ܠܐ ܐܟܠ",
+    "grego_sblgnt": "τίς στρατεύεται ἰδίοις ὀψωνίοις ποτέ; τίς φυτεύει ἀμπελῶνα καὶ ⸂τὸν καρπὸν⸃ αὐτοῦ οὐκ ἐσθίει; ⸀τίς ποιμαίνει ποίμνην καὶ ἐκ τοῦ γάλακτος τῆς ποίμνης οὐκ ἐσθίει;",
+    "pt_aa": "Quem jamais vai à guerra à sua própria custa? Quem planta uma vinha e não come do seu fruto? Ou quem apascenta um rebanho e não se alimenta do leite do rebanho?"
+   },
+   "8": {
+    "peshitta": "ܕܠܡܐ ܐܝܟ ܒܪܢܫܐ ܗܠܝܢ ܐܡܪ ܐܢܐ ܗܐ ܐܦ ܢܡܘܣܐ ܗܠܝܢ ܐܡܪ",
+    "grego_sblgnt": "Μὴ κατὰ ἄνθρωπον ταῦτα λαλῶ ἢ ⸂καὶ ὁ νόμος ταῦτα οὐ⸃ λέγει;",
+    "pt_aa": "Porventura digo eu isto como homem? Ou não diz a lei também o mesmo?"
+   },
+   "9": {
+    "peshitta": "ܟܬܝܒ ܓܝܪ ܒܗ ܒܢܡܘܣܐ ܕܡܘܫܐ ܕܠܐ ܬܒܠܘܡ ܬܘܪܐ ܕܡܕܪܟ ܠܡܐ ܥܠ ܬܘܪܐ ܒܛܝܠ ܠܗ ܠܐܠܗܐ",
+    "grego_sblgnt": "ἐν γὰρ τῷ Μωϋσέως νόμῳ γέγραπται· Οὐ ⸀κημώσεις βοῦν ἀλοῶντα. μὴ τῶν βοῶν μέλει τῷ θεῷ,",
+    "pt_aa": "Pois na lei de Moisés está escrito: Não atarás a boca do boi quando debulha. Porventura está Deus cuidando dos bois?"
+   },
+   "10": {
+    "peshitta": "ܐܠܐ ܝܕܝܥܐ ܕܡܛܠܬܢ ܗܘ ܐܡܪ ܘܡܛܠܬܢ ܓܝܪ ܐܬܟܬܒܬ ܡܛܠ ܕܥܠ ܣܒܪܐ ܗܘ ܘܠܐ ܠܗ ܠܟܪܘܒܐ ܕܢܟܪܘܒ ܘܐܝܢܐ ܕܡܕܪܟ ܥܠ ܣܒܪܐ ܕܥܠܠܬܐ",
+    "grego_sblgnt": "ἢ δι’ ἡμᾶς πάντως λέγει; δι’ ἡμᾶς γὰρ ἐγράφη, ὅτι ⸂ὀφείλει ἐπ’ ἐλπίδι⸃ ὁ ἀροτριῶν ἀροτριᾶν, καὶ ὁ ἀλοῶν ⸂ἐπ’ ἐλπίδι τοῦ μετέχειν⸃.",
+    "pt_aa": "Ou não o diz certamente por nós? Com efeito, é por amor de nós que está escrito; porque o que lavra deve debulhar com esperança de participar do fruto."
+   },
+   "11": {
+    "peshitta": "ܐܢ ܚܢܢ ܕܪܘܚܐ ܙܪܥܢ ܒܟܘܢ ܪܒܐ ܗܝ ܐܢ ܚܢܢ ܡܢܟܘܢ ܕܦܓܪܐ ܢܚܨܘܕ",
+    "grego_sblgnt": "εἰ ἡμεῖς ὑμῖν τὰ πνευματικὰ ἐσπείραμεν, μέγα εἰ ἡμεῖς ὑμῶν τὰ σαρκικὰ θερίσομεν;",
+    "pt_aa": "Se nós semeamos para vós as coisas espirituais, será muito que de vós colhamos as matérias?"
+   },
+   "12": {
+    "peshitta": "ܘܐܢ ܠܐܚܪܢܐ ܐܝܬ ܠܗܘܢ ܫܘܠܛܢܐ ܥܠܝܟܘܢ ܠܐ ܠܢ ܘܠܐ ܝܬܝܪܐܝܬ ܐܠܐ ܠܐ ܐܬܚܫܚܢ ܒܫܘܠܛܢܐ ܗܢܐ ܐܠܐ ܟܠܡܕܡ ܡܣܝܒܪܝܢܢ ܕܒܡܕܡ ܠܐ ܢܬܟܣ ܣܒܪܬܗ ܕܡܫܝܚܐ",
+    "grego_sblgnt": "εἰ ἄλλοι τῆς ⸂ὑμῶν ἐξουσίας⸃ μετέχουσιν, οὐ μᾶλλον ἡμεῖς; Ἀλλ’ οὐκ ἐχρησάμεθα τῇ ἐξουσίᾳ ταύτῃ, ἀλλὰ πάντα στέγομεν ἵνα μή ⸂τινα ἐγκοπὴν⸃ δῶμεν τῷ εὐαγγελίῳ τοῦ Χριστοῦ.",
+    "pt_aa": "Se outros participam deste direito sobre vós, por que não nós com mais justiça? Mas nós nunca usamos deste direito; antes suportamos tudo, para não pormos impedimento algum ao evangelho de Cristo."
+   },
+   "13": {
+    "peshitta": "ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܐܝܠܝܢ ܕܒܝܬ ܩܘܕܫܐ ܦܠܚܝܢ ܡܢ ܒܝܬ ܩܘܕܫܐ ܡܣܬܝܒܪܝܢ ܘܐܝܠܝܢ ܕܠܡܕܒܚܐ ܦܠܚܝܢ ܥܡ ܡܕܒܚܐ ܦܠܓܝܢ",
+    "grego_sblgnt": "οὐκ οἴδατε ὅτι οἱ τὰ ἱερὰ ἐργαζόμενοι ⸀τὰ ἐκ τοῦ ἱεροῦ ἐσθίουσιν, οἱ τῷ θυσιαστηρίῳ ⸀παρεδρεύοντες τῷ θυσιαστηρίῳ συμμερίζονται;",
+    "pt_aa": "Não sabeis vós que os que administram o que é sagrado comem do que é do templo? E que os que servem ao altar, participam do altar?"
+   },
+   "14": {
+    "peshitta": "ܗܟܢܐ ܐܦ ܡܪܢ ܦܩܕ ܕܐܝܠܝܢ ܕܣܒܪܬܗ ܡܟܪܙܝܢ ܡܢ ܣܒܪܬܗ ܢܚܘܢ",
+    "grego_sblgnt": "οὕτως καὶ ὁ κύριος διέταξεν τοῖς τὸ εὐαγγέλιον καταγγέλλουσιν ἐκ τοῦ εὐαγγελίου ζῆν.",
+    "pt_aa": "Assim ordenou também o Senhor aos que anunciam o evangelho, que vivam do evangelho."
+   },
+   "15": {
+    "peshitta": "ܐܢܐ ܕܝܢ ܠܐ ܐܬܚܫܚܬ ܒܚܕܐ ܡܢ ܗܠܝܢ ܘܠܘ ܡܛܠ ܗܕܐ ܟܬܒܬ ܕܗܟܢܐ ܢܗܘܐ ܠܝ ܦܩܚ ܠܝ ܓܝܪ ܕܡܡܬ ܐܡܘܬ ܘܠܐ ܕܐܢܫ ܫܘܒܗܪܝ ܢܣܪܩ",
+    "grego_sblgnt": "Ἐγὼ δὲ ⸂οὐ κέχρημαι οὐδενὶ⸃ τούτων. οὐκ ἔγραψα δὲ ταῦτα ἵνα οὕτως γένηται ἐν ἐμοί, καλὸν γάρ μοι μᾶλλον ἀποθανεῖν ἤ— τὸ καύχημά μου ⸂οὐδεὶς κενώσει⸃.",
+    "pt_aa": "Mas eu de nenhuma destas coisas tenho usado. Nem escrevo isto para que assim se faça comigo; porque melhor me fora morrer, do que alguém fazer vã esta minha glória."
+   },
+   "16": {
+    "peshitta": "ܐܦ ܕܡܣܒܪ ܐܢܐ ܓܝܪ ܠܝܬ ܠܝ ܫܘܒܗܪܐ ܩܛܝܪܐ ܓܝܪ ܣܝܡ ܥܠܝ ܘܝ ܠܝ ܕܝܢ ܐܠܐ ܐܣܒܪ",
+    "grego_sblgnt": "ἐὰν γὰρ εὐαγγελίζωμαι, οὐκ ἔστιν μοι καύχημα, ἀνάγκη γάρ μοι ἐπίκειται· οὐαὶ ⸀γάρ μοί ἐστιν ἐὰν μὴ ⸀εὐαγγελίσωμαι.",
+    "pt_aa": "Pois, se anuncio o evangelho, não tenho de que me gloriar, porque me é imposta essa obrigação; e ai de mim, se não anunciar o evangelho!"
+   },
+   "17": {
+    "peshitta": "ܐܢ ܓܝܪ ܒܨܒܝܢܝ ܗܕܐ ܣܥܪ ܐܢܐ ܐܓܪܐ ܐܝܬ ܠܝ ܐܢ ܕܝܢ ܕܠܐ ܒܨܒܝܢܝ ܪܒܬ ܒܝܬܘܬܐ ܗܘ ܡܗܝܡܢ ܐܢܐ",
+    "grego_sblgnt": "εἰ γὰρ ἑκὼν τοῦτο πράσσω, μισθὸν ἔχω· εἰ δὲ ἄκων, οἰκονομίαν πεπίστευμαι.",
+    "pt_aa": "Se, pois, o faço de vontade própria, tenho recompensa; mas, se não é de vontade própria, estou apenas incumbido de uma mordomia."
+   },
+   "18": {
+    "peshitta": "ܐܝܢܐ ܗܘ ܗܟܝܠ ܐܓܪܝ ܕܟܕ ܡܣܒܪ ܐܢܐ ܕܠܐ ܢܦܩܬܐ ܐܥܒܕܝܗ ܠܣܒܪܬܗ ܕܡܫܝܚܐ ܘܠܐ ܐܬܚܫܚ ܒܫܘܠܛܢܐ ܕܝܗܒ ܠܝ ܒܐܘܢܓܠܝܘܢ",
+    "grego_sblgnt": "τίς οὖν ⸀μού ἐστιν ὁ μισθός; ἵνα εὐαγγελιζόμενος ἀδάπανον θήσω τὸ ⸀εὐαγγέλιον, εἰς τὸ μὴ καταχρήσασθαι τῇ ἐξουσίᾳ μου ἐν τῷ εὐαγγελίῳ.",
+    "pt_aa": "Logo, qual é a minha recompensa? É que, pregando o evangelho, eu o faça gratuitamente, para não usar em absoluto do meu direito no evangelho."
+   },
+   "19": {
+    "peshitta": "ܟܕ ܡܚܪܪ ܐܢܐ ܓܝܪ ܡܢ ܟܠܗܝܢ ܠܟܠܢܫ ܫܥܒܕܬ ܢܦܫܝ ܕܠܣܓܝܐܐ ܐܬܪ",
+    "grego_sblgnt": "Ἐλεύθερος γὰρ ὢν ἐκ πάντων πᾶσιν ἐμαυτὸν ἐδούλωσα, ἵνα τοὺς πλείονας κερδήσω·",
+    "pt_aa": "Pois, sendo livre de todos, fiz-me escravo de todos para ganhar o maior número possível:"
+   },
+   "20": {
+    "peshitta": "ܘܗܘܝܬ ܥܡ ܝܗܘܕܝܐ ܐܝܟ ܝܗܘܕܝܐ ܕܠܝܗܘܕܝܐ ܐܬܪ ܘܥܡ ܕܬܚܝܬ ܢܡܘܣܐ ܐܢܘܢ ܗܘܝܬ ܐܝܟ ܕܬܚܝܬ ܢܡܘܣܐ ܕܠܐܝܠܝܢ ܕܬܚܝܬ ܢܡܘܣܐ ܐܢܘܢ ܐܬܪ",
+    "grego_sblgnt": "καὶ ἐγενόμην τοῖς Ἰουδαίοις ὡς Ἰουδαῖος, ἵνα Ἰουδαίους κερδήσω· τοῖς ὑπὸ νόμον ὡς ὑπὸ νόμον, ⸂μὴ ὢν αὐτὸς ὑπὸ νόμον⸃, ἵνα τοὺς ὑπὸ νόμον κερδήσω·",
+    "pt_aa": "Fiz-me como judeu para os judeus, para ganhar os judeus; para os que estão debaixo da lei, como se estivesse eu debaixo da lei {embora debaixo da lei não esteja}, para ganhar os que estão debaixo da lei;"
+   },
+   "21": {
+    "peshitta": "ܘܠܐܝܠܝܢ ܕܢܡܘܣܐ ܠܝܬ ܠܗܘܢ ܗܘܝܬ ܐܝܟ ܕܠܐ ܢܡܘܣ ܟܕ ܠܐ ܐܝܬܝ ܠܐܠܗܐ ܕܠܐ ܢܡܘܣ ܐܠܐ ܒܢܡܘܣܗ ܕܡܫܝܚܐ ܕܐܦ ܠܗܢܘܢ ܕܕܠܐ ܢܡܘܣ ܐܢܘܢ ܐܬܪ",
+    "grego_sblgnt": "τοῖς ἀνόμοις ὡς ἄνομος, μὴ ὢν ἄνομος ⸀θεοῦ ἀλλ’ ἔννομος ⸀Χριστοῦ, ἵνα ⸀κερδάνω ⸀τοὺς ἀνόμους·",
+    "pt_aa": "para os que estão sem lei, como se estivesse sem lei {não estando sem lei para com Deus, mas debaixo da lei de Cristo}, para ganhar os que estão sem lei."
+   },
+   "22": {
+    "peshitta": "ܗܘܝܬ ܥܡ ܟܪܝܗܐ ܐܝܟ ܟܪܝܗܐ ܕܠܟܪܝܗܐ ܐܬܪ ܠܟܠܢܫ ܟܠ ܗܘܝܬ ܕܠܟܠܢܫ ܐܚܐ",
+    "grego_sblgnt": "ἐγενόμην τοῖς ⸀ἀσθενέσιν ἀσθενής, ἵνα τοὺς ἀσθενεῖς κερδήσω· τοῖς πᾶσιν ⸀γέγονα πάντα, ἵνα πάντως τινὰς σώσω.",
+    "pt_aa": "Fiz-me como fraco para os fracos, para ganhar os fracos. Fiz-me tudo para todos, para por todos os meios chegar a salvar alguns."
+   },
+   "23": {
+    "peshitta": "ܗܕܐ ܕܝܢ ܥܒܕ ܐܢܐ ܡܛܠ ܕܐܗܘܐ ܫܘܬܦܐ ܠܣܒܪܬܐ",
+    "grego_sblgnt": "⸀πάντα δὲ ποιῶ διὰ τὸ εὐαγγέλιον, ἵνα συγκοινωνὸς αὐτοῦ γένωμαι.",
+    "pt_aa": "Ora, tudo faço por causa do evangelho, para dele tornar-me co-participante."
+   },
+   "24": {
+    "peshitta": "ܠܐ ܝܕܥܝܢ ܐܢܬܘܢ ܕܐܝܠܝܢ ܕܒܐܣܛܕܝܘܢ ܪܗܛܝܢ ܟܠܗܘܢ ܗܘ ܪܗܛܝܢ ܐܠܐ ܚܕ ܗܘ ܢܣܒ ܠܗ ܙܟܘܬܐ ܗܟܢܐ ܗܪܛܘ ܐܝܟ ܕܬܕܪܟܘܢ",
+    "grego_sblgnt": "Οὐκ οἴδατε ὅτι οἱ ἐν σταδίῳ τρέχοντες πάντες μὲν τρέχουσιν, εἷς δὲ λαμβάνει τὸ βραβεῖον; οὕτως τρέχετε ἵνα καταλάβητε.",
+    "pt_aa": "Não sabeis vós que os que correm no estádio, todos, na verdade, correm, mas um só é que recebe o prêmio? Correi de tal maneira que o alcanceis."
+   },
+   "25": {
+    "peshitta": "ܟܠ ܐܢܫ ܕܝܢ ܕܐܓܘܢܐ ܥܒܕ ܡܢ ܟܠ ܡܕܡ ܐܚܕ ܪܥܝܢܗ ܘܗܠܝܢ ܪܗܛܝܢ ܕܢܣܒܘܢ ܟܠܝܠܐ ܕܡܬܚܒܠ ܚܢܢ ܕܝܢ ܕܠܐ ܡܬܚܒܠ",
+    "grego_sblgnt": "πᾶς δὲ ὁ ἀγωνιζόμενος πάντα ἐγκρατεύεται, ἐκεῖνοι μὲν οὖν ἵνα φθαρτὸν στέφανον λάβωσιν, ἡμεῖς δὲ ἄφθαρτον.",
+    "pt_aa": "E todo aquele que luta, exerce domínio próprio em todas as coisas; ora, eles o fazem para alcançar uma coroa corruptível, nós, porém, uma incorruptível."
+   },
+   "26": {
+    "peshitta": "ܐܢܐ ܗܟܝܠ ܗܟܢܐ ܪܗܛ ܐܢܐ ܠܐ ܗܘܐ ܐܝܟ ܕܥܠ ܡܕܡ ܕܠܐ ܝܕܝܥ ܘܗܟܢܐ ܡܬܟܬܫ ܐܢܐ ܠܐ ܐܝܟ ܗܘ ܕܠܐܐܪ ܟܬܫ",
+    "grego_sblgnt": "ἐγὼ τοίνυν οὕτως τρέχω ὡς οὐκ ἀδήλως, οὕτως πυκτεύω ὡς οὐκ ἀέρα δέρων·",
+    "pt_aa": "Pois eu assim corro, não como indeciso; assim combato, não como batendo no ar."
+   },
+   "27": {
+    "peshitta": "ܐܠܐ ܦܓܪܝ ܗܘ ܟܒܫ ܐܢܐ ܘܡܫܥܒܕ ܐܢܐ ܕܕܠܡܐ ܐܢܐ ܕܠܐܚܪܢܐ ܐܟܪܙܬ ܐܢܐ ܩܢܘܡܝ ܐܣܬܠܐ ܠܝ",
+    "grego_sblgnt": "ἀλλὰ ὑπωπιάζω μου τὸ σῶμα καὶ δουλαγωγῶ, μή πως ἄλλοις κηρύξας αὐτὸς ἀδόκιμος γένωμαι.",
+    "pt_aa": "Antes subjugo o meu corpo, e o reduzo à submissão, para que, depois de pregar a outros, eu mesmo não venha a ficar reprovado."
+   }
+  },
+  "10": {
+   "1": {
+    "peshitta": "ܨܒܐ ܐܢܐ ܕܝܢ ܕܬܕܥܘܢ ܐܚܝ ܕܐܒܗܝܢ ܟܠܗܘܢ ܬܚܝܬ ܥܢܢܐ ܗܘܘ ܘܟܠܗܘܢ ܒܝܡܐ ܥܒܪܘ",
+    "grego_sblgnt": "Οὐ θέλω ⸀γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον,",
+    "pt_aa": "Pois não quero, irmãos, que ignoreis que nossos pais estiveram todos debaixo da nuvem, e todos passaram pelo mar;"
+   },
+   "2": {
+    "peshitta": "ܘܟܠܗܘܢ ܒܝܕ ܡܘܫܐ ܥܡܕܘ ܒܥܢܢܐ ܘܒܝܡܐ",
+    "grego_sblgnt": "καὶ πάντες εἰς τὸν Μωϋσῆν ⸀ἐβαπτίσαντο ἐν τῇ νεφέλῃ καὶ ἐν τῇ θαλάσσῃ,",
+    "pt_aa": "e, na nuvem e no mar, todos foram batizados em Moisés,"
+   },
+   "3": {
+    "peshitta": "ܘܟܠܗܘܢ ܚܕܐ ܡܐܟܘܠܬܐ ܕܪܘܚܐ ܐܟܠܘ",
+    "grego_sblgnt": "καὶ πάντες τὸ αὐτὸ ⸂πνευματικὸν βρῶμα⸃ ἔφαγον",
+    "pt_aa": "e todos comeram do mesmo alimento espiritual;"
+   },
+   "4": {
+    "peshitta": "ܘܟܠܗܘܢ ܚܕ ܡܫܬܝܐ ܕܪܘܚܐ ܐܫܬܝܘ ܫܬܝܢ ܗܘܘ ܓܝܪ ܡܢ ܟܐܦܐ ܕܪܘܚܐ ܕܐܬܝܐ ܗܘܬ ܥܡܗܘܢ ܟܐܦܐ ܕܝܢ ܗܝ ܗܘ ܗܘܐ ܡܫܝܚܐ",
+    "grego_sblgnt": "καὶ πάντες τὸ αὐτὸ ⸂πνευματικὸν ἔπιον πόμα⸃, ἔπινον γὰρ ἐκ πνευματικῆς ἀκολουθούσης πέτρας, ἡ ⸂πέτρα δὲ⸃ ἦν ὁ Χριστός·",
+    "pt_aa": "e beberam todos da mesma bebida espiritual, porque bebiam da pedra espiritual que os acompanhava; e a pedra era Cristo."
+   },
+   "5": {
+    "peshitta": "ܐܠܐ ܠܐ ܗܘܐ ܒܣܘܓܐܗܘܢ ܐܨܛܒܝ ܐܠܗܐ ܢܦܠܘ ܓܝܪ ܒܡܕܒܪܐ",
+    "grego_sblgnt": "ἀλλ’ οὐκ ἐν τοῖς πλείοσιν αὐτῶν ηὐδόκησεν ὁ θεός, κατεστρώθησαν γὰρ ἐν τῇ ἐρήμῳ.",
+    "pt_aa": "Mas Deus não se agradou da maior parte deles; pelo que foram prostrados no deserto."
+   },
+   "6": {
+    "peshitta": "ܗܠܝܢ ܕܝܢ ܛܘܦܣܐ ܠܢ ܗܘ ܗܘܘ ܕܠܐ ܗܘܝܢ ܪܓܝܢ ܒܝܫܬܐ ܐܝܟܢܐ ܕܗܢܘܢ ܪܓܘ",
+    "grego_sblgnt": "Ταῦτα δὲ τύποι ἡμῶν ἐγενήθησαν, εἰς τὸ μὴ εἶναι ἡμᾶς ἐπιθυμητὰς κακῶν, καθὼς κἀκεῖνοι ἐπεθύμησαν.",
+    "pt_aa": "Ora, estas coisas nos foram feitas para exemplo, a fim de que não cobicemos as coisas más, como eles cobiçaram."
+   },
+   "7": {
+    "peshitta": "ܘܐܦܠܐ ܢܗܘܐ ܦܠܚܝ ܦܬܟܪܐ ܐܝܟܢܐ ܕܐܦ ܡܢܗܘܢ ܦܠܚܘ ܐܝܟ ܕܟܬܝܒ ܕܝܬܒ ܥܡܐ ܠܡܐܟܠ ܘܠܡܫܬܐ ܘܩܡܘ ܠܡܫܬܥܝܘ",
+    "grego_sblgnt": "μηδὲ εἰδωλολάτραι γίνεσθε, καθώς τινες αὐτῶν· ὥσπερ γέγραπται· Ἐκάθισεν ὁ λαὸς φαγεῖν καὶ πεῖν, καὶ ἀνέστησαν παίζειν.",
+    "pt_aa": "Não vos torneis, pois, idólatras, como alguns deles, conforme está escrito: O povo assentou-se a comer e a beber, e levantou-se para folgar."
+   },
+   "8": {
+    "peshitta": "ܘܐܦܠܐ ܢܙܢܐ ܐܝܟܢܐ ܕܡܢܗܘܢ ܙܢܝܘ ܘܢܦܠܘ ܒܚܕ ܝܘܡܐ ܥܣܪܝܢ ܘܬܠܬܐ ܐܠܦܝܢ",
+    "grego_sblgnt": "μηδὲ πορνεύωμεν, καθώς τινες αὐτῶν ἐπόρνευσαν, καὶ ἔπεσαν μιᾷ ἡμέρᾳ εἴκοσι τρεῖς χιλιάδες.",
+    "pt_aa": "Nem nos prostituamos, como alguns deles fizeram; e caíram num só dia vinte e três mil."
+   },
+   "9": {
+    "peshitta": "ܘܠܐ ܢܢܣܐ ܠܡܫܝܚܐ ܐܝܟܢܐ ܕܡܢܗܘܢ ܢܣܝܘ ܘܐܘܒܕܘ ܐܢܘܢ ܚܘܘܬܐ",
+    "grego_sblgnt": "μηδὲ ἐκπειράζωμεν τὸν ⸀Χριστόν, ⸀καθώς τινες αὐτῶν ἐπείρασαν, καὶ ὑπὸ τῶν ὄφεων ⸀ἀπώλλυντο.",
+    "pt_aa": "E não tentemos o Senhor, como alguns deles o tentaram, e pereceram pelas serpentes."
+   },
+   "10": {
+    "peshitta": "ܘܐܦܠܐ ܬܪܛܢܘܢ ܐܝܟܢܐ ܕܡܢܗܘܢ ܪܛܢܘ ܘܐܒܕܘ ܒܐܝܕܝ ܡܚܒܠܢܐ",
+    "grego_sblgnt": "μηδὲ γογγύζετε, ⸀καθάπερ τινὲς αὐτῶν ἐγόγγυσαν, καὶ ἀπώλοντο ὑπὸ τοῦ ὀλοθρευτοῦ.",
+    "pt_aa": "E não murmureis, como alguns deles murmuraram, e pereceram pelo destruidor."
+   },
+   "11": {
+    "peshitta": "ܗܠܝܢ ܕܝܢ ܟܠܗܝܢ ܕܓܕܫ ܠܗܘܢ ܠܛܘܦܣܢ ܗܘܝ ܘܐܬܟܬܒ ܡܛܠ ܡܪܕܘܬܐ ܕܝܠܢ ܕܚܪܬܗܘܢ ܕܥܠܡܐ ܥܠܝܢ ܡܛܝܬ",
+    "grego_sblgnt": "ταῦτα ⸀δὲ ⸂τυπικῶς συνέβαινεν⸃ ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν, εἰς οὓς τὰ τέλη τῶν αἰώνων ⸀κατήντηκεν.",
+    "pt_aa": "Ora, tudo isto lhes acontecia como exemplo, e foi escrito para aviso nosso, para quem já são chegados os fins dos séculos."
+   },
+   "12": {
+    "peshitta": "ܡܟܝܠ ܡܢ ܕܣܒܪ ܕܩܡ ܢܙܕܗܪ ܕܠܐ ܢܦܠ",
+    "grego_sblgnt": "ὥστε ὁ δοκῶν ἑστάναι βλεπέτω μὴ πέσῃ,",
+    "pt_aa": "Aquele, pois, que pensa estar em pé, olhe não caia."
+   },
+   "13": {
+    "peshitta": "ܢܣܝܘܢܐ ܠܐ ܡܛܝܟܘܢ ܐܠܐ ܕܒܢܝܢܫܐ ܡܗܝܡܢ ܗܘ ܕܝܢ ܐܠܗܐ ܕܠܐ ܢܪܦܝܟܘܢ ܕܬܬܢܣܘܢ ܝܬܝܪ ܡܢ ܡܕܡ ܕܡܨܝܢ ܐܢܬܘܢ ܐܠܐ ܢܥܒܕ ܠܢܣܝܘܢܟܘܢ ܡܦܩܢܐ ܐܝܟܢܐ ܕܬܫܟܚܘܢ ܠܡܣܝܒܪܘ",
+    "grego_sblgnt": "πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος· πιστὸς δὲ ὁ θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ ⸀δύνασθαι ὑπενεγκεῖν.",
+    "pt_aa": "Não vos sobreveio nenhuma tentação, senão humana; mas fiel é Deus, o qual não deixará que sejais tentados acima do que podeis resistir, antes com a tentação dará também o meio de saída, para que a possais suportar."
+   },
+   "14": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܚܒܝܒܝ ܥܪܘܩܘ ܡܢ ܦܘܠܚܢܐ ܕܦܬܟܪܐ",
+    "grego_sblgnt": "Διόπερ, ἀγαπητοί μου, φεύγετε ἀπὸ τῆς εἰδωλολατρίας.",
+    "pt_aa": "Portanto, meus amados, fugi da idolatria."
+   },
+   "15": {
+    "peshitta": "ܐܝܟ ܕܠܚܟܝܡܐ ܐܡܪ ܐܢܐ ܕܘܢܘ ܐܢܬܘܢ ܡܕܡ ܕܐܡܪ ܐܢܐ",
+    "grego_sblgnt": "ὡς φρονίμοις λέγω· κρίνατε ὑμεῖς ὅ φημι.",
+    "pt_aa": "Falo como a entendidos; julgai vós mesmos o que digo."
+   },
+   "16": {
+    "peshitta": "ܟܣܐ ܗܘ ܕܬܘܕܝܬܐ ܕܡܒܪܟܝܢܢ ܠܐ ܗܘܐ ܫܘܬܦܘܬܐ ܐܝܬܘܗܝ ܕܕܡܗ ܕܡܫܝܚܐ ܘܠܚܡܐ ܗܘ ܕܩܨܝܢܢ ܠܐ ܗܘܐ ܫܘܬܦܘܬܐ ܐܝܬܘܗܝ ܕܦܓܪܗ ܕܡܫܝܚܐ",
+    "grego_sblgnt": "τὸ ποτήριον τῆς εὐλογίας ὃ εὐλογοῦμεν, οὐχὶ κοινωνία ⸂ἐστὶν τοῦ αἵματος τοῦ Χριστοῦ⸃; τὸν ἄρτον ὃν κλῶμεν, οὐχὶ κοινωνία τοῦ σώματος τοῦ Χριστοῦ ἐστιν;",
+    "pt_aa": "Porventura o cálice de bênção que abençoamos, não é a comunhão do sangue de Cristo? O pão que partimos, não é porventura a comunhão do corpo de Cristo?"
+   },
+   "17": {
+    "peshitta": "ܐܝܟܢܐ ܕܚܕ ܗܘ ܠܚܡܐ ܗܘ ܗܟܢܐ ܟܠܢ ܚܕ ܚܢܢ ܦܓܪ ܟܠܢ ܓܝܪ ܡܢ ܗܘ ܗܘ ܚܕ ܠܚܡܐ ܢܣܒܝܢܢ",
+    "grego_sblgnt": "ὅτι εἷς ἄρτος, ἓν σῶμα οἱ πολλοί ἐσμεν, οἱ γὰρ πάντες ἐκ τοῦ ἑνὸς ἄρτου μετέχομεν.",
+    "pt_aa": "Pois nós, embora muitos, somos um só pão, um só corpo; porque todos participamos de um mesmo pão."
+   },
+   "18": {
+    "peshitta": "ܚܙܘ ܠܐܝܣܪܝܠ ܕܒܒܣܪ ܠܐ ܗܘܐ ܐܝܠܝܢ ܕܐܟܠܝܢ ܕܒܚܐ ܗܘܝܢ ܫܘܬܦܐ ܠܡܕܒܚܐ",
+    "grego_sblgnt": "βλέπετε τὸν Ἰσραὴλ κατὰ σάρκα· ⸀οὐχ οἱ ἐσθίοντες τὰς θυσίας κοινωνοὶ τοῦ θυσιαστηρίου εἰσίν;",
+    "pt_aa": "Vede a Israel segundo a carne; os que comem dos sacrifícios não são porventura participantes do altar?"
+   },
+   "19": {
+    "peshitta": "ܡܢܐ ܗܟܝܠ ܐܡܪ ܐܢܐ ܕܦܬܟܪܐ ܡܕܡ ܐܝܬܘܗܝ ܐܘ ܕܒܚܐ ܕܦܬܟܪܐ ܡܕܡ ܗܘ ܠܐ",
+    "grego_sblgnt": "τί οὖν φημι; ὅτι ⸂εἰδωλόθυτόν τί ἐστιν, ἢ ὅτι εἴδωλόν⸃ τί ἐστιν;",
+    "pt_aa": "Mas que digo? Que o sacrificado ao ídolo é alguma coisa? Ou que o ídolo é alguma coisa?"
+   },
+   "20": {
+    "peshitta": "ܐܠܐ ܗܘ ܡܕܡ ܕܕܒܚܝܢ ܚܢܦܐ ܠܫܐܕܐ ܗܘ ܕܒܚܝܢ ܘܠܐ ܠܐܠܗܐ ܠܐ ܕܝܢ ܨܒܐ ܐܢܐ ܕܬܗܘܘܢ ܫܘܬܦܐ ܠܫܐܕܐ",
+    "grego_sblgnt": "ἀλλ’ ὅτι ἃ ⸀θύουσιν, δαιμονίοις ⸂καὶ οὐ θεῷ θύουσιν⸃, οὐ θέλω δὲ ὑμᾶς κοινωνοὺς τῶν δαιμονίων γίνεσθαι.",
+    "pt_aa": "Antes digo que as coisas que eles sacrificam, sacrificam-nas a demônios, e não a Deus. E não quero que sejais participantes com os demônios."
+   },
+   "21": {
+    "peshitta": "ܠܐ ܡܫܟܚܝܢ ܐܢܬܘܢ ܕܬܫܬܘܢ ܟܣܐ ܕܡܪܢ ܘܟܣܐ ܕܫܐܕܐ ܘܠܐ ܡܫܟܚܝܢ ܐܢܬܘܢ ܕܬܫܬܘܬܦܘܢ ܒܦܬܘܪܐ ܕܡܪܢ ܘܒܦܬܘܪܐ ܕܫܐܕܐ",
+    "grego_sblgnt": "οὐ δύνασθε ποτήριον κυρίου πίνειν καὶ ποτήριον δαιμονίων· οὐ δύνασθε τραπέζης κυρίου μετέχειν καὶ τραπέζης δαιμονίων.",
+    "pt_aa": "Não podeis beber do cálice do Senhor e do cálice de demônios; não podeis participar da mesa do Senhor e da mesa de demônios."
+   },
+   "22": {
+    "peshitta": "ܐܘ ܕܠܡܐ ܡܛܢܘ ܡܛܢܝܢܢ ܠܡܪܢ ܕܠܡܐ ܚܣܝܢܝܢܢ ܡܢܗ",
+    "grego_sblgnt": "ἢ παραζηλοῦμεν τὸν κύριον; μὴ ἰσχυρότεροι αὐτοῦ ἐσμεν;",
+    "pt_aa": "Ou provocaremos a zelos o Senhor? Somos, porventura, mais fortes do que ele?"
+   },
+   "23": {
+    "peshitta": "ܟܠ ܡܕܡ ܫܠܝܛ ܠܝ ܐܠܐ ܠܐ ܟܠ ܡܕܡ ܦܩܚ ܟܠ ܡܕܡ ܫܠܝܛ ܠܝ ܐܠܐ ܠܐ ܟܠ ܡܕܡ ܡܒܢܐ",
+    "grego_sblgnt": "⸀Πάντα ἔξεστιν· ἀλλ’ οὐ πάντα συμφέρει. ⸁πάντα ἔξεστιν· ἀλλ’ οὐ πάντα οἰκοδομεῖ.",
+    "pt_aa": "Todas as coisas são lícitas, mas nem todas as coisas convêm; todas as coisas são lícitas, mas nem todas as coisas edificam."
+   },
+   "24": {
+    "peshitta": "ܠܐ ܐܢܫ ܕܢܦܫܗ ܢܗܘܐ ܒܥܐ ܐܠܐ ܟܠܢܫ ܐܦ ܕܚܒܪܗ",
+    "grego_sblgnt": "μηδεὶς τὸ ἑαυτοῦ ζητείτω ἀλλὰ τὸ τοῦ ⸀ἑτέρου.",
+    "pt_aa": "Ninguém busque o proveito próprio, antes cada um o de outrem."
+   },
+   "25": {
+    "peshitta": "ܟܠܡܕܡ ܕܡܙܕܒܢ ܒܡܩܠܘܢ ܗܘܝܬܘܢ ܐܟܠܝܢ ܕܠܐ ܥܘܩܒܐ ܡܛܠ ܬܐܪܬܐ",
+    "grego_sblgnt": "πᾶν τὸ ἐν μακέλλῳ πωλούμενον ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν συνείδησιν,",
+    "pt_aa": "Comei de tudo quanto se vende no mercado, nada perguntando por causa da consciência."
+   },
+   "26": {
+    "peshitta": "ܕܡܪܝܐ ܗܝ ܓܝܪ ܐܪܥܐ ܒܡܠܐܗ",
+    "grego_sblgnt": "τοῦ ⸂κυρίου γὰρ⸃ ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς.",
+    "pt_aa": "Pois do Senhor é a terra e a sua plenitude."
+   },
+   "27": {
+    "peshitta": "ܐܢ ܐܢܫ ܕܝܢ ܡܢ ܚܢܦܐ ܩܪܐ ܠܟܘܢ ܘܨܒܝܢ ܐܢܬܘܢ ܠܡܐܙܠ ܟܠܡܕܡ ܕܡܬܣܝܡ ܩܕܡܝܟܘܢ ܐܟܘܠܘ ܕܠܐ ܥܘܩܒܐ ܡܛܠ ܬܐܪܬܐ",
+    "grego_sblgnt": "⸀εἴ τις καλεῖ ὑμᾶς τῶν ἀπίστων καὶ θέλετε πορεύεσθαι, πᾶν τὸ παρατιθέμενον ὑμῖν ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν συνείδησιν·",
+    "pt_aa": "Se, portanto, algum dos incrédulos vos convidar, e quiserdes ir, comei de tudo o que se puser diante de vós, nada perguntando por causa da consciência."
+   },
+   "28": {
+    "peshitta": "ܐܢ ܐܢܫ ܕܝܢ ܢܐܡܪ ܠܟܘܢ ܕܗܢܐ ܕܕܒܝܚܐ ܗܘ ܠܐ ܬܐܟܠܘܢ ܡܛܠ ܗܘ ܕܐܡܪ ܠܟܘܢ ܘܡܛܠ ܬܐܪܬܐ",
+    "grego_sblgnt": "ἐὰν δέ τις ὑμῖν εἴπῃ· Τοῦτο ⸀ἱερόθυτόν ἐστιν, μὴ ἐσθίετε δι’ ἐκεῖνον τὸν μηνύσαντα καὶ τὴν ⸀συνείδησιν·",
+    "pt_aa": "Mas, se alguém vos disser: Isto foi oferecido em sacrifício; não comais por causa daquele que vos advertiu e por causa da consciência;"
+   },
+   "29": {
+    "peshitta": "ܬܐܪܬܐ ܕܝܢ ܐܡܪ ܐܢܐ ܠܐ ܗܘܐ ܕܝܠܟܘܢ ܐܠܐ ܕܗܘ ܕܐܡܪ ܠܡܢܐ ܓܝܪ ܚܐܪܘܬܝ ܡܬܕܝܢܐ ܡܢ ܬܐܪܬܐ ܕܐܚܪܢܐ",
+    "grego_sblgnt": "συνείδησιν δὲ λέγω οὐχὶ τὴν ἑαυτοῦ ἀλλὰ τὴν τοῦ ἑτέρου· ἱνατί γὰρ ἡ ἐλευθερία μου κρίνεται ὑπὸ ἄλλης συνειδήσεως;",
+    "pt_aa": "consciência, digo, não a tua, mas a do outro. Pois, por que há de ser julgada a minha liberdade pela consciência de outrem?"
+   },
+   "30": {
+    "peshitta": "ܐܢ ܐܢܐ ܒܛܝܒܘܬܐ ܡܬܚܫܚ ܐܢܐ ܡܢܐ ܡܬܓܕܦ ܐܢܐ ܥܠ ܡܕܡ ܕܐܢܐ ܡܘܕܐܢܐ",
+    "grego_sblgnt": "εἰ ἐγὼ χάριτι μετέχω, τί βλασφημοῦμαι ὑπὲρ οὗ ἐγὼ εὐχαριστῶ;",
+    "pt_aa": "E, se eu com gratidão participo, por que sou vilipendiado por causa daquilo por que dou graças?"
+   },
+   "31": {
+    "peshitta": "ܐܢ ܐܟܠܝܢ ܐܢܬܘܢ ܗܟܝܠ ܘܐܢ ܫܬܝܢ ܐܢܬܘܢ ܘܐܢ ܡܕܡ ܥܒܕܝܢ ܐܢܬܘܢ ܟܠܡܕܡ ܠܬܫܒܘܚܬܐ ܕܐܠܗܐ ܗܘܝܬܘܢ ܥܒܕܝܢ",
+    "grego_sblgnt": "Εἴτε οὖν ἐσθίετε εἴτε πίνετε εἴτε τι ποιεῖτε, πάντα εἰς δόξαν θεοῦ ποιεῖτε.",
+    "pt_aa": "Portanto, quer comais quer bebais, ou façais, qualquer outra coisa, fazei tudo para glória de Deus."
+   },
+   "32": {
+    "peshitta": "ܕܠܐ ܬܘܩܠܐ ܗܘܘ ܠܝܗܘܕܝܐ ܘܠܐܪܡܝܐ ܘܠܥܕܬܗ ܕܐܠܗܐ",
+    "grego_sblgnt": "ἀπρόσκοποι ⸂καὶ Ἰουδαίοις γίνεσθε⸃ καὶ Ἕλλησιν καὶ τῇ ἐκκλησίᾳ τοῦ θεοῦ,",
+    "pt_aa": "Não vos torneis causa de tropeço nem a judeus, nem a gregos, nem a igreja de Deus;"
+   },
+   "33": {
+    "peshitta": "ܐܝܟ ܕܐܦ ܐܢܐ ܒܟܠ ܡܕܡ ܠܟܠܢܫ ܫܦܪ ܐܢܐ ܘܠܐ ܒܥܐ ܐܢܐ ܡܕܡ ܕܠܝ ܦܩܚ ܐܠܐ ܡܕܡ ܕܠܣܓܝܐܐ ܦܩܚ ܕܢܚܘܢ",
+    "grego_sblgnt": "καθὼς κἀγὼ πάντα πᾶσιν ἀρέσκω, μὴ ζητῶν τὸ ἐμαυτοῦ ⸀σύμφορον ἀλλὰ τὸ τῶν πολλῶν, ἵνα σωθῶσιν.",
+    "pt_aa": "assim como também eu em tudo procuro agradar a todos, não buscando o meu próprio proveito, mas o de muitos, para que sejam salvos."
+   }
+  },
+  "11": {
+   "1": {
+    "peshitta": "ܐܬܕܡܘ ܒܝ ܐܝܟܢܐ ܕܐܦ ܐܢܐ ܒܡܫܝܚܐ",
+    "grego_sblgnt": "μιμηταί μου γίνεσθε, καθὼς κἀγὼ Χριστοῦ.",
+    "pt_aa": "Sede meus imitadores, como também eu o sou de Cristo."
+   },
+   "2": {
+    "peshitta": "ܡܫܒܚ ܐܢܐ ܠܟܘܢ ܕܝܢ ܐܚܝ ܕܒܟܠ ܡܕܡ ܡܥܗܕ ܐܢܬܘܢ ܠܝ ܘܐܝܟܢܐ ܕܐܫܠܡܬ ܠܟܘܢ ܦܘܩܕܢܐ ܐܚܝܕܝܢ ܐܢܬܘܢ",
+    "grego_sblgnt": "Ἐπαινῶ δὲ ⸀ὑμᾶς ὅτι πάντα μου μέμνησθε καὶ καθὼς παρέδωκα ὑμῖν τὰς παραδόσεις κατέχετε.",
+    "pt_aa": "Ora, eu vos louvo, porque em tudo vos lembrais de mim, e guardais os preceitos assim como vo-los entreguei."
+   },
+   "3": {
+    "peshitta": "ܨܒܐ ܐܢܐ ܕܝܢ ܕܬܕܥܘܢ ܕܟܠ ܓܒܪ ܪܫܗ ܡܫܝܚܐ ܗܘ ܘܪܫܗ ܕܐܢܬܬܐ ܓܒܪܐ ܗܘ ܘܪܫܗ ܕܡܫܝܚܐ ܐܠܗܐ ܗܘ",
+    "grego_sblgnt": "θέλω δὲ ὑμᾶς εἰδέναι ὅτι παντὸς ἀνδρὸς ἡ κεφαλὴ ὁ Χριστός ἐστιν, κεφαλὴ δὲ γυναικὸς ὁ ἀνήρ, κεφαλὴ δὲ ⸀τοῦ Χριστοῦ ὁ θεός.",
+    "pt_aa": "Quero porém, que saibais que Cristo é a cabeça de todo homem, o homem a cabeça da mulher, e Deus a cabeça de Cristo."
+   },
+   "4": {
+    "peshitta": "ܟܠ ܓܒܪܐ ܕܡܨܠܐ ܐܘ ܡܬܢܒܐ ܟܕ ܡܟܣܝ ܪܫܗ ܡܒܗܬ ܪܫܗ",
+    "grego_sblgnt": "πᾶς ἀνὴρ προσευχόμενος ἢ προφητεύων κατὰ κεφαλῆς ἔχων καταισχύνει τὴν κεφαλὴν αὐτοῦ·",
+    "pt_aa": "Todo homem que ora ou profetiza com a cabeça coberta desonra a sua cabeça."
+   },
+   "5": {
+    "peshitta": "ܘܟܠ ܐܢܬܬܐ ܕܡܨܠܝܐ ܐܘ ܡܬܢܒܝܐ ܟܕ ܓܠܐ ܪܫܗ ܡܒܗܬܐ ܪܫܗ ܫܘܝܐ ܗܝ ܓܝܪ ܥܡ ܗܝ ܕܓܪܝܥ ܪܫܗ",
+    "grego_sblgnt": "πᾶσα δὲ γυνὴ προσευχομένη ἢ προφητεύουσα ἀκατακαλύπτῳ τῇ κεφαλῇ καταισχύνει τὴν κεφαλὴν ⸀αὐτῆς, ἓν γάρ ἐστιν καὶ τὸ αὐτὸ τῇ ἐξυρημένῃ.",
+    "pt_aa": "Mas toda mulher que ora ou profetiza com a cabeça descoberta desonra a sua cabeça, porque é a mesma coisa como se estivesse rapada."
+   },
+   "6": {
+    "peshitta": "ܐܢ ܓܝܪ ܠܐ ܡܬܟܣܝܐ ܐܢܬܬܐ ܐܦ ܬܣܬܦܪ ܐܢ ܕܝܢ ܡܫܟܪ ܗܘ ܠܐܢܬܬܐ ܠܡܣܬܦܪܘ ܐܘ ܠܡܓܪܥ ܬܬܟܣܐ",
+    "grego_sblgnt": "εἰ γὰρ οὐ κατακαλύπτεται γυνή, καὶ κειράσθω· εἰ δὲ αἰσχρὸν γυναικὶ τὸ κείρασθαι ἢ ξυρᾶσθαι, κατακαλυπτέσθω.",
+    "pt_aa": "Portanto, se a mulher não se cobre com véu, tosquie-se também; se, porém, para a mulher é vergonhoso ser tosquiada ou rapada, cubra-se com véu."
+   },
+   "7": {
+    "peshitta": "ܓܒܪܐ ܓܝܪ ܠܐ ܚܝܒ ܕܢܟܣܐ ܪܫܗ ܡܛܠ ܕܕܡܘܬܐ ܗܘ ܘܬܫܒܘܚܬܐ ܕܐܠܗܐ ܐܢܬܬܐ ܕܝܢ ܬܫܒܘܚܬܐ ܗܝ ܕܓܒܪܐ",
+    "grego_sblgnt": "ἀνὴρ μὲν γὰρ οὐκ ὀφείλει κατακαλύπτεσθαι τὴν κεφαλήν, εἰκὼν καὶ δόξα θεοῦ ὑπάρχων· ⸀ἡ γυνὴ δὲ δόξα ἀνδρός ἐστιν.",
+    "pt_aa": "Pois o homem, na verdade, não deve cobrir a cabeça, porque é a imagem e glória de Deus; mas a mulher é a glória do homem."
+   },
+   "8": {
+    "peshitta": "ܠܐ ܓܝܪ ܐܝܬܘܗܝ ܓܒܪܐ ܡܢ ܐܢܬܬܐ ܐܠܐ ܐܢܬܬܐ ܡܢ ܓܒܪܐ",
+    "grego_sblgnt": "οὐ γάρ ἐστιν ἀνὴρ ἐκ γυναικός, ἀλλὰ γυνὴ ἐξ ἀνδρός·",
+    "pt_aa": "Porque o homem não proveio da mulher, mas a mulher do homem;"
+   },
+   "9": {
+    "peshitta": "ܘܐܦܠܐ ܓܝܪ ܓܒܪܐ ܐܬܒܪܝ ܡܛܠ ܐܢܬܬܐ ܐܠܐ ܐܢܬܬܐ ܡܛܠ ܓܒܪܐ",
+    "grego_sblgnt": "καὶ γὰρ οὐκ ἐκτίσθη ἀνὴρ διὰ τὴν γυναῖκα, ἀλλὰ γυνὴ διὰ τὸν ἄνδρα.",
+    "pt_aa": "nem foi o homem criado por causa da mulher, mas sim, a mulher por causa do homem."
+   },
+   "10": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܚܝܒܐ ܐܢܬܬܐ ܕܫܘܠܛܢܐ ܢܗܘܐ ܥܠ ܪܫܗ ܡܛܠ ܡܠܐܟܐ",
+    "grego_sblgnt": "διὰ τοῦτο ὀφείλει ἡ γυνὴ ἐξουσίαν ἔχειν ἐπὶ τῆς κεφαλῆς διὰ τοὺς ἀγγέλους.",
+    "pt_aa": "Portanto, a mulher deve trazer sobre a cabeça um sinal de submissão, por causa dos anjos."
+   },
+   "11": {
+    "peshitta": "ܒܪܡ ܕܝܢ ܠܐ ܓܒܪܐ ܠܒܪ ܡܢ ܐܢܬܬܐ ܐܦܠܐ ܐܢܬܬܐ ܠܒܪ ܡܢ ܓܒܪܐ ܒܡܪܢ",
+    "grego_sblgnt": "πλὴν οὔτε ⸂γυνὴ χωρὶς ἀνδρὸς οὔτε ἀνὴρ χωρὶς γυναικὸς⸃ ἐν κυρίῳ·",
+    "pt_aa": "Todavia, no Senhor, nem a mulher é independente do homem, nem o homem é independente da mulher."
+   },
+   "12": {
+    "peshitta": "ܐܝܟܢܐ ܓܝܪ ܕܐܢܬܬܐ ܡܢ ܓܒܪܐ ܗܟܢܐ ܐܦ ܓܒܪܐ ܒܝܕ ܐܢܬܬܐ ܟܠܡܕܡ ܕܝܢ ܡܢ ܐܠܗܐ ܗܘ",
+    "grego_sblgnt": "ὥσπερ γὰρ ἡ γυνὴ ἐκ τοῦ ἀνδρός, οὕτως καὶ ὁ ἀνὴρ διὰ τῆς γυναικός· τὰ δὲ πάντα ἐκ τοῦ θεοῦ.",
+    "pt_aa": "pois, assim como a mulher veio do homem, assim também o homem nasce da mulher, mas tudo vem de Deus."
+   },
+   "13": {
+    "peshitta": "ܕܘܢܘ ܒܝܢܝܟܘܢ ܠܢܦܫܟܘܢ ܝܐܐ ܠܐܢܬܬܐ ܕܟܕ ܓܠܐ ܪܫܗ ܬܨܠܐ ܠܐܠܗܐ",
+    "grego_sblgnt": "ἐν ὑμῖν αὐτοῖς κρίνατε· πρέπον ἐστὶν γυναῖκα ἀκατακάλυπτον τῷ θεῷ προσεύχεσθαι;",
+    "pt_aa": "julgai entre vós mesmos: é conveniente que uma mulher com a cabeça descoberta ore a Deus?"
+   },
+   "14": {
+    "peshitta": "ܐܦܠܐ ܗܘ ܟܝܢܐ ܡܠܦ ܠܟܘܢ ܕܓܒܪܐ ܡܐ ܕܩܐܡ ܣܥܪܗ ܨܥܪܐ ܗܘ ܠܗ",
+    "grego_sblgnt": "⸀οὐδὲ ⸂ἡ φύσις αὐτὴ⸃ διδάσκει ὑμᾶς ὅτι ἀνὴρ μὲν ἐὰν κομᾷ, ἀτιμία αὐτῷ ἐστιν,",
+    "pt_aa": "Não vos ensina a própria natureza que se o homem tiver cabelo comprido, é para ele uma desonra;"
+   },
+   "15": {
+    "peshitta": "ܘܐܢܬܬܐ ܡܐ ܕܡܪܒܝ ܣܥܪܗ ܬܫܒܘܚܬܐ ܗܝ ܠܗ ܡܛܠ ܕܣܥܪܗ ܚܠܦ ܬܟܣܝܬܐ ܗܘ ܐܬܝܗܒ ܠܗ",
+    "grego_sblgnt": "γυνὴ δὲ ἐὰν κομᾷ, δόξα αὐτῇ ἐστιν; ὅτι ἡ κόμη ἀντὶ περιβολαίου ⸀δέδοται.",
+    "pt_aa": "mas se a mulher tiver o cabelo comprido, é para ela uma glória? Pois a cabeleira lhe foi dada em lugar de véu."
+   },
+   "16": {
+    "peshitta": "ܐܢ ܐܢܫ ܕܝܢ ܡܬܚܪܐ ܥܠ ܗܠܝܢ ܠܢ ܠܝܬ ܥܝܕܐ ܐܝܟ ܗܢܐ ܘܠܐ ܠܥܕܬܗ ܕܐܠܗܐ",
+    "grego_sblgnt": "εἰ δέ τις δοκεῖ φιλόνεικος εἶναι, ἡμεῖς τοιαύτην συνήθειαν οὐκ ἔχομεν, οὐδὲ αἱ ἐκκλησίαι τοῦ θεοῦ.",
+    "pt_aa": "Mas, se alguém quiser ser contencioso, nós não temos tal costume, nem tampouco as igrejas de Deus."
+   },
+   "17": {
+    "peshitta": "ܗܕܐ ܕܝܢ ܕܡܦܩܕ ܐܢܐ ܠܐ ܐܝܟ ܡܫܒܚ ܐܢܐ ܠܟܘܢ ܡܛܠ ܕܠܐ ܗܘܐ ܠܩܕܡܝܟܘܢ ܐܬܝܬܘܢ ܐܠܐ ܠܒܨܝܪܘܬܐ ܗܘ ܢܚܬܬܘܢ",
+    "grego_sblgnt": "Τοῦτο δὲ ⸂παραγγέλλων οὐκ ἐπαινῶ⸃ ὅτι οὐκ εἰς τὸ κρεῖσσον ἀλλὰ εἰς τὸ ἧσσον συνέρχεσθε.",
+    "pt_aa": "Nisto, porém, que vou dizer-vos não vos louvo; porquanto vos ajuntais, não para melhor, mas para pior."
+   },
+   "18": {
+    "peshitta": "ܠܘܩܕܡ ܓܝܪ ܡܐ ܕܡܬܟܢܫܝܢ ܐܢܬܘܢ ܒܥܕܬܐ ܦܠܓܘܬܐ ܫܡܥ ܐܢܐ ܕܐܝܬ ܒܝܢܬܟܘܢ ܘܡܕܡ ܡܕܡ ܡܗܝܡܢ ܐܢܐ",
+    "grego_sblgnt": "πρῶτον μὲν γὰρ συνερχομένων ὑμῶν ἐν ἐκκλησίᾳ ἀκούω σχίσματα ἐν ὑμῖν ὑπάρχειν, καὶ μέρος τι πιστεύω.",
+    "pt_aa": "Porque, antes de tudo, ouço que quando vos ajuntais na igreja há entre vós dissensões; e em parte o creio."
+   },
+   "19": {
+    "peshitta": "ܥܬܝܕܝܢ ܐܢܘܢ ܓܝܪ ܐܦ ܚܪܝܢܐ ܕܢܗܘܘܢ ܒܝܢܬܟܘܢ ܕܐܝܠܝܢ ܕܒܩܝܢ ܒܟܘܢ ܢܬܝܕܥܘܢ",
+    "grego_sblgnt": "δεῖ γὰρ καὶ αἱρέσεις ἐν ὑμῖν εἶναι, ἵνα ⸀καὶ οἱ δόκιμοι φανεροὶ γένωνται ἐν ὑμῖν.",
+    "pt_aa": "E até importa que haja entre vós facções, para que os aprovados se tornem manifestos entre vós."
+   },
+   "20": {
+    "peshitta": "ܡܐ ܗܟܝܠ ܕܡܬܟܢܫܝܢ ܐܢܬܘܢ ܠܘ ܐܝܟ ܕܙܕܩ ܠܝܘܡܗ ܕܡܪܢ ܐܟܠܝܢ ܐܢܬܘܢ ܘܫܬܝܢ",
+    "grego_sblgnt": "συνερχομένων οὖν ὑμῶν ἐπὶ τὸ αὐτὸ οὐκ ἔστιν κυριακὸν δεῖπνον φαγεῖν,",
+    "pt_aa": "De sorte que, quando vos ajuntais num lugar, não é para comer a ceia do Senhor;"
+   },
+   "21": {
+    "peshitta": "ܐܠܐ ܐܢܫ ܐܢܫ ܚܫܡܝܬܗ ܩܕܡ ܐܟܠ ܠܗ ܘܗܘܐ ܚܕ ܟܦܢ ܘܚܕ ܪܘܐ",
+    "grego_sblgnt": "ἕκαστος γὰρ τὸ ἴδιον δεῖπνον προλαμβάνει ἐν τῷ φαγεῖν, καὶ ὃς μὲν πεινᾷ, ὃς δὲ μεθύει.",
+    "pt_aa": "porque quando comeis, cada um toma antes de outrem a sua própria ceia; e assim um fica com fome e outro se embriaga."
+   },
+   "22": {
+    "peshitta": "ܕܠܡܐ ܒܬܐ ܠܝܬ ܠܟܘܢ ܕܬܐܟܠܘܢ ܘܬܫܬܘܢ ܐܘ ܒܥܕܬܗ ܕܐܠܗܐ ܒܣܝܢ ܐܢܬܘܢ ܘܡܒܗܬܝܢ ܐܢܬܘܢ ܠܐܝܠܝܢ ܕܠܝܬ ܠܗܘܢ ܡܢܐ ܐܡܪ ܠܟܘܢ ܐܫܒܚܟܘܢ ܒܗܕܐ ܠܐ ܡܫܒܚ ܐܢܐ",
+    "grego_sblgnt": "μὴ γὰρ οἰκίας οὐκ ἔχετε εἰς τὸ ἐσθίειν καὶ πίνειν; ἢ τῆς ἐκκλησίας τοῦ θεοῦ καταφρονεῖτε, καὶ καταισχύνετε τοὺς μὴ ἔχοντας; τί ⸂εἴπω ὑμῖν⸃; ἐπαινέσω ὑμᾶς; ἐν τούτῳ οὐκ ἐπαινῶ.",
+    "pt_aa": "Não tendes porventura casas onde comer e beber? Ou desprezais a igreja de Deus, e envergonhais os que nada têm? Que vos direi? Louvar-vos-ei? Nisto não vos louvo."
+   },
+   "23": {
+    "peshitta": "ܐܢܐ ܓܝܪ ܩܒܠܬ ܡܢ ܡܪܢ ܗܘ ܡܕܡ ܕܐܫܠܡܬ ܠܟܘܢ ܕܡܪܢ ܝܫܘܥ ܒܗܘ ܠܠܝܐ ܕܡܫܬܠܡ ܗܘܐ ܢܣܒ ܗܘܐ ܠܚܡܐ",
+    "grego_sblgnt": "Ἐγὼ γὰρ παρέλαβον ἀπὸ τοῦ κυρίου, ὃ καὶ παρέδωκα ὑμῖν, ὅτι ὁ κύριος Ἰησοῦς ἐν τῇ νυκτὶ ᾗ ⸀παρεδίδετο ἔλαβεν ἄρτον",
+    "pt_aa": "Porque eu recebi do Senhor o que também vos entreguei: que o Senhor Jesus, na noite em que foi traído, tomou pão;"
+   },
+   "24": {
+    "peshitta": "ܘܒܪܟ ܘܩܨܐ ܘܐܡܪ ܣܒܘ ܐܟܘܠܘ ܗܢܘ ܦܓܪܝ ܕܥܠ ܐܦܝܟܘܢ ܡܬܩܨܐ ܗܟܢܐ ܗܘܝܬܘܢ ܥܒܕܝܢ ܠܕܘܟܪܢܝ",
+    "grego_sblgnt": "καὶ εὐχαριστήσας ἔκλασεν καὶ ⸀εἶπεν· Τοῦτό μού ἐστιν τὸ σῶμα τὸ ὑπὲρ ⸀ὑμῶν· τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν.",
+    "pt_aa": "e, havendo dado graças, o partiu e disse: Isto é o meu corpo que é por vós; fazei isto em memória de mim."
+   },
+   "25": {
+    "peshitta": "ܗܟܢܐ ܡܢ ܒܬܪ ܕܐܚܫܡܘ ܐܦ ܟܣܐ ܝܗܒ ܘܐܡܪ ܗܢܐ ܟܣܐ ܐܝܬܘܗܝ ܕܝܬܩܐ ܚܕܬܐ ܒܕܡܝ ܗܟܢܐ ܗܘܝܬܘܢ ܥܒܕܝܢ ܟܠ ܐܡܬܝ ܕܫܬܝܢ ܐܢܬܘܢ ܠܕܘܟܪܢܝ",
+    "grego_sblgnt": "ὡσαύτως καὶ τὸ ποτήριον μετὰ τὸ δειπνῆσαι, λέγων· Τοῦτο τὸ ποτήριον ἡ καινὴ διαθήκη ἐστὶν ἐν τῷ ἐμῷ αἵματι· τοῦτο ποιεῖτε, ὁσάκις ⸀ἐὰν πίνητε, εἰς τὴν ἐμὴν ἀνάμνησιν.",
+    "pt_aa": "Semelhantemente também, depois de cear, tomou o cálice, dizendo: Este cálice é o novo pacto no meu sangue; fazei isto, todas as vezes que o beberdes, em memória de mim."
+   },
+   "26": {
+    "peshitta": "ܟܠ ܐܡܬܝ ܓܝܪ ܕܐܟܠܝܢ ܐܢܬܘܢ ܠܚܡܐ ܗܢܐ ܘܫܬܝܢ ܐܢܬܘܢ ܟܣܐ ܗܢܐ ܡܘܬܗ ܗܘ ܕܡܪܢ ܡܥܗܕܝܢ ܐܢܬܘܢ ܥܕܡܐ ܠܡܐܬܝܬܗ",
+    "grego_sblgnt": "ὁσάκις γὰρ ⸀ἐὰν ἐσθίητε τὸν ἄρτον τοῦτον καὶ τὸ ⸀ποτήριον πίνητε, τὸν θάνατον τοῦ κυρίου καταγγέλλετε, ἄχρι ⸀οὗ ἔλθῃ.",
+    "pt_aa": "Porque todas as vezes que comerdes deste pão e beberdes do cálice estareis anunciando a morte do Senhor, até que ele venha."
+   },
+   "27": {
+    "peshitta": "ܐܝܢܐ ܗܟܝܠ ܕܐܟܠ ܡܢ ܠܚܡܗ ܕܡܪܝܐ ܘܫܬܐ ܡܢ ܟܣܗ ܘܠܐ ܫܘܐ ܠܗ ܡܚܝܒ ܗܘ ܠܕܡܗ ܕܡܪܝܐ ܘܠܦܓܪܗ",
+    "grego_sblgnt": "Ὥστε ὃς ἂν ἐσθίῃ τὸν ⸀ἄρτον ἢ πίνῃ τὸ ποτήριον τοῦ κυρίου ⸀ἀναξίως, ἔνοχος ἔσται τοῦ σώματος καὶ τοῦ αἵματος τοῦ κυρίου.",
+    "pt_aa": "De modo que qualquer que comer do pão, ou beber do cálice do Senhor indignamente, será culpado do corpo e do sangue do Senhor."
+   },
+   "28": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܢܗܘܐ ܐܢܫ ܒܩܐ ܢܦܫܗ ܘܗܝܕܝܢ ܐܟܠ ܡܢ ܠܚܡܐ ܗܢܐ ܘܫܬܐ ܡܢ ܟܣܐ ܗܢܐ",
+    "grego_sblgnt": "δοκιμαζέτω δὲ ἄνθρωπος ἑαυτόν, καὶ οὕτως ἐκ τοῦ ἄρτου ἐσθιέτω καὶ ἐκ τοῦ ποτηρίου πινέτω·",
+    "pt_aa": "Examine-se, pois, o homem a si mesmo, e assim coma do pão e beba do cálice."
+   },
+   "29": {
+    "peshitta": "ܡܢ ܕܐܟܠ ܓܝܪ ܘܫܬܐ ܡܢܗ ܟܕ ܠܐ ܫܘܐ ܚܘܝܒܐ ܗܘ ܠܢܦܫܗ ܐܟܠ ܘܫܬܐ ܕܠܐ ܦܪܫ ܦܓܪܗ ܕܡܪܝܐ",
+    "grego_sblgnt": "ὁ γὰρ ἐσθίων καὶ ⸀πίνων κρίμα ἑαυτῷ ἐσθίει καὶ πίνει μὴ διακρίνων τὸ ⸀σῶμα.",
+    "pt_aa": "Porque quem come e bebe, come e bebe para sua própria condenação, se não discernir o corpo do Senhor."
+   },
+   "30": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܣܓܝܐܝܢ ܒܟܘܢ ܡܪܥܐ ܘܟܪܝܗܐ ܘܣܓܝܐܐ ܕܕܡܟܝܢ",
+    "grego_sblgnt": "διὰ τοῦτο ἐν ὑμῖν πολλοὶ ἀσθενεῖς καὶ ἄρρωστοι καὶ κοιμῶνται ἱκανοί.",
+    "pt_aa": "Por causa disto há entre vós muitos fracos e enfermos, e muitos que dormem."
+   },
+   "31": {
+    "peshitta": "ܐܠܘ ܓܝܪ ܢܦܫܢ ܕܝܢܝܢ ܗܘܝܢ ܠܐ ܡܬܕܝܢܝܢ ܗܘܝܢ",
+    "grego_sblgnt": "εἰ ⸀δὲ ἑαυτοὺς διεκρίνομεν, οὐκ ἂν ἐκρινόμεθα·",
+    "pt_aa": "Mas, se nós nos julgássemos a nós mesmos, não seríamos julgados;"
+   },
+   "32": {
+    "peshitta": "ܟܕ ܡܬܕܝܢܝܢܢ ܕܝܢ ܡܢ ܡܪܢ ܡܬܪܕܝܘ ܡܬܪܕܝܢܢ ܕܠܐ ܥܡ ܥܠܡܐ ܢܬܚܝܒ",
+    "grego_sblgnt": "κρινόμενοι δὲ ⸀ὑπὸ κυρίου παιδευόμεθα, ἵνα μὴ σὺν τῷ κόσμῳ κατακριθῶμεν.",
+    "pt_aa": "quando, porém, somos julgados pelo Senhor, somos corrigidos, para não sermos condenados com o mundo."
+   },
+   "33": {
+    "peshitta": "ܡܟܝܠ ܐܚܝ ܐܡܬܝ ܕܡܬܟܢܫܝܢ ܐܢܬܘܢ ܠܡܐܟܠ ܗܘܝܬܘܢ ܡܩܘܝܢ ܚܕ ܠܚܕ",
+    "grego_sblgnt": "Ὥστε, ἀδελφοί μου, συνερχόμενοι εἰς τὸ φαγεῖν ἀλλήλους ἐκδέχεσθε.",
+    "pt_aa": "Portanto, meus irmãos, quando vos ajuntais para comer, esperai uns pelos outros."
+   },
+   "34": {
+    "peshitta": "ܡܢ ܕܝܢ ܕܟܦܢ ܒܒܝܬܗ ܢܠܥܣ ܕܠܐ ܠܚܝܒܘܬܐ ܬܗܘܘܢ ܡܬܟܢܫܝܢ ܥܠ ܫܪܟܐ ܕܝܢ ܡܐ ܕܐܬܝܬ ܐܦܩܕܟܘܢ",
+    "grego_sblgnt": "⸀εἴ τις πεινᾷ, ἐν οἴκῳ ἐσθιέτω, ἵνα μὴ εἰς κρίμα συνέρχησθε. Τὰ δὲ λοιπὰ ὡς ἂν ἔλθω διατάξομαι.",
+    "pt_aa": "Se algum tiver fome, coma em casa, a fim de que não vos reunais para condenação vossa. E as demais coisas eu as ordenarei quando for."
+   }
+  },
+  "12": {
+   "1": {
+    "peshitta": "ܥܠ ܪܘܚܢܝܬܐ ܕܝܢ ܐܚܝ ܨܒܐ ܐܢܐ ܕܬܕܥܘܢ",
+    "grego_sblgnt": "Περὶ δὲ τῶν πνευματικῶν, ἀδελφοί, οὐ θέλω ὑμᾶς ἀγνοεῖν.",
+    "pt_aa": "Ora, a respeito dos dons espirituais, não quero, irmãos, que sejais ignorantes."
+   },
+   "2": {
+    "peshitta": "ܕܚܢܦܐ ܗܘܝܬܘܢ ܘܠܦܬܟܪܐ ܐܝܠܝܢ ܕܠܝܬ ܠܗܘܢ ܩܠܐ ܕܠܐ ܦܘܪܫܢ ܡܬܕܒܪܝܢ ܗܘܝܬܘܢ",
+    "grego_sblgnt": "οἴδατε ὅτι ὅτε ἔθνη ἦτε πρὸς τὰ εἴδωλα τὰ ἄφωνα ὡς ἂν ἤγεσθε ἀπαγόμενοι.",
+    "pt_aa": "Vós sabeis que, quando éreis gentios, vos desviáveis para os ídolos mudos, conforme éreis levados."
+   },
+   "3": {
+    "peshitta": "ܡܛܠ ܗܢܐ ܡܘܕܥ ܐܢܐ ܠܟܘܢ ܕܠܝܬ ܐܢܫ ܕܒܪܘܚܐ ܕܐܠܗܐ ܡܡܠܠ ܘܐܡܪ ܕܚܪܡ ܗܘ ܝܫܘܥ ܘܐܦܠܐ ܐܢܫ ܡܫܟܚ ܠܡܐܡܪ ܕܡܪܝܐ ܗܘ ܝܫܘܥ ܐܠܐ ܐܢ ܒܪܘܚܐ ܕܩܘܕܫܐ",
+    "grego_sblgnt": "διὸ γνωρίζω ὑμῖν ὅτι οὐδεὶς ἐν πνεύματι θεοῦ λαλῶν λέγει· Ἀνάθεμα ⸀Ἰησοῦς, καὶ οὐδεὶς δύναται εἰπεῖν· ⸂Κύριος Ἰησοῦς⸃ εἰ μὴ ἐν πνεύματι ἁγίῳ.",
+    "pt_aa": "Portanto vos quero fazer compreender que ninguém, falando pelo Espírito de Deus, diz: Jesus é anátema! e ninguém pode dizer: Jesus é o Senhor! senão pelo Espírito Santo."
+   },
+   "4": {
+    "peshitta": "ܦܘܠܓܐ ܕܝܢ ܕܡܘܗܒܬܐ ܐܝܬܝܗܘܢ ܐܠܐ ܚܕܐ ܗܝ ܪܘܚܐ",
+    "grego_sblgnt": "Διαιρέσεις δὲ χαρισμάτων εἰσίν, τὸ δὲ αὐτὸ πνεῦμα·",
+    "pt_aa": "Ora, há diversidade de dons, mas o Espírito é o mesmo."
+   },
+   "5": {
+    "peshitta": "ܘܦܘܠܓܐ ܕܬܫܡܫܬܐ ܐܝܬܝܗܘܢ ܐܠܐ ܚܕ ܗܘ ܡܪܝܐ",
+    "grego_sblgnt": "καὶ διαιρέσεις διακονιῶν εἰσιν, καὶ ὁ αὐτὸς κύριος·",
+    "pt_aa": "E há diversidade de ministérios, mas o Senhor é o mesmo."
+   },
+   "6": {
+    "peshitta": "ܘܦܘܠܓܐ ܕܚܝܠܘܬܐ ܐܝܬ ܐܠܐ ܚܕ ܗܘ ܐܠܗܐ ܕܡܥܒܕ ܟܠ ܒܟܠܢܫ",
+    "grego_sblgnt": "καὶ διαιρέσεις ἐνεργημάτων εἰσίν, ⸂ὁ δὲ⸃ ⸀αὐτὸς θεός, ὁ ἐνεργῶν τὰ πάντα ἐν πᾶσιν.",
+    "pt_aa": "E há diversidade de operações, mas é o mesmo Deus que opera tudo em todos."
+   },
+   "7": {
+    "peshitta": "ܠܐܢܫ ܐܢܫ ܕܝܢ ܡܬܝܗܒ ܠܗ ܓܠܝܢܐ ܕܪܘܚܐ ܐܝܟ ܕܥܕܪܐ ܠܗ",
+    "grego_sblgnt": "ἑκάστῳ δὲ δίδοται ἡ φανέρωσις τοῦ πνεύματος πρὸς τὸ συμφέρον.",
+    "pt_aa": "A cada um, porém, é dada a manifestação do Espírito para o proveito comum."
+   },
+   "8": {
+    "peshitta": "ܐܝܬ ܕܝܗܝܒܐ ܠܗ ܒܪܘܚܐ ܡܠܬܐ ܕܚܟܡܬܐ ܠܐܚܪܢܐ ܕܝܢ ܡܠܬܐ ܕܝܕܥܬܐ ܒܗ ܒܪܘܚܐ",
+    "grego_sblgnt": "ᾧ μὲν γὰρ διὰ τοῦ πνεύματος δίδοται λόγος σοφίας, ἄλλῳ δὲ λόγος γνώσεως κατὰ τὸ αὐτὸ πνεῦμα,",
+    "pt_aa": "Porque a um, pelo Espírito, é dada a palavra da sabedoria; a outro, pelo mesmo Espírito, a palavra da ciência;"
+   },
+   "9": {
+    "peshitta": "ܠܐܚܪܢܐ ܗܝܡܢܘܬܐ ܒܗ ܒܪܘܚܐ ܠܐܚܪܢܐ ܡܘܗܒܬܐ ܕܐܣܝܘܬܐ ܒܗ ܒܪܘܚܐ",
+    "grego_sblgnt": "⸀ἑτέρῳ πίστις ἐν τῷ αὐτῷ πνεύματι, ⸀ἄλλῳ χαρίσματα ἰαμάτων ἐν τῷ ⸀ἑνὶ πνεύματι,",
+    "pt_aa": "a outro, pelo mesmo Espírito, a fé; a outro, pelo mesmo Espírito, os dons de curar;"
+   },
+   "10": {
+    "peshitta": "ܠܐܚܪܢܐ ܕܝܢ ܚܝܠܐ ܠܐܚܪܢܐ ܕܝܢ ܢܒܝܘܬܐ ܠܐܚܪܢܐ ܕܝܢ ܦܪܘܫܘܬܐ ܕܪܘܚܐ ܠܐܚܪܢܐ ܕܝܢ ܙܢܝܐ ܕܠܫܢܐ ܠܐܚܪܢܐ ܕܝܢ ܦܘܫܩܐ ܕܠܫܢܐ",
+    "grego_sblgnt": "⸀ἄλλῳ ἐνεργήματα δυνάμεων, ⸁ἄλλῳ προφητεία, ⸀1ἄλλῳ διακρίσεις πνευμάτων, ⸀ἑτέρῳ γένη γλωσσῶν, ⸀2ἄλλῳ ἑρμηνεία γλωσσῶν·",
+    "pt_aa": "a outro a operação de milagres; a outro a profecia; a outro o dom de discernir espíritos; a outro a variedade de línguas; e a outro a interpretação de línguas."
+   },
+   "11": {
+    "peshitta": "ܟܠܗܝܢ ܕܝܢ ܗܠܝܢ ܚܕܐ ܗܝ ܪܘܚܐ ܣܥܪܐ ܘܡܦܠܓܐ ܠܟܠܢܫ ܐܝܟ ܕܗܝ ܨܒܝܐ",
+    "grego_sblgnt": "πάντα δὲ ταῦτα ἐνεργεῖ τὸ ἓν καὶ τὸ αὐτὸ πνεῦμα, διαιροῦν ἰδίᾳ ἑκάστῳ καθὼς βούλεται.",
+    "pt_aa": "Mas um só e o mesmo Espírito opera todas estas coisas, distribuindo particularmente a cada um como quer."
+   },
+   "12": {
+    "peshitta": "ܐܟܙܢܐ ܓܝܪ ܕܦܓܪܐ ܚܕ ܗܘ ܘܐܝܬ ܒܗ ܗܕܡܐ ܣܓܝܐܐ ܟܠܗܘܢ ܕܝܢ ܗܕܡܐ ܕܦܓܪܐ ܟܕ ܣܓܝܐܐ ܐܝܬܝܗܘܢ ܚܕ ܐܢܘܢ ܦܓܪ ܗܟܢܐ ܐܦ ܡܫܝܚܐ",
+    "grego_sblgnt": "Καθάπερ γὰρ τὸ σῶμα ἕν ἐστιν καὶ μέλη ⸂πολλὰ ἔχει⸃, πάντα δὲ τὰ μέλη τοῦ ⸀σώματος πολλὰ ὄντα ἕν ἐστιν σῶμα, οὕτως καὶ ὁ Χριστός·",
+    "pt_aa": "Porque, assim como o corpo é um, e tem muitos membros, e todos os membros do corpo, embora muitos, formam um só corpo, assim também é Cristo."
+   },
+   "13": {
+    "peshitta": "ܐܦ ܚܢܢ ܓܝܪ ܟܠܢ ܒܚܕܐ ܪܘܚ ܠܚܕ ܦܓܪ ܥܡܕܢ ܐܢ ܝܗܘܕܝܐ ܘܐܢ ܐܪܡܝܐ ܘܐܢ ܥܒܕܐ ܘܐܢ ܒܢܝ ܚܐܪܐ ܘܟܠܢ ܚܕܐ ܪܘܚܐ ܐܫܬܝܢ",
+    "grego_sblgnt": "καὶ γὰρ ἐν ἑνὶ πνεύματι ἡμεῖς πάντες εἰς ἓν σῶμα ἐβαπτίσθημεν, εἴτε Ἰουδαῖοι εἴτε Ἕλληνες, εἴτε δοῦλοι εἴτε ἐλεύθεροι, καὶ ⸀πάντες ἓν πνεῦμα ἐποτίσθημεν.",
+    "pt_aa": "Pois em um só Espírito fomos todos nós batizados em um só corpo, quer judeus, quer gregos, quer escravos quer livres; e a todos nós foi dado beber de um só Espírito."
+   },
+   "14": {
+    "peshitta": "ܐܦ ܦܓܪܐ ܓܝܪ ܠܐ ܗܘܐ ܚܕ ܗܕܡ ܐܠܐ ܣܓܝܐܐ",
+    "grego_sblgnt": "Καὶ γὰρ τὸ σῶμα οὐκ ἔστιν ἓν μέλος ἀλλὰ πολλά.",
+    "pt_aa": "Porque também o corpo não é um membro, mas muitos."
+   },
+   "15": {
+    "peshitta": "ܐܢ ܬܐܡܪ ܓܝܪ ܪܓܠܐ ܕܡܛܠ ܕܠܐ ܗܘܝܬ ܐܝܕܐ ܠܐ ܗܘܝܬ ܡܢܗ ܡܢ ܦܓܪܐ ܠܘ ܡܛܠ ܗܕܐ ܠܝܬܝܗ ܡܢܗ ܡܢ ܦܓܪܐ",
+    "grego_sblgnt": "ἐὰν εἴπῃ ὁ πούς· Ὅτι οὐκ εἰμὶ χείρ, οὐκ εἰμὶ ἐκ τοῦ σώματος, οὐ παρὰ τοῦτο οὐκ ἔστιν ἐκ τοῦ σώματος;",
+    "pt_aa": "Se o pé disser: Porque não sou mão, não sou do corpo; nem por isso deixará de ser do corpo."
+   },
+   "16": {
+    "peshitta": "ܘܐܢ ܬܐܡܪ ܐܕܢܐ ܥܠ ܕܠܐ ܗܘܝܬ ܥܝܢܐ ܠܐ ܗܘܝܬ ܡܢܗ ܡܢ ܦܓܪܐ ܠܘ ܡܛܠ ܗܕܐ ܠܝܬܝܗ ܡܢܗ ܡܢ ܦܓܪܐ",
+    "grego_sblgnt": "καὶ ἐὰν εἴπῃ τὸ οὖς· Ὅτι οὐκ εἰμὶ ὀφθαλμός, οὐκ εἰμὶ ἐκ τοῦ σώματος, οὐ παρὰ τοῦτο οὐκ ἔστιν ἐκ τοῦ σώματος·",
+    "pt_aa": "E se a orelha disser: Porque não sou olho, não sou do corpo; nem por isso deixará de ser do corpo."
+   },
+   "17": {
+    "peshitta": "ܐܠܘ ܓܝܪ ܟܠܗ ܦܓܪܐ ܥܝܢܐ ܗܘܐ ܐܝܟܐ ܗܘܬ ܡܫܡܥܬܐ ܘܐܠܘ ܟܠܗ ܡܫܡܥܬܐ ܗܘܐ ܐܝܟܢܐ ܡܪܝܚ ܗܘܐ",
+    "grego_sblgnt": "εἰ ὅλον τὸ σῶμα ὀφθαλμός, ποῦ ἡ ἀκοή; εἰ ὅλον ἀκοή, ποῦ ἡ ὄσφρησις;",
+    "pt_aa": "Se o corpo todo fosse olho, onde estaria o ouvido? Se todo fosse ouvido, onde estaria o olfato?"
+   },
+   "18": {
+    "peshitta": "ܗܫܐ ܕܝܢ ܐܠܗܐ ܣܡ ܟܠ ܚܕ ܚܕ ܡܢ ܗܕܡܐ ܒܦܓܪܐ ܐܝܟܢܐ ܕܗܘ ܨܒܐ",
+    "grego_sblgnt": "⸀νυνὶ δὲ ὁ θεὸς ἔθετο τὰ μέλη, ἓν ἕκαστον αὐτῶν, ἐν τῷ σώματι καθὼς ἠθέλησεν.",
+    "pt_aa": "Mas agora Deus colocou os membros no corpo, cada um deles como quis."
+   },
+   "19": {
+    "peshitta": "ܐܠܘ ܕܝܢ ܟܠܗܘܢ ܚܕ ܗܘܘ ܗܕܡܐ ܐܝܟܐ ܗܘܐ ܦܓܪܐ",
+    "grego_sblgnt": "εἰ δὲ ἦν τὰ πάντα ἓν μέλος, ποῦ τὸ σῶμα;",
+    "pt_aa": "E, se todos fossem um só membro, onde estaria o corpo?"
+   },
+   "20": {
+    "peshitta": "ܗܫܐ ܕܝܢ ܗܕܡܐ ܐܝܬܝܗܘܢ ܣܓܝܐܐ ܚܕ ܗܘ ܕܝܢ ܦܓܪܐ",
+    "grego_sblgnt": "νῦν δὲ πολλὰ ⸀μὲν μέλη, ἓν δὲ σῶμα.",
+    "pt_aa": "Agora, porém, há muitos membros, mas um só corpo."
+   },
+   "21": {
+    "peshitta": "ܠܐ ܡܫܟܚܐ ܥܝܢܐ ܕܬܐܡܪ ܠܐܝܕܐ ܕܠܐ ܡܬܒܥܝܐ ܐܢܬܝ ܠܝ ܐܦܠܐ ܪܫܐ ܡܫܟܚ ܕܢܐܡܪ ܠܪܓܠܐ ܕܠܐ ܡܬܒܥܝܢ ܐܢܬܝܢ ܠܝ",
+    "grego_sblgnt": "οὐ δύναται δὲ ὁ ὀφθαλμὸς εἰπεῖν τῇ χειρί· Χρείαν σου οὐκ ἔχω, ἢ πάλιν ἡ κεφαλὴ τοῖς ποσίν· Χρείαν ὑμῶν οὐκ ἔχω·",
+    "pt_aa": "E o olho não pode dizer à mão: Não tenho necessidade de ti; nem ainda a cabeça aos pés: Não tenho necessidade de vós."
+   },
+   "22": {
+    "peshitta": "ܐܠܐ ܝܬܝܪܐܝܬ ܐܝܠܝܢ ܗܕܡܐ ܕܡܣܬܒܪܝܢ ܕܡܚܝܠܝܢ ܥܠܝܗܘܢ ܗܘ ܣܘܢܩܢܐ",
+    "grego_sblgnt": "ἀλλὰ πολλῷ μᾶλλον τὰ δοκοῦντα μέλη τοῦ σώματος ἀσθενέστερα ὑπάρχειν ἀναγκαῖά ἐστιν,",
+    "pt_aa": "Antes, os membros do corpo que parecem ser mais fracos são necessários;"
+   },
+   "23": {
+    "peshitta": "ܘܐܝܠܝܢ ܕܣܒܪܝܢܢ ܕܡܨܥܪܝܢ ܐܢܘܢ ܒܦܓܪܐ ܠܗܠܝܢ ܐܝܩܪܐ ܝܬܝܪܐ ܡܣܓܝܢܢ ܘܐܝܠܝܢ ܕܕܢܘܟܦܐ ܐܢܘܢ ܐܣܟܡܐ ܝܬܝܪܐ ܥܒܕܝܢܢ ܠܗܘܢ",
+    "grego_sblgnt": "καὶ ἃ δοκοῦμεν ἀτιμότερα εἶναι τοῦ σώματος, τούτοις τιμὴν περισσοτέραν περιτίθεμεν, καὶ τὰ ἀσχήμονα ἡμῶν εὐσχημοσύνην περισσοτέραν ἔχει,",
+    "pt_aa": "e os membros do corpo que reputamos serem menos honrados, a esses revestimos com muito mais honra; e os que em nós não são decorosos têm muito mais decoro,"
+   },
+   "24": {
+    "peshitta": "ܐܝܠܝܢ ܕܝܢ ܗܕܡܐ ܕܐܝܬ ܒܢ ܕܡܝܩܪܝܢ ܠܐ ܡܬܒܥܐ ܠܗܘܢ ܐܝܩܪܐ ܐܠܗܐ ܓܝܪ ܡܙܓܗ ܠܦܓܪܐ ܘܝܗܒ ܐܝܩܪܐ ܝܬܝܪܐ ܠܗܕܡܐ ܐܝܢܐ ܕܙܥܘܪ",
+    "grego_sblgnt": "τὰ δὲ εὐσχήμονα ἡμῶν οὐ χρείαν ⸀ἔχει. ἀλλὰ ὁ θεὸς συνεκέρασεν τὸ σῶμα, τῷ ⸀ὑστεροῦντι περισσοτέραν δοὺς τιμήν,",
+    "pt_aa": "ao passo que os decorosos não têm necessidade disso. Mas Deus assim formou o corpo, dando muito mais honra ao que tinha falta dela,"
+   },
+   "25": {
+    "peshitta": "ܕܠܐ ܬܗܘܐ ܦܠܓܘܬܐ ܒܦܓܪܐ ܐܠܐ ܟܠܗܘܢ ܗܕܡܐ ܫܘܝܐܝܬ ܚܕ ܥܠ ܚܕ ܢܗܘܘܢ ܝܨܦܝܢ",
+    "grego_sblgnt": "ἵνα μὴ ᾖ ⸀σχίσμα ἐν τῷ σώματι, ἀλλὰ τὸ αὐτὸ ὑπὲρ ἀλλήλων μεριμνῶσι τὰ μέλη.",
+    "pt_aa": "para que não haja divisão no corpo, mas que os membros tenham igual cuidado uns dos outros."
+   },
+   "26": {
+    "peshitta": "ܕܐܡܬܝ ܕܚܕ ܗܕܡ ܢܗܘܐ ܟܐܒ ܟܠܗܘܢ ܢܗܘܘܢ ܚܫܝܢ ܘܐܢ ܡܫܬܒܚ ܚܕ ܗܕܡ ܟܠܗܘܢ ܗܕܡܐ ܢܗܘܘܢ ܡܫܬܒܚܝܢ",
+    "grego_sblgnt": "καὶ ⸀εἴτε πάσχει ἓν μέλος, συμπάσχει πάντα τὰ μέλη· εἴτε δοξάζεται ⸀μέλος, συγχαίρει πάντα τὰ μέλη.",
+    "pt_aa": "De maneira que, se um membro padece, todos os membros padecem com ele; e, se um membro é honrado, todos os membros se regozijam com ele."
+   },
+   "27": {
+    "peshitta": "ܐܢܬܘܢ ܕܝܢ ܦܓܪܗ ܐܢܬܘܢ ܕܡܫܝܚܐ ܘܗܕܡܐ ܒܕܘܟܬܟܘܢ",
+    "grego_sblgnt": "Ὑμεῖς δέ ἐστε σῶμα Χριστοῦ καὶ μέλη ἐκ μέρους.",
+    "pt_aa": "Ora, vós sois corpo de Cristo, e individualmente seus membros."
+   },
+   "28": {
+    "peshitta": "ܣܡ ܓܝܪ ܐܠܗܐ ܒܥܕܬܗ ܠܘܩܕܡ ܫܠܝܚܐ ܒܬܪܗܘܢ ܢܒܝܐ ܒܬܪܗܘܢ ܡܠܦܢܐ ܒܬܪܗܘܢ ܥܒܕܝ ܚܝܠܐ ܒܬܪܗܘܢ ܡܘܗܒܬܐ ܕܐܣܝܘܬܐ ܘܡܥܕܪܢܐ ܘܡܕܒܪܢܐ ܘܙܢܝܐ ܕܠܫܢܐ",
+    "grego_sblgnt": "καὶ οὓς μὲν ἔθετο ὁ θεὸς ἐν τῇ ἐκκλησίᾳ πρῶτον ἀποστόλους, δεύτερον προφήτας, τρίτον διδασκάλους, ἔπειτα δυνάμεις, ⸀ἔπειτα χαρίσματα ἰαμάτων, ἀντιλήμψεις, κυβερνήσεις, γένη γλωσσῶν.",
+    "pt_aa": "E a uns pôs Deus na igreja, primeiramente apóstolos, em segundo lugar profetas, em terceiro mestres, depois operadores de milagres, depois dons de curar, socorros, governos, variedades de línguas."
+   },
+   "29": {
+    "peshitta": "ܕܠܡܐ ܟܠܗܘܢ ܫܠܝܚܐ ܕܠܡܐ ܟܠܗܘܢ ܢܒܝܐ ܠܡܐ ܟܠܗܘܢ ܡܠܦܢܐ ܠܡܐ ܟܠܗܘܢ ܣܥܪܝ ܚܝܠܐ",
+    "grego_sblgnt": "μὴ πάντες ἀπόστολοι; μὴ πάντες προφῆται; μὴ πάντες διδάσκαλοι; μὴ πάντες δυνάμεις;",
+    "pt_aa": "Porventura são todos apóstolos? são todos profetas? são todos mestres? são todos operadores de milagres?"
+   },
+   "30": {
+    "peshitta": "ܠܡܐ ܠܟܠܗܘܢ ܐܝܬ ܠܗܘܢ ܡܘܗܒܬܐ ܕܐܣܝܘܬܐ ܠܡܐ ܟܠܗܘܢ ܒܠܫܢܐ ܡܡܠܠܝܢ ܐܘ ܕܠܡܐ ܟܠܗܘܢ ܡܦܫܩܝܢ",
+    "grego_sblgnt": "μὴ πάντες χαρίσματα ἔχουσιν ἰαμάτων; μὴ πάντες γλώσσαις λαλοῦσιν; μὴ πάντες διερμηνεύουσιν;",
+    "pt_aa": "Todos têm dons de curar? falam todos em línguas? interpretam todos?"
+   },
+   "31": {
+    "peshitta": "ܐܢ ܕܝܢ ܛܢܝܢ ܐܢܬܘܢ ܒܡܘܗܒܬܐ ܪܘܪܒܬܐ ܐܢܐ ܬܘܒ ܐܚܘܝܟܘܢ ܐܘܪܚܐ ܕܡܝܬܪܐ",
+    "grego_sblgnt": "ζηλοῦτε δὲ τὰ χαρίσματα τὰ ⸀μείζονα. καὶ ἔτι καθ’ ὑπερβολὴν ὁδὸν ὑμῖν δείκνυμι.",
+    "pt_aa": "Mas procurai com zelo os maiores dons. Ademais, eu vos mostrarei um caminho sobremodo excelente."
+   }
+  },
+  "13": {
+   "1": {
+    "peshitta": "ܐܢ ܒܟܠ ܠܫܢ ܕܒܢܝܢܫܐ ܐܡܠܠ ܘܒܕܡܠܐܟܐ ܘܚܘܒܐ ܠܐ ܢܗܘܐ ܒܝ ܗܘܝܬ ܠܝ ܢܚܫܐ ܕܙܐܡ ܐܘ ܨܨܠܐ ܕܝܗܒ ܩܠܐ",
+    "grego_sblgnt": "Ἐὰν ταῖς γλώσσαις τῶν ἀνθρώπων λαλῶ καὶ τῶν ἀγγέλων, ἀγάπην δὲ μὴ ἔχω, γέγονα χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον.",
+    "pt_aa": "Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o címbalo que retine."
+   },
+   "2": {
+    "peshitta": "ܘܐܢ ܬܗܘܐ ܒܝ ܢܒܝܘܬܐ ܘܐܕܥ ܐܪܙܐ ܟܠܗܘܢ ܘܟܠܗ ܝܕܥܬܐ ܘܐܢ ܬܗܘܐ ܒܝ ܟܠܗ ܗܝܡܢܘܬܐ ܐܝܟܢܐ ܕܛܘܪܐ ܐܫܢܐ ܘܚܘܒܐ ܠܝܬ ܒܝ ܠܐ ܗܘܝܬ ܡܕܡ",
+    "grego_sblgnt": "⸂καὶ ἐὰν⸃ ἔχω προφητείαν καὶ εἰδῶ τὰ μυστήρια πάντα καὶ πᾶσαν τὴν γνῶσιν, ⸄καὶ ἐὰν⸅ ἔχω πᾶσαν τὴν πίστιν ὥστε ὄρη ⸀μεθιστάναι, ἀγάπην δὲ μὴ ἔχω, οὐθέν εἰμι.",
+    "pt_aa": "E ainda que tivesse o dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda fé, de maneira tal que transportasse os montes, e não tivesse amor, nada seria."
+   },
+   "3": {
+    "peshitta": "ܘܐܢ ܐܘܟܠ ܟܠ ܕܐܝܬ ܠܝ ܠܡܣܟܢܐ ܘܐܢ ܐܫܠܡ ܦܓܪܝ ܕܢܐܩܕ ܘܚܘܒܐ ܠܐ ܢܗܘܐ ܒܝ ܡܕܡ ܠܐ ܝܬܪ ܐܢܐ",
+    "grego_sblgnt": "⸂καὶ ἐὰν⸃ ψωμίσω πάντα τὰ ὑπάρχοντά μου, ⸄καὶ ἐὰν⸃ παραδῶ τὸ σῶμά μου, ἵνα ⸀καυθήσομαι, ἀγάπην δὲ μὴ ἔχω, οὐδὲν ὠφελοῦμαι.",
+    "pt_aa": "E ainda que distribuísse todos os meus bens para sustento dos pobres, e ainda que entregasse o meu corpo para ser queimado, e não tivesse amor, nada disso me aproveitaria."
+   },
+   "4": {
+    "peshitta": "ܚܘܒܐ ܢܓܝܪܐ ܗܝ ܪܘܚܗ ܘܒܣܝܡ ܚܘܒܐ ܠܐ ܚܣܡ ܚܘܒܐ ܠܐ ܡܫܬܓܫ ܘܠܐ ܡܬܚܬܪ",
+    "grego_sblgnt": "Ἡ ἀγάπη μακροθυμεῖ, χρηστεύεται ἡ ἀγάπη, οὐ ζηλοῖ ⸂ἡ ἀγάπη⸃, οὐ περπερεύεται, οὐ φυσιοῦται,",
+    "pt_aa": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não se vangloria, não se ensoberbece,"
+   },
+   "5": {
+    "peshitta": "ܘܠܐ ܣܥܪ ܕܒܗܬܬܐ ܘܠܐ ܒܥܐ ܕܝܠܗ ܘܠܐ ܡܬܬܦܝܪ ܘܠܐ ܡܬܪܥܐ ܕܒܝܫ",
+    "grego_sblgnt": "οὐκ ἀσχημονεῖ, οὐ ζητεῖ τὰ ἑαυτῆς, οὐ παροξύνεται, οὐ λογίζεται τὸ κακόν,",
+    "pt_aa": "não se porta inconvenientemente, não busca os seus próprios interesses, não se irrita, não suspeita mal;"
+   },
+   "6": {
+    "peshitta": "ܠܐ ܚܕܐ ܒܥܘܠܐ ܐܠܐ ܚܕܐ ܒܩܘܫܬܐ",
+    "grego_sblgnt": "οὐ χαίρει ἐπὶ τῇ ἀδικίᾳ, συγχαίρει δὲ τῇ ἀληθείᾳ·",
+    "pt_aa": "não se regozija com a injustiça, mas se regozija com a verdade;"
+   },
+   "7": {
+    "peshitta": "ܟܠ ܡܕܡ ܡܣܝܒܪ ܟܠܡܕܡ ܡܗܝܡܢ ܟܠ ܡܣܒܪ ܟܠ ܣܒܠ",
+    "grego_sblgnt": "πάντα στέγει, πάντα πιστεύει, πάντα ἐλπίζει, πάντα ὑπομένει.",
+    "pt_aa": "tudo sofre, tudo crê, tudo espera, tudo suporta."
+   },
+   "8": {
+    "peshitta": "ܚܘܒܐ ܡܡܬܘܡ ܠܐ ܢܦܠ ܢܒܝܘܬܐ ܓܝܪ ܢܬܒܛܠܢ ܘܠܫܢܐ ܢܫܬܬܩܘܢ ܘܝܕܥܬܐ ܬܬܒܛܠ",
+    "grego_sblgnt": "Ἡ ἀγάπη οὐδέποτε ⸀πίπτει. εἴτε δὲ προφητεῖαι, καταργηθήσονται· εἴτε γλῶσσαι, παύσονται· εἴτε γνῶσις, καταργηθήσεται.",
+    "pt_aa": "O amor jamais acaba; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá;"
+   },
+   "9": {
+    "peshitta": "ܩܠܝܠ ܗܘ ܓܝܪ ܡܢ ܣܓܝ ܝܕܥܝܢܢ ܘܩܠܝܠ ܡܢ ܣܓܝ ܡܬܢܒܝܢܢ",
+    "grego_sblgnt": "ἐκ μέρους ⸀γὰρ γινώσκομεν καὶ ἐκ μέρους προφητεύομεν·",
+    "pt_aa": "porque, em parte conhecemos, e em parte profetizamos;"
+   },
+   "10": {
+    "peshitta": "ܐܡܬܝ ܕܝܢ ܕܬܐܬܐ ܓܡܝܪܘܬܐ ܗܝܕܝܢ ܢܬܒܛܠ ܗܘ ܡܕܡ ܕܩܠܝܠ ܗܘܐ",
+    "grego_sblgnt": "ὅταν δὲ ἔλθῃ τὸ τέλειον, ⸀τὸ ἐκ μέρους καταργηθήσεται.",
+    "pt_aa": "mas, quando vier o que é perfeito, então o que é em parte será aniquilado."
+   },
+   "11": {
+    "peshitta": "ܟܕ ܝܠܘܕܐ ܗܘܝܬ ܐܝܟ ܝܠܘܕܐ ܡܡܠܠ ܗܘܝܬ ܘܐܝܟ ܝܠܘܕܐ ܡܬܪܥܐ ܗܘܝܬ ܘܐܝܟ ܝܠܘܕܐ ܡܬܚܫܒ ܗܘܝܬ ܟܕ ܗܘܝܬ ܕܝܢ ܓܒܪܐ ܒܛܠܬ ܗܠܝܢ ܕܛܠܝܘܬܐ",
+    "grego_sblgnt": "ὅτε ἤμην νήπιος, ⸂ἐλάλουν ὡς νήπιος, ἐφρόνουν ὡς νήπιος, ἐλογιζόμην ὡς νήπιος⸃· ⸀ὅτε γέγονα ἀνήρ, κατήργηκα τὰ τοῦ νηπίου.",
+    "pt_aa": "Quando eu era menino, pensava como menino; mas, logo que cheguei a ser homem, acabei com as coisas de menino."
+   },
+   "12": {
+    "peshitta": "ܗܫܐ ܐܝܟ ܕܒܡܚܙܝܬܐ ܚܙܝܢܢ ܒܦܠܐܬܐ ܗܝܕܝܢ ܕܝܢ ܐܦܝܢ ܠܘܩܒܠ ܐܦܝܢ ܗܫܐ ܝܕܥ ܐܢܐ ܩܠܝܠ ܡܢ ܣܓܝ ܗܝܕܝܢ ܕܝܢ ܐܕܥ ܐܝܟ ܡܐ ܕܐܬܝܕܥܬ",
+    "grego_sblgnt": "βλέπομεν γὰρ ἄρτι δι’ ἐσόπτρου ἐν αἰνίγματι, τότε δὲ πρόσωπον πρὸς πρόσωπον· ἄρτι γινώσκω ἐκ μέρους, τότε δὲ ἐπιγνώσομαι καθὼς καὶ ἐπεγνώσθην.",
+    "pt_aa": "Porque agora vemos como por espelho, em enigma, mas então veremos face a face; agora conheço em parte, mas então conhecerei plenamente, como também sou plenamente conhecido."
+   },
+   "13": {
+    "peshitta": "ܗܠܝܢ ܐܢܝܢ ܓܝܪ ܬܠܬ ܕܡܟܬܪܢ ܗܝܡܢܘܬܐ ܘܣܒܪܐ ܘܚܘܒܐ ܕܪܒ ܕܝܢ ܡܢܗܝܢ ܚܘܒܐ",
+    "grego_sblgnt": "νυνὶ δὲ μένει πίστις, ἐλπίς, ἀγάπη· τὰ τρία ταῦτα, μείζων δὲ τούτων ἡ ἀγάπη.",
+    "pt_aa": "Agora, pois, permanecem a fé, a esperança, o amor, estes três; mas o maior destes é o amor."
+   }
+  },
+  "14": {
+   "1": {
+    "peshitta": "ܗܪܛܘ ܒܬܪ ܚܘܒܐ ܘܛܢܘ ܒܡܘܗܒܬܐ ܕܪܘܚܐ ܝܬܝܪܐܝܬ ܕܝܢ ܕܬܬܢܒܘܢ",
+    "grego_sblgnt": "Διώκετε τὴν ἀγάπην, ζηλοῦτε δὲ τὰ πνευματικά, μᾶλλον δὲ ἵνα προφητεύητε.",
+    "pt_aa": "Segui o amor; e procurai com zelo os dons espirituais, mas principalmente o de profetizar."
+   },
+   "2": {
+    "peshitta": "ܡܢ ܕܡܡܠܠ ܓܝܪ ܒܠܫܢܐ ܠܐ ܗܘܐ ܠܒܢܝܢܫܐ ܡܡܠܠ ܐܠܐ ܠܐܠܗܐ ܠܐ ܓܝܪ ܐܢܫ ܫܡܥ ܡܕܡ ܕܡܡܠܠ ܐܠܐ ܒܪܘܚ ܐܪܙܐ ܡܡܠܠ",
+    "grego_sblgnt": "ὁ γὰρ λαλῶν γλώσσῃ οὐκ ἀνθρώποις λαλεῖ ⸀ἀλλὰ θεῷ, οὐδεὶς γὰρ ἀκούει, πνεύματι δὲ λαλεῖ μυστήρια·",
+    "pt_aa": "Porque o que fala em língua não fala aos homens, mas a Deus; pois ninguém o entende; porque em espírito fala mistérios."
+   },
+   "3": {
+    "peshitta": "ܐܝܢܐ ܕܝܢ ܕܡܬܢܒܐ ܠܒܢܝܢܫܐ ܡܡܠܠ ܒܢܝܢܐ ܘܠܘܒܒܐ ܘܒܘܝܐܐ",
+    "grego_sblgnt": "ὁ δὲ προφητεύων ἀνθρώποις λαλεῖ οἰκοδομὴν καὶ παράκλησιν καὶ παραμυθίαν.",
+    "pt_aa": "Mas o que profetiza fala aos homens para edificação, exortação e consolação."
+   },
+   "4": {
+    "peshitta": "ܕܡܡܠܠ ܒܠܫܢܐ ܢܦܫܗ ܗܘ ܒܢܐ ܘܕܡܬܢܒܐ ܥܕܬܐ ܒܢܐ",
+    "grego_sblgnt": "ὁ λαλῶν γλώσσῃ ἑαυτὸν οἰκοδομεῖ· ὁ δὲ προφητεύων ἐκκλησίαν οἰκοδομεῖ.",
+    "pt_aa": "O que fala em língua edifica-se a si mesmo, mas o que profetiza edifica a igreja."
+   },
+   "5": {
+    "peshitta": "ܨܒܐ ܐܢܐ ܕܝܢ ܕܟܠܟܘܢ ܬܡܠܠܘܢ ܒܠܫܢܐ ܝܬܝܪܐܝܬ ܕܝܢ ܕܬܬܢܒܘܢ ܪܒ ܗܘ ܓܝܪ ܐܝܢܐ ܕܡܬܢܒܐ ܡܢ ܗܘ ܕܡܡܠܠ ܒܠܫܢܐ ܐܢ ܠܐ ܡܦܫܩ ܐܢ ܕܝܢ ܡܦܫܩ ܥܕܬܐ ܒܢܐ",
+    "grego_sblgnt": "θέλω δὲ πάντας ὑμᾶς λαλεῖν γλώσσαις, μᾶλλον δὲ ἵνα προφητεύητε· μείζων ⸀δὲ ὁ προφητεύων ἢ ὁ λαλῶν γλώσσαις, ἐκτὸς εἰ μὴ ⸀διερμηνεύῃ, ἵνα ἡ ἐκκλησία οἰκοδομὴν λάβῃ.",
+    "pt_aa": "Ora, quero que todos vós faleis em línguas, mas muito mais que profetizeis, pois quem profetiza é maior do que aquele que fala em línguas, a não ser que também intercede para que a igreja receba edificação."
+   },
+   "6": {
+    "peshitta": "ܘܗܫܐ ܐܚܝ ܐܢ ܐܬܐ ܠܘܬܟܘܢ ܘܐܡܠܠ ܥܡܟܘܢ ܒܠܫܢܐ ܡܢܐ ܡܘܬܪ ܐܢܐ ܠܟܘܢ ܐܠܐ ܐܢ ܐܡܠܠ ܥܡܟܘܢ ܐܘ ܒܓܠܝܢܐ ܐܘ ܒܝܕܥܬܐ ܐܘ ܒܢܒܝܘܬܐ ܐܘ ܒܝܘܠܦܢܐ",
+    "grego_sblgnt": "⸀Νῦν δέ, ἀδελφοί, ἐὰν ἔλθω πρὸς ὑμᾶς γλώσσαις λαλῶν, τί ὑμᾶς ὠφελήσω, ἐὰν μὴ ὑμῖν λαλήσω ἢ ἐν ἀποκαλύψει ἢ ἐν γνώσει ἢ ἐν προφητείᾳ ἢ ἐν διδαχῇ;",
+    "pt_aa": "E agora, irmãos, se eu for ter convosco falando em línguas, de que vos aproveitarei, se vos não falar ou por meio de revelação, ou de ciência, ou de profecia, ou de doutrina?"
+   },
+   "7": {
+    "peshitta": "ܐܦ ܨܒܘܬܐ ܓܝܪ ܐܝܠܝܢ ܕܠܝܬ ܒܗܝܢ ܢܦܫܐ ܘܝܗܒܢ ܩܠܐ ܐܢ ܐܒܘܒܐ ܘܐܢ ܩܝܬܪܐ ܐܢ ܦܘܪܫܢܐ ܠܐ ܥܒܕܢ ܒܝܬ ܩܝܢܬܐ ܠܚܒܪܬܗ ܐܝܟܢܐ ܡܬܝܕܥ ܡܕܡ ܕܡܙܕܡܪ ܐܘ ܡܕܡ ܕܡܬܢܩܫ",
+    "grego_sblgnt": "ὅμως τὰ ἄψυχα φωνὴν διδόντα, εἴτε αὐλὸς εἴτε κιθάρα, ἐὰν διαστολὴν τοῖς φθόγγοις μὴ ⸀δῷ, πῶς γνωσθήσεται τὸ αὐλούμενον ἢ τὸ κιθαριζόμενον;",
+    "pt_aa": "Ora, até as coisas inanimadas, que emitem som, seja flauta, seja cítara, se não formarem sons distintos, como se conhecerá o que se toca na flauta ou na cítara?"
+   },
+   "8": {
+    "peshitta": "ܘܐܢ ܩܪܢܐ ܬܩܪܐ ܩܠܐ ܕܠܐ ܦܪܝܫ ܡܢܘ ܢܬܛܝܒ ܠܩܪܒܐ",
+    "grego_sblgnt": "καὶ γὰρ ἐὰν ἄδηλον ⸂φωνὴν σάλπιγξ⸃ δῷ, τίς παρασκευάσεται εἰς πόλεμον;",
+    "pt_aa": "Porque, se a trombeta der sonido incerto, quem se preparará para a batalha?"
+   },
+   "9": {
+    "peshitta": "ܗܟܢܐ ܐܦ ܐܢܬܘܢ ܐܢ ܬܐܡܪܘܢ ܡܠܬܐ ܒܠܫܢܐ ܘܠܐ ܬܗܘܐ ܡܦܫܩܐ ܐܝܟܢܐ ܡܬܝܕܥ ܡܕܡ ܕܐܡܪܝܢ ܐܢܬܘܢ ܗܘܝܬܘܢ ܠܟܘܢ ܐܝܟ ܗܘ ܕܥܡ ܐܐܪ ܡܡܠܠܝܢ ܐܢܬܘܢ",
+    "grego_sblgnt": "οὕτως καὶ ὑμεῖς διὰ τῆς γλώσσης ἐὰν μὴ εὔσημον λόγον δῶτε, πῶς γνωσθήσεται τὸ λαλούμενον; ἔσεσθε γὰρ εἰς ἀέρα λαλοῦντες.",
+    "pt_aa": "Assim também vós, se com a língua não pronunciardes palavras bem inteligíveis, como se entenderá o que se diz? porque estareis como que falando ao ar."
+   },
+   "10": {
+    "peshitta": "ܗܐ ܓܝܪ ܓܢܣܐ ܕܠܫܢܐ ܣܓܝܐܐ ܐܝܬ ܒܥܠܡܐ ܘܠܝܬ ܚܕ ܡܢܗܘܢ ܕܠܐ ܩܠܐ",
+    "grego_sblgnt": "τοσαῦτα εἰ τύχοι γένη φωνῶν ⸀εἰσιν ἐν κόσμῳ, καὶ ⸀οὐδὲν ἄφωνον·",
+    "pt_aa": "Há, por exemplo, tantas espécies de vozes no mundo, e nenhuma delas sem significação."
+   },
+   "11": {
+    "peshitta": "ܘܐܢ ܠܐ ܝܕܥ ܐܢܐ ܚܝܠܗ ܕܩܠܐ ܗܘܐ ܐܢܐ ܠܝ ܒܪܒܪܝܐ ܠܗܘ ܕܡܡܠܠ ܘܐܦ ܗܘ ܕܡܡܠܠ ܗܘܐ ܠܗ ܠܝ ܒܪܒܪܝܐ",
+    "grego_sblgnt": "ἐὰν οὖν μὴ εἰδῶ τὴν δύναμιν τῆς φωνῆς, ἔσομαι τῷ λαλοῦντι βάρβαρος καὶ ὁ λαλῶν ἐν ἐμοὶ βάρβαρος.",
+    "pt_aa": "Se, pois, eu não souber o sentido da voz, serei estrangeiro para aquele que fala, e o que fala será estrangeiro para mim."
+   },
+   "12": {
+    "peshitta": "ܗܟܢܐ ܐܦ ܐܢܬܘܢ ܡܛܠ ܕܛܢܢܐ ܐܢܬܘܢ ܕܡܘܗܒܬܐ ܕܪܘܚܐ ܠܒܢܝܢܐ ܕܥܕܬܐ ܒܥܘ ܕܬܬܝܬܪܘܢ",
+    "grego_sblgnt": "οὕτως καὶ ὑμεῖς, ἐπεὶ ζηλωταί ἐστε πνευμάτων, πρὸς τὴν οἰκοδομὴν τῆς ἐκκλησίας ζητεῖτε ἵνα περισσεύητε.",
+    "pt_aa": "Assim também vós, já que estais desejosos de dons espirituais, procurai abundar neles para a edificação da igreja."
+   },
+   "13": {
+    "peshitta": "ܘܗܘ ܕܡܡܠܠ ܒܠܫܢܐ ܢܨܠܐ ܕܢܦܫܩ",
+    "grego_sblgnt": "⸀Διὸ ὁ λαλῶν γλώσσῃ προσευχέσθω ἵνα διερμηνεύῃ.",
+    "pt_aa": "Por isso, o que fala em língua, ore para que a possa interpretar."
+   },
+   "14": {
+    "peshitta": "ܐܢ ܗܘ ܓܝܪ ܕܗܘܝܬ ܡܨܠܐ ܒܠܫܢܐ ܪܘܚܝ ܗܘ ܡܨܠܝܐ ܡܕܥܝ ܕܝܢ ܕܠܐ ܦܐܪܝܢ ܗܘ",
+    "grego_sblgnt": "ἐὰν γὰρ προσεύχωμαι γλώσσῃ, τὸ πνεῦμά μου προσεύχεται, ὁ δὲ νοῦς μου ἄκαρπός ἐστιν.",
+    "pt_aa": "Porque se eu orar em língua, o meu espírito ora, sim, mas o meu entendimento fica infrutífero."
+   },
+   "15": {
+    "peshitta": "ܡܢܐ ܗܟܝܠ ܐܥܒܕ ܐܨܠܐ ܒܪܘܚܝ ܘܐܨܠܐ ܐܦ ܒܡܕܥܝ ܘܐܙܡܪ ܒܪܘܚܝ ܘܐܙܡܪ ܐܦ ܒܡܕܥܝ",
+    "grego_sblgnt": "τί οὖν ἐστιν; προσεύξομαι τῷ πνεύματι, προσεύξομαι δὲ καὶ τῷ νοΐ· ψαλῶ τῷ πνεύματι, ψαλῶ δὲ καὶ τῷ νοΐ·",
+    "pt_aa": "Que fazer, pois? Orarei com o espírito, mas também orarei com o entendimento; cantarei com o espírito, mas também cantarei com o entendimento."
+   },
+   "16": {
+    "peshitta": "ܘܐܢ ܠܐ ܐܢ ܡܒܪܟ ܐܢܬ ܒܪܘܚ ܗܘ ܕܡܡܠܐ ܕܘܟܬܗ ܕܗܕܝܘܛܐ ܐܝܟܢܐ ܢܐܡܪ ܐܡܝܢ ܥܠ ܬܘܕܝܬܟ ܕܝܠܟ ܡܛܠ ܕܡܢܐ ܐܡܪ ܐܢܬ ܠܐ ܝܕܥ",
+    "grego_sblgnt": "ἐπεὶ ἐὰν ⸀εὐλογῇς ⸀πνεύματι, ὁ ἀναπληρῶν τὸν τόπον τοῦ ἰδιώτου πῶς ἐρεῖ τὸ Ἀμήν ἐπὶ τῇ σῇ εὐχαριστίᾳ; ἐπειδὴ τί λέγεις οὐκ οἶδεν·",
+    "pt_aa": "De outra maneira, se tu bendisseres com o espírito, como dirá o amém sobre a tua ação de graças aquele que ocupa o lugar de indouto, visto que não sabe o que dizes?"
+   },
+   "17": {
+    "peshitta": "ܐܢܬ ܓܝܪ ܫܦܝܪ ܡܒܪܟ ܐܢܬ ܐܠܐ ܚܒܪܟ ܠܐ ܡܬܒܢܐ",
+    "grego_sblgnt": "σὺ μὲν γὰρ καλῶς εὐχαριστεῖς, ἀλλ’ ὁ ἕτερος οὐκ οἰκοδομεῖται.",
+    "pt_aa": "Porque realmente tu dás bem as graças, mas o outro não é edificado."
+   },
+   "18": {
+    "peshitta": "ܡܘܕܐ ܐܢܐ ܠܐܠܗܐ ܕܝܬܝܪ ܡܢ ܟܠܟܘܢ ܡܡܠܠ ܐܢܐ ܒܠܫܢܐ",
+    "grego_sblgnt": "εὐχαριστῶ τῷ ⸀θεῷ, πάντων ὑμῶν μᾶλλον ⸀γλώσσαις ⸀λαλῶ·",
+    "pt_aa": "Dou graças a Deus, que falo em línguas mais do que vós todos."
+   },
+   "19": {
+    "peshitta": "ܐܠܐ ܒܥܕܬܐ ܨܒܐ ܐܢܐ ܕܚܡܫ ܡܠܝܢ ܒܡܕܥܝ ܐܡܠܠ ܕܐܦ ܐܚܪܢܐ ܐܠܦ ܝܬܝܪ ܡܢ ܪܒܘ ܡܠܝܢ ܒܠܫܢܐ",
+    "grego_sblgnt": "ἀλλὰ ἐν ἐκκλησίᾳ θέλω πέντε λόγους ⸂τῷ νοΐ⸃ μου λαλῆσαι, ἵνα καὶ ἄλλους κατηχήσω, ἢ μυρίους λόγους ἐν γλώσσῃ.",
+    "pt_aa": "Todavia na igreja eu antes quero falar cinco palavras com o meu entendimento, para que possa também instruir os outros, do que dez mil palavras em língua."
+   },
+   "20": {
+    "peshitta": "ܐܚܝ ܠܐ ܗܘܝܬܘܢ ܛܠܝܢ ܒܪܥܝܢܝܟܘܢ ܐܠܐ ܠܒܝܫܬܐ ܗܘܘ ܝܠܘܕܐ ܘܒܪܥܝܢܝܟܘܢ ܗܘܘ ܓܡܝܪܝܢ",
+    "grego_sblgnt": "Ἀδελφοί, μὴ παιδία γίνεσθε ταῖς φρεσίν, ἀλλὰ τῇ κακίᾳ νηπιάζετε, ταῖς δὲ φρεσὶν τέλειοι γίνεσθε.",
+    "pt_aa": "Irmãos, não sejais meninos no entendimento; na malícia, contudo, sede criancinhas, mas adultos no entendimento."
+   },
+   "21": {
+    "peshitta": "ܒܢܡܘܣܐ ܟܬܝܒ ܕܒܡܡܠܠܐ ܢܘܟܪܝܐ ܘܒܠܫܢܐ ܐܚܪܢܐ ܐܡܠܠ ܥܡܗ ܥܡ ܥܡܐ ܗܢܐ ܐܦܠܐ ܗܟܢܐ ܢܫܡܥܘܢܢܝ ܐܡܪ ܡܪܝܐ",
+    "grego_sblgnt": "ἐν τῷ νόμῳ γέγραπται ὅτι Ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ⸀ἑτέρων λαλήσω τῷ λαῷ τούτῳ, καὶ οὐδ’ οὕτως εἰσακούσονταί μου, λέγει κύριος.",
+    "pt_aa": "Está escrito na lei: Por homens de outras línguas e por lábios de estrangeiros falarei a este povo; e nem assim me ouvirão, diz o Senhor."
+   },
+   "22": {
+    "peshitta": "ܡܕܝܢ ܠܫܢܐ ܠܐܬܐ ܗܘ ܣܝܡܝܢ ܠܐ ܠܡܗܝܡܢܐ ܐܠܐ ܠܐܝܠܝܢ ܕܠܐ ܡܗܝܡܢܝܢ ܢܒܝܘܬܐ ܕܝܢ ܠܐ ܗܘܐ ܠܐܝܠܝܢ ܕܠܐ ܡܗܝܡܢܝܢ ܐܠܐ ܠܐܝܠܝܢ ܕܡܗܝܡܢܝܢ",
+    "grego_sblgnt": "ὥστε αἱ γλῶσσαι εἰς σημεῖόν εἰσιν οὐ τοῖς πιστεύουσιν ἀλλὰ τοῖς ἀπίστοις, ἡ δὲ προφητεία οὐ τοῖς ἀπίστοις ἀλλὰ τοῖς πιστεύουσιν.",
+    "pt_aa": "De modo que as línguas são um sinal, não para os crentes, mas para os incrédulos; a profecia, porém, não é sinal para os incrédulos, mas para os crentes."
+   },
+   "23": {
+    "peshitta": "ܐܢ ܗܘ ܗܟܝܠ ܕܬܬܟܢܫ ܟܠܗ ܥܕܬܐ ܘܟܠܗܘܢ ܒܠܫܢܐ ܢܡܠܠܘܢ ܘܢܥܠܘܢ ܗܕܝܘܛܐ ܐܘ ܐܝܠܝܢ ܕܠܐ ܡܗܝܡܢܝܢ ܠܐ ܐܡܪܝܢ ܕܗܠܝܢ ܫܢܘ ܠܗܘܢ",
+    "grego_sblgnt": "ἐὰν οὖν συνέλθῃ ἡ ἐκκλησία ὅλη ἐπὶ τὸ αὐτὸ καὶ πάντες ⸂λαλῶσιν γλώσσαις⸃, εἰσέλθωσιν δὲ ἰδιῶται ἢ ἄπιστοι, οὐκ ἐροῦσιν ὅτι μαίνεσθε;",
+    "pt_aa": "Se, pois, toda a igreja se reunir num mesmo lugar, e todos falarem em línguas, e entrarem indoutos ou incrédulos, não dirão porventura que estais loucos?"
+   },
+   "24": {
+    "peshitta": "ܘܐܢ ܟܠܟܘܢ ܬܗܘܘܢ ܡܬܢܒܝܢ ܘܢܥܘܠ ܠܘܬܟܘܢ ܗܕܝܘܛܐ ܐܘ ܡܢ ܕܠܐ ܡܗܝܡܢ ܡܬܒܨܐ ܡܢ ܟܠܟܘܢ ܘܡܬܟܘܢ ܡܢ ܟܠܟܘܢ",
+    "grego_sblgnt": "ἐὰν δὲ πάντες προφητεύωσιν, εἰσέλθῃ δέ τις ἄπιστος ἢ ἰδιώτης, ἐλέγχεται ὑπὸ πάντων, ἀνακρίνεται ὑπὸ πάντων,",
+    "pt_aa": "Mas, se todos profetizarem, e algum incrédulo ou indouto entrar, por todos é convencido, por todos é julgado;"
+   },
+   "25": {
+    "peshitta": "ܘܟܣܝܬܐ ܕܠܒܗ ܡܬܓܠܝܢ ܘܗܝܕܝܢ ܢܦܠ ܥܠ ܐܦܘܗܝ ܘܢܣܓܘܕ ܠܐܠܗܐ ܘܢܐܡܪ ܫܪܝܪܐܝܬ ܐܠܗܐ ܐܝܬ ܒܟܘܢ",
+    "grego_sblgnt": "⸀τὰ κρυπτὰ τῆς καρδίας αὐτοῦ φανερὰ γίνεται, καὶ οὕτως πεσὼν ἐπὶ πρόσωπον προσκυνήσει τῷ θεῷ, ἀπαγγέλλων ὅτι ⸂Ὄντως ὁ θεὸς⸃ ἐν ὑμῖν ἐστιν.",
+    "pt_aa": "os segredos do seu coração se tornam manifestos; e assim, prostrando-se sobre o seu rosto, adorará a Deus, declarando que Deus está verdadeiramente entre vós."
+   },
+   "26": {
+    "peshitta": "ܐܡܪ ܐܢܐ ܗܟܝܠ ܐܚܝ ܕܐܡܬܝ ܕܡܬܟܢܫܝܢ ܐܢܬܘܢ ܠܐܝܢܐ ܡܢܟܘܢ ܕܐܝܬ ܠܗ ܡܙܡܘܪܐ ܢܐܡܪ ܘܐܝܢܐ ܕܐܝܬ ܠܗ ܝܘܠܦܢܐ ܘܐܝܢܐ ܕܐܝܬ ܠܗ ܓܠܝܢܐ ܘܐܝܢܐ ܕܐܝܬ ܠܗ ܠܫܢܐ ܘܐܝܢܐ ܕܐܝܬ ܠܗ ܦܘܫܩܐ ܟܠܗܝܢ ܠܒܢܝܢܐ ܢܗܘܝܢ",
+    "grego_sblgnt": "Τί οὖν ἐστιν, ἀδελφοί; ὅταν συνέρχησθε, ⸀ἕκαστος ψαλμὸν ἔχει, διδαχὴν ἔχει, ⸂ἀποκάλυψιν ἔχει, γλῶσσαν⸃ ἔχει, ἑρμηνείαν ἔχει· πάντα πρὸς οἰκοδομὴν γινέσθω.",
+    "pt_aa": "Que fazer, pois, irmãos? Quando vos congregais, cada um de vós tem salmo, tem doutrina, tem revelação, tem língua, tem interpretação. Faça-se tudo para edificação."
+   },
+   "27": {
+    "peshitta": "ܘܐܢ ܒܠܫܢܐ ܐܢܫ ܢܡܠܠ ܬܪܝܢ ܢܡܠܠܘܢ ܘܟܕ ܣܓܝ ܬܠܬܐ ܘܚܕ ܚܕ ܢܡܠܠܘܢ ܘܚܕ ܢܦܫܩ",
+    "grego_sblgnt": "εἴτε γλώσσῃ τις λαλεῖ, κατὰ δύο ἢ τὸ πλεῖστον τρεῖς, καὶ ἀνὰ μέρος, καὶ εἷς διερμηνευέτω·",
+    "pt_aa": "Se alguém falar em língua, faça-se isso por dois, ou quando muito três, e cada um por sua vez, e haja um que interprete."
+   },
+   "28": {
+    "peshitta": "ܘܐܢ ܠܝܬ ܕܡܦܫܩ ܢܫܬܘܩ ܠܗ ܒܥܕܬܐ ܗܘ ܕܡܡܠܠ ܒܠܫܢܐ ܘܒܝܢܘܗܝ ܠܢܦܫܗ ܘܠܐܠܗܐ ܢܡܠܠ",
+    "grego_sblgnt": "ἐὰν δὲ μὴ ᾖ ⸀διερμηνευτής, σιγάτω ἐν ἐκκλησίᾳ, ἑαυτῷ δὲ λαλείτω καὶ τῷ θεῷ.",
+    "pt_aa": "Mas, se não houver intérprete, esteja calado na igreja, e fale consigo mesmo, e com Deus."
+   },
+   "29": {
+    "peshitta": "ܢܒܝܐ ܕܝܢ ܬܪܝܢ ܐܘ ܬܠܬܐ ܢܡܠܠܘܢ ܘܫܪܟܐ ܢܦܪܫܘܢ",
+    "grego_sblgnt": "προφῆται δὲ δύο ἢ τρεῖς λαλείτωσαν, καὶ οἱ ἄλλοι διακρινέτωσαν·",
+    "pt_aa": "E falem os profetas, dois ou três, e os outros julguem."
+   },
+   "30": {
+    "peshitta": "ܘܐܢ ܠܐܚܪܢܐ ܢܬܓܠܐ ܟܕ ܝܬܒ ܩܕܡܝܐ ܢܫܬܘܩ ܠܗ",
+    "grego_sblgnt": "ἐὰν δὲ ἄλλῳ ἀποκαλυφθῇ καθημένῳ, ὁ πρῶτος σιγάτω.",
+    "pt_aa": "Mas se a outro, que estiver sentado, for revelada alguma coisa, cale-se o primeiro."
+   },
+   "31": {
+    "peshitta": "ܡܫܟܚܝܢ ܐܢܬܘܢ ܓܝܪ ܟܠܟܘܢ ܕܚܕ ܚܕ ܬܬܢܒܘܢ ܕܟܠܢܫ ܢܐܠܦ ܘܟܠܢܫ ܢܬܒܝܐ",
+    "grego_sblgnt": "δύνασθε γὰρ καθ’ ἕνα πάντες προφητεύειν, ἵνα πάντες μανθάνωσιν καὶ πάντες παρακαλῶνται",
+    "pt_aa": "Porque todos podereis profetizar, cada um por sua vez; para que todos aprendam e todos sejam consolados;"
+   },
+   "32": {
+    "peshitta": "ܪܘܚܐ ܓܝܪ ܕܢܒܝܐ ܠܢܒܝܐ ܡܫܬܥܒܕܐ",
+    "grego_sblgnt": "(καὶ πνεύματα προφητῶν προφήταις ὑποτάσσεται,",
+    "pt_aa": "pois os espíritos dos profetas estão sujeitos aos profetas;"
+   },
+   "33": {
+    "peshitta": "ܡܛܠ ܕܐܠܗܐ ܠܐ ܗܘܐ ܕܫܓܘܫܝܐ ܐܠܐ ܕܫܠܡܐ ܐܝܟ ܕܒܟܠܗܝܢ ܥܕܬܐ ܕܩܕܝܫܐ",
+    "grego_sblgnt": "οὐ γάρ ἐστιν ἀκαταστασίας ὁ θεὸς ἀλλὰ εἰρήνης), ὡς ἐν πάσαις ταῖς ἐκκλησίαις τῶν ἁγίων.",
+    "pt_aa": "porque Deus não é Deus de confusão, mas sim de paz. Como em todas as igrejas dos santos,"
+   },
+   "34": {
+    "peshitta": "ܢܫܝܟܘܢ ܒܥܕܬܐ ܢܗܘܝܢ ܫܬܝܩܢ ܠܐ ܓܝܪ ܡܦܣ ܠܗܝܢ ܕܢܡܠܠܢ ܐܠܐ ܕܢܫܬܥܒܕܢ ܐܝܟܢܐ ܕܐܦ ܢܡܘܣܐ ܐܡܪ",
+    "grego_sblgnt": "Αἱ ⸀γυναῖκες ἐν ταῖς ἐκκλησίαις σιγάτωσαν, οὐ γὰρ ⸀ἐπιτρέπεται αὐταῖς λαλεῖν· ἀλλὰ ⸀ὑποτασσέσθωσαν, καθὼς καὶ ὁ νόμος λέγει.",
+    "pt_aa": "as mulheres estejam caladas nas igrejas; porque lhes não é permitido falar; mas estejam submissas como também ordena a lei."
+   },
+   "35": {
+    "peshitta": "ܘܐܢ ܡܕܡ ܨܒܝܢ ܕܢܐܠܦܢ ܒܒܬܝܗܝܢ ܢܫܐܠܢ ܠܒܥܠܝܗܝܢ ܒܗܬܬܐ ܗܝ ܓܝܪ ܕܢܫܐ ܒܥܕܬܐ ܢܡܠܠܢ",
+    "grego_sblgnt": "εἰ δέ τι ⸀μαθεῖν θέλουσιν, ἐν οἴκῳ τοὺς ἰδίους ἄνδρας ἐπερωτάτωσαν, αἰσχρὸν γάρ ἐστιν γυναικὶ ⸂λαλεῖν ἐν ἐκκλησίᾳ⸃.",
+    "pt_aa": "E, se querem aprender alguma coisa, perguntem em casa a seus próprios maridos; porque é indecoroso para a mulher o falar na igreja."
+   },
+   "36": {
+    "peshitta": "ܐܘ ܕܠܡܐ ܡܢܟܘܢ ܗܘ ܢܦܩܬ ܡܠܬܗ ܕܐܠܗܐ ܐܘ ܠܘܬܟܘܢ ܗܘ ܒܠܚܘܕ ܡܛܬ",
+    "grego_sblgnt": "ἢ ἀφ’ ὑμῶν ὁ λόγος τοῦ θεοῦ ἐξῆλθεν, ἢ εἰς ὑμᾶς μόνους κατήντησεν;",
+    "pt_aa": "Porventura foi de vós que partiu a palavra de Deus? Ou veio ela somente para vós?"
+   },
+   "37": {
+    "peshitta": "ܐܢ ܐܢܫ ܕܝܢ ܡܢܟܘܢ ܣܒܪ ܕܢܒܝܐ ܗܘ ܐܘ ܕܪܘܚܐ ܗܘ ܢܕܥ ܗܠܝܢ ܕܟܬܒ ܐܢܐ ܠܟܘܢ ܕܦܘܩܕܢܐ ܐܢܘܢ ܕܡܪܢ",
+    "grego_sblgnt": "Εἴ τις δοκεῖ προφήτης εἶναι ἢ πνευματικός, ἐπιγινωσκέτω ἃ γράφω ὑμῖν ὅτι κυρίου ⸀ἐστίν·",
+    "pt_aa": "Se alguém se considera profeta, ou espiritual, reconheça que as coisas que vos escrevo são mandamentos do Senhor."
+   },
+   "38": {
+    "peshitta": "ܐܢ ܐܢܫ ܕܝܢ ܠܐ ܝܕܥ ܠܐ ܢܕܥ",
+    "grego_sblgnt": "εἰ δέ τις ἀγνοεῖ, ⸀ἀγνοεῖται.",
+    "pt_aa": "Mas, se alguém ignora isto, ele é ignorado."
+   },
+   "39": {
+    "peshitta": "ܛܢܘ ܗܟܝܠ ܐܚܝ ܠܡܬܢܒܝܘ ܘܠܡܡܠܠܘ ܒܠܫܢܐ ܠܐ ܬܟܠܘܢ",
+    "grego_sblgnt": "ὥστε, ἀδελφοί ⸀μου, ζηλοῦτε τὸ προφητεύειν, καὶ τὸ λαλεῖν ⸂μὴ κωλύετε γλώσσαις⸃·",
+    "pt_aa": "Portanto, irmãos, procurai com zelo o profetizar, e não proibais o falar em línguas."
+   },
+   "40": {
+    "peshitta": "ܟܠܡܕܡ ܕܝܢ ܒܐܣܟܡܐ ܘܒܛܟܣܐ ܢܗܘܐ",
+    "grego_sblgnt": "πάντα ⸀δὲ εὐσχημόνως καὶ κατὰ τάξιν γινέσθω.",
+    "pt_aa": "Mas faça-se tudo decentemente e com ordem."
+   }
+  },
+  "15": {
+   "1": {
+    "peshitta": "ܡܘܕܥ ܐܢܐ ܠܟܘܢ ܕܝܢ ܐܚܝ ܐܘܢܓܠܝܘܢ ܕܣܒܪܬܟܘܢ ܘܩܒܠܬܘܢܝܗܝ ܘܩܡܬܘܢ ܒܗ",
+    "grego_sblgnt": "Γνωρίζω δὲ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον ὃ εὐηγγελισάμην ὑμῖν, ὃ καὶ παρελάβετε, ἐν ᾧ καὶ ἑστήκατε,",
+    "pt_aa": "Ora, eu vos lembro, irmãos, o evangelho que já vos anunciei; o qual também recebestes, e no qual perseverais,"
+   },
+   "2": {
+    "peshitta": "ܘܒܗ ܚܐܝܢ ܐܢܬܘܢ ܒܐܝܕܐ ܡܠܬܐ ܣܒܪܬܟܘܢ ܐܢ ܥܗܕܝܢ ܐܢܬܘܢ ܐܢ ܠܐ ܗܘܐ ܣܪܝܩܐܝܬ ܗܝܡܢܬܘܢ",
+    "grego_sblgnt": "δι’ οὗ καὶ σῴζεσθε, τίνι λόγῳ εὐηγγελισάμην ὑμῖν, εἰ κατέχετε, ἐκτὸς εἰ μὴ εἰκῇ ἐπιστεύσατε.",
+    "pt_aa": "pelo qual também sois salvos, se é que o conservais tal como vo-lo anunciei; se não é que crestes em vão."
+   },
+   "3": {
+    "peshitta": "ܐܫܠܡܬ ܠܟܘܢ ܓܝܪ ܡܢ ܠܘܩܕܡ ܐܝܟ ܡܕܡ ܕܩܒܠܬ ܕܡܫܝܚܐ ܡܝܬ ܥܠ ܐܦܝ ܚܛܗܝܢ ܐܝܟܢܐ ܕܟܬܝܒ",
+    "grego_sblgnt": "Παρέδωκα γὰρ ὑμῖν ἐν πρώτοις, ὃ καὶ παρέλαβον, ὅτι Χριστὸς ἀπέθανεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν κατὰ τὰς γραφάς,",
+    "pt_aa": "Porque primeiramente vos entreguei o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras;"
+   },
+   "4": {
+    "peshitta": "ܘܕܐܬܩܒܪ ܘܩܡ ܠܬܠܬܐ ܝܘܡܝܢ ܐܝܟ ܕܟܬܝܒ",
+    "grego_sblgnt": "καὶ ὅτι ἐτάφη, καὶ ὅτι ἐγήγερται τῇ ⸂ἡμέρᾳ τῇ τρίτῃ⸃ κατὰ τὰς γραφάς,",
+    "pt_aa": "que foi sepultado; que foi ressuscitado ao terceiro dia, segundo as Escrituras;"
+   },
+   "5": {
+    "peshitta": "ܘܐܬܚܙܝ ܠܟܐܦܐ ܘܒܬܪܗ ܠܬܪܥܣܪ",
+    "grego_sblgnt": "καὶ ὅτι ὤφθη Κηφᾷ, εἶτα τοῖς δώδεκα·",
+    "pt_aa": "que apareceu a Cefas, e depois aos doze;"
+   },
+   "6": {
+    "peshitta": "ܘܒܬܪܟܢ ܐܬܚܙܝ ܠܝܬܝܪ ܡܢ ܚܡܫܡܐܐ ܐܚܝܢ ܐܟܚܕܐ ܕܣܓܝܐܐ ܡܢܗܘܢ ܩܝܡܝܢ ܐܢܘܢ ܥܕܡܐ ܠܗܫܐ ܘܡܢܗܘܢ ܕܡܟܘ",
+    "grego_sblgnt": "ἔπειτα ὤφθη ἐπάνω πεντακοσίοις ἀδελφοῖς ἐφάπαξ, ἐξ ὧν οἱ ⸀πλείονες μένουσιν ἕως ἄρτι, τινὲς ⸀δὲ ἐκοιμήθησαν·",
+    "pt_aa": "depois apareceu a mais de quinhentos irmãos duma vez, dos quais vive ainda a maior parte, mas alguns já dormiram;"
+   },
+   "7": {
+    "peshitta": "ܘܡܢ ܒܬܪ ܗܠܝܢ ܐܬܚܙܝ ܠܝܥܩܘܒ ܘܒܬܪܗ ܠܫܠܝܚܐ ܟܠܗܘܢ",
+    "grego_sblgnt": "ἔπειτα ὤφθη Ἰακώβῳ, εἶτα τοῖς ἀποστόλοις πᾶσιν·",
+    "pt_aa": "depois apareceu a Tiago, então a todos os apóstolos;"
+   },
+   "8": {
+    "peshitta": "ܠܚܪܬܐ ܕܝܢ ܕܟܠܗܘܢ ܐܝܟ ܕܠܝܚܛܐ ܐܬܚܙܝ ܐܦ ܠܝ",
+    "grego_sblgnt": "ἔσχατον δὲ πάντων ὡσπερεὶ τῷ ἐκτρώματι ὤφθη κἀμοί.",
+    "pt_aa": "e por derradeiro de todos apareceu também a mim, como a um abortivo."
+   },
+   "9": {
+    "peshitta": "ܐܢܐ ܐܢܐ ܓܝܪ ܙܥܘܪܗܘܢ ܕܫܠܝܚܐ ܘܠܐ ܫܘܐ ܐܢܐ ܕܐܬܩܪܐ ܫܠܝܚܐ ܡܛܠ ܕܪܕܦܬ ܥܕܬܗ ܕܐܠܗܐ",
+    "grego_sblgnt": "ἐγὼ γάρ εἰμι ὁ ἐλάχιστος τῶν ἀποστόλων, ὃς οὐκ εἰμὶ ἱκανὸς καλεῖσθαι ἀπόστολος, διότι ἐδίωξα τὴν ἐκκλησίαν τοῦ θεοῦ·",
+    "pt_aa": "Pois eu sou o menor dos apóstolos, que nem sou digno de ser chamado apóstolo, porque persegui a igreja de Deus."
+   },
+   "10": {
+    "peshitta": "ܒܛܝܒܘܬܗ ܕܝܢ ܕܐܠܗܐ ܐܝܬܝ ܡܕܡ ܕܐܝܬܝ ܘܛܝܒܘܬܗ ܕܒܝ ܠܐ ܗܘܬ ܣܪܝܩܐ ܐܠܐ ܝܬܝܪ ܡܢ ܟܠܗܘܢ ܠܐܝܬ ܠܐ ܐܢܐ ܐܠܐ ܛܝܒܘܬܗ ܕܥܡܝ",
+    "grego_sblgnt": "χάριτι δὲ θεοῦ εἰμι ὅ εἰμι, καὶ ἡ χάρις αὐτοῦ ἡ εἰς ἐμὲ οὐ κενὴ ἐγενήθη, ἀλλὰ περισσότερον αὐτῶν πάντων ἐκοπίασα, οὐκ ἐγὼ δὲ ἀλλὰ ἡ χάρις τοῦ θεοῦ ⸀ἡ σὺν ἐμοί.",
+    "pt_aa": "Mas pela graça de Deus sou o que sou; e a sua graça para comigo não foi vã, antes trabalhei muito mais do que todos eles; todavia não eu, mas a graça de Deus que está comigo."
+   },
+   "11": {
+    "peshitta": "ܐܢ ܐܢܐ ܗܟܝܠ ܘܐܢ ܗܢܘܢ ܗܟܢܐ ܡܟܪܙܝܢܢ ܘܗܟܢܐ ܗܝܡܢܬܘܢ",
+    "grego_sblgnt": "εἴτε οὖν ἐγὼ εἴτε ἐκεῖνοι, οὕτως κηρύσσομεν καὶ οὕτως ἐπιστεύσατε.",
+    "pt_aa": "Então, ou seja eu ou sejam eles, assim pregamos e assim crestes."
+   },
+   "12": {
+    "peshitta": "ܐܢ ܕܝܢ ܡܫܝܚܐ ܡܬܟܪܙ ܕܩܡ ܡܢ ܒܝܬ ܡܝܬܐ ܐܝܟܢܐ ܐܝܬ ܒܟܘܢ ܐܢܫܐ ܕܐܡܪܝܢ ܠܝܬ ܚܝܬ ܡܝܬܐ",
+    "grego_sblgnt": "Εἰ δὲ Χριστὸς κηρύσσεται ὅτι ἐκ νεκρῶν ἐγήγερται, πῶς λέγουσιν ⸂ἐν ὑμῖν τινες⸃ ὅτι ἀνάστασις νεκρῶν οὐκ ἔστιν;",
+    "pt_aa": "Ora, se prega que Cristo foi ressuscitado dentre os mortos, como dizem alguns entre vós que não há ressurreição de mortos?"
+   },
+   "13": {
+    "peshitta": "ܘܐܢ ܚܝܬ ܡܝܬܐ ܠܝܬ ܐܦܠܐ ܡܫܝܚܐ ܩܡ",
+    "grego_sblgnt": "εἰ δὲ ἀνάστασις νεκρῶν οὐκ ἔστιν, οὐδὲ Χριστὸς ἐγήγερται·",
+    "pt_aa": "Mas se não há ressurreição de mortos, também Cristo não foi ressuscitado."
+   },
+   "14": {
+    "peshitta": "ܘܐܢ ܡܫܝܚܐ ܠܐ ܩܡ ܣܪܝܩܐ ܗܝ ܟܪܘܙܘܬܢ ܣܪܝܩܐ ܐܦ ܗܝܡܢܘܬܟܘܢ",
+    "grego_sblgnt": "εἰ δὲ Χριστὸς οὐκ ἐγήγερται, κενὸν ⸀ἄρα τὸ κήρυγμα ἡμῶν, ⸀κενὴ καὶ ἡ πίστις ⸀ὑμῶν,",
+    "pt_aa": "E, se Cristo não foi ressuscitado, logo é vã a nossa pregação, e também é vã a vossa fé."
+   },
+   "15": {
+    "peshitta": "ܡܫܬܟܚܝܢ ܚܢܢ ܕܝܢ ܐܦ ܣܗܕܐ ܕܓܠܐ ܕܐܠܗܐ ܕܐܣܗܕܢ ܥܠ ܐܠܗܐ ܕܐܩܝܡ ܠܡܫܝܚܐ ܟܕ ܠܐ ܐܩܝܡ",
+    "grego_sblgnt": "εὑρισκόμεθα δὲ καὶ ψευδομάρτυρες τοῦ θεοῦ, ὅτι ἐμαρτυρήσαμεν κατὰ τοῦ θεοῦ ὅτι ἤγειρεν τὸν Χριστόν, ὃν οὐκ ἤγειρεν εἴπερ ἄρα νεκροὶ οὐκ ἐγείρονται.",
+    "pt_aa": "E assim somos também considerados como falsas testemunhas de Deus que ele ressuscitou a Cristo, ao qual, porém, não ressuscitou, se, na verdade, os mortos não são ressuscitados."
+   },
+   "16": {
+    "peshitta": "ܐܢ ܡܝܬܐ ܓܝܪ ܠܐ ܩܝܡܝܢ ܐܦܠܐ ܡܫܝܚܐ ܩܡ",
+    "grego_sblgnt": "εἰ γὰρ νεκροὶ οὐκ ἐγείρονται, οὐδὲ Χριστὸς ἐγήγερται·",
+    "pt_aa": "Porque, se os mortos não são ressuscitados, também Cristo não foi ressuscitado."
+   },
+   "17": {
+    "peshitta": "ܘܐܢ ܡܫܝܚܐ ܠܐ ܩܡ ܒܛܠܐ ܗܝ ܗܝܡܢܘܬܟܘܢ ܘܥܕܟܝܠ ܒܚܛܗܝܟܘܢ ܐܢܬܘܢ",
+    "grego_sblgnt": "εἰ δὲ Χριστὸς οὐκ ἐγήγερται, ματαία ἡ πίστις ⸀ὑμῶν, ἔτι ἐστὲ ἐν ταῖς ἁμαρτίαις ὑμῶν.",
+    "pt_aa": "E, se Cristo não foi ressuscitado, é vã a vossa fé, e ainda estais nos vossos pecados."
+   },
+   "18": {
+    "peshitta": "ܘܟܒܪ ܐܦ ܐܝܠܝܢ ܕܕܡܟܘ ܒܡܫܝܚܐ ܐܒܕܘ ܠܗܘܢ",
+    "grego_sblgnt": "ἄρα καὶ οἱ κοιμηθέντες ἐν Χριστῷ ἀπώλοντο.",
+    "pt_aa": "Logo, também os que dormiram em Cristo estão perdidos."
+   },
+   "19": {
+    "peshitta": "ܘܐܢ ܒܗܠܝܢ ܗܘ ܚܝܐ ܒܠܚܘܕ ܡܣܒܪܝܢܢ ܒܡܫܝܚܐ ܕܘܝܢܢ ܗܘ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫܐ",
+    "grego_sblgnt": "εἰ ἐν τῇ ζωῇ ταύτῃ ⸂ἐν Χριστῷ ἠλπικότες ἐσμὲν⸃ μόνον, ἐλεεινότεροι πάντων ἀνθρώπων ἐσμέν.",
+    "pt_aa": "Se é só para esta vida que esperamos em Cristo, somos de todos os homens os mais dignos de lástima."
+   },
+   "20": {
+    "peshitta": "ܗܫܐ ܕܝܢ ܡܫܝܚܐ ܩܡ ܡܢ ܒܝܬ ܡܝܬܐ ܘܗܘܐ ܪܫܝܬܐ ܕܕܡܟܐ",
+    "grego_sblgnt": "Νυνὶ δὲ Χριστὸς ἐγήγερται ἐκ νεκρῶν, ἀπαρχὴ τῶν ⸀κεκοιμημένων.",
+    "pt_aa": "Mas na realidade Cristo foi ressuscitado dentre os mortos, sendo ele as primícias dos que dormem."
+   },
+   "21": {
+    "peshitta": "ܘܐܝܟܢܐ ܕܒܝܕ ܒܪܢܫܐ ܗܘܐ ܡܘܬܐ ܗܟܢܐ ܐܦ ܒܝܕ ܒܪܢܫܐ ܗܘܝܐ ܚܝܬ ܡܝܬܐ",
+    "grego_sblgnt": "ἐπειδὴ γὰρ δι’ ἀνθρώπου ⸀θάνατος, καὶ δι’ ἀνθρώπου ἀνάστασις νεκρῶν·",
+    "pt_aa": "Porque, assim como por um homem veio a morte, também por um homem veio a ressurreição dos mortos."
+   },
+   "22": {
+    "peshitta": "ܐܝܟܢܐ ܓܝܪ ܕܒܐܕܡ ܟܠܗܘܢ ܒܢܝܢܫܐ ܡܝܬܝܢ ܗܟܢܐ ܐܦ ܒܡܫܝܚܐ ܟܠܗܘܢ ܚܐܝܢ",
+    "grego_sblgnt": "ὥσπερ γὰρ ἐν τῷ Ἀδὰμ πάντες ἀποθνῄσκουσιν, οὕτως καὶ ἐν τῷ Χριστῷ πάντες ζῳοποιηθήσονται.",
+    "pt_aa": "Pois como em Adão todos morrem, do mesmo modo em Cristo todos serão vivificados."
+   },
+   "23": {
+    "peshitta": "ܐܢܫ ܐܢܫ ܒܛܟܣܗ ܪܫܝܬܐ ܗܘܐ ܡܫܝܚܐ ܒܬܪܟܢ ܐܝܠܝܢ ܕܕܡܫܝܚܐ ܐܢܘܢ ܒܡܐܬܝܬܗ",
+    "grego_sblgnt": "ἕκαστος δὲ ἐν τῷ ἰδίῳ τάγματι· ἀπαρχὴ Χριστός, ἔπειτα οἱ τοῦ Χριστοῦ ἐν τῇ παρουσίᾳ αὐτοῦ·",
+    "pt_aa": "Cada um, porém, na sua ordem: Cristo as primícias, depois os que são de Cristo, na sua vinda."
+   },
+   "24": {
+    "peshitta": "ܘܗܝܕܝܢ ܬܗܘܐ ܚܪܬܐ ܡܐ ܕܡܫܠܡ ܡܠܟܘܬܐ ܠܐܠܗܐ ܐܒܐ ܡܐ ܕܒܛܠ ܟܠ ܪܝܫ ܘܟܠ ܫܘܠܛܢ ܘܟܠ ܚܝܠܝܢ",
+    "grego_sblgnt": "εἶτα τὸ τέλος, ὅταν ⸀παραδιδῷ τὴν βασιλείαν τῷ θεῷ καὶ πατρί, ὅταν καταργήσῃ πᾶσαν ἀρχὴν καὶ πᾶσαν ἐξουσίαν καὶ δύναμιν,",
+    "pt_aa": "Então virá o fim quando ele entregar o reino a Deus o Pai, quando houver destruído todo domínio, e toda autoridade e todo poder."
+   },
+   "25": {
+    "peshitta": "ܥܬܝܕ ܗܘ ܓܝܪ ܕܢܡܠܟ ܥܕܡܐ ܕܢܣܝܡ ܒܥܠܕܒܒܘܗܝ ܟܠܗܘܢ ܬܚܝܬ ܪܓܠܘܗܝ",
+    "grego_sblgnt": "δεῖ γὰρ αὐτὸν βασιλεύειν ἄχρι ⸀οὗ θῇ πάντας τοὺς ἐχθροὺς ὑπὸ τοὺς πόδας αὐτοῦ.",
+    "pt_aa": "Pois é necessário que ele reine até que haja posto todos os inimigos debaixo de seus pés."
+   },
+   "26": {
+    "peshitta": "ܘܐܚܪܝܐ ܒܥܠܕܒܒܐ ܡܬܒܛܠ ܡܘܬܐ",
+    "grego_sblgnt": "ἔσχατος ἐχθρὸς καταργεῖται ὁ θάνατος,",
+    "pt_aa": "Ora, o último inimigo a ser destruído é a morte."
+   },
+   "27": {
+    "peshitta": "ܟܠ ܓܝܪ ܫܥܒܕ ܬܚܝܬ ܪܓܠܘܗܝ ܡܐ ܕܐܡܪ ܕܝܢ ܕܟܠܡܕܡ ܡܫܬܥܒܕ ܠܗ ܝܕܝܥܐ ܕܣܛܪ ܡܢ ܗܘ ܕܫܥܒܕ ܠܗ ܟܠ",
+    "grego_sblgnt": "πάντα γὰρ ὑπέταξεν ὑπὸ τοὺς πόδας αὐτοῦ. ὅταν δὲ εἴπῃ ὅτι πάντα ὑποτέτακται, δῆλον ὅτι ἐκτὸς τοῦ ὑποτάξαντος αὐτῷ τὰ πάντα.",
+    "pt_aa": "Pois se lê: Todas as coisas sujeitou debaixo de seus pés. Mas, quando diz: Todas as coisas lhe estão sujeitas, claro está que se excetua aquele que lhe sujeitou todas as coisas."
+   },
+   "28": {
+    "peshitta": "ܘܡܐ ܕܐܫܬܥܒܕ ܠܗ ܟܠ ܗܝܕܝܢ ܗܘ ܒܪܐ ܢܫܬܥܒܕ ܠܗܘ ܕܫܥܒܕ ܠܗ ܟܠ ܕܢܗܘܐ ܐܠܗܐ ܟܠ ܒܟܠ",
+    "grego_sblgnt": "ὅταν δὲ ὑποταγῇ αὐτῷ τὰ πάντα, ⸀τότε αὐτὸς ὁ υἱὸς ὑποταγήσεται τῷ ὑποτάξαντι αὐτῷ τὰ πάντα, ἵνα ᾖ ὁ θεὸς ⸀πάντα ἐν πᾶσιν.",
+    "pt_aa": "E, quando todas as coisas lhe estiverem sujeitas, então também o próprio Filho se sujeitará àquele que todas as coisas lhe sujeitou, para que Deus seja tudo em todos."
+   },
+   "29": {
+    "peshitta": "ܘܐܠܐ ܡܢܐ ܢܥܒܕܘܢ ܗܢܘܢ ܕܥܡܕܝܢ ܚܠܦ ܡܝܬܐ ܐܢ ܡܝܬܐ ܠܐ ܩܝܡܝܢ ܡܢܐ ܥܡܕܝܢ ܚܠܦ ܡܝܬܐ",
+    "grego_sblgnt": "Ἐπεὶ τί ποιήσουσιν οἱ βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν; εἰ ὅλως νεκροὶ οὐκ ἐγείρονται, τί καὶ βαπτίζονται ὑπὲρ ⸀αὐτῶν;",
+    "pt_aa": "De outra maneira, que farão os que se batizam pelos mortos? Se absolutamente os mortos não ressuscitam, por que então se batizam por eles?"
+   },
+   "30": {
+    "peshitta": "ܘܠܡܢܐ ܐܦ ܚܢܢ ܒܟܠ ܫܥܐ ܒܩܢܕܝܢܘܣ ܩܝܡܝܢܢ",
+    "grego_sblgnt": "τί καὶ ἡμεῖς κινδυνεύομεν πᾶσαν ὥραν;",
+    "pt_aa": "E por que nos expomos também nós a perigos a toda hora?"
+   },
+   "31": {
+    "peshitta": "ܝܡܐ ܐܢܐ ܒܫܘܒܗܪܟܘܢ ܐܚܝ ܕܐܝܬ ܠܝ ܒܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܟܠܝܘܡ ܡܐܬ ܐܢܐ",
+    "grego_sblgnt": "καθ’ ἡμέραν ἀποθνῄσκω, νὴ τὴν ὑμετέραν ⸀καύχησιν, ἣν ἔχω ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν.",
+    "pt_aa": "Eu vos declaro, irmãos, pela glória que de vós tenho em Cristo Jesus nosso Senhor, que morro todos os dias."
+   },
+   "32": {
+    "peshitta": "ܐܢ ܐܝܟ ܕܒܝܬ ܒܢܝܢܫܐ ܐܫܬܕܝܬ ܠܚܝܘܬܐ ܒܐܦܣܘܣ ܡܢܐ ܐܬܗܢܝܬ ܐܢ ܡܝܬܐ ܠܐ ܩܝܡܝܢ ܢܐܟܘܠ ܘܢܫܬܐ ܡܚܪ ܓܝܪ ܡܝܬܝܢܢ",
+    "grego_sblgnt": "εἰ κατὰ ἄνθρωπον ἐθηριομάχησα ἐν Ἐφέσῳ, τί μοι τὸ ὄφελος; εἰ νεκροὶ οὐκ ἐγείρονται, Φάγωμεν καὶ πίωμεν, αὔριον γὰρ ἀποθνῄσκομεν.",
+    "pt_aa": "Se, como homem, combati em Éfeso com as feras, que me aproveita isso? Se os mortos não são ressuscitados, comamos e bebamos, porque amanhã morreremos."
+   },
+   "33": {
+    "peshitta": "ܠܐ ܬܛܥܘܢ ܡܚܒܠܢ ܪܥܝܢܐ ܒܣܝܡܐ ܫܘܥܝܬܐ ܒܝܫܬܐ",
+    "grego_sblgnt": "μὴ πλανᾶσθε· φθείρουσιν ἤθη χρηστὰ ὁμιλίαι κακαί.",
+    "pt_aa": "Não vos enganeis. As más companhias corrompem os bons costumes."
+   },
+   "34": {
+    "peshitta": "ܐܥܝܪܘ ܠܒܟܘܢ ܙܕܝܩܐܝܬ ܘܠܐ ܬܚܛܘܢ ܐܝܬ ܓܝܪ ܐܢܫܐ ܕܝܕܥܬܐ ܕܐܠܗܐ ܠܝܬ ܒܗܘܢ ܠܒܗܬܬܟܘܢ ܗܘ ܐܡܪ ܐܢܐ",
+    "grego_sblgnt": "ἐκνήψατε δικαίως καὶ μὴ ἁμαρτάνετε, ἀγνωσίαν γὰρ θεοῦ τινες ἔχουσιν· πρὸς ἐντροπὴν ὑμῖν ⸀λαλῶ.",
+    "pt_aa": "Acordai para a justiça e não pequeis mais; porque alguns ainda não têm conhecimento de Deus; digo-o para vergonha vossa."
+   },
+   "35": {
+    "peshitta": "ܢܐܡܪ ܐܢܫ ܡܢܟܘܢ ܕܐܝܟܢܐ ܩܝܡܝܢ ܡܝܬܐ ܘܒܐܝܢܐ ܦܓܪܐ ܐܬܝܢ",
+    "grego_sblgnt": "Ἀλλὰ ἐρεῖ τις· Πῶς ἐγείρονται οἱ νεκροί, ποίῳ δὲ σώματι ἔρχονται;",
+    "pt_aa": "Mas alguém dirá: Como ressuscitam os mortos? e com que qualidade de corpo vêm?"
+   },
+   "36": {
+    "peshitta": "ܣܟܠܐ ܙܪܥܐ ܕܙܪܥ ܐܢܬ ܐܢ ܠܐ ܡܐܬ ܠܐ ܚܝܐ",
+    "grego_sblgnt": "⸀ἄφρων, σὺ ὃ σπείρεις, οὐ ζῳοποιεῖται ἐὰν μὴ ἀποθάνῃ·",
+    "pt_aa": "Insensato! o que tu semeias não é vivificado, se primeiro não morrer."
+   },
+   "37": {
+    "peshitta": "ܘܗܘ ܡܕܡ ܕܙܪܥ ܐܢܬ ܠܐ ܗܘܐ ܗܘ ܦܓܪܐ ܕܥܬܝܕ ܠܡܗܘܐ ܙܪܥ ܐܢܬ ܐܠܐ ܦܪܕܬܐ ܥܪܛܠܝܬܐ ܕܚܛܐ ܐܘ ܕܣܥܪܐ ܐܘ ܕܫܪܟܐ ܕܙܪܥܘܢܐ",
+    "grego_sblgnt": "καὶ ὃ σπείρεις, οὐ τὸ σῶμα τὸ γενησόμενον σπείρεις ἀλλὰ γυμνὸν κόκκον εἰ τύχοι σίτου ἤ τινος τῶν λοιπῶν·",
+    "pt_aa": "E, quando semeias, não semeias o corpo que há de nascer, mas o simples grão, como o de trigo, ou o de outra qualquer semente."
+   },
+   "38": {
+    "peshitta": "ܐܠܗܐ ܕܝܢ ܝܗܒ ܠܗ ܦܓܪܐ ܐܝܟܢܐ ܕܨܒܐ ܘܠܚܕ ܚܕ ܡܢ ܙܪܥܘܢܐ ܦܓܪܐ ܕܟܝܢܗ",
+    "grego_sblgnt": "ὁ δὲ θεὸς ⸂δίδωσιν αὐτῷ⸃ σῶμα καθὼς ἠθέλησεν, καὶ ἑκάστῳ τῶν σπερμάτων ⸀ἴδιον σῶμα.",
+    "pt_aa": "Mas Deus lhe dá um corpo como lhe aprouve, e a cada uma das sementes um corpo próprio."
+   },
+   "39": {
+    "peshitta": "ܠܐ ܗܘܐ ܕܝܢ ܟܠ ܦܓܪ ܫܘܐ ܐܚܪܝܢ ܗܘ ܓܝܪ ܦܓܪܐ ܕܒܪ ܐܢܫܐ ܘܐܚܪܝܢ ܕܒܥܝܪܐ ܘܐܚܪܝܢ ܕܦܪܚܬܐ ܘܐܚܪܝܢ ܕܢܘܢܐ",
+    "grego_sblgnt": "οὐ πᾶσα σὰρξ ἡ αὐτὴ σάρξ, ἀλλὰ ἄλλη μὲν ἀνθρώπων, ἄλλη δὲ σὰρξ κτηνῶν, ἄλλη δὲ ⸂σὰρξ πτηνῶν⸃, ἄλλη δὲ ⸀ἰχθύων.",
+    "pt_aa": "Nem toda carne é uma mesma carne; mas uma é a carne dos homens, outra a carne dos animais, outra a das aves e outra a dos peixes."
+   },
+   "40": {
+    "peshitta": "ܘܐܝܬ ܦܓܪܐ ܫܡܝܢܐ ܘܐܝܬ ܦܓܪܐ ܐܪܥܢܝܐ ܐܠܐ ܐܚܪܝܢ ܗܘ ܫܘܒܚܐ ܕܫܡܝܢܐ ܘܐܚܪܝܢ ܕܐܪܥܢܝܐ",
+    "grego_sblgnt": "καὶ σώματα ἐπουράνια, καὶ σώματα ἐπίγεια· ἀλλὰ ἑτέρα μὲν ἡ τῶν ἐπουρανίων δόξα, ἑτέρα δὲ ἡ τῶν ἐπιγείων.",
+    "pt_aa": "Também há corpos celestes e corpos terrestres, mas uma é a glória dos celestes e outra a dos terrestres."
+   },
+   "41": {
+    "peshitta": "ܘܐܚܪܝܢ ܗܘ ܫܘܒܚܐ ܕܫܡܫܐ ܘܐܚܪܝܢ ܫܘܒܚܐ ܕܣܗܪܐ ܘܐܚܪܝܢ ܫܘܒܚܐ ܕܟܘܟܒܐ ܘܟܘܟܒܐ ܡܢ ܟܘܟܒܐ ܡܝܬܪ ܗܘ ܒܫܘܒܚܐ",
+    "grego_sblgnt": "ἄλλη δόξα ἡλίου, καὶ ἄλλη δόξα σελήνης, καὶ ἄλλη δόξα ἀστέρων, ἀστὴρ γὰρ ἀστέρος διαφέρει ἐν δόξῃ.",
+    "pt_aa": "Uma é a glória do sol, outra a glória da lua e outra a glória das estrelas; porque uma estrela difere em glória de outra estrela."
+   },
+   "42": {
+    "peshitta": "ܗܟܢܐ ܐܦ ܚܝܬ ܡܝܬܐ ܡܙܕܪܥܝܢ ܒܚܒܠܐ ܩܝܡܝܢ ܕܠܐ ܚܒܠܐ",
+    "grego_sblgnt": "Οὕτως καὶ ἡ ἀνάστασις τῶν νεκρῶν. σπείρεται ἐν φθορᾷ, ἐγείρεται ἐν ἀφθαρσίᾳ·",
+    "pt_aa": "Assim também é a ressurreição, é ressuscitado em incorrupção."
+   },
+   "43": {
+    "peshitta": "ܡܙܕܪܥܝܢ ܒܨܥܪܐ ܩܝܡܝܢ ܒܫܘܒܚܐ ܡܙܕܪܥܝܢ ܒܟܪܝܗܘܬܐ ܩܝܡܝܢ ܒܚܝܠܐ",
+    "grego_sblgnt": "σπείρεται ἐν ἀτιμίᾳ, ἐγείρεται ἐν δόξῃ· σπείρεται ἐν ἀσθενείᾳ, ἐγείρεται ἐν δυνάμει·",
+    "pt_aa": "Semeia-se em ignomínia, é ressuscitado em glória. Semeia-se em fraqueza, é ressuscitado em poder."
+   },
+   "44": {
+    "peshitta": "ܡܙܕܪܥܝܢ ܦܓܪܐ ܢܦܫܢܝܐ ܩܐܡ ܦܓܪܐ ܪܘܚܢܝܐ ܐܝܬ ܓܝܪ ܦܓܪܐ ܕܢܦܫ ܘܐܝܬ ܦܓܪܐ ܕܪܘܚ",
+    "grego_sblgnt": "σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν. ⸀Εἰ ἔστιν σῶμα ψυχικόν, ⸂ἔστιν καὶ⸃ πνευματικόν.",
+    "pt_aa": "Semeia-se corpo animal, é ressuscitado corpo espiritual. Se há corpo animal, há também corpo espiritual."
+   },
+   "45": {
+    "peshitta": "ܗܟܢܐ ܐܦ ܟܬܝܒ ܗܘܐ ܐܕܡ ܒܪܢܫܐ ܩܕܡܝܐ ܠܢܦܫ ܚܝܐ ܘܐܕܡ ܐܚܪܝܐ ܠܪܘܚܐ ܡܚܝܢܝܬܐ",
+    "grego_sblgnt": "οὕτως καὶ γέγραπται· Ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν· ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζῳοποιοῦν.",
+    "pt_aa": "Assim também está escrito: O primeiro homem, Adão, tornou-se alma vivente; o último Adão, espírito vivificante."
+   },
+   "46": {
+    "peshitta": "ܐܠܐ ܠܐ ܗܘܐ ܠܘܩܕܡ ܪܘܚܢܝܐ ܐܠܐ ܢܦܫܢܝܐ ܘܗܝܕܝܢ ܪܘܚܢܝܐ",
+    "grego_sblgnt": "ἀλλ’ οὐ πρῶτον τὸ πνευματικὸν ἀλλὰ τὸ ψυχικόν, ἔπειτα τὸ πνευματικόν.",
+    "pt_aa": "Mas não é primeiro o espiritual, senão o animal; depois o espiritual."
+   },
+   "47": {
+    "peshitta": "ܒܪܢܫܐ ܩܕܡܝܐ ܥܦܪܢܐ ܕܡܢ ܐܪܥܐ ܒܪܢܫܐ ܕܬܪܝܢ ܡܪܝܐ ܡܢ ܫܡܝܐ",
+    "grego_sblgnt": "ὁ πρῶτος ἄνθρωπος ἐκ γῆς χοϊκός, ὁ δεύτερος ⸀ἄνθρωπος ἐξ οὐρανοῦ.",
+    "pt_aa": "O primeiro homem, sendo da terra, é terreno; o segundo homem é do céu."
+   },
+   "48": {
+    "peshitta": "ܐܝܟܢܐ ܕܐܝܬܘܗܝ ܗܘ ܥܦܪܢܐ ܗܟܢܐ ܐܦ ܥܦܪܢܐ ܘܐܝܟܢܐ ܕܐܝܬܘܗܝ ܗܘ ܕܡܢ ܫܡܝܐ ܗܟܢܐ ܐܦ ܫܡܝܢܐ",
+    "grego_sblgnt": "οἷος ὁ χοϊκός, τοιοῦτοι καὶ οἱ χοϊκοί, καὶ οἷος ὁ ἐπουράνιος, τοιοῦτοι καὶ οἱ ἐπουράνιοι·",
+    "pt_aa": "Qual o terreno, tais também os terrenos; e, qual o celestial, tais também os celestiais."
+   },
+   "49": {
+    "peshitta": "ܘܐܝܟ ܕܠܒܫܢ ܕܡܘܬܐ ܕܗܘ ܕܡܢ ܥܦܪܐ ܗܟܢܐ ܢܠܒܫ ܕܡܘܬܐ ܕܗܘ ܕܡܢ ܫܡܝܐ",
+    "grego_sblgnt": "καὶ καθὼς ἐφορέσαμεν τὴν εἰκόνα τοῦ χοϊκοῦ, ⸀φορέσομεν καὶ τὴν εἰκόνα τοῦ ἐπουρανίου.",
+    "pt_aa": "E, assim como trouxemos a imagem do terreno, traremos também a imagem do celestial."
+   },
+   "50": {
+    "peshitta": "ܗܕܐ ܕܝܢ ܐܡܪ ܐܢܐ ܐܚܝ ܕܒܣܪܐ ܘܕܡܐ ܡܠܟܘܬܐ ܕܫܡܝܐ ܠܡܐܪܬ ܠܐ ܡܫܟܚܝܢ ܘܠܐ ܚܒܠܐ ܝܪܬ ܠܐ ܡܬܚܒܠܢܘܬܐ",
+    "grego_sblgnt": "Τοῦτο δέ φημι, ἀδελφοί, ὅτι σὰρξ καὶ αἷμα βασιλείαν θεοῦ κληρονομῆσαι οὐ ⸀δύναται, οὐδὲ ἡ φθορὰ τὴν ἀφθαρσίαν κληρονομεῖ.",
+    "pt_aa": "Mas digo isto, irmãos, que carne e sangue não podem herdar o reino de Deus; nem a corrupção herda a incorrupção."
+   },
+   "51": {
+    "peshitta": "ܗܐ ܐܡܪ ܐܢܐ ܠܟܘܢ ܐܪܙܐ ܠܘ ܟܠܢ ܢܕܡܟ ܟܠܢ ܕܝܢ ܢܬܚܠܦ",
+    "grego_sblgnt": "ἰδοὺ μυστήριον ὑμῖν λέγω· ⸀πάντες οὐ κοιμηθησόμεθα πάντες δὲ ἀλλαγησόμεθα,",
+    "pt_aa": "Eis aqui vos digo um mistério: Nem todos dormiremos mas todos seremos transformados,"
+   },
+   "52": {
+    "peshitta": "ܚܪܝܦܐܝܬ ܐܝܟ ܪܦܦ ܥܝܢܐ ܒܩܪܢܐ ܐܚܪܝܬܐ ܟܕ ܬܩܪܐ ܘܢܩܘܡܘܢ ܡܝܬܐ ܕܠܐ ܚܒܠܐ ܘܚܢܢ ܢܬܚܠܦ",
+    "grego_sblgnt": "ἐν ἀτόμῳ, ἐν ῥιπῇ ὀφθαλμοῦ, ἐν τῇ ἐσχάτῃ σάλπιγγι· σαλπίσει γάρ, καὶ οἱ νεκροὶ ἐγερθήσονται ἄφθαρτοι, καὶ ἡμεῖς ἀλλαγησόμεθα.",
+    "pt_aa": "num momento, num abrir e fechar de olhos, ao som da última trombeta; porque a trombeta soará, e os mortos serão ressuscitados incorruptíveis, e nós seremos transformados."
+   },
+   "53": {
+    "peshitta": "ܥܬܝܕ ܗܘ ܓܝܪ ܗܢܐ ܕܡܬܚܒܠ ܕܢܠܒܫ ܠܐ ܡܬܚܒܠܢܘܬܐ ܘܗܢܐ ܕܡܐܬ ܕܢܠܒܫ ܠܐ ܡܝܘܬܘܬܐ",
+    "grego_sblgnt": "δεῖ γὰρ τὸ φθαρτὸν τοῦτο ἐνδύσασθαι ἀφθαρσίαν καὶ τὸ θνητὸν τοῦτο ἐνδύσασθαι ἀθανασίαν.",
+    "pt_aa": "Porque é necessário que isto que é corruptível se revista da incorruptibilidade e que isto que é mortal se revista da imortalidade."
+   },
+   "54": {
+    "peshitta": "ܡܐ ܕܠܒܫ ܕܝܢ ܗܢܐ ܕܡܬܚܒܠ ܠܐ ܡܬܚܒܠܢܘܬܐ ܘܗܢܐ ܕܡܐܬ ܠܐ ܡܝܘܬܘܬܐ ܗܝܕܝܢ ܬܗܘܐ ܡܠܬܐ ܗܝ ܕܟܬܝܒܐ ܕܐܬܒܠܥ ܡܘܬܐ ܒܙܟܘܬܐ",
+    "grego_sblgnt": "ὅταν δὲ τὸ ⸂φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ⸃ θνητὸν τοῦτο ἐνδύσηται ⸀ἀθανασίαν, τότε γενήσεται ὁ λόγος ὁ γεγραμμένος· Κατεπόθη ὁ θάνατος εἰς νῖκος.",
+    "pt_aa": "Mas, quando isto que é corruptível se revestir da incorruptibilidade, e isto que é mortal se revestir da imortalidade, então se cumprirá a palavra que está escrito: Tragada foi a morte na vitória."
+   },
+   "55": {
+    "peshitta": "ܐܝܟܘ ܥܘܩܣܟ ܡܘܬܐ ܐܘ ܐܝܟܐ ܗܝ ܙܟܘܬܟܝ ܫܝܘܠ",
+    "grego_sblgnt": "ποῦ σου, θάνατε, τὸ ⸂νῖκος; ποῦ σου, θάνατε, τὸ κέντρον⸃;",
+    "pt_aa": "Onde está, ó morte, a tua vitória? Onde está, ó morte, o teu aguilhão?"
+   },
+   "56": {
+    "peshitta": "ܥܘܩܣܗ ܕܝܢ ܕܡܘܬܐ ܚܛܝܬܐ ܗܝ ܘܚܝܠܐ ܕܚܛܝܬܐ ܢܡܘܣܐ ܗܘ",
+    "grego_sblgnt": "τὸ δὲ κέντρον τοῦ θανάτου ἡ ἁμαρτία, ἡ δὲ δύναμις τῆς ἁμαρτίας ὁ νόμος·",
+    "pt_aa": "O aguilhão da morte é o pecado, e a força do pecado é a lei."
+   },
+   "57": {
+    "peshitta": "ܛܝܒܘ ܕܝܢ ܠܐܠܗܐ ܕܝܗܒ ܠܢ ܙܟܘܬܐ ܒܝܕ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ",
+    "grego_sblgnt": "τῷ δὲ θεῷ χάρις τῷ διδόντι ἡμῖν τὸ νῖκος διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.",
+    "pt_aa": "Mas graça a Deus que nos dá a vitória por nosso Senhor Jesus Cristo."
+   },
+   "58": {
+    "peshitta": "ܡܟܝܠ ܐܚܝ ܘܚܒܝܒܝ ܗܘܘ ܡܫܪܪܝܢ ܘܠܐ ܬܗܘܘܢ ܡܬܙܝܥܝܢ ܐܠܐ ܗܘܘ ܡܬܝܬܪܝܢ ܒܟܠܙܒܢ ܒܥܒܕܗ ܕܡܪܝܐ ܟܕ ܝܕܥܝܢ ܐܢܬܘܢ ܕܥܡܠܟܘܢ ܠܐ ܗܘܐ ܣܪܝܩ ܒܡܪܝܐ",
+    "grego_sblgnt": "Ὥστε, ἀδελφοί μου ἀγαπητοί, ἑδραῖοι γίνεσθε, ἀμετακίνητοι, περισσεύοντες ἐν τῷ ἔργῳ τοῦ κυρίου πάντοτε, εἰδότες ὅτι ὁ κόπος ὑμῶν οὐκ ἔστιν κενὸς ἐν κυρίῳ.",
+    "pt_aa": "Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor."
+   }
+  },
+  "16": {
+   "1": {
+    "peshitta": "ܥܠ ܡܕܡ ܕܝܢ ܕܡܬܟܢܫ ܠܩܕܝܫܐ ܐܝܟܢܐ ܕܦܩܕܬ ܠܥܕܬܐ ܕܓܠܛܝܐ ܗܟܢܐ ܐܦ ܐܢܬܘܢ ܥܒܕܘ",
+    "grego_sblgnt": "Περὶ δὲ τῆς λογείας τῆς εἰς τοὺς ἁγίους, ὥσπερ διέταξα ταῖς ἐκκλησίαις τῆς Γαλατίας, οὕτως καὶ ὑμεῖς ποιήσατε.",
+    "pt_aa": "Ora, quanto à coleta para os santos fazei vós também o mesmo que ordenei às igrejas da Galiléia."
+   },
+   "2": {
+    "peshitta": "ܒܟܠ ܚܕ ܒܫܒܐ ܐܢܫ ܐܢܫ ܡܢܟܘܢ ܒܒܝܬܗ ܢܗܘܐ ܣܐܡ ܘܢܛܪ ܗܘ ܡܕܡ ܕܡܛܐ ܒܐܝܕܘܗܝ ܕܠܐ ܡܐ ܕܐܬܝܬ ܗܝܕܝܢ ܢܗܘܝܢ ܓܒܝܬܐ",
+    "grego_sblgnt": "κατὰ μίαν ⸀σαββάτου ἕκαστος ὑμῶν παρ’ ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ⸀ἐὰν εὐοδῶται, ἵνα μὴ ὅταν ἔλθω τότε λογεῖαι γίνωνται.",
+    "pt_aa": "No primeiro dia da semana cada um de vós ponha de parte o que puder, conforme tiver prosperado, guardando-o, para que se não façam coletas quando eu chegar."
+   },
+   "3": {
+    "peshitta": "ܘܡܐ ܕܐܬܝܬ ܠܐܝܠܝܢ ܕܓܒܝܢ ܐܢܬܘܢ ܠܗܘܢ ܐܫܕܪ ܒܐܓܪܬܐ ܕܢܘܒܠܘܢ ܛܝܒܘܬܟܘܢ ܠܐܘܪܫܠܡ",
+    "grego_sblgnt": "ὅταν δὲ παραγένωμαι, οὓς ⸀ἐὰν δοκιμάσητε δι’ ἐπιστολῶν, τούτους πέμψω ἀπενεγκεῖν τὴν χάριν ὑμῶν εἰς Ἰερουσαλήμ·",
+    "pt_aa": "E, quando tiver chegado, mandarei os que por carta aprovardes para levar a vossa dádiva a Jerusalém;"
+   },
+   "4": {
+    "peshitta": "ܐܢ ܕܝܢ ܫܘܐ ܗܘ ܣܘܥܪܢܐ ܕܐܦ ܐܢܐ ܐܙܠ ܥܡܝ ܢܐܙܠܘܢ",
+    "grego_sblgnt": "ἐὰν δὲ ⸂ἄξιον ᾖ⸃ τοῦ κἀμὲ πορεύεσθαι, σὺν ἐμοὶ πορεύσονται.",
+    "pt_aa": "mas, se valer a pena que eu também vá, irão comigo."
+   },
+   "5": {
+    "peshitta": "ܐܬܐ ܐܢܐ ܕܝܢ ܠܘܬܟܘܢ ܡܐ ܕܥܒܪܬ ܡܢ ܡܩܕܘܢܝܐ ܥܒܪ ܐܢܐ ܠܗ ܓܝܪ ܠܡܩܕܘܢܝܐ",
+    "grego_sblgnt": "Ἐλεύσομαι δὲ πρὸς ὑμᾶς ὅταν Μακεδονίαν διέλθω, Μακεδονίαν γὰρ διέρχομαι,",
+    "pt_aa": "Irei, porém, ter convosco depois de ter passado pela Macedônia, pois tenho de passar pela Macedônia;"
+   },
+   "6": {
+    "peshitta": "ܘܟܒܪ ܐܦ ܠܘܬܟܘܢ ܐܩܘܐ ܐܘ ܐܣܬܐ ܠܘܬܟܘܢ ܕܐܢܬܘܢ ܬܠܘܘܢܢܝ ܠܐܬܪ ܕܐܙܠ ܐܢܐ",
+    "grego_sblgnt": "πρὸς ὑμᾶς δὲ τυχὸν ⸀παραμενῶ ἢ ⸀καὶ παραχειμάσω, ἵνα ὑμεῖς με προπέμψητε οὗ ἐὰν πορεύωμαι.",
+    "pt_aa": "e talvez demore convosco algum tempo, ou mesmo passe o inverno, para que me encaminheis para onde quer que eu for."
+   },
+   "7": {
+    "peshitta": "ܠܐ ܓܝܪ ܨܒܐ ܐܢܐ ܕܗܫܐ ܐܝܟ ܥܒܪ ܐܘܪܚܐ ܐܚܙܝܟܘܢ ܡܣܒܪ ܐܢܐ ܓܝܪ ܕܐܘܚܪ ܙܒܢܐ ܠܘܬܟܘܢ ܐܢ ܡܪܝ ܡܦܣ ܠܝ",
+    "grego_sblgnt": "οὐ θέλω γὰρ ὑμᾶς ἄρτι ἐν παρόδῳ ἰδεῖν, ἐλπίζω ⸀γὰρ χρόνον τινὰ ἐπιμεῖναι πρὸς ὑμᾶς, ἐὰν ὁ κύριος ⸀ἐπιτρέψῃ.",
+    "pt_aa": "Pois não quero ver-vos desta vez apenas de passagem, antes espero ficar convosco algum tempo, se o Senhor o permitir."
+   },
+   "8": {
+    "peshitta": "ܡܩܘܐ ܐܢܐ ܕܝܢ ܒܐܦܣܘܣ ܥܕܡܐ ܠܦܢܛܩܘܣܛܐ",
+    "grego_sblgnt": "⸀ἐπιμενῶ δὲ ἐν Ἐφέσῳ ἕως τῆς πεντηκοστῆς·",
+    "pt_aa": "Ficarei, porém, em Éfeso até o Pentecostes;"
+   },
+   "9": {
+    "peshitta": "ܬܪܥܐ ܓܝܪ ܪܒܐ ܐܬܦܬܚ ܠܝ ܕܡܠܐ ܣܘܥܪܢܐ ܘܣܩܘܒܠܐ ܣܓܝܐܝܢ",
+    "grego_sblgnt": "θύρα γάρ μοι ἀνέῳγεν μεγάλη καὶ ἐνεργής, καὶ ἀντικείμενοι πολλοί.",
+    "pt_aa": "porque uma porta grande e eficaz se me abriu; e há muitos adversários."
+   },
+   "10": {
+    "peshitta": "ܐܢ ܕܝܢ ܢܐܬܐ ܨܐܕܝܟܘܢ ܛܝܡܬܐܘܣ ܚܙܘ ܕܕܠܐ ܕܚܠܐ ܢܗܘܐ ܠܘܬܟܘܢ ܥܒܕܐ ܓܝܪ ܕܡܪܝܐ ܦܠܚ ܐܟܘܬܝ",
+    "grego_sblgnt": "Ἐὰν δὲ ἔλθῃ Τιμόθεος, βλέπετε ἵνα ἀφόβως γένηται πρὸς ὑμᾶς, τὸ γὰρ ἔργον κυρίου ἐργάζεται ὡς ⸀κἀγώ·",
+    "pt_aa": "Ora, se Timóteo for, vede que esteja sem temor entre vós; porque trabalha na obra do Senhor, como eu também,"
+   },
+   "11": {
+    "peshitta": "ܠܡܐ ܗܟܝܠ ܐܢܫ ܢܫܘܛܝܘܗܝ ܐܠܐ ܠܘܐܘܗܝ ܒܫܠܡܐ ܕܢܐܬܐ ܠܘܬܝ ܡܩܘܐ ܐܢܐ ܠܗ ܓܝܪ ܥܡ ܐܚܐ",
+    "grego_sblgnt": "μή τις οὖν αὐτὸν ἐξουθενήσῃ. προπέμψατε δὲ αὐτὸν ἐν εἰρήνῃ, ἵνα ἔλθῃ πρός ⸀με, ἐκδέχομαι γὰρ αὐτὸν μετὰ τῶν ἀδελφῶν.",
+    "pt_aa": "Portanto ninguém o despreze; mas encaminhai-o em paz, para que venha ter comigo, pois o espero com os irmãos."
+   },
+   "12": {
+    "peshitta": "ܡܢ ܐܦܠܘ ܕܝܢ ܐܚܝ ܣܓܝ ܒܥܝܬ ܡܢܗ ܕܢܐܬܐ ܠܘܬܟܘܢ ܥܡ ܐܚܐ ܘܟܒܪ ܠܐ ܗܘܐ ܨܒܝܢܐ ܕܢܐܬܐ ܠܘܬܟܘܢ ܐܡܬܝ ܕܝܢ ܕܢܗܘܐ ܠܗ ܐܬܪܐ ܐܬܐ ܠܘܬܟܘܢ",
+    "grego_sblgnt": "Περὶ δὲ Ἀπολλῶ τοῦ ἀδελφοῦ, πολλὰ παρεκάλεσα αὐτὸν ἵνα ἔλθῃ πρὸς ὑμᾶς μετὰ τῶν ἀδελφῶν· καὶ πάντως οὐκ ἦν θέλημα ἵνα νῦν ἔλθῃ, ἐλεύσεται δὲ ὅταν εὐκαιρήσῃ.",
+    "pt_aa": "Quanto ao irmão Apolo, roguei-lhe muito que fosse com os irmãos ter convosco; mas de modo algum quis ir agora; irá porém, quando se lhe ofereça boa ocasião."
+   },
+   "13": {
+    "peshitta": "ܐܬܬܥܝܪܘ ܘܩܘܡܘ ܒܗܝܡܢܘܬܐ ܐܬܓܒܪܘ ܐܬܚܣܢܘ",
+    "grego_sblgnt": "Γρηγορεῖτε, στήκετε ἐν τῇ πίστει, ἀνδρίζεσθε, κραταιοῦσθε.",
+    "pt_aa": "Vigiai, estai firmes na fé, portai-vos varonilmente, sede fortes."
+   },
+   "14": {
+    "peshitta": "ܘܟܠܗܝܢ ܨܒܘܬܟܘܢ ܒܚܘܒܐ ܢܗܘܝܢ",
+    "grego_sblgnt": "πάντα ὑμῶν ἐν ἀγάπῃ γινέσθω.",
+    "pt_aa": "Todas as vossas obras sejam feitas em amor."
+   },
+   "15": {
+    "peshitta": "ܒܥܐ ܐܢܐ ܕܝܢ ܡܢܟܘܢ ܐܚܝ ܥܠ ܒܝܬܐ ܕܐܣܛܦܢܐ ܡܛܠ ܕܝܕܥܝܢ ܐܢܬܘܢ ܕܗܢܘܢ ܐܢܘܢ ܪܫܝܬܐ ܕܐܟܐܝܐ ܘܣܡܘ ܢܦܫܗܘܢ ܠܬܫܡܫܬܐ ܕܩܕܝܫܐ",
+    "grego_sblgnt": "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί· οἴδατε τὴν οἰκίαν Στεφανᾶ, ὅτι ἐστὶν ἀπαρχὴ τῆς Ἀχαΐας καὶ εἰς διακονίαν τοῖς ἁγίοις ἔταξαν ἑαυτούς·",
+    "pt_aa": "Agora vos rogo, irmãos-pois sabeis que a família de Estéfanas é as primícias da Acaía, e que se tem dedicado ao ministério dos santos-"
+   },
+   "16": {
+    "peshitta": "ܕܐܦ ܐܢܬܘܢ ܬܗܘܘܢ ܡܫܬܡܥܝܢ ܠܐܝܠܝܢ ܕܗܟܢܐ ܐܢܘܢ ܘܠܟܠܢܫ ܕܠܐܐ ܥܡܢ ܘܡܥܕܪ",
+    "grego_sblgnt": "ἵνα καὶ ὑμεῖς ὑποτάσσησθε τοῖς τοιούτοις καὶ παντὶ τῷ συνεργοῦντι καὶ κοπιῶντι.",
+    "pt_aa": "que também vos sujeiteis aos tais, e a todo aquele que auxilia na obra e trabalha."
+   },
+   "17": {
+    "peshitta": "ܚܕܐ ܐܢܐ ܕܝܢ ܒܡܐܬܝܬܗ ܕܐܣܛܦܢܐ ܘܕܦܪܛܘܢܛܘܣ ܘܕܐܟܐܝܩܘܣ ܕܡܕܡ ܕܒܨܪܬܘܢ ܠܘܬܝ ܗܢܘܢ ܡܠܝܘ",
+    "grego_sblgnt": "χαίρω δὲ ἐπὶ τῇ παρουσίᾳ Στεφανᾶ καὶ Φορτουνάτου καὶ Ἀχαϊκοῦ, ὅτι τὸ ⸀ὑμέτερον ὑστέρημα οὗτοι ἀνεπλήρωσαν,",
+    "pt_aa": "Regozijo-me com a vinda de Estéfanas, de Fortunato e de Acaico; porque estes supriram o que da vossa parte me faltava."
+   },
+   "18": {
+    "peshitta": "ܐܢܝܚܘ ܓܝܪ ܪܘܚܝ ܕܝܠܝ ܘܕܝܠܟܘܢ ܗܘܝܬܘܢ ܗܟܝܠ ܡܫܬܘܕܥܝܢ ܠܐܝܠܝܢ ܕܗܟܢܐ ܐܢܘܢ",
+    "grego_sblgnt": "ἀνέπαυσαν γὰρ τὸ ἐμὸν πνεῦμα καὶ τὸ ὑμῶν. ἐπιγινώσκετε οὖν τοὺς τοιούτους.",
+    "pt_aa": "Porque recrearam o meu espírito assim como o vosso. Reconhecei, pois, aos tais."
+   },
+   "19": {
+    "peshitta": "ܫܐܠܢ ܒܫܠܡܟܘܢ ܥܕܬܐ ܟܠܗܝܢ ܕܒܐܣܝܐ ܫܐܠܝܢ ܒܫܠܡܟܘܢ ܣܓܝ ܒܡܪܢ ܐܩܠܘܣ ܘܦܪܝܣܩܠܐ ܥܡ ܥܕܬܐ ܕܒܒܝܬܗܘܢ",
+    "grego_sblgnt": "Ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι τῆς Ἀσίας. ⸀ἀσπάζεται ὑμᾶς ἐν κυρίῳ πολλὰ Ἀκύλας καὶ ⸀Πρίσκα σὺν τῇ κατ’ οἶκον αὐτῶν ἐκκλησίᾳ.",
+    "pt_aa": "As igrejas da Ásia vos saúdam. Saúdam-vos afetuosamente no Senhor Aqüila e Prisca, com a igreja que está em sua casa."
+   },
+   "20": {
+    "peshitta": "ܫܐܠܝܢ ܒܫܠܡܟܘܢ ܐܚܝܢ ܟܠܗܘܢ ܫܐܠܘ ܒܫܠܡܐ ܚܕ ܕܚܕ ܒܢܘܫܩܬܐ ܩܕܝܫܬܐ",
+    "grego_sblgnt": "ἀσπάζονται ὑμᾶς οἱ ἀδελφοὶ πάντες. ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ.",
+    "pt_aa": "Todos os irmãos vos saúdam. Saudai-vos uns aos outros com ósculo santo."
+   },
+   "21": {
+    "peshitta": "ܫܠܡܐ ܒܟܬܒܬ ܐܝܕܐ ܕܝܠܝ ܕܦܘܠܘܣ",
+    "grego_sblgnt": "Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου.",
+    "pt_aa": "Esta saudação é de meu próprio punho, Paulo."
+   },
+   "22": {
+    "peshitta": "ܡܢ ܕܠܐ ܪܚܡ ܠܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܢܗܘܐ ܚܪܡ ܡܪܢ ܐܬܐ",
+    "grego_sblgnt": "εἴ τις οὐ φιλεῖ τὸν ⸀κύριον, ἤτω ἀνάθεμα. ⸂Μαράνα θά⸃.",
+    "pt_aa": "Se alguém não ama ao Senhor, seja anátema! Maranata."
+   },
+   "23": {
+    "peshitta": "ܛܝܒܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡܟܘܢ",
+    "grego_sblgnt": "ἡ χάρις τοῦ κυρίου ⸀Ἰησοῦ μεθ’ ὑμῶν.",
+    "pt_aa": "A graça do Senhor Jesus seja convosco."
+   },
+   "24": {
+    "peshitta": "ܘܚܘܒܝ ܥܡ ܟܠܟܘܢ ܒܡܫܝܚܐ ܝܫܘܥ",
+    "grego_sblgnt": "ἡ ἀγάπη μου μετὰ πάντων ὑμῶν ἐν Χριστῷ ⸀Ἰησοῦ.",
+    "pt_aa": "O meu amor seja com todos vós em Cristo Jesus."
+   }
+  }
+ },
+ "estatisticas": {
+  "capitulos": 16,
+  "versiculos": 437,
+  "palavras_hebraico": 0
+ }
+}

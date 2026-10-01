@@ -1,0 +1,81 @@
+{
+ "livro": "3 João",
+ "slug": "3joao",
+ "nome_hebraico": "יוֹחָנָן ג׳",
+ "ordem": 64,
+ "testamento": "NT",
+ "grupo": "Cartas Gerais",
+ "fontes": [
+  "portugues_aa",
+  "grego_sblgnt"
+ ],
+ "capitulos": {
+  "1": {
+   "1": {
+    "grego_sblgnt": "Ὁ πρεσβύτερος Γαΐῳ τῷ ἀγαπητῷ, ὃν ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ.",
+    "pt_aa": "O ancião ao amado Gaio, a quem eu amo em verdade."
+   },
+   "2": {
+    "grego_sblgnt": "Ἀγαπητέ, περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν, καθὼς εὐοδοῦταί σου ἡ ψυχή.",
+    "pt_aa": "Amado, desejo que te vá bem em todas as coisas, e que tenhas saúde, assim como bem vai à tua alma."
+   },
+   "3": {
+    "grego_sblgnt": "ἐχάρην γὰρ λίαν ἐρχομένων ἀδελφῶν καὶ μαρτυρούντων σου τῇ ἀληθείᾳ, καθὼς σὺ ἐν ἀληθείᾳ περιπατεῖς.",
+    "pt_aa": "Porque muito me alegrei quando os irmãos vieram e testificaram da tua verdade, como tu andas na verdade."
+   },
+   "4": {
+    "grego_sblgnt": "μειζοτέραν τούτων οὐκ ἔχω ⸀χαράν, ἵνα ἀκούω τὰ ἐμὰ τέκνα ἐν ⸀τῇ ἀληθείᾳ περιπατοῦντα.",
+    "pt_aa": "Não tenho maior gozo do que este: o de ouvir que os meus filhos andam na verdade."
+   },
+   "5": {
+    "grego_sblgnt": "Ἀγαπητέ, πιστὸν ποιεῖς ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ ⸀τοῦτο ξένους,",
+    "pt_aa": "Amado, procedes fielmente em tudo o que fazes para com os irmãos, especialmente para com os estranhos,"
+   },
+   "6": {
+    "grego_sblgnt": "οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ ἐνώπιον ἐκκλησίας, οὓς καλῶς ποιήσεις προπέμψας ἀξίως τοῦ θεοῦ·",
+    "pt_aa": "os quais diante da igreja testificaram do teu amor; aos quais, se os encaminhares na sua viagem de um modo digno de Deus, bem farás;"
+   },
+   "7": {
+    "grego_sblgnt": "ὑπὲρ γὰρ τοῦ ὀνόματος ἐξῆλθον μηδὲν λαμβάνοντες ἀπὸ τῶν ⸀ἐθνικῶν.",
+    "pt_aa": "porque por amor do Nome saíram, sem nada aceitar dos gentios."
+   },
+   "8": {
+    "grego_sblgnt": "ἡμεῖς οὖν ὀφείλομεν ⸀ὑπολαμβάνειν τοὺς τοιούτους, ἵνα συνεργοὶ γινώμεθα τῇ ἀληθείᾳ.",
+    "pt_aa": "Portanto aos tais devemos acolher, para que sejamos cooperadores da verdade."
+   },
+   "9": {
+    "grego_sblgnt": "Ἔγραψά ⸀τι τῇ ἐκκλησίᾳ· ἀλλ’ ὁ φιλοπρωτεύων αὐτῶν Διοτρέφης οὐκ ἐπιδέχεται ἡμᾶς.",
+    "pt_aa": "Escrevi alguma coisa à igreja; mas Diótrefes, que gosta de ter entre eles a primazia, não nos recebe."
+   },
+   "10": {
+    "grego_sblgnt": "διὰ τοῦτο, ἐὰν ἔλθω, ὑπομνήσω αὐτοῦ τὰ ἔργα ἃ ποιεῖ, λόγοις πονηροῖς φλυαρῶν ἡμᾶς, καὶ μὴ ἀρκούμενος ἐπὶ τούτοις οὔτε αὐτὸς ἐπιδέχεται τοὺς ἀδελφοὺς καὶ τοὺς βουλομένους κωλύει καὶ ἐκ τῆς ἐκκλησίας ἐκβάλλει.",
+    "pt_aa": "Pelo que, se eu aí for, trarei à memória as obras que ele faz, proferindo contra nós palavras maliciosas; e, não contente com isto, ele não somente deixa de receber os irmãos, mas aos que os querem receber ele proíbe de o fazerem e ainda os exclui da igreja."
+   },
+   "11": {
+    "grego_sblgnt": "Ἀγαπητέ, μὴ μιμοῦ τὸ κακὸν ἀλλὰ τὸ ἀγαθόν. ὁ ἀγαθοποιῶν ἐκ τοῦ θεοῦ ἐστιν· ὁ κακοποιῶν οὐχ ἑώρακεν τὸν θεόν.",
+    "pt_aa": "Amado, não imites o mal, mas o bem. Quem faz o bem é de Deus; mas quem faz o mal não tem visto a Deus."
+   },
+   "12": {
+    "grego_sblgnt": "Δημητρίῳ μεμαρτύρηται ὑπὸ πάντων καὶ ὑπὸ αὐτῆς τῆς ἀληθείας· καὶ ἡμεῖς δὲ μαρτυροῦμεν, καὶ ⸀οἶδας ὅτι ἡ μαρτυρία ἡμῶν ἀληθής ἐστιν.",
+    "pt_aa": "De Demétrio, porém, todos, e até a própria verdade, dão testemunho; e nós também damos testemunho; e sabes que o nosso testemunho é verdadeiro."
+   },
+   "13": {
+    "grego_sblgnt": "Πολλὰ εἶχον ⸂γράψαι σοι⸃, ἀλλ’ οὐ θέλω διὰ μέλανος καὶ καλάμου σοι ⸀γράφειν·",
+    "pt_aa": "Tinha eu muitas coisas que te escrever, mas não o quero fazer com tinta e pena."
+   },
+   "14": {
+    "grego_sblgnt": "ἐλπίζω δὲ εὐθέως ⸂σε ἰδεῖν⸃, καὶ στόμα πρὸς στόμα λαλήσομεν.",
+    "pt_aa": "Espero, porém, ver-te brevemente, e falaremos face a face."
+   },
+   "15": {
+    "grego_sblgnt": "Εἰρήνη σοι. ἀσπάζονταί σε οἱ φίλοι. ἀσπάζου τοὺς φίλους κατ’ ὄνομα.",
+    "pt_aa": "Paz seja contigo. Os amigos te saúdam. Saúda os amigos nominalmente."
+   }
+  }
+ },
+ "estatisticas": {
+  "capitulos": 1,
+  "versiculos": 15,
+  "palavras_hebraico": 0
+ }
+}
