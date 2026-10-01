@@ -4,7 +4,7 @@
   "frames_por_episodio": 12,
   "segundos_por_frame": 5,
   "duracao_episodio_segundos": 60,
-  "formato": "16:9 (3840x2160) e 9:16 (2160x3840)",
+  "formato": "16:9 (3840x2160) — sempre horizontal",
   "prompts_por_frame": [
    "imagem",
    "video"

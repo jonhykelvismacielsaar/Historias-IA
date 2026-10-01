@@ -408,7 +408,7 @@ def planejar():
             "frames_por_episodio": FRAMES_POR_EPISODIO,
             "segundos_por_frame": SEGUNDOS_POR_FRAME,
             "duracao_episodio_segundos": FRAMES_POR_EPISODIO * SEGUNDOS_POR_FRAME,
-            "formato": "16:9 (3840x2160) e 9:16 (2160x3840)",
+            "formato": "16:9 (3840x2160) — sempre horizontal",
             "prompts_por_frame": ["imagem", "video"],
         },
         "totais": {

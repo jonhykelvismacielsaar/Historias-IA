@@ -25,8 +25,7 @@
   "segundos_por_frame": 5,
   "duracao_total_s": 60,
   "proporcoes": [
-   "16:9 (3840x2160) — principal",
-   "9:16 (2160x3840) — Shorts/Reels/TikTok"
+   "16:9 (3840x2160) — formato único, sempre horizontal"
   ],
   "fps": 24,
   "estilo_base_imagem_en": "Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark",
@@ -73,7 +72,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Escuridão absoluta e infinita, sem horizonte nem chão. Apenas um negror profundo que parece vivo e atento, com um quase imperceptível tom azul-escuro no limite da visão."
    },
@@ -130,7 +129,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Uma centelha minúscula e dourada pulsa no centro exato do vazio negro infinito: a primeira vontade. Ondas concêntricas escuras se espalham ao redor."
    },
@@ -187,7 +186,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O Big Bang: explosão ofuscante de luz branca irrompendo de um ponto único, jatos de plasma incandescente e tinta bruta lançados como tinta atirada numa tela enorme. Filamentos dourados, carmesim e azul-elétrico."
    },
@@ -245,7 +244,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Galáxias espirais se formando do caos esfriado, redemoinhos imensos de estrelas e nebulosas coloridas como tinta mexida na água; milhares de galáxias ao fundo."
    },
@@ -302,7 +301,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "A Terra primordial antes da forma: planeta de águas negras revoltas, vapores densos sobre um abismo insondável, sem terra e sem forma. Vazio profundo e silencioso."
    },
@@ -360,7 +359,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Um vento luminoso paira sobre as águas primordiais: presença invisível que se percebe pelo vapor que gira e pela água que ondula. Luz dourada presa na névoa que se move."
    },
@@ -417,7 +416,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "A primeira aparição do pincel: grande, de madeira, flutuando na diagonal sobre a água escura, cerdas carregadas de tinta dourada e azul, pingando devagar. Um traço ousado de tinta fresca brilha no canto superior da tela."
    },
@@ -475,7 +474,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Um traço colosal de luz dourada líquida rasga a tela negra: a primeira luz sendo pintada. O pincel completa o movimento no meio do quadro, e gotas de luz respingam."
    },
@@ -532,7 +531,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Luz e trevas se separando como duas tintas que não se misturam: metade dourada, metade índigo e prata, com o pincel flutuando exatamente na fronteira. O primeiro dia e a primeira noite."
    },
@@ -589,7 +588,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Uma abóbada translúcida de céu sendo pintada entre dois oceanos: um embaixo, outro suspenso sobre a cabeça como teto de vidro líquido. O pincel alisa o interior da cúpula."
    },
@@ -646,7 +645,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "As águas se ajuntam num só lugar e a terra seca emerge, ainda molhada e brilhante: rochas escuras e areia nova fumegando na luz. O pincel traça a linha da praia."
    },
@@ -703,7 +702,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "A terra explode em vida verde: relva que se desenrola das pinceladas, ervas com semente e árvores frutíferas crescendo em movimento orgânico, flores abrindo e frutos amadurecendo. O pincel deixa um rastro verde que brota atrás dele."
    },

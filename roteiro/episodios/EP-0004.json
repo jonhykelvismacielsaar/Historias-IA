@@ -18,8 +18,7 @@
   "segundos_por_frame": 5,
   "duracao_total_s": 60,
   "proporcoes": [
-   "16:9 (3840x2160) — principal",
-   "9:16 (2160x3840) — Shorts/Reels/TikTok"
+   "16:9 (3840x2160) — formato único, sempre horizontal"
   ],
   "fps": 24,
   "estilo_base_imagem_en": "Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark",
@@ -68,7 +67,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Planície cheia de animais recém-pintados, todos ainda brilhantes e vivos: feras, gado e pequenos répteis no capim, cada um com seu próprio desenho. O pincel paira sobre todos, pequeno no quadro, e o olho de cada criatura pega a luz."
    },
@@ -127,7 +126,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel congelado no ar, carregado de tinta quente na ponta, pairando sobre um pedaço de tela ainda crua e vazia — a única área não pintada do mundo inteiro. Toda a criação ao redor prende a respiração; uma gota pesada incha na ponta sem cair."
    },
@@ -186,7 +185,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel faz um gesto horizontal amplo sobre toda a composição e, conforme passa, cada ordem da criação se apresenta em fila: peixes na superfície, aves pairando, gado e feras lado a lado, pequenas criaturas no meio. A área crua da tela continua no centro, intocada, esperando aquele que vai governar tudo isso."
    },
@@ -245,7 +244,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "A pincelada mais cuidadosa de todo o filme: um traço fino e terno sobre a tela crua, que floresce num rosto e num corpo humano tomando forma na tinta úmida. O pincel se move com reverência, como quem pinta algo que ama."
    },
@@ -304,7 +303,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Duas figuras humanas lado a lado na terra recém-pintada, ambas formadas do mesmo pigmento úmido, ambas carregando a mesma luz no rosto. Elas se viram e se olham pela primeira vez. O pincel paira atrás delas, recém-terminado o segundo traço."
    },
@@ -363,7 +362,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel faz um gesto largo de bênção sobre os dois humanos, deixando luz que se assenta sobre suas cabeças e mãos; o mundo criado inteiro parece se inclinar na direção deles: peixes saltando, aves descendo, manadas virando-se para eles."
    },
@@ -422,7 +421,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Abundância de plantas com semente e árvores frutíferas oferecidas aos dois humanos, como se fossem pintadas diretamente em suas mãos abertas: trigo, figos, uvas. O pincel pinga cor após cor e cada pincelada incha num fruto real e pesado. O suco pega a luz na superfície."
    },
@@ -481,7 +480,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel passa baixo, rente ao chão, e deixa um tapete de plantas verdes se espalhando atrás dele. Conforme o verde os alcança, cada animal baixa a cabeça para comer: gado, feras, até os menores répteis, e aves descendo do ar para ciscar entre o capim. Insetos se movem entre os caules."
    },
@@ -540,7 +539,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Recuo enorme revelando a pintura inteira da criação num só quadro: o cosmos, o mar, o céu, os animais, o jardim e os dois humanos no centro, tudo coerente e vivo, como uma só pintura a óleo numa tela gigante. O pincel flutua longe, na borda extrema, agora minúsculo."
    },
@@ -599,7 +598,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel limpa as cerdas na borda da tela enorme, num gesto pequeno e quase humano, deixando um borrão de pigmento misturado na borda. Atrás dele, a criação inteira está completa. Uma gota de tinta sobra e cai no vazio além da moldura."
    },
@@ -658,7 +657,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel se afasta devagar da tela terminada e para, imóvel, em quietude total. A pintura está pronta e viva, mas perfeitamente calma. Um azul profundo se assenta sobre tudo e uma quietude sagrada preenche o espaço entre o pincel e a pintura."
    },
@@ -717,7 +716,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel traça a sétima e última linha dourada no rodapé; então, com as sete linhas completas e brilhando em fila perfeita, o pincel baixa e pousa sobre o linho cru, com as cerdas ainda molhadas. A pintura terminada brilha atrás dele, viva e completa, preenchendo todo o quadro. A imagem final é a criação inteira como uma só pintura a óleo."
    },

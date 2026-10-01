@@ -46,7 +46,7 @@ A pasta `prompts/` traz, para cada episódio, **uma folha pronta em `.md` e `.tx
 1. 🎙️ **A FALA da voz de Deus em PT-BR** (e o texto bíblico do versículo)
 2. 🖼️ **PROMPT DE IMAGEM** (inglês) + parâmetros do Midjourney + negative prompt
 3. 🎬 **PROMPT DE VÍDEO para o Seedance 1.5 Pro** — com a fala entre aspas dentro dele, para o vídeo sair **já com a voz e o som**
-4. ⚙️ Ajustes (`5 s`, `16:9`/`9:16`, `720p→1080p`, `generate_audio: ON`) — **sem legendas: o vídeo não leva nenhum texto na tela**
+4. ⚙️ Ajustes (`5 s`, `16:9` horizontal, `720p→1080p`, `generate_audio: ON`) — **sem legendas: o vídeo não leva nenhum texto na tela**
 
 O prompt de vídeo segue as **4 camadas** que o Seedance 1.5 Pro entende: cena e ação → diálogo (com locutor, idioma e tom) → som ambiente e efeitos → estilo e câmera. A voz é sempre **em off** (Deus não aparece), então não há boca para sincronizar; quando houver fala de personagem humano, o script acrescenta a marcação de lip-sync.
 
@@ -84,7 +84,7 @@ Exemplo real (EP-0002, frame 3 — "Haja Luz"):
 }
 ```
 
-Proporções: **16:9 (3840×2160)** principal e **9:16 (2160×3840)** para Shorts/Reels/TikTok.
+Formato: **16:9 (3840×2160), horizontal** — formato único da série, sem versão vertical.
 
 ---
 

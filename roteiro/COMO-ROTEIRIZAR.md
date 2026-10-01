@@ -86,7 +86,7 @@ empasto, chiaroscuro, 8k, masterpiece]. [PINCEL: pincel de madeira flutuando com
 * **Sempre** com a frase do pincel — é a assinatura visual da série.
 * **Nunca** descrever Deus, nenhum rosto divino, nenhuma figura celeste humana.
   O pincel faz o papel da presença de Deus.
-* Proporções: gerar **16:9 (3840×2160)** e depois a versão **9:16 (2160×3840)** para Shorts/Reels.
+* Proporção: **sempre 16:9 (3840×2160)**, horizontal. Não gerar versão vertical.
 
 ### Prompt de vídeo (inglês)
 
@@ -163,7 +163,7 @@ Duration 5 seconds.
 - [ ] `nota_producao` preenchida onde houver variante textual
 - [ ] prompt de imagem em inglês, com a cláusula do pincel
 - [ ] prompt de vídeo com **uma** ação clara e o movimento de câmera
-- [ ] versão 9:16 gerada além da 16:9
+- [ ] formato 16:9 horizontal (sem versão vertical)
 - [ ] **nenhuma legenda e nenhum texto na tela** — a voz e a imagem contam a história
 - [ ] continuidade de paleta com o frame anterior
 

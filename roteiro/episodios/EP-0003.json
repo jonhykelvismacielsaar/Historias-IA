@@ -18,8 +18,7 @@
   "segundos_por_frame": 5,
   "duracao_total_s": 60,
   "proporcoes": [
-   "16:9 (3840x2160) — principal",
-   "9:16 (2160x3840) — Shorts/Reels/TikTok"
+   "16:9 (3840x2160) — formato único, sempre horizontal"
   ],
   "fps": 24,
   "estilo_base_imagem_en": "Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark",
@@ -68,7 +67,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "A colina do terceiro dia ao anoitecer, tinta fresca que acabou de secar e virar realidade. O pincel paira baixo na borda inferior, onde três linhas douradas já brilham."
    },
@@ -127,7 +126,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel descreve um círculo largo no alto da abóbada e deixa um anel em chamas que se torna sol; ao lado, um traço menor brilha em prata. Os dois luminares jogam luz real sobre a terra pintada."
    },
@@ -187,7 +186,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel traça no céu o arco do caminho do sol e, depois, as fases da lua como contas de prata. Embaixo, a terra pintada começa a marcar o tempo: sombras, marés, um calendário escrito em luz."
    },
@@ -246,7 +245,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel termina o grande luminar: um sol colossal, com a tinta ainda girando nas bordas, dominando o alto da tela. Ao lado, menor e mais frio, a lua de prata. O céu é metade dia e metade noite."
    },
@@ -305,7 +304,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Close extremo da ponta do pincel batendo no céu escuro repetidas vezes: cada toque deixa uma gota de tinta branca que acende e vira estrela. Camadas de estrelas formam a Via Láctea; as cerdas brilham com pigmento branco."
    },
@@ -364,7 +363,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel empurra o sol e a lua até a posição final na cúpula, como quem pendura dois quadros na parede. Os luminares se assentam e a luz cai em duas colunas limpas, uma de ouro e uma de prata."
    },
@@ -424,7 +423,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Vista ampla do mundo pintado sob dia e noite alternados: metade em ouro, metade em prata com estrelas, e o pincel traçando a fronteira luminosa. Depois ele desce e acrescenta a quarta linha dourada, junto das outras três."
    },
@@ -483,7 +482,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel mergulha no oceano pintado e onde as cerdas tocam a água a tinta ganha vida: cardumes irrompem de pinceladas turquesa e prata, um oceano vivo fervilhando. No mesmo gesto, o pincel sobe e os traços úmidos do céu viram aves em formação."
    },
@@ -543,7 +542,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Criaturas marinhas colossais sobem das profundezas pintadas: baleias imensas e leviatãs primevos com a pele molhada brilhando como tinta fresca, passando com majestade lenta perto do pequeno pincel flutuante. Nada de monstruoso: apenas grandeza."
    },
@@ -602,7 +601,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel faz um gesto lento de bênção sobre o mar e o céu, deixando para trás não tinta, mas luz cintilante que cai sobre as criaturas. Onde a luz toca, peixes se multiplicam em nuvens de prata e aves se espalham pelo horizonte."
    },
@@ -661,7 +660,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Plano amplo e sereno do mar e do céu criados ao fim do quinto dia, tudo ainda brilhando e vivo. O pincel desce e traça a quinta linha dourada no rodapé, junto das quatro anteriores, que brilham em fila."
    },
@@ -720,7 +719,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel corre baixo pela terra pintada e deixa rastros de patas e cascos que incham e viram animais vivos: gado pastando, répteis deslizando no capim, feras grandes sacudindo a tinta úmida ao se levantar. O chão fumega com pigmento fresco."
    },

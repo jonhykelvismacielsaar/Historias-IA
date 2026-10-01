@@ -19,8 +19,7 @@
   "segundos_por_frame": 5,
   "duracao_total_s": 60,
   "proporcoes": [
-   "16:9 (3840x2160) — principal",
-   "9:16 (2160x3840) — Shorts/Reels/TikTok"
+   "16:9 (3840x2160) — formato único, sempre horizontal"
   ],
   "fps": 24,
   "estilo_base_imagem_en": "Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark",
@@ -69,7 +68,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Tela de linho crua e infinita; o pincel desce e no primeiro toque nasce o cosmos — horizonte curvo da terra embaixo e céu de estrelas em cima, ambos ainda molhados e brilhantes."
    },
@@ -128,7 +127,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "A terra recém-pintada ainda informe: oceano escuro revolto, sem costas, vapor subindo em espirais. O pincel paira imóvel e uma gota de tinta azul-negra incha na ponta."
    },
@@ -187,7 +186,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel mergulha em tinta de ouro e dá uma única pincelada na tela negra. O traço não ilumina a pintura: ele é a luz, irradiando iluminação real. A escuridão recua dos dois lados."
    },
@@ -246,7 +245,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel se afasta como um pintor admirando a própria obra; o campo dourado e o índigo se separam numa linha limpa e líquida, com pequenos redemoinhos na fronteira."
    },
@@ -304,7 +303,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel nomeia os dois reinos: de um lado o dia dourado com nuvens iluminadas, do outro a noite índigo cheia de estrelas. Depois desce e pinta uma fina linha dourada na borda inferior da tela."
    },
@@ -363,7 +362,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel começa a erguer uma abóbada translúcida no meio das águas: oceano embaixo, oceano suspenso em cima como teto de vidro líquido. A borda ainda inacabada mostra a tela crua."
    },
@@ -422,7 +421,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "A cúpula se completa com uma pincelada longa e firme, selando os dois oceanos para sempre. A chuva começa a condensar embaixo da água superior e cai lentamente em lençóis."
    },
@@ -481,7 +480,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Céu azul perfeito visto de dentro da cúpula, nuvens atravessando a abóbada como pinceladas. O pincel descansa sobre o céu e depois traça a segunda linha dourada no rodapé, ao lado da primeira."
    },
@@ -540,7 +539,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel varre o oceano inferior e ordena que as águas se ajuntem; o mar recua em ondas lentas revelando rocha escura molhada, planícies novas e vales fumegantes. A terra seca emerge brilhante."
    },
@@ -599,7 +598,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Costa formada: rocha verde-escura encontrando o mar azul, poças de maré como espelhos líquidos; o pincel paira sobre o ponto onde terra e água se encontram, nomeando ambos. Ondas pequenas quebram em pedras negras molhadas."
    },
@@ -658,7 +657,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "O pincel corre pela terra deixando rastros verdes que brotam em vegetação real: relva se desenrolando, ervas com semente se erguendo, árvores frutíferas virando copas inteiras em segundos. Pólen dourado flutua na luz."
    },
@@ -717,7 +716,7 @@
      "stylize": 250,
      "style": "raw",
      "chaos": 0,
-     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"
+     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."
     },
     "prompt_pt_para_revisao": "Colina florida e carregada de frutos, vista de longe; o pincel paira alto como um pintor que recuou para contemplar a obra. No rodapé da tela, ele acrescenta a terceira linha dourada do dia, junto das duas anteriores."
    },

@@ -282,7 +282,7 @@ def montar_prompt_imagem(frame: dict) -> str:
         ESTILO_IMAGEM_EN + ".",
         pincel + ".",
         f"Lighting and mood: {luz}.",
-        "Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.",
+        "Aspect ratio 16:9 horizontal widescreen, composition leaving clean negative space at the bottom for a golden day-line.",
     ]
     return " ".join(partes)
 
@@ -385,7 +385,7 @@ def folha_do_episodio(caminho: str) -> tuple:
         "a imagem e a voz contam a história sozinhas.")
     add("")
     add("**Ajustes recomendados no Seedance 1.5 Pro:** duração `5` (inteiro, de 4 a 12) · proporção `16:9` "
-        "(gere também `9:16` para Shorts/Reels) · resolução `720p` para teste e `1080p` para o final · "
+        "**(sempre horizontal — não gerar vertical)** · resolução `720p` para teste e `1080p` para o final · "
         "`generate_audio` **LIGADO** · `camera_fixed` desligado.")
     add("")
     add("> Se a voz sair abafada pela música, gere com a música em volume mínimo — a trilha completa "
@@ -420,7 +420,7 @@ def folha_do_episodio(caminho: str) -> tuple:
         add("```")
         add("")
         add("*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` "
-            "· versão vertical para Shorts: `--ar 9:16`")
+            "(sempre horizontal)")
         add("")
         add("**Evitar (negative prompt):**")
         add("")
@@ -434,7 +434,7 @@ def folha_do_episodio(caminho: str) -> tuple:
         add(montar_prompt_video(fr))
         add("```")
         add("")
-        cfg = "`5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`"
+        cfg = "`5 s` · `16:9` horizontal · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`"
         add(f"⚙️ **Ajustes:** {cfg}")
         add("")
         if fr.get("nota_producao"):

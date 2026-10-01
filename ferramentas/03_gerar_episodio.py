@@ -197,7 +197,7 @@ def montar_episodio(numero: str, corpus: dict, indice: dict) -> dict:
                 "negative_prompt_en": prompt_imagem_neg,
                 "parametros": f.get("parametros_imagem",
                     {"aspect_ratio": "16:9", "resolucao": "3840x2160", "stylize": 250, "style": "raw", "chaos": 0,
-                     "variacao": "16:9 principal; gerar também 9:16 (2160x3840) para Shorts/Reels/TikTok"}),
+                     "variacao": "Sempre 16:9 horizontal (3840x2160). Não gerar versão vertical."}),
                 "prompt_pt_para_revisao": f.get("imagem_pt_revisao", ""),
             },
             "prompt_video": {
@@ -241,7 +241,7 @@ def montar_episodio(numero: str, corpus: dict, indice: dict) -> dict:
             "frames": n_frames,
             "segundos_por_frame": SEGUNDOS_POR_FRAME,
             "duracao_total_s": n_frames * SEGUNDOS_POR_FRAME,
-            "proporcoes": ["16:9 (3840x2160) — principal", "9:16 (2160x3840) — Shorts/Reels/TikTok"],
+            "proporcoes": ["16:9 (3840x2160) — formato único, sempre horizontal"],
             "fps": 24,
             "estilo_base_imagem_en": ESTILO_BASE_EN,
             "estilo_base_video_en": ESTILO_VIDEO_BASE_EN,
