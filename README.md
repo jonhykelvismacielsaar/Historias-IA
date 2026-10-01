@@ -31,12 +31,12 @@ Projeto que transforma **a Bíblia inteira** em uma série de episódios de 60 s
 | ✅ Plano completo dos 3.466 episódios | `roteiro/indice_episodios.json` · `roteiro/plano_episodios.csv` |
 | ✅ Índice geral legível | `roteiro/INDICE-GERAL.md` |
 | ✅ Plano da Temporada Extra (69 obras) | `roteiro/INDICE-TEMPORADA-EXTRA.md` |
-| ✅ **Episódio 0 (Prelúdio) pronto em JSON** | `roteiro/episodios/EP-0001.json` |
-| ✅ **Episódio 1 (Gênesis 1:1-12) pronto em JSON** | `roteiro/episodios/EP-0002.json` |
+| ✅ **Os 4 primeiros episódios prontos em JSON** (Prelúdio + bloco da Criação completo) | `roteiro/episodios/EP-0001.json` a `EP-0004.json` |
+| ✅ Guia para roteirizar os próximos episódios | `roteiro/COMO-ROTEIRIZAR.md` |
 | ✅ Estudo de fidelidade textual da Torá | `estudo/01-fidelidade-textual-da-tora.md` |
 | ✅ Transcrição de pergaminhos reais e comparação | `estudo/02-pergaminhos-transcricao-e-comparacao.md` |
 | ✅ Comparação da Torá versículo a versículo (CSV) | `estudo/comparacao-tora/*.csv` |
-| 🔜 Episódios EP-0003 a EP-3466 (gerados a partir do mesmo molde) | `roteiro/curadoria/` |
+| 🔜 Episódios EP-0005 a EP-3466 (mesmo molde, prontos para produzir) | `roteiro/curadoria/` |
 
 ### O que cada episódio JSON entrega
 
@@ -49,6 +49,12 @@ Projeto que transforma **a Bíblia inteira** em uma série de episódios de 60 s
 * **prompt de vídeo em inglês** (Sora / Veo 3 / Kling / Runway / Luma) + prompt negativo + parâmetros;
 * **câmera, movimento, luz, SFX, trilha, mixagem e continuidade**;
 * **tradução dos prompts em português** para conferência.
+
+**Episódios prontos:**
+`EP-0001` O Vazio, a Voz e o Primeiro Traço (prelúdio) ·
+`EP-0002` No Princípio: a Criação dos Céus e da Terra (Gn 1:1-12) ·
+`EP-0003` Os Luminares, os Peixes e as Aves (Gn 1:13-24) ·
+`EP-0004` A Imagem, a Bênção e o Sétimo Dia (Gn 1:25-31; 2:1-3)
 
 Exemplo real (EP-0002, frame 3 — "Haja Luz"):
 
@@ -133,7 +139,7 @@ aramaico, siríaco, grego e português do trecho escolhido.
 | Temporada | Conteúdo | Episódios |
 |---|---|---|
 | **Prelúdio** | A Voz de Deus antes de Gênesis 1:1 — o vazio, o Big Bang e o primeiro traço | 1 ✅ |
-| **T1 — Torá** | Gênesis a Deuteronômio | 424 |
+| **T1 — Torá** | Gênesis a Deuteronômio — **bloco da Criação (Gn 1:1 a 2:3) já roteirizado nos EPs 2, 3 e 4** | 424 |
 | **T2 — Históricos** | Josué a Ester | 612 |
 | **T3 — Sapienciais e Poesia** | Jó a Cantares (Salmos com 2 frames por versículo) | 1.067 |
 | **T4 — Profetas** | Isaías a Malaquias | 612 |
