@@ -12,11 +12,13 @@ gerar imagens e vídeos com fala em modelos de IA (Seedance 1.5).
 |---|---------|---------|
 | 1 | **`roteiro/01_EP01_CRIACAO.md`** | ⭐ **EPISÓDIO 01 — A CRIAÇÃO.** Gênesis 1:1–2:3, com o **texto hebraico exato**, tradução literal própria verso por verso, notas de tradução, narração de Deus em pt-BR e decupagem completa |
 | 2 | **`roteiro/02_EP02_EDEN.md`** | ⭐ **EPISÓDIO 02 — O ÉDEN.** Gênesis 2:4–25, com a **primeira fala humana da Bíblia** |
-| 3 | **`prompts/EP01_EP02_prompts_IMAGEM.md`** | **78 prompts de imagem** (um por quadro dos dois episódios) |
-| 4 | **`prompts/EP01_EP02_prompts_SEEDANCE.md`** | **78 prompts de vídeo** com as **falas em português brasileiro** |
-| 5 | **`prompts/00_GUIA_DE_PROMPTS_IMAGEM_E_VIDEO.md`** | Como escrever os prompts, configurações do Seedance e fichas de personagem |
-| 6 | **`roteiro/00_INDICE_GERAL_BIBLIA.md`** | **Roteiro geral: 12 Atos e 77 episódios cobrindo a Bíblia inteira** |
-| 7 | **`fontes/REFERENCIAS_VISUAIS.md`** | Acervo de imagens, regras de fidelidade histórica e licenças |
+| 3 | **`prompts/EP01_PRONTO_PARA_COPIAR.md`** | ⭐ **20 blocos prontos: prompts de imagem + prompt de vídeo embaixo de cada um**, com a linha do tempo dos frames, ações e falas |
+| 4 | **`prompts/EP02_PRONTO_PARA_COPIAR.md`** | ⭐ **18 blocos** no mesmo formato, incluindo o clipe da **primeira fala humana da Bíblia** |
+| 5 | **`prompts/EP01_EP02_prompts_IMAGEM.md`** | Biblioteca completa dos 78 prompts de imagem (consulta) |
+| 6 | **`prompts/EP01_EP02_prompts_SEEDANCE.md`** | Biblioteca completa dos 78 prompts de vídeo (consulta) |
+| 7 | **`prompts/00_GUIA_DE_PROMPTS_IMAGEM_E_VIDEO.md`** | Como escrever os prompts, configurações do Seedance e fichas de personagem |
+| 8 | **`roteiro/00_INDICE_GERAL_BIBLIA.md`** | **Roteiro geral: 12 Atos e 77 episódios cobrindo a Bíblia inteira** |
+| 9 | **`fontes/REFERENCIAS_VISUAIS.md`** | Acervo de imagens, regras de fidelidade histórica e licenças |
 
 **Duas imagens-modelo já geradas** (prontas para usar como *first frame* no Seedance):
 `fontes/referencias_geradas/EP01_cena02_seja_luz.png` e `.../EP02_cena07_primeiro_encontro.png`
@@ -48,6 +50,8 @@ Historias-IA/
 │   ├── 01_EP01_CRIACAO.md         ← roteiro completo (Gn 1:1–2:3)
 │   └── 02_EP02_EDEN.md            ← roteiro completo (Gn 2:4–25)
 ├── prompts/
+│   ├── EP01_PRONTO_PARA_COPIAR.md          ← gerar imagens + vídeos (EP 01)
+│   ├── EP02_PRONTO_PARA_COPIAR.md          ← gerar imagens + vídeos (EP 02)
 │   ├── 00_GUIA_DE_PROMPTS_IMAGEM_E_VIDEO.md
 │   ├── EP01_EP02_prompts_IMAGEM.md
 │   └── EP01_EP02_prompts_SEEDANCE.md
@@ -81,6 +85,20 @@ Historias-IA/
    do hebraico/grego divergir de alguma versão publicada, **está documentado o porquê**.
 
 ---
+
+## 🎥 COMO PRODUZIR (fluxo de 3 passos)
+
+```
+1. Abra prompts/EP01_PRONTO_PARA_COPIAR.md
+2. Copie o prompt ① IMAGEM e gere o FRAME A na sua IA de imagem
+   (repita para ② e ③, que são os frames seguintes do mesmo clipe)
+3. Suba os frames no Seedance na ordem A → B → C e cole o ④ PROMPT DE VÍDEO
+   → ele diz em que segundo cada frame aparece, o que acontece e quem fala o quê
+```
+
+Cada clipe usa **2 ou 3 imagens** (frame inicial, intermediário e final) — isso mantém o rosto
+consistente e impede o modelo de inventar o meio da cena. Se sua ferramenta só aceitar 2 imagens,
+use a primeira e a última.
 
 ## ▶️ COMO PEDIR OS PRÓXIMOS EPISÓDIOS
 

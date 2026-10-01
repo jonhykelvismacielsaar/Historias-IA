@@ -95,6 +95,48 @@ CAMADA 4 — CÂMERA + ESTILO
 ultrarrealista, cinematográfico, 24fps"
 ```
 
+### 🔁 O FLUXO COM VÁRIOS FRAMES POR VÍDEO (o mais recomendado)
+
+Cada clipe pode receber **2 ou 3 imagens** (frames), não só uma. Isso dá muito mais controle:
+a câmera sabe exatamente onde começar, como se mover e onde terminar.
+
+```
+FRAME A (0s)  ──►  FRAME B (meio)  ──►  FRAME C (fim)
+     ↑                   ↑                  ↑
+  imagem inicial    keyframe intermediário  imagem final
+```
+
+**Como pedir isso no prompt de vídeo:** escreva a **linha do tempo com os segundos**, nomeando o frame,
+a ação e a fala de cada trecho. Exemplo real deste projeto:
+
+```
+CLIPE DE 10 SEGUNDOS · três frames fornecidos: FRAME A (0s), FRAME B (5s), FRAME C (10s).
+
+0s a 5s — FRAME A: [o que acontece neste trecho, incluindo o movimento de câmera]
+5s a 10s — FRAME B e depois FRAME C: [o que acontece, como a câmera se move, como termina]
+
+[fala entre aspas, com idioma e emoção]
+[som ambiente]
+[estilo]
+```
+
+**Por que funciona melhor:**
+- O modelo **não inventa** o meio da cena: ele interpola entre imagens que você aprovou.
+- O **rosto se mantém** porque os keyframes já têm o rosto certo.
+- Falas com tempo definido encaixam melhor no lip-sync: você sabe em que segundo ela começa.
+
+**Se a ferramenta só aceitar 2 imagens:** use **FRAME A + FRAME C** e mantenha as descrições do
+FRAME B na linha do tempo — o modelo vai gerar aquele trecho por texto.
+
+**Se a ferramenta aceitar apenas 1 imagem:** use o FRAME A como *first frame*.
+
+> 📁 **Os arquivos já montados neste formato:**
+> - `prompts/EP01_PRONTO_PARA_COPIAR.md` — 20 blocos / 48 imagens
+> - `prompts/EP02_PRONTO_PARA_COPIAR.md` — 18 blocos / 46 imagens
+>
+> Cada bloco já traz os prompts de imagem e, **logo abaixo**, o prompt de vídeo com os segundos,
+> as ações e as falas. É copiar, colar e gerar.
+
 ### FÓRMULA DE DIÁLOGO (a mais confiável)
 ```
 [quem fala] + [fala exata entre aspas] + [idioma] + [emoção/tom] + [câmera] + [som] + [restrições]
