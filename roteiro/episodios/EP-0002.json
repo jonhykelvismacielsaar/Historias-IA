@@ -11,7 +11,7 @@
   "perspectiva": "primeira pessoa do singular, fiel ao conteúdo do texto hebraico",
   "timbre": "voz masculina muito grave, cálida, íntima; agora mais próxima do ouvido que no Prelúdio",
   "ritmo": "lento; cada frase respira; silêncio de 0,4 s antes de cada 'E Deus disse'",
-  "direcao": "A frase bíblica exata aparece na legenda em português; a voz diz o versículo em primeira pessoa, sem alterar o sentido.",
+  "direcao": "A voz diz o versículo em primeira pessoa, sem alterar o sentido. Nenhum texto aparece na tela: a imagem e a voz contam tudo.",
   "idioma": "PT-BR neutro"
  },
  "especificacoes_tecnicas": {
@@ -62,7 +62,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "A vast blank raw linen canvas stretching to infinity, and the great floating brush descending onto it for the very first touch; beneath the bristles, the first stroke instantly becomes a cosmos: a curved horizon of earth at the bottom and a wheeling sky of stars above, both still wet and glossy, as if the universe were painted into being in one gesture; the wet paint at the edge of the stroke glistens with sky-blue and earth-brown. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: soft directional light from the upper left, illuminating the wet first stroke. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -76,7 +76,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: the brush presses down and draws one confident arc; where it passes, painted sky and earth bloom into depth; fine mist of pigment rises from the fresh stroke. Camera: macro shot on the bristles touching the canvas, then very slow pull-back revealing the cosmos. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -95,7 +95,6 @@
     "trilha": "tema principal, piano e cordas, entrando suave",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "No princípio criou Deus os céus e a terra.",
    "continuidade": "Abrimos com a tela crua: nenhum elemento do Prelúdio permanece, exceto o pincel."
   },
   {
@@ -122,7 +121,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "The freshly painted earth still formless: a dark churning primordial ocean with no coastlines, thick vapour rising in coils, no defined shape anywhere; the floating brush pauses motionless above the wet surface, a single drop of black-blue pigment swelling at the tip about to fall; overhead, a faint warm glow suggests a presence hovering over the water. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: cold ambient light with one warm hovering glow above the water. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -136,7 +135,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: vapour coils upward in slow spirals, the drop at the tip of the brush swells and trembles without falling, the warm glow above pulses gently like breathing. Camera: slow drift across the water surface, then tilt up to the hovering brush. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -155,7 +154,6 @@
     "trilha": "drone grave e suspenso",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "…e o Espírito de Deus pairava sobre a face das águas.",
    "continuidade": "Tudo ainda informe e escuro: contraste total com o frame 1."
   },
   {
@@ -182,7 +180,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "The brush diving into a heavy golden pigment and slashing one single decisive stroke across the black canvas; the stroke does not light the painting, it IS the light, radiating real illumination into the scene; behind the bristles a luminous wake spreads, and the darkness on either side pulls away as if afraid. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: explosive golden light emitted by the stroke itself, hard shadows ricocheting outward. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -196,7 +194,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: the golden stroke tears across the frame leaving real light behind, shadows snap into the corners, droplets of molten gold scatter and hang in the air like small suns. Camera: fast tracking with the stroke, then hold as the light blooms. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -215,7 +213,6 @@
     "trilha": "primeiro clímax da temporada: coro e metais",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "Disse Deus: haja luz. E houve luz.",
    "continuidade": "MARCO: primeira luz real da série pintada dentro do quadro."
   },
   {
@@ -242,7 +239,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "The brush lifted away from the canvas as if the painter were contemplating his own work; the golden field of light on one side and the deep indigo darkness on the other begin to pull apart along a clean liquid line; tiny bubbles and swirls at the border where wet gold meets wet indigo, like two oils refusing to blend; a sense of approval in the composition. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: balanced warm gold against cool indigo, a crisp edge between them. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -256,7 +253,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: gold and indigo push against each other, mixing briefly in tiny spirals and then separating again, the boundary line sharpening until it is perfectly clean. Camera: slow lateral dolly along the dividing line. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -274,7 +271,6 @@
     "trilha": "cordas em nota suspensa",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "E viu Deus que a luz era boa.",
    "continuidade": "Composição simétrica: metade luz, metade trevas."
   },
   {
@@ -301,7 +297,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "The brush naming the two realms by touching them: on the golden side a warm radiant day with sunlit clouds, on the indigo side a night with a hint of moonless stars; then the brush moves down to the very bottom edge of the canvas and paints a single thin perfect golden line across the lower border; the wet golden rule gleams like a signature. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: split lighting: radiant gold above, soft blue moonlight below. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -315,7 +311,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: clouds roll on the day side and stars twinkle on the night side, both seen through wet paint; the brush draws the thin golden line at the bottom and the paint glistens. Camera: follow the brush down to the bottom edge for the day-mark. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -334,7 +330,6 @@
     "trilha": "tema em versão serena, com sino",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "E foi a tarde e a manhã, o dia primeiro.",
    "continuidade": "Estreia do motivo das sete linhas douradas no rodapé (1ª linha)."
   },
   {
@@ -361,7 +356,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "The brush beginning to raise a vast translucent dome in the middle of the waters, an expanse splitting one ocean into two: the lower ocean dark and deep, the upper ocean suspended impossibly overhead like a ceiling of liquid glass; the dome half-painted, its unfinished edge still raw canvas where future sky will be. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: cool green-blue light refracted through the suspended water above. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -375,7 +370,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: the half-painted dome rises like a slow bubble, suspended water shimmers overhead, the raw unfinished edge of the dome becomes glass and sky as the brush passes. Camera: ultra-wide shot revealing both oceans at once. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -394,7 +389,6 @@
     "trilha": "arpejos ascendentes de harpa",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "Haja um firmamento no meio das águas.",
    "continuidade": "A imagem mais vertiginosa do episódio: dois oceanos, um sobre o outro."
   },
   {
@@ -421,7 +415,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "The dome completing itself with a long confident brush sweep, sealing the two oceans apart forever; rain begins to condense on the underside of the upper waters and falls in slow sheets toward the lower ocean; the brush trails a seam of silver along the inside of the dome. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: silvery refracted light, rain catching the light into fine bright threads. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -435,7 +429,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: the last stretch of the dome seals, the first rain falls in slow motion, each drop catching light, ripples spreading on the lower ocean far below. Camera: tilt down from the dome to the first falling rain. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -454,7 +448,6 @@
     "trilha": "cordas e piano em movimento de queda suave",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "E assim foi.",
    "continuidade": "Primeira chuva da série (o Prelúdio mostrou gotas; aqui, chuva plena)."
   },
   {
@@ -481,7 +474,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "A perfect blue sky seen from inside the finished dome, clouds drifting across the vault like brush marks; the floating brush resting against the sky as if signing it, and then drawing the second thin golden line along the bottom edge beside the first, both gleaming. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: clean daylight, high sun through the dome, crisp cloud shadows. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -495,7 +488,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: clouds drift slowly across the dome casting moving shadows on the ocean below; the brush adds the second golden line and both lines glisten together. Camera: wide serene shot of the sky vault, then tilt to the day-mark. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -514,7 +507,6 @@
     "trilha": "tema em versão ampla e luminosa",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "E foi a tarde e a manhã, o dia segundo.",
    "continuidade": "2ª linha dourada; agora são duas."
   },
   {
@@ -541,7 +533,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "The brush sweeping across the lower ocean, commanding the waters to gather into one place; the sea retreats in vast slow waves revealing dark wet rock, newborn plains, and the first valleys steaming in the air; the dry land emerges glossy and steaming, with the brush dragging a clean line of shoreline behind it. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: raking warm side light on wet stone, water catching highlights. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -555,7 +547,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: the ocean drains away in slow motion, land rises steaming, the first rivers cut channels into fresh rock, the brush leaves a trail of wet shoreline paint. Camera: high aerial sweep following the retreating sea. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -574,7 +566,6 @@
     "trilha": "cordas graves em movimento de recuo",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "E apareça o elemento seco.",
    "continuidade": "Primeira terra firme da série."
   },
   {
@@ -601,7 +592,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "A coastline fully formed, green-dark rock meeting blue sea, tide pools like liquid mirrors reflecting clouds; the brush hovering over the meeting point of land and water as if naming both, tiny waves breaking on wet black pebbles; the composition calm, vast and inhabited by light. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: golden hour light, glittering reflections across the water. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -615,7 +606,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: slow waves break on black pebbles, tidal pools shimmer and reflect passing clouds, the brush hovers and the water below calms at its presence. Camera: low aerial glide over the coastline, ending on a tidal pool. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -634,7 +625,6 @@
     "trilha": "tema com flautas suaves",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "E viu Deus que isso era bom.",
    "continuidade": "Primeira aparição da paleta verde."
   },
   {
@@ -661,7 +651,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "The brush running across the land leaving trails of green that erupt into real vegetation behind it: grass unrolling, seed-bearing herbs standing up, fruit trees unfolding from saplings into full canopy in seconds; blossoms opening, pollen drifting like gold dust in the light; the whole hillside turning lush. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: warm dappled sunlight through new leaves. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -675,7 +665,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: green strokes erupt upward from the ground and become plants in accelerated natural growth, trees unfold, blossoms open, pollen drifts, the hillside fills with life as the camera moves with the brush. Camera: low tracking shot moving over sprouting ground at grass level. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -694,7 +684,6 @@
     "trilha": "tema em versão jubilosa",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "E assim foi.",
    "continuidade": "Verde domina a paleta."
   },
   {
@@ -721,7 +710,7 @@
    "prompt_imagem": {
     "modelo_alvo": "Midjourney v7 / Flux / SDXL (modo foto-realista)",
     "prompt_en": "A finished flowering hillside heavy with fruit, seen from a respectful distance, the brush floating far above it as if the painter had stepped back to contemplate his work; birds implied by motion in the canopy; at the very bottom edge of the canvas, the brush adds the third thin golden day-line, joining the two already there; everything glistening, warm and alive. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed texture of canvas weave, 8k, masterpiece, no text, no watermark. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind the brush at the upper corner, the brush is clearly mid-stroke, painting this very scene into existence. Lighting and mood: generous golden late-afternoon light, long soft shadows. Aspect ratio 16:9.",
-    "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
+    "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism",
     "parametros": {
      "aspect_ratio": "16:9",
      "resolucao": "3840x2160",
@@ -735,7 +724,7 @@
    "prompt_video": {
     "modelo_alvo": "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma",
     "prompt_en": "the camera flies INTO the surface of the painting and the painted brushstrokes bloom into living three-dimensional reality; the wet oil paint dissolves into real matter, texture and depth; continuous single take, cinematic 24fps, volumetric light, floating dust motes, physically accurate motion, shallow depth of field, no text, no watermark, no on-screen graphics. Movement: the camera pulls back to reveal the full hillside breathing with life, leaves moving in the wind, the third golden line being drawn and glistening with the other two. Camera: slow crane pull-back revealing the whole painted landscape. Duration 5 seconds, sound of the scene implied visually, seamless loop-friendly ending.",
-    "negative_prompt_en": "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
+    "negative_prompt_en": "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, camera shake, speed ramp, cartoon physics",
     "parametros": {
      "duracao_s": 5,
      "fps": 24,
@@ -754,7 +743,6 @@
     "trilha": "tema completo, cordas e coro suave; coda suspensa para o próximo episódio",
     "mixagem": "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"
    },
-   "legenda_pt": "E viu Deus que isso era bom.",
    "continuidade": "FECHAMENTO: 3 linhas douradas no rodapé (dias 1, 2 e 3). O EP-0003 (Gênesis 1:13-24) completa os dias 4 e 5. Encadear com fade pelo rodapé."
   }
  ],
@@ -764,7 +752,7 @@
   "observacoes": [
    "Motivo visual criado para a série: no fim de cada dia da criação, o pincel traça uma linha dourada na borda inferior da tela. No fim do capítulo, a moldura terá sete linhas (sete dias).",
    "Todos os versículos vêm do corpus real: hebraico massorético (WLC), Targum Onkelos em aramaico, Peshitta em siríaco, Septuaginta em grego e Almeida Atualizada em português — compare no campo texto_biblico_do_episodio.",
-   "O texto bíblico literal em português está em 'texto_da_passagem_pt' de cada frame e vira legenda queimada (queimada em amarelo suave, fonte EB Garamond)."
+   "NÃO usar legendas nem qualquer texto na tela: a narração em PT-BR é quem carrega o texto bíblico. O versículo em português fica só como referência de conferência no campo texto_passagem_pt."
   ]
  }
 }

@@ -57,7 +57,7 @@ Abra `EP-0005.json` e troque:
 
 * `id`, `titulo`, `referencia`, `slug`, `capitulo`, `versiculo_inicial`, `versiculo_final`;
 * nos 12 frames: `titulo`, `referencia`, `versiculos`, `acao_cena_pt`, `imagem_scene_en`,
-  `video_movimento_en`, `narracao`, `texto_passagem_pt`, `legenda_pt`, `sfx`, `trilha`.
+  `video_movimento_en`, `narracao`, `texto_passagem_pt`, `sfx`, `trilha`.
 
 **O que NÃO precisa escrever:** o hebraico, o aramaico, o siríaco, o grego e o português.
 O script busca no corpus pelo capítulo e faixa de versículos que você indicou.
@@ -121,9 +121,11 @@ Duration 5 seconds.
    `nota_producao` do frame e siga o hebraico na voz.
 3. **Nunca invente fala de personagem humano.** As falas de pessoas são as do texto bíblico,
    literais, no campo `falas_personagens`.
-4. **Não misture os cânones.** A Temporada 9 (69 obras apócrifas) tem prelúdio próprio e é
+4. **Nunca coloque legendas nem texto na tela.** O vídeo não tem nenhuma palavra escrita:
+   nem legenda, nem título, nem crédito de cena. A voz do narrador carrega o texto bíblico.
+5. **Não misture os cânones.** A Temporada 9 (69 obras apócrifas) tem prelúdio próprio e é
    sempre identificada como extra-bíblica.
-5. **Nunca represente Deus visualmente.** Só o pincel, o rastro de tinta e a luz.
+6. **Nunca represente Deus visualmente.** Só o pincel, o rastro de tinta e a luz.
 
 ---
 
@@ -162,6 +164,7 @@ Duration 5 seconds.
 - [ ] prompt de imagem em inglês, com a cláusula do pincel
 - [ ] prompt de vídeo com **uma** ação clara e o movimento de câmera
 - [ ] versão 9:16 gerada além da 16:9
+- [ ] **nenhuma legenda e nenhum texto na tela** — a voz e a imagem contam a história
 - [ ] continuidade de paleta com o frame anterior
 
 Rode `python3 ferramentas/03_gerar_episodio.py --todos` — o validador aponta automaticamente

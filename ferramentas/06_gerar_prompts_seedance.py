@@ -8,7 +8,7 @@ Para cada episódio, cada frame recebe:
   2) PROMPT DE VÍDEO .......... para o Seedance 1.5 Pro, COM A FALA DENTRO, para gerar o
                                 frame de 5 segundos já com a voz e o som.
   3) FALA (PT-BR) ............. a linha exata que o narrador diz, para conferência
-  4) LEGENDA .................. o texto bíblico que será queimado no vídeo na edição
+  4) AJUSTES .................. duração, proporção, áudio ligado (sem legendas: não usar texto na tela)
   5) AJUSTES .................. duração, proporção, áudio ligado etc.
 
 Formato do prompt de vídeo — as 4 camadas que o Seedance 1.5 Pro entende
@@ -57,7 +57,8 @@ SEM_PINCEL_EN = (
 )
 
 NEGATIVO_IMAGEM = (
-    "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine "
+    "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, "
+    "human face of God, depiction of the divine "
     "figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism"
 )
 
@@ -335,8 +336,9 @@ def montar_prompt_video(frame: dict) -> str:
     # Camada 4 — estilo visual e clima
     camada4 = (
         f"Camera: {camera}. Style: hyper-realistic oil painting brought to life, baroque biblical epic, "
-        "volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, "
-        "no watermark, no extra people."
+        "volumetric light, floating dust, 24fps, photographic motion blur. Absolutely no text of any kind on "
+        "screen: no subtitles, no captions, no burned-in words, no lower thirds, no titles, no watermarks, no logos, "
+        "no extra people."
     )
     return " ".join(p for p in (camada1, camada2, camada3, camada4) if p)
 
@@ -379,7 +381,8 @@ def folha_do_episodio(caminho: str) -> tuple:
     add("2. Pegue a imagem gerada e suba no **Seedance 1.5 Pro** (modo imagem-para-vídeo).")
     add("3. Cole o **PROMPT DE VÍDEO** do mesmo frame — ele já traz a fala, o som e a câmera.")
     add("4. Gere **5 segundos** com **áudio ligado**. A voz sai junto com o vídeo.")
-    add("5. Repita para os 12 frames e emende na edição, queimando a **LEGENDA** de cada um.")
+    add("5. Repita para os 12 frames e emende na edição — **sem legendas e sem texto na tela**: "
+        "a imagem e a voz contam a história sozinhas.")
     add("")
     add("**Ajustes recomendados no Seedance 1.5 Pro:** duração `5` (inteiro, de 4 a 12) · proporção `16:9` "
         "(gere também `9:16` para Shorts/Reels) · resolução `720p` para teste e `1080p` para o final · "
@@ -408,7 +411,7 @@ def folha_do_episodio(caminho: str) -> tuple:
         add(f"> {fala}")
         if texto_biblico:
             add("")
-            add(f"> *Texto bíblico:* {texto_biblico}")
+            add(f"> *Versículo de referência (só para conferência — NÃO exibir na tela):* {texto_biblico}")
         add("")
         add("🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:")
         add("")
@@ -434,9 +437,6 @@ def folha_do_episodio(caminho: str) -> tuple:
         cfg = "`5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`"
         add(f"⚙️ **Ajustes:** {cfg}")
         add("")
-        if fr.get("legenda_pt"):
-            add(f"💬 **LEGENDA para queimar no vídeo:** {fr['legenda_pt']}")
-            add("")
         if fr.get("nota_producao"):
             add(f"📌 **NOTA DE PRODUÇÃO:** {fr['nota_producao']}")
             add("")

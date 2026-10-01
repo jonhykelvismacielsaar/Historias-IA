@@ -167,7 +167,7 @@ def montar_episodio(numero: str, corpus: dict, indice: dict) -> dict:
         ]
         prompt_imagem = ". ".join(p.strip().rstrip(".") for p in partes_imagem if p) + "."
         prompt_imagem_neg = f.get("imagem_negativo_en",
-            "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, "
+            "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, signature, logo, human face of God, "
             "depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, "
             "modern objects, anachronism")
         prompt_video = (
@@ -204,7 +204,7 @@ def montar_episodio(numero: str, corpus: dict, indice: dict) -> dict:
                 "modelo_alvo": f.get("modelo_video", "Sora / Veo 3 / Kling 2.x / Runway Gen-4 / Luma"),
                 "prompt_en": prompt_video,
                 "negative_prompt_en": f.get("video_negativo_en",
-                    "text, subtitles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, "
+                    "text, subtitles, captions, burned-in words, lower thirds, titles, watermark, jump cuts, morphing faces, extra fingers, flicker, jitter, "
                     "camera shake, speed ramp, cartoon physics"),
                 "parametros": f.get("parametros_video",
                     {"duracao_s": 5, "fps": 24, "movimento_camera": f.get("camera_en", "slow cinematic dolly-in"),
@@ -216,7 +216,6 @@ def montar_episodio(numero: str, corpus: dict, indice: dict) -> dict:
                 "trilha": f.get("trilha", ""),
                 "mixagem": f.get("mixagem", "Voz do narrador em primeiro plano, trilha a -18 dB, SFX a -12 dB"),
             },
-            "legenda_pt": f.get("legenda_pt") or f.get("texto_passagem_pt", ""),
             "continuidade": f.get("continuidade", "Manter paleta, pincel e iluminação do frame anterior."),
         })
 

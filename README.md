@@ -46,7 +46,7 @@ A pasta `prompts/` traz, para cada episódio, **uma folha pronta em `.md` e `.tx
 1. 🎙️ **A FALA da voz de Deus em PT-BR** (e o texto bíblico do versículo)
 2. 🖼️ **PROMPT DE IMAGEM** (inglês) + parâmetros do Midjourney + negative prompt
 3. 🎬 **PROMPT DE VÍDEO para o Seedance 1.5 Pro** — com a fala entre aspas dentro dele, para o vídeo sair **já com a voz e o som**
-4. ⚙️ Ajustes (`5 s`, `16:9`/`9:16`, `720p→1080p`, `generate_audio: ON`) e 💬 a legenda para queimar na edição
+4. ⚙️ Ajustes (`5 s`, `16:9`/`9:16`, `720p→1080p`, `generate_audio: ON`) — **sem legendas: o vídeo não leva nenhum texto na tela**
 
 O prompt de vídeo segue as **4 camadas** que o Seedance 1.5 Pro entende: cena e ação → diálogo (com locutor, idioma e tom) → som ambiente e efeitos → estilo e câmera. A voz é sempre **em off** (Deus não aparece), então não há boca para sincronizar; quando houver fala de personagem humano, o script acrescenta a marcação de lip-sync.
 
@@ -58,7 +58,7 @@ Gerar as folhas: `python3 ferramentas/06_gerar_prompts_seedance.py`
 
 * **tempo** (00:00–00:05, 00:05–00:10 … 00:55–01:00);
 * **narração da voz de Deus em PT-BR**, fiel ao versículo, calibrada para caber em 5 s (máx. ~20 palavras);
-* **texto bíblico literal** do trecho (legenda);
+* **texto bíblico literal** do trecho (apenas referência de conferência — **nada é exibido na tela**);
 * **prompt de imagem em inglês** (Midjourney / Flux / SDXL) + prompt negativo + parâmetros;
 * **prompt de vídeo em inglês** (Sora / Veo 3 / Kling / Runway / Luma) + prompt negativo + parâmetros;
 * **câmera, movimento, luz, SFX, trilha, mixagem e continuidade**;
@@ -75,7 +75,7 @@ Exemplo real (EP-0002, frame 3 — "Haja Luz"):
 ```json
 "prompt_imagem": {
   "prompt_en": "The brush diving into a heavy golden pigment and slashing one single decisive stroke across the black canvas; the stroke does not light the painting, it IS the light… Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork… 8k, masterpiece, no text, no watermark.",
-  "negative_prompt_en": "text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look…",
+  "negative_prompt_en": "text, letters, numbers, subtitles, captions, burned-in words, lower thirds, titles, watermark, logo, human face of God…",
   "parametros": { "aspect_ratio": "16:9", "resolucao": "3840x2160", "stylize": 250, "style": "raw" }
 },
 "prompt_video": {

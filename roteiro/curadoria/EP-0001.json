@@ -13,7 +13,10 @@
   "personagem": "DEUS — o Criador narrando a própria obra",
   "perspectiva": "primeira pessoa do singular, em tom de memória íntima",
   "timbre": "voz masculina muito grave, quente, serena, onisciente; autoridade sem dureza, ternura sem fraqueza",
-  "referencias_de_tom": ["Morgan Freeman em documentário épico", "Liam Neeson em narração solene"],
+  "referencias_de_tom": [
+   "Morgan Freeman em documentário épico",
+   "Liam Neeson em narração solene"
+  ],
   "ritmo": "muito lento; pausas longas depois de cada frase; nunca apressado",
   "direcao": "Cada fala cabe em 5 segundos. Nada de grito: o poder está na calma. Silêncio e respiração fazem parte da atuação.",
   "idioma": "Português do Brasil neutro, sem sotaque regional",
@@ -40,8 +43,11 @@
    "video_pt_revisao": "Nada se move ainda; a própria escuridão respira quase imperceptivelmente e a câmera avança lentamente. É o silêncio visual antes da criação.",
    "narracao": "Antes de haver tempo, estrelas ou mares, Eu já era. E o silêncio Me obedecia.",
    "texto_passagem_pt": "",
-   "legenda_pt": "",
-   "sfx": ["silêncio absoluto (−60 dB)", "batimento cardíaco grave, quase inaudível, a 30 Hz", "respiração lenta e distante"],
+   "sfx": [
+    "silêncio absoluto (−60 dB)",
+    "batimento cardíaco grave, quase inaudível, a 30 Hz",
+    "respiração lenta e distante"
+   ],
    "trilha": "silêncio total; apenas um drone subgrave entrando aos poucos",
    "continuidade": "Frame de abertura: estabelece o vazio absoluto. Nada deve aparecer além de preto profundo."
   },
@@ -58,8 +64,11 @@
    "video_pt_revisao": "A centelha dourada pulsa duas vezes e cada pulsação envia um anel de ondulações pelo vazio; ela fica um pouco mais brilhante a cada batida.",
    "narracao": "Então desejei. Não por falta, mas por amor: Eu queria alguém para amar.",
    "texto_passagem_pt": "",
-   "legenda_pt": "E o desejo nasceu antes da luz.",
-   "sfx": ["pulsação subgrave", "vidro vibrando suavemente", "crescendo de cordas muito graves"],
+   "sfx": [
+    "pulsação subgrave",
+    "vidro vibrando suavemente",
+    "crescendo de cordas muito graves"
+   ],
    "trilha": "entra um drone de violoncelo, pianíssimo",
    "continuidade": "Mesmo preto do frame 1; a única diferença é a centelha dourada no centro."
   },
@@ -76,9 +85,13 @@
    "video_pt_revisao": "O ponto detona e a matéria se expande em todas as direções; os filamentos de plasma esticam como tinta úmida espalhada por uma mão invisível.",
    "narracao": "E Eu disse: comece. Toda a matéria explodiu como tinta atirada contra a tela.",
    "texto_passagem_pt": "No princípio criou Deus os céus e a terra.",
-   "legenda_pt": "No princípio…",
-   "sfx": ["impacto colossal de subgraves", "whoosh de expansão", "estalos de plasma", "reverb infinito"],
-   "trilha": "clímax de percussão e metais", 
+   "sfx": [
+    "impacto colossal de subgraves",
+    "whoosh de expansão",
+    "estalos de plasma",
+    "reverb infinito"
+   ],
+   "trilha": "clímax de percussão e metais",
    "continuidade": "Primeira imagem de cor da série. Estabelece a paleta: ouro, carmesim, azul-elétrico."
   },
   {
@@ -94,8 +107,11 @@
    "video_pt_revisao": "Galáxias giram devagar, nebulosas desabrocham e estrelas acendem em cadeia; a câmera desliza por uma galáxia espiral gigante.",
    "narracao": "Bilhões de estrelas girando — e cada uma delas Eu chamo pelo nome.",
    "texto_passagem_pt": "",
-   "legenda_pt": "O universo tomou forma.",
-   "sfx": ["coro distante e etéreo", "zumbido cósmico profundo", "tinkles cristalinos de estrelas"],
+   "sfx": [
+    "coro distante e etéreo",
+    "zumbido cósmico profundo",
+    "tinkles cristalinos de estrelas"
+   ],
    "trilha": "cordas em crescendo, harpa e sinos",
    "continuidade": "Paleta cósmica: roxo, azul profundo, dourado. Sem pincel ainda."
   },
@@ -112,8 +128,12 @@
    "video_pt_revisao": "Nuvens giram sobre o oceano negro, ondas colossais sobem e descem; a câmera desce através do vapor em direção à superfície do abismo.",
    "narracao": "A terra era sem forma e vazia. Trevas cobriam o abismo — e Eu estava lá.",
    "texto_passagem_pt": "A terra era sem forma e vazia; e havia trevas sobre a face do abismo.",
-   "legenda_pt": "Sem forma e vazia.",
-   "sfx": ["ondas pesadas", "vento cortando", "trovões distantes", "gotejar ecoando no vazio"],
+   "sfx": [
+    "ondas pesadas",
+    "vento cortando",
+    "trovões distantes",
+    "gotejar ecoando no vazio"
+   ],
    "trilha": "drone grave, tensão contínua",
    "continuidade": "Entramos no planeta Terra. Paleta escurece para preto e azul-petróleo."
   },
@@ -130,8 +150,11 @@
    "video_pt_revisao": "A névoa sobe em espiral ao redor de uma presença invisível, a água forma anéis e um brilho quente pulsa dentro do vapor como uma respiração.",
    "narracao": "Meu Espírito pairava sobre as águas, como um vento esperando a palavra.",
    "texto_passagem_pt": "e o Espírito de Deus pairava sobre a face das águas.",
-   "legenda_pt": "E o Espírito pairava sobre as águas.",
-   "sfx": ["vento suave", "água ondulando", "coro etéreo quase inaudível"],
+   "sfx": [
+    "vento suave",
+    "água ondulando",
+    "coro etéreo quase inaudível"
+   ],
    "trilha": "entra o tema principal da série, em piano solo",
    "continuidade": "Último frame sem pincel. A luz dourada prepara a entrada do pincel no frame 7."
   },
@@ -148,8 +171,12 @@
    "video_pt_revisao": "O pincel desce e gira no ar; uma gota pesada de tinta dourada cai e atinge a água formando anéis perfeitos.",
    "narracao": "Então peguei o pincel. E toda a escuridão se calou.",
    "texto_passagem_pt": "",
-   "legenda_pt": "E Deus começou a pintar.",
-   "sfx": ["queda de gota de tinta", "anel de ondulação", "madeira rangendo levemente", "silêncio súbito"],
+   "sfx": [
+    "queda de gota de tinta",
+    "anel de ondulação",
+    "madeira rangendo levemente",
+    "silêncio súbito"
+   ],
    "trilha": "corta para quase silêncio, só uma nota de piano suspensa",
    "continuidade": "MARCO DA SÉRIE: a partir daqui todos os frames têm o pincel flutuante ou o rastro da tinta fresca."
   },
@@ -166,8 +193,11 @@
    "video_pt_revisao": "O pincel atravessa a tela deixando um caminho de luz líquida que se acende; a escuridão recua para os cantos e gotas de luz se espalham.",
    "narracao": "Eu disse: haja luz. E a luz obedeceu antes que Eu terminasse a frase.",
    "texto_passagem_pt": "Disse Deus: haja luz. E houve luz.",
-   "legenda_pt": "Haja luz.",
-   "sfx": ["impacto de luz, som metálico brilhante", "sopro", "silêncio radiante depois"],
+   "sfx": [
+    "impacto de luz, som metálico brilhante",
+    "sopro",
+    "silêncio radiante depois"
+   ],
    "trilha": "clímax orquestral: coro, metais e tímpanos",
    "continuidade": "CLÍMAX MUSICAL E VISUAL DO EPISÓDIO."
   },
@@ -184,8 +214,11 @@
    "video_pt_revisao": "Os dois campos de tinta úmida se empurram na fronteira; pequenos redemoinhos se misturam e se separam, e o pincel passa uma vez para manter a linha limpa.",
    "narracao": "Separei a luz das trevas e dei nome aos dois: dia e noite.",
    "texto_passagem_pt": "E Deus chamou à luz dia, e às trevas noite. E foi a tarde e a manhã, o dia primeiro.",
-   "legenda_pt": "Dia e noite.",
-   "sfx": ["transição tonal suave", "tinta estalando", "coro baixo sustentado"],
+   "sfx": [
+    "transição tonal suave",
+    "tinta estalando",
+    "coro baixo sustentado"
+   ],
    "trilha": "sustentação de cordas, sem percussão",
    "continuidade": "Paleta dividida ao meio — bom frame para thumbnail."
   },
@@ -202,8 +235,11 @@
    "video_pt_revisao": "O pincel descreve um arco no alto alisando a cúpula; a água suspensa cintila e projeta cáusticas na água de baixo, e gotas começam a cair.",
    "narracao": "Estendi o firmamento no meio das águas e chamei-lhe céu.",
    "texto_passagem_pt": "Chamou Deus ao firmamento céu. E foi a tarde e a manhã, o dia segundo.",
-   "legenda_pt": "E chamou-lhe céu.",
-   "sfx": ["água suspensa vibrando", "primeiras gotas de chuva", "eco imenso"],
+   "sfx": [
+    "água suspensa vibrando",
+    "primeiras gotas de chuva",
+    "eco imenso"
+   ],
    "trilha": "cordas em arpejo ascendente",
    "continuidade": "Primeira aparição de chuva na série."
   },
@@ -220,8 +256,11 @@
    "video_pt_revisao": "Os oceanos se afastam dos continentes em câmera lenta, a rocha molhada fumega, as primeiras ondas quebram nos penhascos novos e o pincel deixa uma linha de espuma.",
    "narracao": "As águas se ajuntaram num só lugar, e a terra seca apareceu.",
    "texto_passagem_pt": "Ajuntem-se num só lugar as águas que estão debaixo do céu, e apareça o elemento seco. E assim foi.",
-   "legenda_pt": "Apareça a terra seca.",
-   "sfx": ["água recuando", "vapor", "ondas quebrando em pedra"],
+   "sfx": [
+    "água recuando",
+    "vapor",
+    "ondas quebrando em pedra"
+   ],
    "trilha": "cordas amplas, sensação de alívio",
    "continuidade": "Primeira pedra e areia da série; mantém molhado e brilhante."
   },
@@ -238,8 +277,11 @@
    "video_pt_revisao": "Pinceladas verdes brotam para cima e viram plantas reais, árvores se desdobram em crescimento acelerado, frutos incham e amadurecem; a câmera atravessa folhas molhadas.",
    "narracao": "E a terra vestiu-se de verde. Era apenas o começo do que Eu faria.",
    "texto_passagem_pt": "E disse Deus: Produza a terra relva, ervas que dêem semente, e árvores frutíferas... E viu Deus que isso era bom.",
-   "legenda_pt": "E viu Deus que isso era bom.",
-   "sfx": ["broto rompendo a terra", "folhas se abrindo", "pássaros distantes insinuando o dia 5"],
+   "sfx": [
+    "broto rompendo a terra",
+    "folhas se abrindo",
+    "pássaros distantes insinuando o dia 5"
+   ],
    "trilha": "tema principal em versão esperançosa; termina com um sino suspenso",
    "continuidade": "FECHAMENTO DO PRELÚDIO: o verde entra na paleta. Termina com corte seco para o EP-0002 (Gênesis 1:1)."
   }

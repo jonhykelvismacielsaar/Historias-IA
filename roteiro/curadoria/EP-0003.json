@@ -26,7 +26,9 @@
    "titulo": "O Fim do Terceiro Dia",
    "pincel": true,
    "referencia": "Gênesis 1:13",
-   "versiculos": [13],
+   "versiculos": [
+    13
+   ],
    "acao_cena_pt": "O pincel termina a última folha da tarde e desce até o rodapé, onde já brilham três linhas douradas. Ele traça a terceira — não: confirma a terceira — e permanece imóvel por um instante.",
    "imagem_scene_en": "The completed hillside of the third day at dusk, seen as wet oil paint that has just dried into reality; the floating brush hangs low at the bottom edge of the canvas where three thin golden lines already gleam across the lower border; a deep quiet settles over the whole painting, the light turning from gold to violet",
    "imagem_pt_revisao": "A colina do terceiro dia ao anoitecer, tinta fresca que acabou de secar e virar realidade. O pincel paira baixo na borda inferior, onde três linhas douradas já brilham.",
@@ -36,8 +38,11 @@
    "video_pt_revisao": "A última luz do terceiro dia se apaga sobre a colina pintada, as folhas se aquietam e as três linhas douradas brilham enquanto o pincel paira ao lado delas.",
    "narracao": "E foi a tarde e a manhã: assim terminou o terceiro dia.",
    "texto_passagem_pt": "E foi a tarde e a manhã, o dia terceiro.",
-   "legenda_pt": "E foi a tarde e a manhã, o dia terceiro.",
-   "sfx": ["grilos", "vento leve", "silêncio do fim do dia"],
+   "sfx": [
+    "grilos",
+    "vento leve",
+    "silêncio do fim do dia"
+   ],
    "trilha": "corda grave sustentada, quase silêncio",
    "continuidade": "Fecha o terceiro dia. Paleta crepuscular: ouro apagando para violeta."
   },
@@ -45,7 +50,9 @@
    "titulo": "Haja Luminares",
    "pincel": true,
    "referencia": "Gênesis 1:14",
-   "versiculos": [14],
+   "versiculos": [
+    14
+   ],
    "acao_cena_pt": "O pincel sobe até o alto da abóbada e dá um giro circular: nasce um disco de fogo. A luz dos luminares é pintada, não acendida.",
    "imagem_scene_en": "The brush sweeping in a wide circle high inside the dome of the sky, leaving a blazing ring that becomes a sun; a second smaller circular stroke beside it glows silver-white; the wet paint of both luminaries throws real light down onto the painted earth below, tracing long golden and silver rays through the atmosphere",
    "imagem_pt_revisao": "O pincel descreve um círculo largo no alto da abóbada e deixa um anel em chamas que se torna sol; ao lado, um traço menor brilha em prata. Os dois luminares jogam luz real sobre a terra pintada.",
@@ -55,8 +62,11 @@
    "video_pt_revisao": "O pincel cava um círculo em chamas que se acende como sol e um círculo menor de prata vira a lua; raios de luz real varrem os mares e colinas, devolvendo cor ao mundo.",
    "narracao": "Eu disse: haja luminares no céu, para separar o dia da noite.",
    "texto_passagem_pt": "E disse Deus: haja luminares no firmamento do céu, para fazerem separação entre o dia e a noite; sejam eles para sinais e para estações, e para dias e anos.",
-   "legenda_pt": "Haja luminares no firmamento do céu.",
-   "sfx": ["zumbido ascendente", "impacto luminoso suave", "coro entrando"],
+   "sfx": [
+    "zumbido ascendente",
+    "impacto luminoso suave",
+    "coro entrando"
+   ],
    "trilha": "harpa e cordas em glissando ascendente",
    "continuidade": "Primeira vez que o quadro tem o sol e a lua."
   },
@@ -64,7 +74,10 @@
    "titulo": "Sinais e Estações",
    "pincel": true,
    "referencia": "Gênesis 1:14-15",
-   "versiculos": [14, 15],
+   "versiculos": [
+    14,
+    15
+   ],
    "acao_cena_pt": "O pincel escreve no céu sem letras: traça a trajetória do sol e as fases da lua, e o próprio tempo nasce desses riscos. Abaixo, o mundo começa a marcar dias.",
    "imagem_scene_en": "The brush tracing an arc across the sky that becomes the path of the sun, then a second arcing rhythm of moon phases like a string of silver beads; beneath them the painted earth begins to keep time — shadows lengthening and shortening, tides turning, a first calendar written in light rather than letters",
    "imagem_pt_revisao": "O pincel traça no céu o arco do caminho do sol e, depois, as fases da lua como contas de prata. Embaixo, a terra pintada começa a marcar o tempo: sombras, marés, um calendário escrito em luz.",
@@ -74,8 +87,11 @@
    "video_pt_revisao": "O sol percorre seu arco e as sombras correm pelo cenário, as fases da lua passam como contas, as marés vão e voltam em ritmo, e o pincel continua desenhando.",
    "narracao": "E eles servirão de sinais, para as estações, para os dias e para os anos.",
    "texto_passagem_pt": "…sejam eles para sinais e para estações, e para dias e anos; e sirvam de luminares no firmamento do céu, para alumiar a terra. E assim foi.",
-   "legenda_pt": "…para sinais e para estações, e para dias e anos.",
-   "sfx": ["pulsação rítmica de relógio natural", "maré", "vento"],
+   "sfx": [
+    "pulsação rítmica de relógio natural",
+    "maré",
+    "vento"
+   ],
    "trilha": "cordas em ostinato, sensação de passagem do tempo",
    "continuidade": "Primeira vez que o tempo passa visivelmente dentro do quadro."
   },
@@ -83,7 +99,9 @@
    "titulo": "Os Dois Grandes Luminares",
    "pincel": true,
    "referencia": "Gênesis 1:16",
-   "versiculos": [16],
+   "versiculos": [
+    16
+   ],
    "acao_cena_pt": "O pincel pinta o maior para governar o dia e o menor para governar a noite. Dois gestos, dois mundos.",
    "imagem_scene_en": "The brush finishing the great luminary: a colossal blazing sun, its wet paint still swirling at the edges, dominating the upper third of the canvas; beside it, smaller and cooler, a silver moon with crisp craters; the two hang side by side in a sky that is half day and half night, and the boundary between them is the stroke of the brush itself",
    "imagem_pt_revisao": "O pincel termina o grande luminar: um sol colossal, com a tinta ainda girando nas bordas, dominando o alto da tela. Ao lado, menor e mais frio, a lua de prata. O céu é metade dia e metade noite.",
@@ -93,8 +111,11 @@
    "video_pt_revisao": "A borda pintada do sol gira e se acende, as crateras da lua ganham relevo e os dois luminares crescem enquanto a câmera recua mostrando o céu inteiro.",
    "narracao": "Fiz o maior para governar o dia, e o menor para governar a noite.",
    "texto_passagem_pt": "Deus, pois, fez os dois grandes luminares: o luminar maior para governar o dia, e o luminar menor para governar a noite; fez também as estrelas.",
-   "legenda_pt": "Os dois grandes luminares.",
-   "sfx": ["som solar grave e quente", "som lunar cristalino e frio", "coro em duas vozes"],
+   "sfx": [
+    "som solar grave e quente",
+    "som lunar cristalino e frio",
+    "coro em duas vozes"
+   ],
    "trilha": "dois temas simultâneos, um em maior e um em menor",
    "continuidade": "Composição simétrica — bom frame para pôster."
   },
@@ -102,7 +123,9 @@
    "titulo": "As Estrelas",
    "pincel": true,
    "referencia": "Gênesis 1:16",
-   "versiculos": [16],
+   "versiculos": [
+    16
+   ],
    "acao_cena_pt": "E então as estrelas: o pincel bate na tela com a ponta, milhares de vezes, e cada toque acende um sol. De perto, dá para ver as gotas de tinta branca ainda brilhando.",
    "imagem_scene_en": "Extreme close-up of the brush tip tapping the dark sky over and over, each tap leaving a tiny drop of wet white paint that ignites into a star; layer upon layer of stars accumulate into the Milky Way; the bristles are sharp and glistening with white pigment, and behind them the canvas is a field of freshly painted suns",
    "imagem_pt_revisao": "Close extremo da ponta do pincel batendo no céu escuro repetidas vezes: cada toque deixa uma gota de tinta branca que acende e vira estrela. Camadas de estrelas formam a Via Láctea; as cerdas brilham com pigmento branco.",
@@ -112,8 +135,11 @@
    "video_pt_revisao": "O pincel bate em ritmo e cada gota acende uma estrela; as estrelas se multiplicam em espiral e a câmera recua atravessando o campo estelar.",
    "narracao": "Fiz também as estrelas — incontáveis, e todas contadas por Mim.",
    "texto_passagem_pt": "…fez também as estrelas.",
-   "legenda_pt": "…e fez também as estrelas.",
-   "sfx": ["estalos delicados de tinta", "cintilância cristalina", "coro etéreo"],
+   "sfx": [
+    "estalos delicados de tinta",
+    "cintilância cristalina",
+    "coro etéreo"
+   ],
    "trilha": "celesta e sinos, notas pingadas como estrelas",
    "continuidade": "Textura de tinta branca fresca sobre fundo azul-escuro."
   },
@@ -121,7 +147,9 @@
    "titulo": "Postos no Firmamento",
    "pincel": true,
    "referencia": "Gênesis 1:17",
-   "versiculos": [17],
+   "versiculos": [
+    17
+   ],
    "acao_cena_pt": "O pincel ajusta os luminares no lugar, como quem pendura dois quadros na parede do céu.",
    "imagem_scene_en": "The brush nudging the sun and the moon into their final positions in the dome, the way a painter hangs a finished canvas on a wall; both luminaries settle with a soft glow and their light begins to fall straight down onto the earth in two clean columns of gold and silver",
    "imagem_pt_revisao": "O pincel empurra o sol e a lua até a posição final na cúpula, como quem pendura dois quadros na parede. Os luminares se assentam e a luz cai em duas colunas limpas, uma de ouro e uma de prata.",
@@ -131,8 +159,11 @@
    "video_pt_revisao": "O sol e a lua deslizam para o lugar, se acomodam e dois feixes de luz descem sobre a paisagem; poeira e névoa brilham dentro dos feixes.",
    "narracao": "E os coloquei no firmamento do céu, para alumiar a terra.",
    "texto_passagem_pt": "E Deus os pôs no firmamento do céu para alumiar a terra.",
-   "legenda_pt": "Para alumiar a terra.",
-   "sfx": ["encaixe suave", "feixes de luz", "vento alto"],
+   "sfx": [
+    "encaixe suave",
+    "feixes de luz",
+    "vento alto"
+   ],
    "trilha": "cordas ascendentes e resolvidas",
    "continuidade": "Duas colunas de luz são o elemento gráfico mais forte do episódio."
   },
@@ -140,7 +171,10 @@
    "titulo": "E Viu Deus que Era Bom — O Quarto Dia",
    "pincel": true,
    "referencia": "Gênesis 1:18-19",
-   "versiculos": [18, 19],
+   "versiculos": [
+    18,
+    19
+   ],
    "acao_cena_pt": "Sol governa o dia, lua governa a noite, e o pincel separa luz e trevas outra vez. Depois desce e traça a quarta linha dourada no rodapé.",
    "imagem_scene_en": "A wide view of the painted world under alternating day and night: golden daylight over one half, silver night with stars over the other, and the brush drawing a clean luminous boundary between them; then the brush descends to the bottom edge and adds the fourth thin golden line beside the other three, all four now gleaming in a row",
    "imagem_pt_revisao": "Vista ampla do mundo pintado sob dia e noite alternados: metade em ouro, metade em prata com estrelas, e o pincel traçando a fronteira luminosa. Depois ele desce e acrescenta a quarta linha dourada, junto das outras três.",
@@ -150,8 +184,11 @@
    "video_pt_revisao": "O lado do dia clareia enquanto o da noite escurece, a fronteira se afina e o pincel acrescenta a quarta linha dourada, que brilha junto das outras.",
    "narracao": "Para governar o dia e a noite. E Eu vi que era bom. O quarto dia.",
    "texto_passagem_pt": "para governar o dia e a noite, e para fazer separação entre a luz e as trevas. E viu Deus que isso era bom. E foi a tarde e a manhã, o dia quarto.",
-   "legenda_pt": "E foi a tarde e a manhã, o dia quarto.",
-   "sfx": ["sino do quarto dia", "transição tonal", "estrelas"],
+   "sfx": [
+    "sino do quarto dia",
+    "transição tonal",
+    "estrelas"
+   ],
    "trilha": "tema principal em versão ampla",
    "continuidade": "4ª linha dourada no rodapé."
   },
@@ -159,7 +196,9 @@
    "titulo": "Produzam as Águas",
    "pincel": true,
    "referencia": "Gênesis 1:20",
-   "versiculos": [20],
+   "versiculos": [
+    20
+   ],
    "acao_cena_pt": "O pincel desce até o mar e o ato de pintar agita a água: cardumes brotam da tinta como se a tinta fosse a própria vida. O céu se enche de aves.",
    "imagem_scene_en": "The brush plunging into the painted ocean, and where the bristles touch the water the paint itself comes alive: shoals of fish erupt from curling strokes of turquoise and silver, a whole living ocean boiling with movement; simultaneously the same brush sweeps upward and the wet strokes in the sky take wing as birds flocking in formation",
    "imagem_pt_revisao": "O pincel mergulha no oceano pintado e onde as cerdas tocam a água a tinta ganha vida: cardumes irrompem de pinceladas turquesa e prata, um oceano vivo fervilhando. No mesmo gesto, o pincel sobe e os traços úmidos do céu viram aves em formação.",
@@ -169,8 +208,12 @@
    "video_pt_revisao": "Peixes irrompem das pinceladas e se espalham pelas profundezas; aves explodem da tinta úmida no céu e giram em bando; a câmera vai da água ao ar num só movimento.",
    "narracao": "Eu disse: produzam as águas cardumes de seres viventes, e voem as aves pelo céu.",
    "texto_passagem_pt": "E disse Deus: Produzam as águas cardumes de seres viventes; e voem as aves acima da terra no firmamento do céu.",
-   "legenda_pt": "Produzam as águas cardumes de seres viventes.",
-   "sfx": ["água agitada", "cardume rompendo", "asas batendo", "gritos de aves"],
+   "sfx": [
+    "água agitada",
+    "cardume rompendo",
+    "asas batendo",
+    "gritos de aves"
+   ],
    "trilha": "cordas rápidas e leves, flautas",
    "continuidade": "Primeira vida animal da série."
   },
@@ -178,7 +221,9 @@
    "titulo": "Os Grandes Monstros do Mar",
    "pincel": true,
    "referencia": "Gênesis 1:21",
-   "versiculos": [21],
+   "versiculos": [
+    21
+   ],
    "acao_cena_pt": "Das águas sobem os taninim: criaturas gigantescas, silenciosas, antigas. Não são monstros — são grandes. E o pincel passa ao lado de uma delas, minúsculo diante daquela escala.",
    "imagem_scene_en": "Colossal sea creatures rising from the painted deep — enormous whales and primeval leviathans with wet skin still shining like fresh paint, barnacled and ancient, moving with slow majesty past the tiny floating brush; sunlight dappled through the surface above them; the scale is overwhelming and profoundly peaceful, nothing monstrous, only greatness",
    "imagem_pt_revisao": "Criaturas marinhas colossais sobem das profundezas pintadas: baleias imensas e leviatãs primevos com a pele molhada brilhando como tinta fresca, passando com majestade lenta perto do pequeno pincel flutuante. Nada de monstruoso: apenas grandeza.",
@@ -188,8 +233,11 @@
    "video_pt_revisao": "Os gigantes deslizam devagar, os flancos agitam a água em espirais de pigmento, a luz da superfície ondula por suas costas e cardumes menores os acompanham.",
    "narracao": "Criei os grandes monstros do mar, e todos os seres que a água produz — e vi que era bom.",
    "texto_passagem_pt": "Criou, pois, Deus os monstros marinhos, e todos os seres viventes que se arrastavam, os quais as águas produziram abundantemente segundo as suas espécies; e toda ave que voa, segundo a sua espécie. E viu Deus que isso era bom.",
-   "legenda_pt": "Criou Deus os monstros marinhos… e viu que era bom.",
-   "sfx": ["canto de baleia grave", "água profunda", "bolhas"],
+   "sfx": [
+    "canto de baleia grave",
+    "água profunda",
+    "bolhas"
+   ],
    "trilha": "cordas muito graves, quase um gemido",
    "continuidade": "Escala máxima do episódio: o pincel deve parecer pequeno."
   },
@@ -197,7 +245,9 @@
    "titulo": "A Primeira Bênção",
    "pincel": true,
    "referencia": "Gênesis 1:22",
-   "versiculos": [22],
+   "versiculos": [
+    22
+   ],
    "acao_cena_pt": "Pela primeira vez na Bíblia, Deus abençoa alguém. O pincel não pinta: ele passa por cima das criaturas, e a tinta se transforma em bênção — os peixes se multiplicam, as aves se espalham.",
    "imagem_scene_en": "The brush moving in a slow blessing gesture over the ocean and the sky, trailing not paint but shimmering light that falls on the creatures below; where the light touches, fish multiply in clouds of silver and birds spread across the horizon in countless flocks; the whole canvas swarms with multiplying life",
    "imagem_pt_revisao": "O pincel faz um gesto lento de bênção sobre o mar e o céu, deixando para trás não tinta, mas luz cintilante que cai sobre as criaturas. Onde a luz toca, peixes se multiplicam em nuvens de prata e aves se espalham pelo horizonte.",
@@ -207,8 +257,11 @@
    "video_pt_revisao": "Cardumes dobram e dobram outra vez em nuvens de prata, bandos de aves se abrem por todo o céu até o horizonte se encher de asas; a luz da bênção fica no ar como poeira suspensa.",
    "narracao": "E os abençoei, dizendo: frutificai, multiplicai-vos, enchei os mares.",
    "texto_passagem_pt": "Então Deus os abençoou, dizendo: Frutificai e multiplicai-vos, e enchei as águas dos mares; e multipliquem-se as aves sobre a terra.",
-   "legenda_pt": "Frutificai e multiplicai-vos.",
-   "sfx": ["coro alegre", "revoada", "água fervilhando de vida"],
+   "sfx": [
+    "coro alegre",
+    "revoada",
+    "água fervilhando de vida"
+   ],
    "trilha": "tema principal em modo maior, jubiloso",
    "continuidade": "Primeira bênção da Bíblia: o quadro deve parecer 'demais', cheio."
   },
@@ -216,7 +269,9 @@
    "titulo": "O Quinto Dia",
    "pincel": true,
    "referencia": "Gênesis 1:23",
-   "versiculos": [23],
+   "versiculos": [
+    23
+   ],
    "acao_cena_pt": "Fim do quinto dia. O pincel desce ao rodapé e acrescenta a quinta linha dourada, entre o mar e o céu.",
    "imagem_scene_en": "A calm, satisfied wide shot of the created ocean and sky at the close of the fifth day, everything still glistening and alive; the brush descends and lays the fifth thin golden line along the bottom edge, joining the four already there; the five lines glow in a neat row like tally marks of creation",
    "imagem_pt_revisao": "Plano amplo e sereno do mar e do céu criados ao fim do quinto dia, tudo ainda brilhando e vivo. O pincel desce e traça a quinta linha dourada no rodapé, junto das quatro anteriores, que brilham em fila.",
@@ -226,8 +281,11 @@
    "video_pt_revisao": "O mar se acalma, as aves pousam na água e o pincel traça a quinta linha dourada, que brilha junto das outras quatro.",
    "narracao": "E foi a tarde e a manhã: o quinto dia.",
    "texto_passagem_pt": "E foi a tarde e a manhã, o dia quinto.",
-   "legenda_pt": "E foi a tarde e a manhã, o dia quinto.",
-   "sfx": ["sino do quinto dia", "aves ao longe", "ondas mansas"],
+   "sfx": [
+    "sino do quinto dia",
+    "aves ao longe",
+    "ondas mansas"
+   ],
    "trilha": "coda serena com harpa",
    "continuidade": "5ª linha dourada. O rodapé já tem cinco marcas de sete."
   },
@@ -235,7 +293,9 @@
    "titulo": "Produza a Terra Seres Viventes",
    "pincel": true,
    "referencia": "Gênesis 1:24",
-   "versiculos": [24],
+   "versiculos": [
+    24
+   ],
    "acao_cena_pt": "O pincel corre pela terra firme e deixa rastros que viram patas: animais domésticos, répteis, feras. O continente se enche de movimentos.",
    "imagem_scene_en": "The brush racing low across the painted land and leaving a trail of claw marks and hoofprints that swell into living animals: cattle grazing, small reptiles sliding through grass, great wild beasts shaking off wet paint as they rise; the ground steams with fresh pigment, and every creature looks freshly formed and slick with life",
    "imagem_pt_revisao": "O pincel corre baixo pela terra pintada e deixa rastros de patas e cascos que incham e viram animais vivos: gado pastando, répteis deslizando no capim, feras grandes sacudindo a tinta úmida ao se levantar. O chão fumega com pigmento fresco.",
@@ -245,8 +305,11 @@
    "video_pt_revisao": "Pegadas e garras se enchem de vida conforme o pincel passa, animais se levantam da tinta úmida e dão os primeiros passos, um leão sacode pigmento da juba e manadas se espalham pela planície.",
    "narracao": "Eu disse: produza a terra seres viventes de toda espécie. E assim foi.",
    "texto_passagem_pt": "E disse Deus: Produza a terra seres viventes segundo as suas espécies: animais domésticos, répteis, e animais selvagens segundo as suas espécies. E assim foi.",
-   "legenda_pt": "Produza a terra seres viventes. E assim foi.",
-   "sfx": ["cascos", "rugido distante", "ervas sendo abertas"],
+   "sfx": [
+    "cascos",
+    "rugido distante",
+    "ervas sendo abertas"
+   ],
    "trilha": "percussão de tambores graves entrando",
    "continuidade": "GANCHO: sobra um espaço na tela, ainda sem forma — o homem será pintado no próximo episódio (EP-0004)."
   }

@@ -26,7 +26,9 @@
    "titulo": "As Feras e o Gado",
    "pincel": true,
    "referencia": "Gênesis 1:25",
-   "versiculos": [25],
+   "versiculos": [
+    25
+   ],
    "acao_cena_pt": "O pincel termina de dar forma às feras, ao gado e a tudo que rasteja. Cada um segundo a sua espécie — e nenhum igual ao outro.",
    "imagem_scene_en": "A wide plain full of freshly painted animals, all still glossy and improbable with life: great wild beasts, cattle, and small creatures crawling through the grass, each with its own distinct design; the floating brush hovers right above them all, small in the frame, and every creature's eye catches the light; a deep, satisfied stillness under a warm sun",
    "imagem_pt_revisao": "Planície cheia de animais recém-pintados, todos ainda brilhantes e vivos: feras, gado e pequenos répteis no capim, cada um com seu próprio desenho. O pincel paira sobre todos, pequeno no quadro, e o olho de cada criatura pega a luz.",
@@ -36,8 +38,11 @@
    "video_pt_revisao": "Manadas se ajustam e se acomodam, pequenas criaturas deslizam pelo capim, uma fera grande vira a cabeça para a luz; a câmera desliza sobre a planície criada e o pincel paira, esperando.",
    "narracao": "Fiz os animais selvagens, os domésticos e tudo o que rasteja. E vi que era bom.",
    "texto_passagem_pt": "Deus, pois, fez os animais selvagens segundo as suas espécies, e os animais domésticos segundo as suas espécies, e todos os répteis da terra segundo as suas espécies. E viu Deus que isso era bom.",
-   "legenda_pt": "E viu Deus que isso era bom.",
-   "sfx": ["animais ao longe", "vento na planície", "silêncio de expectativa"],
+   "sfx": [
+    "animais ao longe",
+    "vento na planície",
+    "silêncio de expectativa"
+   ],
    "trilha": "cordas suspensas, algo por vir",
    "continuidade": "O pincel fica PARADO por todo o frame: é o momento antes da decisão mais importante da história."
   },
@@ -45,7 +50,9 @@
    "titulo": "Façamos o Homem",
    "pincel": true,
    "referencia": "Gênesis 1:26",
-   "versiculos": [26],
+   "versiculos": [
+    26
+   ],
    "acao_cena_pt": "O pincel para no ar, carregado de tinta, sem tocar a tela. É a única vez na criação em que Deus delibera antes de criar: 'Façamos'.",
    "imagem_scene_en": "The brush frozen mid-air, loaded to the tip with rich warm pigment, hovering over a patch of the canvas that is still raw, empty linen — the only unpainted area left in the entire world; all around it the finished creation holds its breath; a single heavy drop of paint swells and shivers at the bristle tip without falling; the light bends slightly around the space where something is about to be made",
    "imagem_pt_revisao": "O pincel congelado no ar, carregado de tinta quente na ponta, pairando sobre um pedaço de tela ainda crua e vazia — a única área não pintada do mundo inteiro. Toda a criação ao redor prende a respiração; uma gota pesada incha na ponta sem cair.",
@@ -55,8 +62,11 @@
    "video_pt_revisao": "A gota incha e treme sem cair, a area crua da tela parece pulsar de expectativa, a criação ao redor fica perfeitamente imóvel e a luz se concentra no espaço vazio.",
    "narracao": "E Eu disse: façamos o homem à Minha imagem, conforme a Minha semelhança.",
    "texto_passagem_pt": "E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; domine ele sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos, e sobre toda a terra, e sobre todo réptil que se arrasta sobre a terra.",
-   "legenda_pt": "Façamos o homem à nossa imagem.",
-   "sfx": ["silêncio quase total", "tensão em corda fina", "respiração"],
+   "sfx": [
+    "silêncio quase total",
+    "tensão em corda fina",
+    "respiração"
+   ],
    "trilha": "piano solo, notas isoladas e suspensas",
    "continuidade": "Ponto de virada da série: o quadro fica vazio no centro."
   },
@@ -64,7 +74,9 @@
    "titulo": "Dominai Sobre a Terra",
    "pincel": true,
    "referencia": "Gênesis 1:26",
-   "versiculos": [26],
+   "versiculos": [
+    26
+   ],
    "acao_cena_pt": "Antes de pintar o homem, o pincel desenha o mundo que ele vai governar: peixes, aves, gado, feras e tudo o que rasteja passam em revista, como um inventário de autoridade entregue antes do nascimento.",
    "imagem_scene_en": "The brush sweeping a vast horizontal gesture across the whole composition, and as it passes, each order of creation is summoned into a line as if presented for inspection: fish breaking the surface, birds hovering, cattle and wild beasts standing side by side, small creatures crawling between them; the raw empty patch of canvas remains in the middle, still untouched, waiting for the one who will rule over all of this",
    "imagem_pt_revisao": "O pincel faz um gesto horizontal amplo sobre toda a composição e, conforme passa, cada ordem da criação se apresenta em fila: peixes na superfície, aves pairando, gado e feras lado a lado, pequenas criaturas no meio. A área crua da tela continua no centro, intocada, esperando aquele que vai governar tudo isso.",
@@ -74,8 +86,11 @@
    "video_pt_revisao": "As criaturas entram em fila uma a uma conforme o pincel passa, cada uma virando-se para o espaço vazio no centro; peixes saltam em sequência, aves batem as asas em uníssono e a criação inteira parece ficar em posição de sentido.",
    "narracao": "Domine ele sobre os peixes, as aves, o gado e sobre tudo o que rasteja na terra.",
    "texto_passagem_pt": "…domine ele sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos, e sobre toda a terra, e sobre todo réptil que se arrasta sobre a terra.",
-   "legenda_pt": "…e domine sobre toda a terra.",
-   "sfx": ["asas em uníssono", "peixes saltando em sequência", "tambores marciais suaves"],
+   "sfx": [
+    "asas em uníssono",
+    "peixes saltando em sequência",
+    "tambores marciais suaves"
+   ],
    "trilha": "metais graves introduzindo o tema de autoridade",
    "continuidade": "Prepara o frame seguinte: o mesmo espaço vazio ganha a forma humana."
   },
@@ -83,7 +98,9 @@
    "titulo": "A Imagem de Deus",
    "pincel": true,
    "referencia": "Gênesis 1:27",
-   "versiculos": [27],
+   "versiculos": [
+    27
+   ],
    "acao_cena_pt": "O primeiro traço é diferente de todos: fino, cuidadoso, quase carinhoso. Não é um borrão de vida — é um rosto que se forma. E, ao terminar, o pincel se afasta devagar.",
    "imagem_scene_en": "The most careful brushstroke of the entire film: a fine, tender line drawn on the raw canvas that blooms into a human face and body taking shape out of wet paint; the brush moves with deliberate care, almost reverence, as if painting something it loves; around the forming figure the rest of creation leans in, and the light on the new face is the softest light in the whole painting",
    "imagem_pt_revisao": "A pincelada mais cuidadosa de todo o filme: um traço fino e terno sobre a tela crua, que floresce num rosto e num corpo humano tomando forma na tinta úmida. O pincel se move com reverência, como quem pinta algo que ama.",
@@ -93,8 +110,11 @@
    "video_pt_revisao": "O traço fino floresce num rosto: pele, testa e olhos se formando no pigmento úmido; o peito se levanta na primeira respiração; o pincel recua alguns centímetros como em reverência.",
    "narracao": "Criei o homem à Minha imagem. À imagem de Deus Eu o criei.",
    "texto_passagem_pt": "Criou, pois, Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.",
-   "legenda_pt": "Criou Deus o homem à sua imagem.",
-   "sfx": ["primeira respiração", "batimento cardíaco", "coro suave entrando"],
+   "sfx": [
+    "primeira respiração",
+    "batimento cardíaco",
+    "coro suave entrando"
+   ],
    "trilha": "tema principal em sua forma mais terna, violino solo",
    "continuidade": "FRAME-CHAVE DA SÉRIE. Luz mais suave de todo o projeto."
   },
@@ -102,7 +122,9 @@
    "titulo": "Homem e Mulher",
    "pincel": true,
    "referencia": "Gênesis 1:27",
-   "versiculos": [27],
+   "versiculos": [
+    27
+   ],
    "acao_cena_pt": "O pincel dá um segundo traço, lado a lado com o primeiro, e as duas figuras se olham pela primeira vez. Nenhuma é cópia da outra — as duas são imagem.",
    "imagem_scene_en": "Two human figures standing side by side on the newly painted earth, both formed from the same wet pigment, both unmistakably bearing the same light in their faces; they turn and look at each other for the first time; the brush hovers behind them, having just finished the second stroke, and the whole horizon behind them glows with new light",
    "imagem_pt_revisao": "Duas figuras humanas lado a lado na terra recém-pintada, ambas formadas do mesmo pigmento úmido, ambas carregando a mesma luz no rosto. Elas se viram e se olham pela primeira vez. O pincel paira atrás delas, recém-terminado o segundo traço.",
@@ -112,8 +134,11 @@
    "video_pt_revisao": "As duas figuras se viram uma para a outra em câmera lenta, os olhos se encontram pela primeira vez e a expressão passa de espanto a reconhecimento; a luz contorna ambos e o pincel flutua devagar atrás.",
    "narracao": "Homem e mulher os criei. Os dois, iguais diante de Mim.",
    "texto_passagem_pt": "…homem e mulher os criou.",
-   "legenda_pt": "Homem e mulher os criou.",
-   "sfx": ["duas respirações", "vento leve", "coro a duas vozes"],
+   "sfx": [
+    "duas respirações",
+    "vento leve",
+    "coro a duas vozes"
+   ],
    "trilha": "dois temas em contraponto, resolvendo em harmonia",
    "continuidade": "As duas figuras devem manter exatamente a mesma luz facial do frame anterior."
   },
@@ -121,7 +146,9 @@
    "titulo": "A Bênção e o Domínio",
    "pincel": true,
    "referencia": "Gênesis 1:28",
-   "versiculos": [28],
+   "versiculos": [
+    28
+   ],
    "acao_cena_pt": "Deus os abençoa e entrega o mundo nas mãos deles. O pincel passa sobre os dois num gesto largo, e a criação inteira se inclina para eles.",
    "imagem_scene_en": "The brush sweeping a broad blessing gesture over the two humans, trailing light that settles on their heads and hands; as the blessing falls, the whole created world seems to bow toward them — fish leaping at the surface, birds wheeling lower, herds turning to face them; the two stand at the centre of an enormous painted landscape that now belongs to them",
    "imagem_pt_revisao": "O pincel faz um gesto largo de bênção sobre os dois humanos, deixando luz que se assenta sobre suas cabeças e mãos; o mundo criado inteiro parece se inclinar na direção deles: peixes saltando, aves descendo, manadas virando-se para eles.",
@@ -131,8 +158,11 @@
    "video_pt_revisao": "A luz da bênção desce sobre o casal, peixes saltam, aves passam baixo, manadas se viram; a câmera recua revelando o tamanho do mundo que lhes foi entregue.",
    "narracao": "E os abençoei: frutificai, enchei a terra e sujeitai-a. Dominai sobre tudo o que Eu fiz.",
    "texto_passagem_pt": "Então Deus os abençoou e lhes disse: Frutificai e multiplicai-vos; enchei a terra e sujeitai-a; dominai sobre os peixes do mar, sobre as aves do céu e sobre todos os animais que se arrastam sobre a terra.",
-   "legenda_pt": "Frutificai e multiplicai-vos; enchei a terra.",
-   "sfx": ["coro amplo", "vida selvagem em movimento", "vento"],
+   "sfx": [
+    "coro amplo",
+    "vida selvagem em movimento",
+    "vento"
+   ],
    "trilha": "tema principal completo com orquestra",
    "continuidade": "Escala máxima: as figuras ficam pequenas no quadro."
   },
@@ -140,7 +170,9 @@
    "titulo": "Eis Que Vos Tenho Dado",
    "pincel": true,
    "referencia": "Gênesis 1:29",
-   "versiculos": [29],
+   "versiculos": [
+    29
+   ],
    "acao_cena_pt": "Deus entrega o alimento: toda erva com semente e toda árvore com fruto. O pincel pinga cores comestíveis sobre as mãos abertas dos dois — e cada fruto se torna real e pesado.",
    "imagem_scene_en": "A bounty of seed-bearing plants and fruit trees being offered to the two humans as if painted directly onto their open hands: grains, figs, grapes, wheat; the brush dabs colour after colour, and each dab swells into a real, heavy, ripe fruit resting in their palms; juice catches the light on the surface of the fruit",
    "imagem_pt_revisao": "Abundância de plantas com semente e árvores frutíferas oferecidas aos dois humanos, como se fossem pintadas diretamente em suas mãos abertas: trigo, figos, uvas. O pincel pinga cor após cor e cada pincelada incha num fruto real e pesado. O suco pega a luz na superfície.",
@@ -150,8 +182,11 @@
    "video_pt_revisao": "Cada pincelada incha e vira um fruto real e pesado nas mãos, gotas de suco se formam e pegam a luz; as mãos se fecham suavemente em torno do presente.",
    "narracao": "E vos dei toda erva com semente e todo fruto das árvores, para o vosso alimento.",
    "texto_passagem_pt": "Disse-lhes mais: Eis que vos tenho dado todas as ervas que produzem semente, as quais se acham sobre a face de toda a terra, bem como todas as árvores em que há fruto que dê semente; ser-vos-ão para mantimento.",
-   "legenda_pt": "Eis que vos tenho dado todas as ervas… por mantimento.",
-   "sfx": ["fruto colhido", "suco estalando", "vento no trigo"],
+   "sfx": [
+    "fruto colhido",
+    "suco estalando",
+    "vento no trigo"
+   ],
    "trilha": "cordas leves e flautas, pastoril",
    "continuidade": "Primeiro frame 'doméstico' da série — comida nas mãos."
   },
@@ -159,7 +194,9 @@
    "titulo": "O Verde do Campo",
    "pincel": true,
    "referencia": "Gênesis 1:30",
-   "versiculos": [30],
+   "versiculos": [
+    30
+   ],
    "acao_cena_pt": "Agora é a vez dos animais: o pincel passa baixo, rente ao chão, e o verde do campo se espalha atrás dele. Cada criatura baixa a cabeça para comer.",
    "imagem_scene_en": "The brush passing low along the ground and leaving a carpet of green plants spreading behind it; as the green reaches them, every animal lowers its head to eat — cattle, wild beasts, even the smallest creeping things, and birds dropping from the air to peck seeds from the grass; insects stir among the stems, and the whole plain turns living green",
    "imagem_pt_revisao": "O pincel passa baixo, rente ao chão, e deixa um tapete de plantas verdes se espalhando atrás dele. Conforme o verde os alcança, cada animal baixa a cabeça para comer: gado, feras, até os menores répteis, e aves descendo do ar para ciscar entre o capim. Insetos se movem entre os caules.",
@@ -169,8 +206,11 @@
    "video_pt_revisao": "As plantas se espalham pelo chão conforme o pincel passa, os animais entram no verde novo e baixam a cabeça, aves pousam e ciscam; a câmera sobe mostrando a planície inteira viva e se alimentando.",
    "narracao": "E a todos os animais dei o verde do campo por alimento. E assim foi.",
    "texto_passagem_pt": "E a todos os animais da terra, a todas as aves do céu e a todo ser vivente que se arrasta sobre a terra, tenho dado todas as ervas verdes como mantimento. E assim foi.",
-   "legenda_pt": "Tenho dado todas as ervas verdes como mantimento.",
-   "sfx": ["animais pastando", "ciscar de aves", "ventania leve no capim"],
+   "sfx": [
+    "animais pastando",
+    "ciscar de aves",
+    "ventania leve no capim"
+   ],
    "trilha": "cordas pastoris em movimento contínuo",
    "continuidade": "Fecha o tema do alimento: primeiro o homem, depois os animais."
   },
@@ -178,7 +218,9 @@
    "titulo": "Muito Bom",
    "pincel": true,
    "referencia": "Gênesis 1:31",
-   "versiculos": [31],
+   "versiculos": [
+    31
+   ],
    "acao_cena_pt": "O pincel recua até o limite da tela e olha tudo. Pela primeira vez, o texto não diz apenas 'bom': diz 'muito bom'. E o quadro… está lindo.",
    "imagem_scene_en": "An enormous pull-back revealing the entire finished painting of the whole creation in a single frame: the cosmos, the sea, the sky, the animals, the garden and the two humans in the centre, all coherent and alive and seen as one continuous oil painting on one giant canvas; the brush floats far away at the extreme edge of the composition, tiny now, and the whole image glows with satisfaction; the sixth day's golden line completes the row at the bottom",
    "imagem_pt_revisao": "Recuo enorme revelando a pintura inteira da criação num só quadro: o cosmos, o mar, o céu, os animais, o jardim e os dois humanos no centro, tudo coerente e vivo, como uma só pintura a óleo numa tela gigante. O pincel flutua longe, na borda extrema, agora minúsculo.",
@@ -188,8 +230,11 @@
    "video_pt_revisao": "A câmera recua até a criação inteira caber num quadro, com todos os seres vivos se movendo em harmonia; o pincel vai até a borda e acrescenta a sexta linha dourada no rodapé, e a tela se equilibra.",
    "narracao": "E Eu vi tudo o que tinha feito — e eis que era muito bom.",
    "texto_passagem_pt": "E viu Deus tudo quanto fizera, e eis que era muito bom. E foi a tarde e a manhã, o dia sexto.",
-   "legenda_pt": "E eis que era muito bom.",
-   "sfx": ["coro pleno", "toda a vida soando junta", "sino do sexto dia"],
+   "sfx": [
+    "coro pleno",
+    "toda a vida soando junta",
+    "sino do sexto dia"
+   ],
    "trilha": "clímax orquestral de toda a criação",
    "continuidade": "FRAME MAIS AMPLO DA SÉRIE. 6ª linha dourada."
   },
@@ -197,7 +242,9 @@
    "titulo": "Assim Foram Acabados",
    "pincel": true,
    "referencia": "Gênesis 2:1",
-   "versiculos": [1],
+   "versiculos": [
+    1
+   ],
    "acao_cena_pt": "A obra está completa. O pincel limpa a ponta na borda da tela, um gesto pequeno e humano, e a tinta respinga no vazio.",
    "imagem_scene_en": "The brush wiping its bristles clean against the edge of the enormous canvas in a small, almost human gesture, leaving a tiny smeared streak of mixed pigment on the border; behind it the entire finished creation stands complete under a sky that has nowhere left to be filled; a single drop of leftover paint falls and hangs in the void beyond the frame",
    "imagem_pt_revisao": "O pincel limpa as cerdas na borda da tela enorme, num gesto pequeno e quase humano, deixando um borrão de pigmento misturado na borda. Atrás dele, a criação inteira está completa. Uma gota de tinta sobra e cai no vazio além da moldura.",
@@ -207,8 +254,11 @@
    "video_pt_revisao": "O pincel raspa as cerdas na borda duas vezes, deixando um borrão; a gota que sobra cai devagar além da moldura, no escuro, e a criação terminada brilha quieta atrás.",
    "narracao": "Assim foram acabados os céus, a terra e tudo o que neles há.",
    "texto_passagem_pt": "Assim foram acabados os céus e a terra, com todo o seu exército.",
-   "legenda_pt": "Assim foram acabados os céus e a terra.",
-   "sfx": ["pincel raspando a borda", "gota caindo", "silêncio amplo"],
+   "sfx": [
+    "pincel raspando a borda",
+    "gota caindo",
+    "silêncio amplo"
+   ],
    "trilha": "tema principal em versão desacelerada, quase terminando",
    "continuidade": "Momento de silêncio antes do descanso."
   },
@@ -216,7 +266,9 @@
    "titulo": "Descansou no Sétimo Dia",
    "pincel": true,
    "referencia": "Gênesis 2:2",
-   "versiculos": [2],
+   "versiculos": [
+    2
+   ],
    "acao_cena_pt": "O pincel se afasta da tela e simplesmente para. Não há mais nada a pintar. O silêncio do descanso é a coisa mais sagrada do episódio.",
    "imagem_scene_en": "The brush drifting slowly backwards away from the finished canvas and coming to rest, motionless, in total stillness; the painting is finished and alive but perfectly calm; a deep blue quiet settles over everything, the light dimming to the gentlest possible glow, and the space between the brush and the painting is filled with a profound, holy silence",
    "imagem_pt_revisao": "O pincel se afasta devagar da tela terminada e para, imóvel, em quietude total. A pintura está pronta e viva, mas perfeitamente calma. Um azul profundo se assenta sobre tudo e uma quietude sagrada preenche o espaço entre o pincel e a pintura.",
@@ -226,9 +278,12 @@
    "video_pt_revisao": "O pincel recua e para; nada mais se move, exceto a respiração leve do mundo terminado; as linhas douradas no rodapé brilham suave no escuro, e a poeira assenta.",
    "narracao": "E no sétimo dia Eu terminei a Minha obra e descansei de tudo o que tinha feito.",
    "texto_passagem_pt": "Ora, havendo Deus completado no dia sétimo a obra que tinha feito, descansou nesse dia de toda a obra que fizera.",
-   "legenda_pt": "E descansou no sétimo dia.",
    "nota_producao": "VARIANTE TEXTUAL (ver estudo/01-fidelidade-textual-da-tora.md): o hebraico massorético diz 'no sétimo dia' (בַּיּוֹם הַשְּׁבִיעִי). A Septuaginta de Swete e a Peshitta siríaca trazem 'no sexto dia' (τῇ ἕκτῃ / ܫܬܝܬܝܐ), porque nessa leitura Deus teria terminado a obra no sexto dia e descansado no sétimo. A narração segue o hebraico massorético — o mesmo texto da Bíblia em português. Na tela final, exibir um pequeno letreiro discreto com as duas leituras.",
-   "sfx": ["silêncio", "respiração profunda do mundo criado", "nota sustentada muito longa"],
+   "sfx": [
+    "silêncio",
+    "respiração profunda do mundo criado",
+    "nota sustentada muito longa"
+   ],
    "trilha": "uma única nota de piano que fica soando; nenhum outro instrumento",
    "continuidade": "Silêncio absoluto: contraponto direto ao frame 1 do Prelúdio (EP-0001)."
   },
@@ -236,7 +291,9 @@
    "titulo": "Abençoou e Santificou o Sétimo Dia",
    "pincel": true,
    "referencia": "Gênesis 2:3",
-   "versiculos": [3],
+   "versiculos": [
+    3
+   ],
    "acao_cena_pt": "A conclusão: o pincel traça a sétima linha dourada e depois — pela primeira vez — pousa. A moldura está completa. Sete linhas. Sete dias. E o quadro, pronto, vai continuar vivo.",
    "imagem_scene_en": "The brush drawing the seventh and final golden line along the bottom edge of the canvas; then, with the seven lines complete and gleaming in a perfect row like the tally of creation, the brush slowly lays itself down and comes to rest on the raw linen, bristles still wet; the finished painting glows behind it, alive and complete, filling the entire frame; the final image is the whole creation as one single oil painting, signed by no one — because the painter is invisible",
    "imagem_pt_revisao": "O pincel traça a sétima e última linha dourada no rodapé; então, com as sete linhas completas e brilhando em fila perfeita, o pincel baixa e pousa sobre o linho cru, com as cerdas ainda molhadas. A pintura terminada brilha atrás dele, viva e completa, preenchendo todo o quadro. A imagem final é a criação inteira como uma só pintura a óleo.",
@@ -246,8 +303,11 @@
    "video_pt_revisao": "A sétima linha dourada é traçada e as sete brilham juntas; o pincel baixa devagar sobre o linho e finalmente para de se mover; o mundo terminado respira uma vez e se acomoda; segura-se o plano geral da pintura completa.",
    "narracao": "E abençoei o sétimo dia e o santifiquei — porque nele Eu descansei de toda a Minha obra. Foi assim que tudo começou.",
    "texto_passagem_pt": "Abençoou Deus o sétimo dia, e o santificou; porque nele descansou de toda a sua obra que criara e fizera.",
-   "legenda_pt": "E abençoou Deus o sétimo dia, e o santificou.",
-   "sfx": ["pincel pousando suavemente", "sino único", "silêncio que permanece depois do corte"],
+   "sfx": [
+    "pincel pousando suavemente",
+    "sino único",
+    "silêncio que permanece depois do corte"
+   ],
    "trilha": "tema principal em versão final, completa, deixando a última nota suspensa",
    "continuidade": "FECHAMENTO DO BLOCO DA CRIAÇÃO. 7 linhas douradas. O pincel fica pousado aqui — só voltará no Gênesis 3, quando a serpente pintar fora das linhas."
   }
