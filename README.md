@@ -31,14 +31,28 @@ Projeto que transforma **a Bíblia inteira** em uma série de episódios de 60 s
 | ✅ Plano completo dos 3.466 episódios | `roteiro/indice_episodios.json` · `roteiro/plano_episodios.csv` |
 | ✅ Índice geral legível | `roteiro/INDICE-GERAL.md` |
 | ✅ Plano da Temporada Extra (69 obras) | `roteiro/INDICE-TEMPORADA-EXTRA.md` |
-| ✅ **Os 4 primeiros episódios prontos em JSON** (Prelúdio + bloco da Criação completo) | `roteiro/episodios/EP-0001.json` a `EP-0004.json` |
+| ✅ **FOLHAS DE PROMPT prontas para produção (Seedance 1.5 Pro)** | `prompts/EPISODIO-00-PRELUDIO-prompts.md` a `EPISODIO-03-...` (+ `.txt` e `TODOS-OS-EPISODIOS.md`) |
+| ✅ Os 4 primeiros episódios (Prelúdio + bloco da Criação completo) | `roteiro/episodios/EP-0001.json` a `EP-0004.json` |
 | ✅ Guia para roteirizar os próximos episódios | `roteiro/COMO-ROTEIRIZAR.md` |
 | ✅ Estudo de fidelidade textual da Torá | `estudo/01-fidelidade-textual-da-tora.md` |
 | ✅ Transcrição de pergaminhos reais e comparação | `estudo/02-pergaminhos-transcricao-e-comparacao.md` |
 | ✅ Comparação da Torá versículo a versículo (CSV) | `estudo/comparacao-tora/*.csv` |
 | 🔜 Episódios EP-0005 a EP-3466 (mesmo molde, prontos para produzir) | `roteiro/curadoria/` |
 
-### O que cada episódio JSON entrega
+### A folha de prompt de cada frame (é o que você usa para produzir)
+
+A pasta `prompts/` traz, para cada episódio, **uma folha pronta em `.md` e `.txt`**: 12 frames, e em cada frame, nesta ordem:
+
+1. 🎙️ **A FALA da voz de Deus em PT-BR** (e o texto bíblico do versículo)
+2. 🖼️ **PROMPT DE IMAGEM** (inglês) + parâmetros do Midjourney + negative prompt
+3. 🎬 **PROMPT DE VÍDEO para o Seedance 1.5 Pro** — com a fala entre aspas dentro dele, para o vídeo sair **já com a voz e o som**
+4. ⚙️ Ajustes (`5 s`, `16:9`/`9:16`, `720p→1080p`, `generate_audio: ON`) e 💬 a legenda para queimar na edição
+
+O prompt de vídeo segue as **4 camadas** que o Seedance 1.5 Pro entende: cena e ação → diálogo (com locutor, idioma e tom) → som ambiente e efeitos → estilo e câmera. A voz é sempre **em off** (Deus não aparece), então não há boca para sincronizar; quando houver fala de personagem humano, o script acrescenta a marcação de lip-sync.
+
+Gerar as folhas: `python3 ferramentas/06_gerar_prompts_seedance.py`
+
+### O que cada episódio JSON entrega (dados internos)
 
 12 frames, cada um com:
 

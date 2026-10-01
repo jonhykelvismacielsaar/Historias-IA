@@ -1,0 +1,466 @@
+# EPISÓDIO 0 — O VAZIO, A VOZ E O PRIMEIRO TRAÇO
+
+**Passagem:** Prelúdio original — a Voz de Deus antes de Gênesis 1:1 (ancorado em Gênesis 1:1-3)  
+**Livro:** Prelúdio · **Temporada:** PRELÚDIO  
+**Estrutura:** 12 frames × 5 segundos = 60 segundos  
+**Narração:** DEUS — o Criador narrando a própria obra  
+
+## COMO USAR ESTA FOLHA
+
+1. Copie o **PROMPT DE IMAGEM** e gere o quadro na sua IA de imagem (Midjourney, Flux, SDXL…).
+2. Pegue a imagem gerada e suba no **Seedance 1.5 Pro** (modo imagem-para-vídeo).
+3. Cole o **PROMPT DE VÍDEO** do mesmo frame — ele já traz a fala, o som e a câmera.
+4. Gere **5 segundos** com **áudio ligado**. A voz sai junto com o vídeo.
+5. Repita para os 12 frames e emende na edição, queimando a **LEGENDA** de cada um.
+
+**Ajustes recomendados no Seedance 1.5 Pro:** duração `5` (inteiro, de 4 a 12) · proporção `16:9` (gere também `9:16` para Shorts/Reels) · resolução `720p` para teste e `1080p` para o final · `generate_audio` **LIGADO** · `camera_fixed` desligado.
+
+> Se a voz sair abafada pela música, gere com a música em volume mínimo — a trilha completa entra depois, na edição, por baixo da voz.
+
+---
+
+## ▸ FRAME 1 — O Silêncio Antes de Tudo  (00s → 05s)
+
+*Referência: Antes de Gênesis 1:1*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> Antes de haver tempo, estrelas ou mares, Eu já era. E o silêncio Me obedecia.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+Absolute infinite darkness, an endless void with no horizon, no ground, no sky, nothing but a deep impenetrable blackness that feels alive and attentive; a barely perceptible breathing texture in the darkness, subtle faint deep-blue undertones at the very edge of visibility, immense emptiness, pure potential. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. no brush visible in this frame, no painter, no human figure present, the painting already alive on its own. Lighting and mood: no light source at all, only the faintest cool undertone revealing the texture of the void. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: nothing moves yet; the darkness itself breathes almost imperceptibly, tiny dust-like specks of potential drift far away in the black, the camera floats forward one centimetre per second. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "Antes de haver tempo, estrelas ou mares, Eu já era. E o silêncio Me obedecia." Sound effects: a deep, barely audible heartbeat, slow distant breathing, absolute silence. Music kept low and soft under the voice: total silence with a sub-bass drone fading in. Camera: extremely slow imperceptible push forward into pure darkness. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+🎞️ **Continuidade:** Frame de abertura: estabelece o vazio absoluto. Nada deve aparecer além de preto profundo.
+
+---
+
+## ▸ FRAME 2 — O Primeiro Desejo  (05s → 10s)
+
+*Referência: Antes de Gênesis 1:1*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> Então desejei. Não por falta, mas por amor: Eu queria alguém para amar.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+A single tiny tremor of golden intention pulsing at the exact centre of the infinite black void, like the first heartbeat of a will, infinitesimally small spark of warm gold surrounded by vast emptiness, faint concentric ripples of dark matter spreading outward, the whole universe still unborn, immense silence around one point of purpose. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. no brush visible in this frame, no painter, no human figure present, the painting already alive on its own. Lighting and mood: one single warm golden spark in absolute darkness, its glow barely reaching a few centimetres. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: the tiny golden spark pulses once, then again, each pulse sending a ring of dark ripples through the void; the spark grows slightly brighter with every heartbeat. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "Então desejei. Não por falta, mas por amor: Eu queria alguém para amar." Sound effects: a sub-bass pulse, glass humming softly, a crescendo of very low strings. Music kept low and soft under the voice: a cello drone entering, pianissimo. Camera: slow steady zoom-in toward the tiny spark. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** E o desejo nasceu antes da luz.
+
+🎞️ **Continuidade:** Mesmo preto do frame 1; a única diferença é a centelha dourada no centro.
+
+---
+
+## ▸ FRAME 3 — O Big Bang  (10s → 15s)
+
+*Referência: Antes de Gênesis 1:1*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> E Eu disse: comece. Toda a matéria explodiu como tinta atirada contra a tela.
+
+> *Texto bíblico:* No princípio criou Deus os céus e a terra.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+The Big Bang: an overwhelming explosion of white-hot light erupting from a single point, torrents of incandescent plasma and raw pigment flung outward in every direction like paint hurled against an enormous canvas, filaments of gold, crimson and electric blue matter streaking through the void, shockwave rings of light, the birth of space itself, unimaginably violent and beautiful. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. no brush visible in this frame, no painter, no human figure present, the painting already alive on its own. Lighting and mood: blinding white-hot core light, exploding in every direction, overexposed centre with rich colour fringes. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: the point detonates and matter expands radially at enormous speed, streaks of plasma stretching like wet paint smeared by an invisible hand, shockwave rings travelling outward, the whole frame ignites. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "E Eu disse: comece. Toda a matéria explodiu como tinta atirada contra a tela." Sound effects: a colossal sub-bass impact, an expanding whoosh, crackling plasma. Music kept low and soft under the voice: a climax of percussion and brass. Camera: camera blasted backwards by the shockwave while the explosion expands toward the viewer. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** No princípio…
+
+🎞️ **Continuidade:** Primeira imagem de cor da série. Estabelece a paleta: ouro, carmesim, azul-elétrico.
+
+---
+
+## ▸ FRAME 4 — As Galáxias  (15s → 20s)
+
+*Referência: Antes de Gênesis 1:1*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> Bilhões de estrelas girando — e cada uma delas Eu chamo pelo nome.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+Spiral galaxies forming out of the cooling chaos, enormous pinwheels of stars and glowing nebulae swirling like pigment stirred in water, vast nebular clouds of magenta, teal and gold blooming like cosmic flowers, thousands of galaxies receding into unimaginable depth, the fabric of space gently curving, majestic and serene. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. no brush visible in this frame, no painter, no human figure present, the painting already alive on its own. Lighting and mood: soft cosmic glow, deep-space blacks with luminous nebular light, cool starlight and warm nebular contrast. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: galaxies rotate slowly, nebulae bloom and drift, stars ignite one by one in chains, the camera glides past a giant spiral galaxy that fills the frame. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "Bilhões de estrelas girando — e cada uma delas Eu chamo pelo nome." Sound effects: a distant ethereal choir, a deep cosmic hum, crystalline twinkling. Music kept low and soft under the voice: strings crescendo, harp and bells. Camera: slow sweeping crane move across the cosmos, drifting between galaxies. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** O universo tomou forma.
+
+🎞️ **Continuidade:** Paleta cósmica: roxo, azul profundo, dourado. Sem pincel ainda.
+
+---
+
+## ▸ FRAME 5 — A Terra Informe e Vazia  (20s → 25s)
+
+*Referência: Gênesis 1:2*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> A terra era sem forma e vazia. Trevas cobriam o abismo — e Eu estava lá.
+
+> *Texto bíblico:* A terra era sem forma e vazia; e havia trevas sobre a face do abismo.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+A primordial Earth before form: a dark churning ocean planet covered in black water and thick vapour, no land, no shape, dense mist hanging over an unfathomable abyss, violent storm clouds and dark swells, pale cold light filtering from above like a judgement, terrifying emptiness and depth. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. no brush visible in this frame, no painter, no human figure present, the painting already alive on its own. Lighting and mood: cold pale diffused light from above, heavy shadows, almost no warmth. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: clouds churn and spiral slowly over the black ocean, colossal swells rise and fall, the camera descends through the vapour toward the surface of the deep. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "A terra era sem forma e vazia. Trevas cobriam o abismo — e Eu estava lá." Sound effects: heavy ocean swells, cutting wind, distant thunder. Music kept low and soft under the voice: a low drone of continuous tension. Camera: high orbital descent toward the dark water surface. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** Sem forma e vazia.
+
+🎞️ **Continuidade:** Entramos no planeta Terra. Paleta escurece para preto e azul-petróleo.
+
+---
+
+## ▸ FRAME 6 — O Espírito Sobre as Águas  (25s → 30s)
+
+*Referência: Gênesis 1:2*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> Meu Espírito pairava sobre as águas, como um vento esperando a palavra.
+
+> *Texto bíblico:* e o Espírito de Deus pairava sobre a face das águas.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+A living luminous wind hovering low over the surface of the primordial waters, an invisible presence made visible only by the way the vapour swirls and the black water ripples beneath it, faint warm golden light caught inside the moving mist, pregnant stillness of something about to be spoken, deeply sacred atmosphere. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. no brush visible in this frame, no painter, no human figure present, the painting already alive on its own. Lighting and mood: warm golden glow embedded inside moving mist, contrasted against cold dark water. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: the mist spirals upward slowly around an invisible presence, the water surface ripples outward in rings, a warm glow blooms and fades inside the vapour like breathing. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "Meu Espírito pairava sobre as águas, como um vento esperando a palavra." Sound effects: a soft breeze, rippling water, a barely audible ethereal choir. Music kept low and soft under the voice: the main theme entering on solo piano. Camera: low hovering camera skimming just above the water surface. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** E o Espírito pairava sobre as águas.
+
+🎞️ **Continuidade:** Último frame sem pincel. A luz dourada prepara a entrada do pincel no frame 7.
+
+---
+
+## ▸ FRAME 7 — O Pincel Desce  (30s → 35s)
+
+*Referência: Virada visual da série*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> Então peguei o pincel. E toda a escuridão se calou.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+The first appearance of the great wooden artist's brush, floating diagonally above the dark primordial water, its bristles loaded with glistening wet gold and deep blue pigment that drips slowly toward the surface, a single bold stroke of fresh paint already gleaming across the upper corner of the canvas, the entire image revealing itself as an enormous oil painting, sacred awe. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind it, clearly mid-stroke. Lighting and mood: dramatic rim light on the wet bristles, deep shadows around the brush handle. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: the brush drifts downward, turns slowly in the air, a heavy drop of gold paint falls and hits the water causing a perfect ring of concentric ripples, the wet stroke in the corner glistens. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "Então peguei o pincel. E toda a escuridão se calou." Sound effects: a drop of paint falling, a ring of water ripples spreading outward, wood creaking faintly, sudden silence. Music kept low and soft under the voice: near-silence with one suspended piano note. Camera: slow vertical tilt from the water up to the brush. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** E Deus começou a pintar.
+
+🎞️ **Continuidade:** MARCO DA SÉRIE: a partir daqui todos os frames têm o pincel flutuante ou o rastro da tinta fresca.
+
+---
+
+## ▸ FRAME 8 — Haja Luz  (35s → 40s)
+
+*Referência: Gênesis 1:3*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> Eu disse: haja luz. E a luz obedeceu antes que Eu terminasse a frase.
+
+> *Texto bíblico:* Disse Deus: haja luz. E houve luz.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+A single colossal stroke of liquid gold light tearing across the black canvas, the first light of creation being painted into existence, the wet golden stroke blazing with inner brilliance and splattering droplets of light, the surrounding darkness recoiling from it, the floating brush completing the stroke mid-frame, sublime and overwhelming. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind it, clearly mid-stroke. Lighting and mood: explosive warm golden light emanating from the wet stroke itself, hard shadows fleeing the light. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: the brush sweeps across the canvas leaving a blazing path of liquid light behind it, the paint ignites into real illumination, darkness flees toward the corners, droplets of light scatter. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "Eu disse: haja luz. E a luz obedeceu antes que Eu terminasse a frase." Sound effects: a bright metallic burst of light, a low breath of wind, a radiant silence afterwards. Music kept low and soft under the voice: an orchestral climax with choir, brass and timpani. Camera: fast follow of the brush stroke, then settle as the light floods. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** Haja luz.
+
+🎞️ **Continuidade:** CLÍMAX MUSICAL E VISUAL DO EPISÓDIO.
+
+---
+
+## ▸ FRAME 9 — Luz e Trevas  (40s → 45s)
+
+*Referência: Gênesis 1:4-5*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> Separei a luz das trevas e dei nome aos dois: dia e noite.
+
+> *Texto bíblico:* E Deus chamou à luz dia, e às trevas noite. E foi a tarde e a manhã, o dia primeiro.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+Light and darkness separating like two immiscible paints across the canvas: one half blazing gold and warm, the other half deep indigo and silver, a clean liquid boundary line between them where the floating brush rests, the first day and the first night taking shape, edges of both realms still wet and glossy. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind it, clearly mid-stroke. Lighting and mood: two opposing light sources meeting at a sharp boundary, warm gold versus cool indigo. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: the two wet paint fields push against each other along the boundary, tiny swirls mixing then separating again, the brush drags once to keep the line clean. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "Separei a luz das trevas e dei nome aos dois: dia e noite." Sound effects: a soft tonal shift, wet paint crackling as it dries, a low sustained choir. Music kept low and soft under the voice: sustained strings, no percussion. Camera: slow lateral track along the boundary line. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** Dia e noite.
+
+🎞️ **Continuidade:** Paleta dividida ao meio — bom frame para thumbnail.
+
+---
+
+## ▸ FRAME 10 — O Firmamento  (45s → 50s)
+
+*Referência: Gênesis 1:6-8*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> Estendi o firmamento no meio das águas e chamei-lhe céu.
+
+> *Texto bíblico:* Chamou Deus ao firmamento céu. E foi a tarde e a manhã, o dia segundo.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+An immense translucent vault of sky being painted into place between two oceans, one below and one above, water suspended impossibly overhead like a ceiling of liquid glass, the floating brush smoothing the inside of the dome, rain beginning to gather on the underside of the upper waters, awe and vertigo. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind it, clearly mid-stroke. Lighting and mood: cool blue-green diffused light through the water ceiling, with shafts of pale light descending. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: the brush arcs overhead smoothing the dome, suspended water shimmers and bends light into caustic patterns on the lower ocean, droplets begin to fall from above. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "Estendi o firmamento no meio das águas e chamei-lhe céu." Sound effects: suspended water vibrating overhead, the first raindrops, a vast echo. Music kept low and soft under the voice: strings in ascending arpeggio. Camera: slow upward tilt from the lower ocean to the water ceiling. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** E chamou-lhe céu.
+
+🎞️ **Continuidade:** Primeira aparição de chuva na série.
+
+---
+
+## ▸ FRAME 11 — Terra Seca e Mares  (50s → 55s)
+
+*Referência: Gênesis 1:9-10*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> As águas se ajuntaram num só lugar, e a terra seca apareceu.
+
+> *Texto bíblico:* Ajuntem-se num só lugar as águas que estão debaixo do céu, e apareça o elemento seco. E assim foi.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+The waters gathering into one place and dry land rising out of them, newborn continents still glistening wet, dark rock and fresh sand steaming in the light, rivers and bays carving their first shapes, tidal pools gleaming like liquid mirrors, the floating brush tracing the line of a shoreline, the sea settling into its basins. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind it, clearly mid-stroke. Lighting and mood: warm side light raking across wet rock, glittering reflections on the sea. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: oceans drain away from continents in slow motion, wet rock steams, the first waves crash into newborn cliffs, the brush trails along the shoreline leaving a wet line of foam. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "As águas se ajuntaram num só lugar, e a terra seca apareceu." Sound effects: water retreating, hissing steam, waves breaking on black pebbles. Music kept low and soft under the voice: broad strings, a feeling of relief. Camera: aerial glide over a coastline being formed. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** Apareça a terra seca.
+
+🎞️ **Continuidade:** Primeira pedra e areia da série; mantém molhado e brilhante.
+
+---
+
+## ▸ FRAME 12 — As Primeiras Sementes  (55s → 60s)
+
+*Referência: Gênesis 1:11-12*
+
+🎙️ **FALA DA VOZ DE DEUS (PT-BR)**
+
+> E a terra vestiu-se de verde. Era apenas o começo do que Eu faria.
+
+> *Texto bíblico:* E disse Deus: Produza a terra relva, ervas que dêem semente, e árvores frutíferas... E viu Deus que isso era bom.
+
+🖼️ **1) PROMPT DE IMAGEM** — cole na IA de imagem:
+
+```text
+The earth bursting into green life: grass unrolling like painted strokes becoming real, seed-bearing herbs and fruit trees growing in fast organic motion, blossoms opening, fruit ripening on the branch, roots gripping wet soil, insects stirring in the new grass, the floating brush trailing a wet green line that sprouts behind it, jubilant and lush. Hyper-realistic cinematic oil painting on coarse linen canvas, thick impasto brushwork with glistening wet paint ridges, museum-grade baroque realism fused with photoreal detail, dramatic chiaroscuro, volumetric god-rays, immense biblical scale, epic composition, rich earthy palette of ochre, deep umber, crimson and gold, subtle craquelure of old varnish, shallow depth of field, ultra-detailed canvas weave, 8k, masterpiece. a single large wooden-handled artist's brush floating in mid-air at the edge of the composition, bristles wet with fresh pigment, a gleaming trail of just-painted paint behind it, clearly mid-stroke. Lighting and mood: generous warm sunlight filtering through new leaves, dappled green shadows. Aspect ratio 16:9, composition leaving clean negative space at the bottom for a golden day-line.
+```
+
+*Parâmetros (Midjourney/SDXL):* `--ar 16:9 --style raw --stylize 250 --chaos 0` · versão vertical para Shorts: `--ar 9:16`
+
+**Evitar (negative prompt):**
+
+```text
+text, watermark, signature, letters, numbers, subtitles, logo, human face of God, depiction of the divine figure, cartoon, cgi look, low resolution, blurry, deformed anatomy, extra limbs, modern objects, anachronism
+```
+
+🎬 **2) PROMPT DE VÍDEO — Seedance 1.5 Pro** (suba a imagem gerada e cole isto):
+
+```text
+Using the uploaded image as the first frame and keeping the exact oil-painting look, the painted scene comes alive: green paint strokes erupt upward and become real plants, trees unfold in stop-motion-like growth, fruit swells and ripens, the camera pushes through wet sceptred leaves. The wet brushstrokes dissolve into real three-dimensional matter as the camera moves in. Dialogue: a disembodied off-camera narrator with a deep, calm, ancient masculine voice — no visible speaker anywhere in the scene, no mouth moving, no person appearing — says in Brazilian Portuguese, slowly and solemnly, one time only: "E a terra vestiu-se de verde. Era apenas o começo do que Eu faria." Sound effects: shoots breaking through the soil, leaves unfurling, distant birdsong. Music kept low and soft under the voice: the main theme in a hopeful version, ending on a suspended bell. Camera: low ground-level push through sprouting grass. Style: hyper-realistic oil painting brought to life, baroque biblical epic, volumetric light, floating dust, 24fps, photographic motion blur, no on-screen text, no subtitles, no watermark, no extra people.
+```
+
+⚙️ **Ajustes:** `5 s` · `16:9` (e `9:16`) · `720p` teste / `1080p` final · `generate_audio: ON` · `camera_fixed: OFF`
+
+💬 **LEGENDA para queimar no vídeo:** E viu Deus que isso era bom.
+
+🎞️ **Continuidade:** FECHAMENTO DO PRELÚDIO: o verde entra na paleta. Termina com corte seco para o EP-0002 (Gênesis 1:1).
+
+---
