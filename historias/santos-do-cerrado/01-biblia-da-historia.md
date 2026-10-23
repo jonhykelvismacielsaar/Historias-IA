@@ -36,7 +36,8 @@ Você sugeriu Tupã (e Oxalá). Ficamos com **TUPÃ**, e por três motivos:
 
 ### TUPÃ — *o que escuta*
 - Aparência: homem indígena de ~30 anos, pele morena, **rosto sempre barbeado** (nunca barba, nunca bigode), **sem tatuagens nos braços**, **cabelo preto liso** na altura dos ombros preso num **rabo de cavalo baixo**, ombros largos, olhar calmo e profundo.
-- Roupa: **camiseta cinza-escura sem manga** com pequeno grafismo geométrico guarani no peito, calça de sarja, sandália de couro, **pulseira de sementes** no pulso.
+- Roupa (figurino fixo, nunca muda): **camiseta regata cinza-escura** com **uma faixa horizontal de grafismo geométrico guarani atravessada no peito** (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior; **calça de sarja escura**; **sandália de couro**; **pulseira de sementes** no pulso direito.
+- ⚠️ **Nunca** desenhar o Tupã com estampa diferente: nada de painel branco no peito, nada de estampa só na altura do esterno, nada de regata rasgada. A referência é a imagem `imagens/ep01/c02.jpg`.
 - Personalidade: silencioso, prático, paciente, cozinha no fogo de chão, entende de planta, de bicho e de gente. Não entende celular.
 - Poderes: chama chuva, acende fogo com o olhar, escuta o que a terra fala, e o **olho dele se risca de relâmpago** quando algo o emociona.
 - Defeito: quando fica irritado, queima o aparelho de som.

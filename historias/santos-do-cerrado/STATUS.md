@@ -27,6 +27,14 @@ Atualizado em: 23/10/2026 · **Formato final: 5 clipes de 8 s por episódio (40 
 
 ---
 
+## ✅ Uniformização do figurino do Tupã (23/10)
+
+A camiseta do Tupã aparecia com **4 estampas diferentes** entre as imagens. Padronizei todas para o **figurino canônico**: regata cinza-escura com **uma faixa horizontal de grafismo guarani no peito** (losangos e zigue-zagues terracota e preto) + o mesmo motivo pequeno na barra.
+
+Frames refeitos: `ep01/c02`, `ep01/c03`, `ep01/c05` (também trocou o short por calça), `ep02/c02`, `ep02/c04`, `ep03/c02`, `ep03/c03`.
+
+**Referência canônica do figurino:** `imagens/ep01/c02.jpg`. Use-a como imagem de referência ao gerar qualquer cena nova.
+
 ## ✅ Correções aplicadas (23/10)
 
 - `ep03/c02` — Tupã estava **com barba** → regerado **sem barba**.
@@ -47,3 +55,5 @@ Atualizado em: 23/10/2026 · **Formato final: 5 clipes de 8 s por episódio (40 
 Copiar **literalmente** o bloco de personagem e o de estilo do `02-guia-de-producao.md`. Não parafrasear. Se o gerador permitir, usar **seed fixo** e anexar o key visual como referência.
 
 **Tupã é sempre barbeado** (sem barba, sem bigode, sem cavanhaque) e **sem tatuagens nos braços**. **Jesus é o único com barba.** Sempre que a imagem for de interior, evitar cruz/crucifixo na parede — não é o tom da série.
+
+**Figurino fixo do Tupã:** regata cinza-escura com uma faixa horizontal de grafismo guarani no peito + motivo pequeno na barra; calça de sarja escura; sandália de couro; pulseira de sementes. Nunca variar a estampa.
