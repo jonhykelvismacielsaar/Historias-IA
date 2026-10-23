@@ -14,7 +14,8 @@ Série de animação curta em 3 episódios de **40 segundos** (5 clipes de 8 s c
 | 4 | **[episodio-01-quarenta-graus.md](episodio-01-quarenta-graus.md)** | Roteiro do Ep. 1 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
 | 5 | **[episodio-02-festa-do-bairro.md](episodio-02-festa-do-bairro.md)** | Roteiro do Ep. 2 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
 | 6 | **[episodio-03-o-ipe-do-estacionamento.md](episodio-03-o-ipe-do-estacionamento.md)** | Roteiro do Ep. 3 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
-| 7 | **[STATUS.md](STATUS.md)** | O que já está pronto e o que falta gerar na próxima conversa |
+| 7 | **[03-prompts-de-video.md](03-prompts-de-video.md)** | **Arquivo de copiar e colar:** os 2 tipos de prompt de vídeo (primeiro/último frame e imagem única com fala) para os 15 clipes |
+| 8 | **[STATUS.md](STATUS.md)** | O que já está pronto e o que falta gerar na próxima conversa |
 
 ---
 
@@ -30,7 +31,7 @@ historias/santos-do-cerrado/
 ├── episodio-03-o-ipe-do-estacionamento.md
 ├── STATUS.md
 └── imagens/
-    ├── ep01/  c01.jpg … c05.jpg  (+ alternativas/ com 5 frames extras)
+    ├── ep01/  c01.jpg … c05.jpg + c01-fim.jpg … c05-fim.jpg
     ├── ep02/  c01.jpg … c05.jpg
     ├── ep03/  c01.jpg … c05.jpg
     └── referencias/  (key visual dos personagens)
@@ -42,7 +43,9 @@ historias/santos-do-cerrado/
 
 1. Abra o arquivo do episódio.
 2. Cada plano tem **imagem pronta → prompt de imagem → prompt de vídeo de 5 s**.
-3. Gere (ou reutilize) o frame, mande no **Seedance 2.5 / Veo** em modo *image-to-video*, com o prompt de vídeo de 8 s.
+3. Escolha o caminho em **[03-prompts-de-video.md](03-prompts-de-video.md)**:
+   - **Prompt A** → duas imagens (início + fim) no Seedance 2.0 / Kling / Veo, modo *first & last frame*. Mais controle do movimento.
+   - **Prompt B** → uma imagem só, no **Omni Flash** ou **Seedance 1.5 Pro**, com fala e lip-sync.
 4. Junte os 5 clipes no CapCut, trave cada um em 8,0 s, coloque a trilha e exporte em 1080p.
 
 ---

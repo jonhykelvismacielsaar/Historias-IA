@@ -42,11 +42,29 @@ Frames refeitos: `ep01/c02`, `ep01/c03`, `ep01/c05` (também trocou o short por 
 - `ep01/c03` — tinha **cruz na parede** e **tatuagens** no Tupã → regerado, quadro limpo.
 - `ep03` — numeração dos frames estava **deslocada** em relação aos clipes → reordenada (`c01` terreno, `c02` os três na calçada, `c03` Tupã escutando a árvore, `c04` água na raiz/luz na terra, `c05` o ipê florido). Os frames fora de ordem viraram **extras** em `imagens/ep03/alternativas/`.
 
+## 🎬 Dois formatos de prompt de vídeo (23/10)
+
+Criado o **`03-prompts-de-video.md`** com 30 prompts prontos para os 15 clipes:
+
+- **Prompt A — primeiro + último frame:** você entrega `cXX.jpg` e `cXX-fim.jpg`; o modelo interpola o movimento. Usa Seedance 2.0 / Kling / Veo no modo *first & last frame*. Diálogos com marca de tempo inclusos.
+- **Prompt B — imagem única com fala:** uma imagem só, para **Google Omni Flash** e **Seedance 1.5 Pro**. Movimento, câmera, fala em PT-BR e som descritos no texto.
+
+### Frames de fim
+
+| Episódio | Fim | Falta |
+|---|---|---|
+| 01 | `c01-fim` a `c05-fim` ✅ | nada |
+| 02 | `c01-fim` a `c04-fim` ✅ | `c05-fim` |
+| 03 | — | `c01-fim` a `c05-fim` |
+
+Os 6 prompts que faltam estão no **Anexo** do `03-prompts-de-video.md`.
+
 ## ⚠️ PRÓXIMA CONVERSA — só isto:
 
-1. *(Opcional)* Gerar o **key visual** dos dois personagens em `imagens/referencias/key-visual.jpg` — pose neutra, fundo claro, corpo inteiro — para usar como imagem de referência e travar a consistência nos geradores de vídeo.
-2. *(Opcional)* Gerar as **falas em áudio** para dublagem.
-3. *(Temporada 2)* A figura de terno claro e chapéu de palha, plantada no fim do Ep. 03.
+1. Gerar os **6 frames de fim que faltam** (`ep02/c05-fim` + `ep03/c01-fim` a `c05-fim`) — prompts no Anexo do `03-prompts-de-video.md`.
+2. *(Opcional)* Gerar o **key visual** dos dois personagens em `imagens/referencias/key-visual.jpg` — pose neutra, fundo claro, corpo inteiro — para usar como imagem de referência e travar a consistência nos geradores de vídeo.
+3. *(Opcional)* Gerar as **falas em áudio** para dublagem.
+4. *(Temporada 2)* A figura de terno claro e chapéu de palha, plantada no fim do Ep. 03.
 
 ---
 
