@@ -1,6 +1,6 @@
 # SANTOS DO CERRADO — índice do projeto
 
-Série de animação curta em 3 episódios de **40 segundos** (5 clipes de 8 s cada), inspirada na premissa do anime japonês **Saint Onii-san (Saint Young Men)** — Jesus e Buda dividindo um apartamento — transposta para o Brasil, com **Jesus e Tupã** morando juntos em **Cuiabá (MT)**.
+Série de animação curta em 3 episódios de **30 segundos** (5 clipes de 6 s cada), inspirada na premissa do anime japonês **Saint Onii-san (Saint Young Men)** — Jesus e Buda dividindo um apartamento — transposta para o Brasil, com **Jesus e Tupã** morando juntos em **Cuiabá (MT)**.
 
 ---
 
@@ -10,7 +10,7 @@ Série de animação curta em 3 episódios de **40 segundos** (5 clipes de 8 s c
 |---|---|---|
 | 1 | **[00-pesquisa-saint-onii-san.md](00-pesquisa-saint-onii-san.md)** | A pesquisa: qual é o anime, ficha técnica, por que "3 episódios", por que a nossa versão é original |
 | 2 | **[01-biblia-da-historia.md](01-biblia-da-historia.md)** | Personagens, tom, ambiente, paleta, estrutura da temporada, regras invioláveis |
-| 3 | **[02-guia-de-producao.md](02-guia-de-producao.md)** | Como gerar imagem → gerar vídeo de 5 s → montar os 60 s. Configurações do Seedance/Veo, negative prompt, CapCut |
+| 3 | **[02-guia-de-producao.md](02-guia-de-producao.md)** | Como gerar imagem → gerar vídeo de 6 s → montar os 60 s. Configurações do Seedance/Veo, negative prompt, CapCut |
 | 4 | **[episodio-01-quarenta-graus.md](episodio-01-quarenta-graus.md)** | Roteiro do Ep. 1 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
 | 5 | **[episodio-02-festa-do-bairro.md](episodio-02-festa-do-bairro.md)** | Roteiro do Ep. 2 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
 | 6 | **[episodio-03-o-ipe-do-estacionamento.md](episodio-03-o-ipe-do-estacionamento.md)** | Roteiro do Ep. 3 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
@@ -42,7 +42,7 @@ historias/santos-do-cerrado/
 ## Como usar em 4 passos
 
 1. Abra o arquivo do episódio.
-2. Cada plano tem **imagem pronta → prompt de imagem → prompt de vídeo de 5 s**.
+2. Cada plano tem **imagem pronta → prompt de imagem → prompt de vídeo de 6 s**.
 3. Escolha o caminho em **[03-prompts-de-video.md](03-prompts-de-video.md)**:
    - **Prompt A** → duas imagens (início + fim) no Seedance 2.0 / Kling / Veo, modo *first & last frame*. Mais controle do movimento.
    - **Prompt B** → uma imagem só, no **Omni Flash** ou **Seedance 1.5 Pro**, com fala e lip-sync.

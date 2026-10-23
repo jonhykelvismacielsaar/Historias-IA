@@ -2,7 +2,7 @@
 ### *Dois filhos do céu, um apê em Cuiabá*
 
 > Série de animação curta — 3 episódios × 60 segundos
-> Formato: 12 planos de 5 segundos por episódio (16:9, anime 2D)
+> Formato: 5 clipes de 6 segundos por episódio (16:9, anime 2D)
 
 ---
 
@@ -27,7 +27,7 @@ Você sugeriu Tupã (e Oxalá). Ficamos com **TUPÃ**, e por três motivos:
 ## 3. PERSONAGENS
 
 ### JESUS (Yeshua) — *o que fala*
-- Aparência: homem de ~30 anos, pele morena clara, **cabelo castanho-escuro cacheado** na altura da nuca, **barba curta**, olhos castanhos quentes.
+- Aparência: homem de ~30 anos, pele morena clara, **cabelo castanho-escuro cacheado, comprido até os ombros, preso num coque baixo despojado na nuca** (padrão desde 23/10 — antes era solto), com dois ou três cachos soltos emoldurando o rosto, **barba curta**, olhos castanhos quentes.
 - Roupa: **camisa de linho branca/off-white** de botão, mangas dobradas, calça jeans clara, **chinelo de dedo**, pulseira de couro no pulso direito.
 - Personalidade: falante, afetuoso, exagerado, chora em propaganda de margarina, cozinha divinamente, compra coisa inútil no marketplace.
 - Poderes domésticos: transforma água em suco/vinho **sem querer**, multiplica pão de queijo, cura dor de cabeça com a mão na nuca, acalma criança com um olhar.
