@@ -44,8 +44,8 @@ A imagem de fim do Ep. 01 (`ep01/c05-fim.jpg`) tinha o Tupã com a cabeça **vir
 | Episódio | Início | Fim | Falta |
 |---|---|---|---|
 | 01 — Quarenta Graus | ✅ c01–c05 | ✅ c01–c05 | — |
-| 02 — A Festa do Bairro | ✅ c01 (sem pessoas) · ⏳ c02, c03 · ✅ c04 (só Tupã) · ✅ c05 (só Saci) | ✅ c01, c02, c03, c04 · ⏳ c05 | **c02, c03, c01-fim, c02-fim, c03-fim, c05-fim** |
-| 03 — O Ipê do Estacionamento | ✅ c01 (sem pessoas) · ⏳ c02, c04, c05 · ✅ c03 (só Tupã) | ⏳ todos | **c02, c04, c05, c01-fim a c05-fim** |
+| 02 — A Festa do Bairro | ✅ c01–c05 | ✅ c01–c05 | — |
+| 03 — O Ipê do Estacionamento | ✅ c01–c05 | ✅ c01 · ⏳ c02, c03, c04, c05 | **c02-fim, c03-fim, c04-fim, c05-fim** |
 
 > **Regra usada para decidir quais frames refazer:** só os frames em que o **Jesus aparece**. Frames sem ele (cidade, parede, Saci no galho, Tupã sozinho na árvore) foram mantidos — o figurino e o rosto do Tupã não mudaram.
 
@@ -58,8 +58,8 @@ A imagem de fim do Ep. 01 (`ep01/c05-fim.jpg`) tinha o Tupã com a cabeça **vir
 | Guia de produção (Seedance/Veo + CapCut) | ✅ |
 | Roteiro dos 3 episódios reformatado em 5 clipes de 6 s | ✅ |
 | Prompts de imagem e de vídeo (15 + 15) | ✅ retimados para 6 s |
-| **Frames de início** | **15 de 15** ✅ (12 refeitos com o cabelo novo do Jesus) |
-| **Frames de fim** | **10 de 15** — faltam 6 |
+| **Frames de início** | **15 de 15** ✅ (todos com o cabelo novo do Jesus) |
+| **Frames de fim** | **11 de 15** — faltam 4 |
 
 > Os frames antigos do Ep. 01 (12 planos) ficaram em `imagens/ep01/alternativas/` e servem como banco extra.
 
@@ -75,6 +75,7 @@ Frames refeitos: `ep01/c02`, `ep01/c03`, `ep01/c05` (também trocou o short por 
 
 ## ✅ Correções aplicadas (23/10)
 
+- `ep02/c03` — tinha um **pingente de cruz** no peito do Jesus → removido, decote limpo.
 - `ep03/c02` — Tupã estava **com barba** → regerado **sem barba**.
 - `ep03/c05` — Tupã **duplicado** → regerado com **exatamente dois personagens** e sem barba.
 - `ep01/c03` — tinha **cruz na parede** e **tatuagens** no Tupã → regerado, quadro limpo.
@@ -99,7 +100,7 @@ Os 6 prompts que faltam estão no **Anexo** do `03-prompts-de-video.md`.
 
 ## ⚠️ PRÓXIMA CONVERSA — só isto:
 
-1. Terminar os **14 frames pendentes** (Ep. 02: `c02`, `c03`, `c01-fim`, `c02-fim`, `c03-fim`, `c05-fim` · Ep. 03: `c02`, `c04`, `c05`, `c01-fim` a `c05-fim`) — sempre usando o frame atual como imagem de referência e o bloco de personagem novo.
+1. Gerar os **4 últimos frames de fim do Ep. 03**: `c02-fim`, `c03-fim`, `c04-fim`, `c05-fim` — prompts no Anexo do `03-prompts-de-video.md`.
 2. *(Opcional)* Gerar as **falas em áudio** para dublagem.
 3. *(Temporada 2)* A figura de terno claro e chapéu de palha, plantada no fim do Ep. 03.
 
