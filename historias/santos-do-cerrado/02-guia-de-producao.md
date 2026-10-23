@@ -39,14 +39,15 @@ PROMPT DA IMAGEM  →  [gerador de imagem]  →  frame .png
 O maior problema de IA é a inconsistência de personagem. Três travas resolvem:
 
 1. **Repetição literal do bloco de personagem** — ele está em TODOS os prompts, palavra por palavra. Não traduza, não resuma, não "melhore".
-2. **Frame de referência** — quando o gerador permitir (Veo 3 "ingredients", Seedance "referência"), anexe o **key visual** em `imagens/referencias/key-visual.jpg` junto com o prompt.
-3. **Ordem no prompt** — sempre coloque **estilo → personagens → ação** nessa ordem. Modelos dão mais peso ao que vem primeiro.
+2. **Nunca** deixe o Tupã sair com barba ou bigode. Ele é **sempre barbeado**. Se o modelo insistir, acrescente "clean-shaven, bare face, no facial hair" e "no tattoos on arms" no prompt, e "barba, bigode, cavanhaque, tatuagem" no negative prompt.
+3. **Frame de referência** — quando o gerador permitir (Veo 3 "ingredients", Seedance "referência"), anexe o **key visual** em `imagens/referencias/key-visual.jpg` junto com o prompt.
+4. **Ordem no prompt** — sempre coloque **estilo → personagens → ação** nessa ordem. Modelos dão mais peso ao que vem primeiro.
 
 ### BLOCO DE PERSONAGEM (copie igual em tudo)
 
 ```
 JESUS: homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado na altura da nuca, barba curta, camisa de linho branca de botão com mangas dobradas, calça jeans clara, chinelo de dedo, pulseira de couro no pulso.
-TUPÃ: homem indígena de 30 anos, pele morena, cabelo preto liso na altura dos ombros preso em rabo de cavalo baixo, camiseta cinza-escura sem manga com grafismo geométrico guarani no peito, calça de sarja, sandália de couro, pulseira de sementes no pulso.
+TUPÃ: homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO (sem barba, sem bigode, sem cavanhaque), sem tatuagens nos braços, cabelo preto liso na altura dos ombros preso em rabo de cavalo baixo, camiseta cinza-escura sem manga com grafismo geométrico guarani no peito, calça de sarja, sandália de couro, pulseira de sementes no pulso.
 ```
 
 ## 4. BLOCO DE ESTILO (copie igual em tudo)
@@ -60,7 +61,7 @@ ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundos pintad
 Cole isto no campo "negative prompt" (ou no fim do prompt, se a ferramenta não tiver campo):
 
 ```
-texto, letras, legendas, marca d'água, logo, moldura, colagem, várias cenas no mesmo quadro, 3D, CGI, fotorrealismo, pele plástica, personagens duplicados, mãos deformadas, seis dedos, olhos assimétricos, rosto borrado, derretido, estátua, cruz, igreja, templo, estereótipo de índio de cinema, cocar de fantasia, pintura corporal genérica, violência, tristeza
+texto, letras, legendas, marca d'água, logo, moldura, colagem, várias cenas no mesmo quadro, 3D, CGI, fotorrealismo, pele plástica, personagens duplicados, mãos deformadas, seis dedos, olhos assimétricos, rosto borrado, derretido, estátua, cruz, crucifixo, igreja, templo, barba no Tupã, bigode, cavanhaque, tatuagem tribal nos braços, estereótipo de índio de cinema, cocar de fantasia, pintura corporal genérica, violência, tristeza
 ```
 
 > Por que "sem cruz, sem igreja, sem templo"? Porque o modelo tende a transformar "Jesus" em estátua, crucifixo ou pintura barroca. A gente quer **um cara de chinelo**.

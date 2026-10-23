@@ -35,7 +35,7 @@ Você sugeriu Tupã (e Oxalá). Ficamos com **TUPÃ**, e por três motivos:
 - Borda do personagem: quando o poder age, **um fio de luz dourada** contorna as mãos e os olhos.
 
 ### TUPÃ — *o que escuta*
-- Aparência: homem indígena de ~30 anos, pele morena, **cabelo preto liso** na altura dos ombros preso num **rabo de cavalo baixo**, ombros largos, olhar calmo e profundo.
+- Aparência: homem indígena de ~30 anos, pele morena, **rosto sempre barbeado** (nunca barba, nunca bigode), **sem tatuagens nos braços**, **cabelo preto liso** na altura dos ombros preso num **rabo de cavalo baixo**, ombros largos, olhar calmo e profundo.
 - Roupa: **camiseta cinza-escura sem manga** com pequeno grafismo geométrico guarani no peito, calça de sarja, sandália de couro, **pulseira de sementes** no pulso.
 - Personalidade: silencioso, prático, paciente, cozinha no fogo de chão, entende de planta, de bicho e de gente. Não entende celular.
 - Poderes: chama chuva, acende fogo com o olhar, escuta o que a terra fala, e o **olho dele se risca de relâmpago** quando algo o emociona.
@@ -101,7 +101,8 @@ Você sugeriu Tupã (e Oxalá). Ficamos com **TUPÃ**, e por três motivos:
 2. Nenhuma religião é motivo de piada — **as situações** são a piada.
 3. Tupã fala no máximo 1 frase por plano. Jesus fala 2.
 4. Todo episódio termina em plano aberto, com o céu.
-5. Nenhum personagem morre, nada é destruído, ninguém fica triste por mais de 3 segundos.
+5. Jesus tem barba curta; **Tupã é sempre barbeado** e sem tatuagens nos braços.
+6. Nenhum personagem morre, nada é destruído, ninguém fica triste por mais de 3 segundos.
 
 ---
 

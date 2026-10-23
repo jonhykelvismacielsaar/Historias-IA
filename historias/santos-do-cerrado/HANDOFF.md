@@ -18,13 +18,13 @@ Continuando o projeto **SANTOS DO CERRADO**, que já está no repositório em `h
 
 **O que eu preciso agora:**
 
-TAREFA 1 (prioridade) — Regerar **apenas** o frame `imagens/ep03/c05.jpg`. O que existe hoje saiu com o personagem **Tupã duplicado** (aparecem dois homens indígenas na imagem). Use o prompt abaixo:
+TAREFA 1 (já resolvida — pule) — Regerar **apenas** o frame `imagens/ep03/c05.jpg`. O que existe hoje saiu com o personagem **Tupã duplicado** (aparecem dois homens indígenas na imagem). Use o prompt abaixo:
 
 ```text
 Plano geral de uma rua de Cuiabá ao amanhecer: um ipê amarelo enorme e florido no centro do quadro, cercado de prédios baixos e cinzentos, calçada e asfalto cobertos de pétalas amarelas. Em primeiro plano, na calçada, exatamente DUAS figuras: JESUS (homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado na altura da nuca, barba curta, camisa de linho branca de botão com mangas dobradas, calça jeans clara, chinelo de dedo) e TUPÃ (homem indígena de 30 anos, pele morena, cabelo preto liso na altura dos ombros preso em rabo de cavalo baixo, camiseta cinza-escura sem manga com grafismo geométrico guarani no peito, calça de sarja, sandália de couro, pulseira de sementes) — apenas esses dois personagens, de ombros encostados, olhando para cima, com pétalas no cabelo e nos ombros. Pessoas desfocadas ao fundo também olhando para cima. Luz de sol nascente atravessando as flores. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores luminosas e saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-TAREFA 2 — Gerar o **key visual** dos dois personagens em `imagens/referencias/key-visual.jpg`: os dois em pé, lado a lado, pose neutra, fundo claro liso, corpo inteiro, mesmo estilo. Esse arquivo será usado como imagem de referência para travar a consistência dos personagens nos geradores de vídeo.
+TAREFA 2 (prioridade) — Gerar o **key visual** dos dois personagens em `imagens/referencias/key-visual.jpg`: os dois em pé, lado a lado, pose neutra, fundo claro liso, corpo inteiro, mesmo estilo. Esse arquivo será usado como imagem de referência para travar a consistência dos personagens nos geradores de vídeo.
 
 TAREFA 3 — Gerar **imagens extras para a temporada 2**, seguindo a lógica dos mesmos 5 clipes de 8 s: a figura alta de terno claro e chapéu de palha que aparece no fim do Ep. 03 (um "cobrador cósmico" que vem auditar as férias dos dois), o Saci e o Curupira como aliados, e o apartamento 302 em desordem. Antes de gerar, escreva o roteiro dos 5 clipes de cada novo episódio no mesmo formato dos arquivos existentes (cena, câmera, áudio, imagem, prompt de imagem, prompt de vídeo de 8 s, ficha do episódio).
 
@@ -36,4 +36,4 @@ TAREFA 3 — Gerar **imagens extras para a temporada 2**, seguindo a lógica dos
 
 ## Versão curta (se a conversa nova travar)
 
-> "No repo Historias-IA, pasta `historias/santos-do-cerrado/`: leia STATUS.md e regenere só `imagens/ep03/c05.jpg` (saiu com o Tupã duplicado). Prompt na seção CLIPE 05 do `episodio-03`. Depois gere o key visual em `imagens/referencias/` e siga a temporada 2 conforme o HANDOFF.md."
+> "No repo Historias-IA, pasta `historias/santos-do-cerrado/`: leia STATUS.md e o HANDOFF.md. Os 15 frames da temporada 1 já estão prontos. Gere o key visual em `imagens/referencias/key-visual.jpg` (os dois personagens, corpo inteiro, fundo liso, Tupã SEM barba) e depois siga a temporada 2 conforme o HANDOFF.md."
