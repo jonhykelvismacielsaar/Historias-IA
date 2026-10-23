@@ -44,14 +44,15 @@ O maior problema de IA é a inconsistência de personagem. Três travas resolvem
 2. **Nunca** deixe o Tupã sair com barba ou bigode. Ele é **sempre barbeado**. Se o modelo insistir, acrescente "clean-shaven, bare face, no facial hair" e "no tattoos on arms" no prompt, e "barba, bigode, cavanhaque, tatuagem" no negative prompt.
 3. **Frame de referência** — quando o gerador permitir (Veo 3 "ingredients", Seedance "referência"), anexe o **key visual** em `imagens/referencias/key-visual.jpg` junto com o prompt.
 4. **Ordem no prompt** — sempre coloque **estilo → personagens → ação** nessa ordem. Modelos dão mais peso ao que vem primeiro.
-5. **O cabelo do Jesus é o mesmo em todo frame (novo padrão, 23/10):** cacheado, **comprido até os ombros**, preso num **coque baixo despojado na nuca**, com dois ou três cachos soltos emoldurando o rosto. Se o modelo devolver o cabelo solto ou curto, repita: `hair tied in a low bun, longer curly hair, loose curls framing the face`.
+5. **Anexe `imagens/ep01/c03.jpg` junto do prompt sempre que o Tupã estiver em cena.** É o frame em que a estampa canônica aparece mais nítida. Sem essa referência, o gerador inventa um zigue-zague fino e pálido — foi o erro que apareceu em `ep02/c05-fim` e `ep03/c01-fim`.
+6. **O cabelo do Jesus é o mesmo em todo frame (novo padrão, 23/10):** cacheado, **comprido até os ombros**, preso num **coque baixo despojado na nuca**, com dois ou três cachos soltos emoldurando o rosto. Se o modelo devolver o cabelo solto ou curto, repita: `hair tied in a low bun, longer curly hair, loose curls framing the face`.
 6. **O rosto do Tupã precisa ser legível.** Ele é o personagem calado; a emoção dele vive no rosto. Nunca deixe a cabeça dele virada de costas ou de perfil puro: **no máximo 45° de perfil**, olhos visíveis. No prompt de imagem, escreva `head turned three-quarters toward the camera, face clearly visible`.
 
 ### BLOCO DE PERSONAGEM (copie igual em tudo)
 
 ```
 JESUS: homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado e comprido, na altura dos ombros, preso num coque baixo despojado na nuca, com cachos soltos emoldurando o rosto, barba curta, camisa de linho branca de botão com mangas dobradas, calça jeans clara, chinelo de dedo, pulseira de couro no pulso.
-TUPÃ: homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO (sem barba, sem bigode, sem cavanhaque), sem tatuagens nos braços, cabelo preto liso na altura dos ombros preso em rabo de cavalo baixo, camiseta regata cinza-escura com UMA faixa horizontal de grafismo geométrico guarani atravessada no peito (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior, calça de sarja, sandália de couro, pulseira de sementes no pulso.
+TUPÃ: homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO (sem barba, sem bigode, sem cavanhaque), sem tatuagens nos braços, cabelo preto liso na altura dos ombros preso em rabo de cavalo baixo, cabeça nunca mais de 45° de perfil (rosto sempre legível), camiseta regata cinza-escura com UMA faixa horizontal LARGA no peito em fundo creme, com TRIÂNGULOS e LOSANGOS TERRACOTA GRANDES E SATURADOS contornados por duas linhas finas terracota, e o mesmo motivo menor repetido na barra inferior, calça de sarja, sandália de couro, pulseira de sementes no pulso. A estampa é grande e nítida — nunca um zigue-zague fino e pálido. Referência visual: imagens/ep01/c03.jpg.
 ```
 
 ## 4. BLOCO DE ESTILO (copie igual em tudo)

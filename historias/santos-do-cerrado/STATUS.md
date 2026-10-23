@@ -22,7 +22,13 @@ Atualizado em: 23/10/2026 · **Formato final: 5 clipes de 6 s por episódio (30 
 - A referência canônica é o novo **key visual**: `imagens/referencias/key-visual.jpg`.
 - O bloco de personagem do `02-guia-de-producao.md` já foi atualizado — copie de lá, não invente variação.
 
-### 3. Tupã — rosto sempre legível
+### 3. Estampa canônica da regata do Tupã (corrigida em 23/10)
+
+As imagens geradas **do zero** (fora do fluxo de edição) voltaram com a estampa **errada**: zigue-zague fino e pálido em vez dos triângulos terracota. Corrigi `ep02/c05-fim` e `ep03/c01-fim`, e daí em diante passei a **anexar `imagens/ep01/c03.jpg` como referência** em todo prompt com o Tupã.
+
+**Estampa oficial:** faixa larga no peito em fundo creme, com **triângulos e losangos terracota grandes e saturados**, contornada por duas linhas finas terracota; motivo menor na barra; corpo da regata cinza-escuro.
+
+### 4. Tupã — rosto sempre legível
 
 A imagem de fim do Ep. 01 (`ep01/c05-fim.jpg`) tinha o Tupã com a cabeça **virada demais, quase de costas**. Foi regerada: agora ele aparece **em três quartos, rosto visível**. Virou regra: o Tupã nunca passa de **45° de perfil**.
 
@@ -41,11 +47,13 @@ A imagem de fim do Ep. 01 (`ep01/c05-fim.jpg`) tinha o Tupã com a cabeça **vir
 
 ### Frames
 
-| Episódio | Início | Fim | Falta |
-|---|---|---|---|
-| 01 — Quarenta Graus | ✅ c01–c05 | ✅ c01–c05 | — |
-| 02 — A Festa do Bairro | ✅ c01–c05 | ✅ c01–c05 | — |
-| 03 — O Ipê do Estacionamento | ✅ c01–c05 | ✅ c01 · ⏳ c02, c03, c04, c05 | **c02-fim, c03-fim, c04-fim, c05-fim** |
+| Episódio | Início | Fim |
+|---|---|---|
+| 01 — Quarenta Graus | ✅ c01–c05 | ✅ c01–c05 |
+| 02 — A Festa do Bairro | ✅ c01–c05 | ✅ c01–c05 |
+| 03 — O Ipê do Estacionamento | ✅ c01–c05 | ✅ c01–c05 |
+
+**Temporada 1 completa: 30 de 30 frames.**
 
 > **Regra usada para decidir quais frames refazer:** só os frames em que o **Jesus aparece**. Frames sem ele (cidade, parede, Saci no galho, Tupã sozinho na árvore) foram mantidos — o figurino e o rosto do Tupã não mudaram.
 
@@ -58,8 +66,9 @@ A imagem de fim do Ep. 01 (`ep01/c05-fim.jpg`) tinha o Tupã com a cabeça **vir
 | Guia de produção (Seedance/Veo + CapCut) | ✅ |
 | Roteiro dos 3 episódios reformatado em 5 clipes de 6 s | ✅ |
 | Prompts de imagem e de vídeo (15 + 15) | ✅ retimados para 6 s |
-| **Frames de início** | **15 de 15** ✅ (todos com o cabelo novo do Jesus) |
-| **Frames de fim** | **11 de 15** — faltam 4 |
+| **Frames de início** | **15 de 15** ✅ |
+| **Frames de fim** | **15 de 15** ✅ |
+| **Pacote de produção** | ✅ `sequencia/` — 30 arquivos numerados + pranchas |
 
 > Os frames antigos do Ep. 01 (12 planos) ficaram em `imagens/ep01/alternativas/` e servem como banco extra.
 
@@ -100,7 +109,8 @@ Os 6 prompts que faltam estão no **Anexo** do `03-prompts-de-video.md`.
 
 ## ⚠️ PRÓXIMA CONVERSA — só isto:
 
-1. Gerar os **4 últimos frames de fim do Ep. 03**: `c02-fim`, `c03-fim`, `c04-fim`, `c05-fim` — prompts no Anexo do `03-prompts-de-video.md`.
+1. **Gerar os 15 vídeos** de 6 s a partir de `sequencia/` (2 imagens por clipe) — nada de imagem nova é necessário.
+2. *(Opcional)* Gerar as falas em áudio para dublagem.
 2. *(Opcional)* Gerar as **falas em áudio** para dublagem.
 3. *(Temporada 2)* A figura de terno claro e chapéu de palha, plantada no fim do Ep. 03.
 

@@ -15,7 +15,8 @@ Série de animação curta em 3 episódios de **30 segundos** (5 clipes de 6 s c
 | 5 | **[episodio-02-festa-do-bairro.md](episodio-02-festa-do-bairro.md)** | Roteiro do Ep. 2 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
 | 6 | **[episodio-03-o-ipe-do-estacionamento.md](episodio-03-o-ipe-do-estacionamento.md)** | Roteiro do Ep. 3 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
 | 7 | **[03-prompts-de-video.md](03-prompts-de-video.md)** | **Arquivo de copiar e colar:** os 2 tipos de prompt de vídeo (primeiro/último frame e imagem única com fala) para os 15 clipes |
-| 8 | **[STATUS.md](STATUS.md)** | O que já está pronto e o que falta gerar na próxima conversa |
+| 8 | **[sequencia/INDICE.md](sequencia/INDICE.md)** | **Pacote de uso direto:** os 30 frames renomeados na ordem de montagem + pranchas de conferência |
+| 9 | **[STATUS.md](STATUS.md)** | O que já está pronto e o que falta gerar na próxima conversa |
 
 ---
 
@@ -33,8 +34,9 @@ historias/santos-do-cerrado/
 └── imagens/
     ├── ep01/  c01.jpg … c05.jpg + c01-fim.jpg … c05-fim.jpg
     ├── ep02/  c01.jpg … c05.jpg
-    ├── ep03/  c01.jpg … c05.jpg
-    └── referencias/  (key visual dos personagens)
+    ├── ep03/  c01.jpg … c05.jpg + c01-fim … c05-fim
+    └── referencias/  key-visual.jpg (referência dos personagens)
+sequencia/  30 frames numerados 01–30 + 3 pranchas (ver INDICE.md)
 ```
 
 ---
