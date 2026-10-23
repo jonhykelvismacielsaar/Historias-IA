@@ -19,10 +19,8 @@
 Muro de quintal em bairro brasileiro, pintado de azul claro desbotado e descascado, decorado com fileiras de bandeirinhas de papel colorido penduradas em cordões. No centro do muro, um cartaz de festa junina colado com fita crepe, ilustrado apenas com desenhos: fogueira, espigas de milho, chapéu de palha, sanfona, corações. Sem nenhuma letra escrita. Luz dourada de fim de tarde, sombras compridas, chão de terra batida com folhas. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores quentes e saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Travelling lateral lento ao longo de um muro azul desbotado coberto de bandeirinhas de papel que balançam ao vento, parando no cartaz de festa junina. DONA NILZA (senhora de 68 anos, cabelo grisalho armado, óculos redondos na corrente, vestido floral azul) entra no quadro pela direita e entrega um papel dobrado na mão de JESUS (camisa de linho branca, cabelo cacheado, barba curta); TUPÃ (camiseta regata cinza-escura com faixa de grafismo guarani no peito, cabelo preto preso) aparece atrás com um martelo apoiado no ombro, já pronto para trabalhar. FALA NILZA: "Hoje tem festa no quintal." FALA JESUS: "A gente vai!" SOM: sanfona distante, risadas, bandeirinhas estalando ao vento. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, cores quentes, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 01* (formato *first & last frame*, com **duas imagens**):
+`sequencia/11-ep02-clipe01-A-inicio.jpg` (primeiro frame) + `sequencia/12-ep02-clipe01-B-fim.jpg` (último frame).
 
 ---
 
@@ -39,10 +37,8 @@ Travelling lateral lento ao longo de um muro azul desbotado coberto de bandeirin
 Quintal de terra batida em bairro brasileiro, cordões de bandeirinhas coloridas esticados entre postes e árvores, mesas de plástico e cadeiras de ferro ao fundo, palmeira e muro azul. JESUS: homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado e comprido, na altura dos ombros, preso num coque baixo despojado na nuca, com cachos soltos emoldurando o rosto, barba curta, camisa de linho branca de botão com mangas dobradas, calça jeans clara, chinelo de dedo — em cima de uma escada de alumínio, pendurando bandeirinhas, rindo. TUPÃ: homem indígena de 30 anos, rosto completamente barbeado, sem barba e sem tatuagens nos braços, cabelo preto liso preso em rabo de cavalo baixo, camiseta regata cinza-escura com UMA faixa horizontal de grafismo geométrico guarani atravessada no peito (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior, calça de sarja, sandália de couro — embaixo, segurando a escada com uma mão e um martelo na outra, olhando para cima. Câmera contra-plongée, céu de fim de tarde. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Contra-plongée no quintal decorado com bandeirinhas. JESUS, no alto da escada de alumínio, estica o braço para prender uma bandeirinha, se desequilibra de leve e se segura, rindo; TUPÃ, embaixo, firma a escada com uma mão e segura o martelo na outra, olhando para cima sem expressão. As bandeirinhas balançam ao vento. Câmera fixa em contra-plongée, leve tremor. FALA JESUS: "Tupã, eu nunca me diverti tanto!" FALA TUPÃ: "Desce daí." SOM: vento, martelo batendo uma vez, sanfona distante, risadas. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 02* (formato *first & last frame*, com **duas imagens**):
+`sequencia/13-ep02-clipe02-A-inicio.jpg` (primeiro frame) + `sequencia/14-ep02-clipe02-B-fim.jpg` (último frame).
 
 ---
 
@@ -59,10 +55,8 @@ Contra-plongée no quintal decorado com bandeirinhas. JESUS, no alto da escada d
 Cozinha comunitária simples de salão de bairro: azulejo branco, bancada de granilite, forno velho ao fundo. Uma mesa coberta por uma montanha absurda de pão de queijo dourados que transborda das bandejas. JESUS: homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado e comprido, preso num coque baixo na nuca, barba curta, camisa de linho branca com farinha no rosto e nas mãos — mãos dentro de uma tigela de massa que sobe sozinha, olhos com brilho dourado. Farinha no ar como poeira iluminada. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores quentes e saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Na cozinha comunitária, a massa na tigela sobe sozinha e transborda em pães de queijo dourados que se acumulam numa mesa já lotada. JESUS, com farinha no rosto, olha para as próprias mãos com brilho dourado nos olhos, ri sem jeito e sopra a farinha dos dedos. Câmera frontal com aproximação lenta, farinha suspensa em câmera lenta. FALA JESUS: "Eu só queria fazer doze." SOM: massa crescendo, forno zumbindo, pães caindo na bandeja. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 03* (formato *first & last frame*, com **duas imagens**):
+`sequencia/15-ep02-clipe03-A-inicio.jpg` (primeiro frame) + `sequencia/16-ep02-clipe03-B-fim.jpg` (último frame).
 
 ---
 
@@ -79,10 +73,8 @@ Na cozinha comunitária, a massa na tigela sobe sozinha e transborda em pães de
 Quintal de festa junina à noite, iluminado por lampiões. No centro, uma pilha alta de lenha apagada. TUPÃ: homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO, sem barba, sem bigode, sem cavanhaque, sem tatuagens nos braços, cabelo preto liso preso em rabo de cavalo baixo, camiseta regata cinza-escura com UMA faixa horizontal de grafismo geométrico guarani atravessada no peito (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior, pulseira de sementes — agachado de frente para a lenha, um joelho no chão, mão aberta sobre a madeira, olhar concentrado. Brasas fracas e fumaça fina sob a lenha, luz laranja subindo por baixo do rosto dele. Bandeirinhas desfocadas ao fundo. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, contraste quente e escuro, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Noite de festa junina. TUPÃ, agachado diante da pilha de lenha com a mão aberta, faz o fogo pegar: fagulhas sobem, as brasas acendem e a chama cresce rápido, iluminando o rosto dele por baixo. Ele se levanta e recua um passo. No mesmo movimento contínuo, a câmera desce em tilt down até o chão de terra, onde dois pares de chinelos de dedo estão lado a lado e um pequeno redemoinho de poeira dourada passa por cima deles; ao fundo desfocado, um gorro vermelho pontudo some atrás de uma barraca. SOM: crepitar e estalo forte de fogo, sanfona, e um riso agudo curto fora de quadro. SEM FALA. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, luz de fogueira, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 04* (formato *first & last frame*, com **duas imagens**):
+`sequencia/17-ep02-clipe04-A-inicio.jpg` (primeiro frame) + `sequencia/18-ep02-clipe04-B-fim.jpg` (último frame).
 
 ---
 
@@ -99,10 +91,8 @@ Noite de festa junina. TUPÃ, agachado diante da pilha de lenha com a mão abert
 Noite em quintal de festa junina. No galho alto de uma mangueira frondosa, SACI: menino negro de pele escura, magro, cerca de 12 anos, gorro vermelho pontudo, camisa rasgada, calça curta, um único pé descalço, cachimbo apagado na boca, sorriso travesso — sentado no galho, balançando as pernas, com dois chinelos de dedo pendurados no dedo indicador. Iluminação quente vinda da fogueira abaixo, folhas recortadas contra o céu noturno estrelado. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Plano no galho alto da mangueira: SACI sentado, pernas balançando, os dois chinelos pendurados no dedo; ele gargalha e dá uma tragada no cachimbo apagado. Em tilt down contínuo, a câmera desce pela árvore até a base do tronco, onde TUPÃ apoia a mão na casca e JESUS ergue um pão de queijo na direção do galho. O Saci para de rir, inclina o gorro para o lado, curioso. FALA JESUS: "Desce que tem queijo." SOM: riso agudo, fogueira, folhas, galho estalando. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, luz quente noturna, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 05* (formato *first & last frame*, com **duas imagens**):
+`sequencia/19-ep02-clipe05-A-inicio.jpg` (primeiro frame) + `sequencia/20-ep02-clipe05-B-fim.jpg` (último frame).
 
 ---
 

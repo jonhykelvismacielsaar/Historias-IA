@@ -1,7 +1,7 @@
 # GUIA DE PRODUÇÃO — do frame ao vídeo final
 
 Este guia explica **exatamente** como usar o material dos 3 episódios:
-cada plano tem **1 imagem (frame)** + **1 prompt de imagem** + **1 prompt de vídeo de 6 s**.
+cada clipe tem **2 imagens (primeiro e último frame)** + **1 prompt de imagem** (para refazer o frame, se precisar) + **1 prompt de vídeo de 6 s**.
 Você gera a imagem → joga a imagem no gerador de vídeo → junta os 5 clipes → pronto.
 
 ---

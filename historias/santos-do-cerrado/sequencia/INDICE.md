@@ -12,8 +12,8 @@ Esta pasta é o **pacote de uso direto**. Os 30 frames estão aqui renomeados em
 ## Como usar (3 passos)
 
 1. Abra o `03-prompts-de-video.md` e escolha o clipe (ex.: `CLIPE 02 · DOIS CARAS E UMA CAIXA`).
-2. **Prompt A** → suba os dois arquivos do clipe (`A-inicio` e `B-fim`) no Seedance 2.0 / Kling / Veo.
-3. **Prompt B** → suba **só o `A-inicio`** no Google Omni Flash / Seedance 1.5 Pro (é o que tem lip-sync).
+2. Suba **os dois arquivos** do clipe (`A-inicio` e `B-fim`) no Seedance 2.0 / Kling / Veo, no modo *first & last frame*.
+3. Cole o prompt do bloco e trave a duração em **6,0 s**. É o único formato do projeto — não existe versão de imagem única.
 
 > Trave a saída em **6,0 s**. Cinco clipes = 30 s por episódio.
 

@@ -19,10 +19,8 @@
 Terreno baldio entre dois prédios baixos em Cuiabá: capim seco amarelado, entulho de construção, tijolos quebrados e uma cadeira velha. No centro, um ipê alto e completamente nu, sem folhas e sem flores, tronco cinza-escuro rachado, galhos secos recortados contra o céu. Na calçada de concreto rachado, uma placa branca lisa sem nenhuma letra e estacas de madeira com barbante esticado demarcando a área. Céu branco de calor. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, paleta seca e desaturada com um leve dourado, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Travelling lateral lento diante de um terreno baldio com capim seco e entulho, com um ipê nu no centro; a câmera para e DONA NILZA (senhora de 68 anos, cabelo grisalho armado, óculos redondos na corrente, vestido floral azul) entra no quadro segurando um regador de plástico verde e aponta para a árvore. JESUS (camisa de linho branca, cabelo cacheado, barba curta) e TUPÃ (camiseta regata cinza-escura com faixa de grafismo guarani no peito, rosto barbeado, cabelo preto preso) param atrás dela com sacolas de feira de palha, olhando o ipê. O capim se dobra com o vento seco. FALA NILZA: "Setenta anos esse ipê. Semana que vem vem a máquina." SOM: vento seco, britadeira distante, cigarras. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, paleta seca, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 01* (formato *first & last frame*, com **duas imagens**):
+`sequencia/21-ep03-clipe01-A-inicio.jpg` (primeiro frame) + `sequencia/22-ep03-clipe01-B-fim.jpg` (último frame).
 
 ---
 
@@ -39,10 +37,8 @@ Travelling lateral lento diante de um terreno baldio com capim seco e entulho, c
 Calçada de bairro em Cuiabá, em frente a um terreno baldio com ipê seco ao fundo. Três personagens. DONA NILZA: senhora brasileira de 68 anos, pele parda, cabelo grisalho curto e armado, óculos redondos presos por corrente no pescoço, vestido floral azul, chinelo, segurando um regador de plástico verde e apontando para a árvore. JESUS: homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado e comprido, na altura dos ombros, preso num coque baixo despojado na nuca, com cachos soltos emoldurando o rosto, barba curta, camisa de linho branca de botão com mangas dobradas, calça jeans clara, chinelo de dedo, com uma sacola de feira de palha. TUPÃ: homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO (sem barba, sem bigode, sem cavanhaque), sem tatuagens nos braços, cabelo preto liso na altura dos ombros preso em rabo de cavalo baixo, camiseta regata cinza-escura com UMA faixa horizontal de grafismo geométrico guarani atravessada no peito (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior, calça de sarja escura, sandália de couro, pulseira de sementes, com uma sacola de feira de palha. Luz forte de fim de manhã, sombras curtas. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores quentes, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Plano médio frontal na calçada: DONA NILZA gesticula com o regador verde na direção do ipê seco, falando sem parar; JESUS a ouve balançando a cabeça, com a sacola de feira no braço; TUPÃ está imóvel ao lado, com o olhar preso na árvore, e vira o rosto lentamente para ela. O vento mexe no vestido da síndica e nas folhas secas do chão. Câmera fixa com aproximação leve. FALA NILZA: "Ele dá flor amarela, o bairro inteiro para." FALA JESUS: "A gente dá um jeito." FALA TUPÃ, baixinho: "Ele tá com sede." SOM: trânsito leve, cigarras, sacolas. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 02* (formato *first & last frame*, com **duas imagens**):
+`sequencia/23-ep03-clipe02-A-inicio.jpg` (primeiro frame) + `sequencia/24-ep03-clipe02-B-fim.jpg` (último frame).
 
 ---
 
@@ -59,10 +55,8 @@ Plano médio frontal na calçada: DONA NILZA gesticula com o regador verde na di
 Terreno baldio de capim seco. TUPÃ: homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO (sem barba, sem bigode, sem cavanhaque), sem tatuagens nos braços, cabelo preto liso na altura dos ombros preso em rabo de cavalo baixo, camiseta regata cinza-escura com UMA faixa horizontal de grafismo geométrico guarani atravessada no peito (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior, calça de sarja escura, sandália de couro, pulseira de sementes — de pé, com a palma aberta encostada no tronco cinza rachado de um ipê nu, olhos fechados, expressão concentrada. Um fio de luz verde-esmeralda corre pela casca sob a mão dele, descendo em direção ao chão. Poeira suspensa no ar, luz lateral dourada. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores saturadas no ponto de luz, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-TUPÃ caminha devagar até o ipê, encosta a palma da mão no tronco rachado e fecha os olhos; um fio de luz verde percorre a casca sob a mão dele e desce em direção ao chão, e a poeira ao redor se afasta. A câmera faz um tilt up sutil até um galho seco mais baixo, onde dois olhos verdes brilhantes se acendem entre os gravetos. Câmera fixa com aproximação leve e tilt up no final. SOM: silêncio total, depois um pulso grave sob a terra, estalo de madeira. SEM FALA. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 03* (formato *first & last frame*, com **duas imagens**):
+`sequencia/25-ep03-clipe03-A-inicio.jpg` (primeiro frame) + `sequencia/26-ep03-clipe03-B-fim.jpg` (último frame).
 
 ---
 
@@ -79,10 +73,8 @@ TUPÃ caminha devagar até o ipê, encosta a palma da mão no tronco rachado e f
 Terreno baldio à noite sob luar azul, tronco de ipê no centro. TUPÃ: homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO (sem barba, sem bigode, sem cavanhaque), sem tatuagens nos braços, cabelo preto liso preso em rabo de cavalo baixo, camiseta regata cinza-escura com UMA faixa horizontal de grafismo geométrico guarani atravessada no peito (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior, calça de sarja escura, pulseira de sementes — de joelhos no chão, cavando com as mãos nuas ao redor da base do tronco, expondo uma raiz grossa na terra escura. Ao lado, JESUS: homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado e comprido, na altura dos ombros, preso num coque baixo despojado na nuca, com cachos soltos emoldurando o rosto, barba curta, camisa de linho branca com mangas dobradas, calça jeans clara — de joelhos, com as duas mãos abertas sobre a raiz, uma luz dourada fraca escorrendo entre os dedos para dentro da terra, partículas de luz subindo. Paleta azul noturna com ponto focal dourado. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Noite azul no terreno. TUPÃ cava a terra com as mãos nuas, expondo a raiz do ipê; JESUS, de joelhos ao lado, mantém as duas mãos abertas sobre ela e uma luz dourada escorre entre os dedos e penetra na terra, com partículas subindo devagar. Os dois se olham rapidamente e voltam ao trabalho. Câmera fixa em plongée leve. SOM: grilos, terra sendo revolvida, pulso grave subterrâneo ficando mais forte. SEM FALA. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 04* (formato *first & last frame*, com **duas imagens**):
+`sequencia/27-ep03-clipe04-A-inicio.jpg` (primeiro frame) + `sequencia/28-ep03-clipe04-B-fim.jpg` (último frame).
 
 ---
 
@@ -99,10 +91,8 @@ Noite azul no terreno. TUPÃ cava a terra com as mãos nuas, expondo a raiz do i
 Plano geral de uma rua de Cuiabá ao amanhecer: um ipê amarelo enorme e florido no centro do quadro, cercado de prédios baixos e cinzentos, calçada e asfalto cobertos de pétalas amarelas. Em primeiro plano, na calçada, EXATAMENTE DUAS pessoas, de ombros encostados, olhando para cima: JESUS (homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado e comprido, na altura dos ombros, preso num coque baixo despojado na nuca, com cachos soltos emoldurando o rosto, barba curta, camisa de linho branca de botão com mangas dobradas, calça jeans clara, chinelo de dedo) e TUPÃ (homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO, sem barba, sem bigode, sem cavanhaque, sem tatuagens nos braços, cabelo preto liso preso em rabo de cavalo baixo, camiseta cinza-escura sem manga com grafismo geométrico guarani em vermelho e preto, calça de sarja escura, sandália de couro, pulseira de sementes). Pétalas no cabelo e nos ombros dos dois. Vizinhos desfocados ao fundo também olhando para cima. Luz de sol nascente atravessando as flores. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores luminosas e saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Amanhecer. A copa do ipê se abre em flores amarelas e pétalas caem em câmera lenta, cobrindo a rua; a câmera gira devagar em torno do tronco e para de frente para JESUS e TUPÃ, que estão na calçada com os ombros encostados, cobertos de pétalas, e viram o rosto um para o outro sorrindo. Carros param, pessoas olham para cima. FALA JESUS: "Ele só precisava de água." FALA TUPÃ, baixinho: "E alguém que visse." SOM: trilha cheia de viola de cocho, pétalas caindo, "ohhh" coletivo distante. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, luz de amanhecer, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 05* (formato *first & last frame*, com **duas imagens**):
+`sequencia/29-ep03-clipe05-A-inicio.jpg` (primeiro frame) + `sequencia/30-ep03-clipe05-B-fim.jpg` (último frame).
 
 ---
 

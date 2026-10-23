@@ -2,7 +2,7 @@
 **Formato:** 5 clipes × 6 s = **30 s** (16:9, 24–30 fps)
 **Sinopse:** Primeiro dia no 302. Cuiabá a 41 °C, o ventilador morre, Jesus tenta resolver com fé. Tupã resolve com chuva.
 
-> **Como usar:** o **frame** já está pronto e linkado. Copie o **prompt do vídeo** e cole no Seedance 2.5 / Veo junto com a imagem (modo *image-to-video*, 6 s, áudio ligado).
+> **Como usar:** cada clipe usa **duas imagens** (primeiro e último frame). Os prompts estão em **[03-prompts-de-video.md](03-prompts-de-video.md)** e as imagens numeradas em **[sequencia/](sequencia/INDICE.md)**. Modo *first & last frame*, **6 s**, áudio ligado.
 > **Ritmo de 6 s:** cada clipe é uma **ação única**, do primeiro ao último quadro. O que está escrito na cena é o clipe inteiro — não tente caber dois momentos. As falas têm marca de tempo no `03-prompts-de-video.md`.
 
 ---
@@ -20,10 +20,8 @@
 Plano aéreo amplo de Cuiabá, Mato Grosso, ao meio-dia: telhados de terracota, prédios baixos, avenida larga com carros pequenos, árvores de cerrado, o rio Cuiabá ao fundo brilhando, ondas de calor distorcendo o asfalto, céu branco-azulado estourado de luz. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, luz brasileira quente, cores saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Plano aéreo de Cuiabá ao meio-dia com calor extremo; a câmera desce lentamente e sem cortes na direção de um prédio residencial de três andares de azulejo branco velho, parando na fachada, onde um caminhão de mudança velho está estacionado e caixas de papelão se empilham na calçada de chão batido, uma delas aberta com um abacaxi. O ar tremula sobre o asfalto. Movimento único e contínuo de descida, sem cortes. SOM: cigarras altas, trânsito distante, zumbido de calor, motor de caminhão morrendo. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão estilo Ghibli x A-1 Pictures, cores saturadas, luz dourada e dura, 16:9. SEM texto, SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 01* (formato *first & last frame*, com **duas imagens**):
+`sequencia/01-ep01-clipe01-A-inicio.jpg` (primeiro frame) + `sequencia/02-ep01-clipe01-B-fim.jpg` (último frame).
 
 ---
 
@@ -40,10 +38,8 @@ Plano aéreo de Cuiabá ao meio-dia com calor extremo; a câmera desce lentament
 Interior de apartamento vazio em Cuiabá: sala pequena de piso de cerâmica bege, paredes descascadas, janela sem cortina com sol forte entrando e projetando retângulo de luz no chão. JESUS: homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado e comprido, na altura dos ombros, preso num coque baixo despojado na nuca, com cachos soltos emoldurando o rosto, barba curta, camisa de linho branca de botão com mangas dobradas, calça jeans clara, chinelo de dedo, pulseira de couro no pulso — entra sorrindo com uma caixa de papelão nos braços. TUPÃ: homem indígena de 30 anos, pele morena, rosto COMPLETAMENTE BARBEADO, sem barba, sem bigode, sem cavanhaque, sem tatuagens nos braços, cabelo preto liso na altura dos ombros preso em rabo de cavalo baixo, camiseta regata cinza-escura com UMA faixa horizontal de grafismo geométrico guarani atravessada no peito (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior, calça de sarja, sandália de couro, pulseira de sementes — atravessa a sala carregando um sofá velho nas costas, tranquilo. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, luz brasileira quente, cores saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Sala vazia de apartamento com sol entrando pela janela. JESUS (camisa de linho branca, cabelo cacheado, barba curta) entra pela porta falando empolgado com uma caixa de papelão nos braços; TUPÃ (camiseta regata cinza-escura com faixa de grafismo guarani no peito, cabelo preto preso) atravessa o quadro de um lado ao outro com um sofá nas costas, sem esforço. Câmera travelling lateral lenta acompanhando o movimento, sem cortes. FALA JESUS: "Essa caixa tem dois mil anos e um liquidificador." FALA TUPÃ, sem parar: "Põe na sala." SOM: passos na cerâmica, caixa rangendo, cigarras pela janela. ESTILO: anime cinematográfico 2D, cel shading limpo, fundo pintado à mão, cores quentes, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 02* (formato *first & last frame*, com **duas imagens**):
+`sequencia/03-ep01-clipe02-A-inicio.jpg` (primeiro frame) + `sequencia/04-ep01-clipe02-B-fim.jpg` (último frame).
 
 ---
 
@@ -60,10 +56,8 @@ Sala vazia de apartamento com sol entrando pela janela. JESUS (camisa de linho b
 Sala de apartamento popular, luz quente de fim de tarde pela janela. JESUS: homem brasileiro de 30 anos, pele morena clara, cabelo castanho-escuro cacheado e comprido, na altura dos ombros, preso num coque baixo despojado na nuca, com cachos soltos emoldurando o rosto, barba curta, camisa de linho branca de botão com mangas dobradas, calça jeans clara — descalço, agachado de frente para um ventilador de mesa antigo, mãos espalmadas sobre a grade, olhos fechados, com um fio de luz dourada contornando os dedos. TUPÃ: homem indígena de 30 anos, rosto completamente barbeado, sem barba e sem tatuagens nos braços, cabelo preto liso preso em rabo de cavalo baixo, camiseta regata cinza-escura com UMA faixa horizontal de grafismo geométrico guarani atravessada no peito (losangos e zigue-zagues em terracota e preto) e o mesmo motivo pequeno repetido na barra inferior, calça de sarja, pulseira de sementes, descalço — encostado no batente da porta, braços cruzados, meio-sorriso paciente. Parede com porta-retratos de família, samambaia pendurada e uma TV antiga pequena na estante; paredes domésticas comuns, SEM cruz, SEM crucifixo, SEM imagem religiosa. Sombras longas no piso de cerâmica. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, fundo pintado à mão no estilo Ghibli x A-1 Pictures, cores saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-JESUS, de camisa de linho branca, agachado diante do ventilador velho com as mãos sobre a grade e os olhos fechados; um fio de luz dourada percorre seus dedos, brilha mais forte e se apaga — o ventilador não gira. TUPÃ, de camiseta regata cinza-escura com faixa de grafismo guarani no peito, observa encostado no batente, cruza os braços e solta o ar pelo nariz com um meio-sorriso. Câmera fixa com aproximação muito lenta. FALA JESUS: "Ventilador abençoado não gira." SOM: silêncio quente, cigarras, um estalo de ventilador tentando ligar. ESTILO: anime cinematográfico 2D, cel shading limpo, fundo pintado à mão, cores quentes, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 03* (formato *first & last frame*, com **duas imagens**):
+`sequencia/05-ep01-clipe03-A-inicio.jpg` (primeiro frame) + `sequencia/06-ep01-clipe03-B-fim.jpg` (último frame).
 
 ---
 
@@ -80,10 +74,8 @@ JESUS, de camisa de linho branca, agachado diante do ventilador velho com as mã
 Rua de bairro em Cuiabá debaixo de chuva forte: asfalto virando espelho, poças com respingos, casas baixas e muros coloridos. Três crianças descalças dançando na chuva, uma com um guarda-chuva virado. Em primeiro plano lateral, na janela do prédio, JESUS (homem de 30 anos, cabelo castanho-escuro cacheado e comprido, preso num coque baixo na nuca, barba curta, camisa de linho branca encharcada) com os braços abertos e o rosto virado para cima, rindo. Luz azul-acinzentada da tempestade com respingos dourados. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, pintado à mão no estilo Ghibli x A-1 Pictures, cores saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Chuva forte cai de repente sobre uma rua de bairro em Cuiabá: as poças explodem em respingos, três crianças descalças pulam e giram na chuva, uma delas com um guarda-chuva virado. Na janela lateral, JESUS abre os braços e vira o rosto para cima, rindo, encharcado. Câmera fixa na altura da calçada, respingos em câmera lenta leve, sem cortes. SOM: vento subindo, gota forte no zinco, chuva pesada, risadas infantis, latido distante. SEM FALA. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, luz azul-acinzentada, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 04* (formato *first & last frame*, com **duas imagens**):
+`sequencia/07-ep01-clipe04-A-inicio.jpg` (primeiro frame) + `sequencia/08-ep01-clipe04-B-fim.jpg` (último frame).
 
 ---
 
@@ -100,10 +92,8 @@ Chuva forte cai de repente sobre uma rua de bairro em Cuiabá: as poças explode
 Varanda pequena de apartamento com mureta de concreto molhada e piso escorregadio. JESUS (30 anos, cabelo castanho-escuro cacheado e comprido, preso num coque baixo na nuca, barba curta, camisa de linho branca encharcada colada, calça jeans, chinelo) e TUPÃ (30 anos, cabelo preto liso preso em rabo de cavalo, camiseta regata cinza-escura com faixa de grafismo guarani no peito encharcada, pulseira de sementes) encostados na mureta, de perfil, encharcados e rindo. Tupã estende a mão aberta na chuva. Gotas em primeiro plano desfocadas. Céu azul-chumbo ao fundo. ESTILO: anime cinematográfico 2D, cel shading limpo, traço fino, pintado à mão no estilo Ghibli x A-1 Pictures, cores saturadas, grão de filme suave, 16:9, sem texto, sem letreiro, sem logo, sem legenda.
 ```
 
-**Prompt do vídeo (6 s):**
-```text
-Na varanda encharcada, JESUS e TUPÃ encostados na mureta, de perfil, rindo. Tupã estende a mão aberta e deixa a chuva bater na palma; Jesus vira o rosto para ele e fala. Em seis segundos, a chuva afina rápido, o sol dourado volta baixo entre as nuvens e um arco-íris fraco aparece sobre os telhados molhados. Gotas desfocadas em primeiro plano. Câmera fixa com leve handheld, terminando em tilt up suave para o céu. FALA JESUS: "Você pediu chuva." FALA TUPÃ: "Você pediu ventilador." SOM: chuva diminuindo, grilos, trilha de viola de cocho entrando. ESTILO: anime cinematográfico 2D, cel shading limpo, pintado à mão, 16:9. SEM legenda.
-```
+**Prompt do vídeo (6 s):** está em **[03-prompts-de-video.md](03-prompts-de-video.md)** → *CLIPE 05* (formato *first & last frame*, com **duas imagens**):
+`sequencia/09-ep01-clipe05-A-inicio.jpg` (primeiro frame) + `sequencia/10-ep01-clipe05-B-fim.jpg` (último frame).
 
 ---
 

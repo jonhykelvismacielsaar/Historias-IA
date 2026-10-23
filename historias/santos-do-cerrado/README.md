@@ -14,7 +14,7 @@ Série de animação curta em 3 episódios de **30 segundos** (5 clipes de 6 s c
 | 4 | **[episodio-01-quarenta-graus.md](episodio-01-quarenta-graus.md)** | Roteiro do Ep. 1 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
 | 5 | **[episodio-02-festa-do-bairro.md](episodio-02-festa-do-bairro.md)** | Roteiro do Ep. 2 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
 | 6 | **[episodio-03-o-ipe-do-estacionamento.md](episodio-03-o-ipe-do-estacionamento.md)** | Roteiro do Ep. 3 + 5 frames prontos + 5 prompts de imagem + 5 prompts de vídeo |
-| 7 | **[03-prompts-de-video.md](03-prompts-de-video.md)** | **Arquivo de copiar e colar:** os 2 tipos de prompt de vídeo (primeiro/último frame e imagem única com fala) para os 15 clipes |
+| 7 | **[03-prompts-de-video.md](03-prompts-de-video.md)** | **Arquivo de copiar e colar:** os 15 prompts de vídeo, **todos no formato de 2 imagens** (primeiro + último frame, 6 s) |
 | 8 | **[sequencia/INDICE.md](sequencia/INDICE.md)** | **Pacote de uso direto:** os 30 frames renomeados na ordem de montagem + pranchas de conferência |
 | 9 | **[STATUS.md](STATUS.md)** | O que já está pronto e o que falta gerar na próxima conversa |
 
@@ -45,9 +45,8 @@ sequencia/  30 frames numerados 01–30 + 3 pranchas (ver INDICE.md)
 
 1. Abra o arquivo do episódio.
 2. Cada plano tem **imagem pronta → prompt de imagem → prompt de vídeo de 6 s**.
-3. Escolha o caminho em **[03-prompts-de-video.md](03-prompts-de-video.md)**:
-   - **Prompt A** → duas imagens (início + fim) no Seedance 2.0 / Kling / Veo, modo *first & last frame*. Mais controle do movimento.
-   - **Prompt B** → uma imagem só, no **Omni Flash** ou **Seedance 1.5 Pro**, com fala e lip-sync.
+3. Pegue o prompt do clipe em **[03-prompts-de-video.md](03-prompts-de-video.md)**. **Formato único:** duas imagens (início + fim) no Seedance 2.0 / Kling / Veo, modo *first & last frame*, **6 segundos**.
+   - Os dois arquivos de cada clipe estão em **[sequencia/](sequencia/INDICE.md)**, numerados de 01 a 30.
 4. Junte os 5 clipes no CapCut, trave cada um em 8,0 s, coloque a trilha e exporte em 1080p.
 
 ---

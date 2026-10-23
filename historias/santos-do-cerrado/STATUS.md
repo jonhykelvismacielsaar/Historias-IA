@@ -91,12 +91,13 @@ Frames refeitos: `ep01/c02`, `ep01/c03`, `ep01/c05` (também trocou o short por 
 - `ep01/c03` — tinha **cruz na parede** e **tatuagens** no Tupã → regerado, quadro limpo.
 - `ep03` — numeração dos frames estava **deslocada** em relação aos clipes → reordenada (`c01` terreno, `c02` os três na calçada, `c03` Tupã escutando a árvore, `c04` água na raiz/luz na terra, `c05` o ipê florido). Os frames fora de ordem viraram **extras** em `imagens/ep03/alternativas/`.
 
-## 🎬 Dois formatos de prompt de vídeo (23/10)
+## 🎬 Formato ÚNICO de prompt de vídeo: 2 imagens (23/10)
 
-Criado o **`03-prompts-de-video.md`** com 30 prompts prontos para os 15 clipes:
+O `03-prompts-de-video.md` foi reescrito e agora tem **só um tipo de prompt**, 15 no total:
 
-- **Prompt A — primeiro + último frame:** você entrega `cXX.jpg` e `cXX-fim.jpg`; o modelo interpola o movimento. Usa Seedance 2.0 / Kling / Veo no modo *first & last frame*. Diálogos com marca de tempo inclusos.
-- **Prompt B — imagem única com fala:** uma imagem só, para **Google Omni Flash** e **Seedance 1.5 Pro**. Movimento, câmera, fala em PT-BR e som descritos no texto.
+- **Primeiro + último frame:** você entrega `...-A-inicio.jpg` e `...-B-fim.jpg`; o modelo interpola o movimento. Seedance 2.0 / Kling / Veo no modo *first & last frame*, **6 s**, com falas marcadas no tempo.
+- **O formato de imagem única (Prompt B / Omni Flash) foi removido** — manter dois formatos duplicava o trabalho sem ganho real em 6 s.
+- Cada bloco do arquivo traz os **dois nomes de arquivo** logo acima do prompt (🟢 imagem 1, 🔴 imagem 2), então não há como confundir qual prompt usa quantas imagens.
 
 ### Frames de fim
 
