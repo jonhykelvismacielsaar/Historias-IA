@@ -44,6 +44,7 @@ A imagem de fim do Ep. 01 (`ep01/c05-fim.jpg`) tinha o Tupã com a cabeça **vir
 | Roteiros dos 3 episódios em 5 clipes de 6 s | ✅ |
 | `03-prompts-de-video.md` retimado para 6 s | ✅ |
 | Key visual dos dois personagens | ✅ `imagens/referencias/key-visual.jpg` |
+| Pacote de produção (`sequencia/`) | ✅ 30 frames numerados + 3 pranchas |
 
 ### Frames
 
@@ -110,7 +111,6 @@ Os 6 prompts que faltam estão no **Anexo** do `03-prompts-de-video.md`.
 ## ⚠️ PRÓXIMA CONVERSA — só isto:
 
 1. **Gerar os 15 vídeos** de 6 s a partir de `sequencia/` (2 imagens por clipe) — nada de imagem nova é necessário.
-2. *(Opcional)* Gerar as falas em áudio para dublagem.
 2. *(Opcional)* Gerar as **falas em áudio** para dublagem.
 3. *(Temporada 2)* A figura de terno claro e chapéu de palha, plantada no fim do Ep. 03.
 
