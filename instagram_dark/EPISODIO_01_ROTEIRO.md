@@ -7,6 +7,7 @@
 **Personagem:** Deus = ser humanoide feito de estrelas e escuridão.
 **Estrutura:** 10 quadros × 5s + 9 transições × 1s + quadro 10 com 6s = 60s.
 **Q8–Q10 (v2):** com Deus aparecendo + criação dentro do espelho cósmico, igual ao Ep2.
+**Formato dos prompts:** sem nome de arquivo — apenas "primeira imagem" (frame A) e "segunda imagem" (frame B).
 
 ---
 
@@ -51,123 +52,123 @@
 
 ---
 
-# 🎬 PROMPTS DE VÍDEO — FORMATO CORRETO
+# 🎬 PROMPTS DE VÍDEO — FORMATO CORRETO (sem nome de imagem)
 
-**Como usar:** cada prompt abaixo é UM prompt por par A/B. Na ferramenta de vídeo, você coloca a imagem A como **primeiro frame** e a imagem B como **último frame**, cola o prompt e gera o clipe de 5s. Os prompts já indicam o texto falado (voz grave e imponente de Deus, falando o tempo todo), o movimento e a transição. Os prompts de 1s são a transição do interior de B para o próximo quadro A.
-
----
-
-## Q1 (5s) — frame01_A.png → frame01_B.png
-```
-5-second cinematic video, 16:9. First frame: frame01_A.png (absolute cosmic darkness — an empty black void with faint deep blue and violet nebula clouds far in the distance, almost no stars, no characters). Last frame: frame01_B.png (a swirling dark black hole with a faint accretion disk forming in the center of the empty cosmic void, gravitational lensing bending faint starlight, no characters). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "Antes de tudo... havia o nada. Escuridão sem fim." Movement: the camera slowly pushes into the void as the darkness swirls and compresses, and a black hole forms in the center. Deep black and dark blue tones, no text on screen, no watermark.
-```
-
-## T1 (1s) — frame01_B.png → frame02_A.png
-```
-1-second seamless transition, 16:9. From the interior of frame01_B.png (the black hole forming in the void) to the next frame frame02_A.png (a single point of brilliant white light piercing the cosmic darkness). The black hole collapses into a single point and a brilliant white light emerges. Smooth camera move, gentle dissolve, dark cosmic atmosphere, no text.
-```
+**Como usar:** cada prompt abaixo é UM prompt por par A/B. Na ferramenta de vídeo, você coloca a imagem A como **primeiro frame** e a imagem B como **último frame**, cola o prompt e gera o clipe de 5s. Os prompts já indicam a primeira imagem, a segunda imagem, o texto falado (voz grave e imponente de Deus, falando o tempo todo) e o movimento. Os prompts de 1s são a transição da segunda imagem para a primeira do próximo quadro.
 
 ---
 
-## Q2 (5s) — frame02_A.png → frame02_B.png
+## Q1 (5s) — primeira imagem → segunda imagem
 ```
-5-second cinematic video, 16:9. First frame: frame02_A.png (a single point of brilliant white light piercing absolute cosmic darkness, energy particles converging toward it from all sides, no characters). Last frame: frame02_B.png (a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, a glowing star-filled silhouette forming from the light, no human skin, floating in dark cosmic space with distant galaxies). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "E do nada... surgiu a Palavra. A luz que tudo começou." Movement: the light expands and shapes itself into the cosmic star-being — the glowing star-filled silhouette forms from the light and floats in dark space with distant galaxies behind. Slow, majestic camera movement, no text on screen, no watermark.
+5-second cinematic video, 16:9. First frame (first image): absolute cosmic darkness — an empty black void with faint deep blue and violet nebula clouds far in the distance, almost no stars, no characters. Last frame (second image): a swirling dark black hole with a faint accretion disk forming in the center of the empty cosmic void, gravitational lensing bending faint starlight, no characters. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "Antes de tudo... havia o nada. Escuridão sem fim." Movement: the camera slowly pushes into the void as the darkness swirls and compresses, and a black hole forms in the center. Deep black and dark blue tones, no text on screen, no watermark.
 ```
 
-## T2 (1s) — frame02_B.png → frame03_A.png
+## T1 (1s) — segunda imagem → primeira do próximo quadro
 ```
-1-second seamless transition, 16:9. From the interior of frame02_B.png (the cosmic star-being forming from light, floating in space) to the next frame frame03_A.png (the same cosmic star-being standing on the LEFT side of the frame). The star-being drifts to the LEFT side of the frame as the camera slides right to follow. Smooth continuous motion, gentle dissolve, dark cosmic background with galaxies, no text.
+1-second seamless transition, 16:9. From the interior of the second image (the black hole forming in the void) to the first image of the next frame (a single point of brilliant white light piercing the cosmic darkness). The black hole collapses into a single point and a brilliant white light emerges. Smooth camera move, gentle dissolve, dark cosmic atmosphere, no text.
 ```
 
 ---
 
-## Q3 (5s) — frame03_A.png → frame03_B.png
+## Q2 (5s) — primeira imagem → segunda imagem
 ```
-5-second cinematic video, 16:9. First frame: frame03_A.png (a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, standing on the LEFT side of the frame facing right, dark cosmic background with distant galaxies). Last frame: frame03_B.png (the same cosmic humanoid being on the RIGHT side of the frame facing left, slightly larger and more luminous, dark cosmic background with galaxies). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "E Deus disse... 'Eu sou.'" Movement: the being slowly turns and drifts to the RIGHT side of the frame, growing slightly larger and more luminous, as if speaking with gravitas. Slow majestic camera, no text on screen, no watermark.
-```
-
-## T3 (1s) — frame03_B.png → frame04_A.png
-```
-1-second seamless transition, 16:9. From the interior of frame03_B.png (the star-being on the RIGHT side of frame) to the next frame frame04_A.png (the star-being on the LEFT side of frame, mouth slightly open as if speaking). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows smoothly. Dissolve, continuous motion, dark cosmic background with galaxies, no text.
+5-second cinematic video, 16:9. First frame (first image): a single point of brilliant white light piercing absolute cosmic darkness, energy particles converging toward it from all sides, no characters. Last frame (second image): a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, a glowing star-filled silhouette forming from the light, no human skin, floating in dark cosmic space with distant galaxies. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "E do nada... surgiu a Palavra. A luz que tudo começou." Movement: the light expands and shapes itself into the cosmic star-being — the glowing star-filled silhouette forms from the light and floats in dark space with distant galaxies behind. Slow, majestic camera movement, no text on screen, no watermark.
 ```
 
----
-
-## Q4 (5s) — frame04_A.png → frame04_B.png
+## T2 (1s) — segunda imagem → primeira do próximo quadro
 ```
-5-second cinematic video, 16:9. First frame: frame04_A.png (a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, mouth slightly open as if speaking, dark cosmic background with nebulae). Last frame: frame04_B.png (the same cosmic humanoid being on the RIGHT side of the frame, gesturing with one hand, dark cosmic background with distant galaxies). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "Hoje... vou contar como criei o mundo." Movement: the being speaks on the left, then slowly drifts to the RIGHT side, gesturing with one hand as if explaining. No human skin, slow cinematic movement, no text on screen, no watermark.
-```
-
-## T4 (1s) — frame04_B.png → frame05_A.png
-```
-1-second seamless transition, 16:9. From the interior of frame04_B.png (the star-being gesturing on the RIGHT side of frame) to the next frame frame05_A.png (the star-being on the LEFT side of frame with a glowing scroll floating beside him). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows. Dissolve, continuous motion, dark cosmic background, no text.
+1-second seamless transition, 16:9. From the interior of the second image (the cosmic star-being forming from light, floating in space) to the first image of the next frame (the same cosmic star-being standing on the LEFT side of the frame). The star-being drifts to the LEFT side of the frame as the camera slides right to follow. Smooth continuous motion, gentle dissolve, dark cosmic background with galaxies, no text.
 ```
 
 ---
 
-## Q5 (5s) — frame05_A.png → frame05_B.png
+## Q3 (5s) — primeira imagem → segunda imagem
 ```
-5-second cinematic video, 16:9. First frame: frame05_A.png (a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, an ancient glowing scroll floating beside him emitting faint golden light, dark cosmic background, biblical atmosphere). Last frame: frame05_B.png (the same cosmic humanoid being on the RIGHT side of the frame, an ancient glowing scroll visible in the background with faint golden Hebrew letters, dark cosmic background, biblical atmosphere). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "Mostrei primeiro aos judeus... no Gênesis da Torá." Movement: the being slowly drifts to the RIGHT side as the scroll glows brighter, faint Hebrew letters visible on it. No text on screen, no watermark.
-```
-
-## T5 (1s) — frame05_B.png → frame06_A.png
-```
-1-second seamless transition, 16:9. From the interior of frame05_B.png (the star-being beside the glowing scroll with Hebrew letters) to the next frame frame06_A.png (the star-being on the LEFT side of frame with a glowing Christian cross of light behind him). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows smoothly. Dissolve, continuous motion, dark cosmic background, no text.
+5-second cinematic video, 16:9. First frame (first image): a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, standing on the LEFT side of the frame facing right, dark cosmic background with distant galaxies. Last frame (second image): the same cosmic humanoid being on the RIGHT side of the frame facing left, slightly larger and more luminous, dark cosmic background with galaxies. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "E Deus disse... 'Eu sou.'" Movement: the being slowly turns and drifts to the RIGHT side of the frame, growing slightly larger and more luminous, as if speaking with gravitas. Slow majestic camera, no text on screen, no watermark.
 ```
 
----
-
-## Q6 (5s) — frame06_A.png → frame06_B.png
+## T3 (1s) — segunda imagem → primeira do próximo quadro
 ```
-5-second cinematic video, 16:9. First frame: frame06_A.png (a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, a glowing Christian cross of light visible behind him in the cosmic darkness, Christian atmosphere). Last frame: frame06_B.png (the same cosmic humanoid being on the RIGHT side of the frame, a glowing Christian cross and a softly glowing open Bible visible in the background, dark cosmic background, Christian atmosphere). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "Depois aos cristãos... no Evangelho de Jesus." Movement: the being slowly drifts to the RIGHT side as the cross and the glowing Bible become visible in the background. No text on screen, no watermark.
-```
-
-## T6 (1s) — frame06_B.png → frame07_A.png
-```
-1-second seamless transition, 16:9. From the interior of frame06_B.png (the star-being beside the cross and Bible) to the next frame frame07_A.png (the star-being on the LEFT side of frame with a large ancient mirror floating beside him reflecting stars). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows. Dissolve, continuous motion, dark cosmic background, no text.
+1-second seamless transition, 16:9. From the interior of the second image (the star-being on the RIGHT side of frame) to the first image of the next frame (the star-being on the LEFT side of frame, mouth slightly open as if speaking). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows smoothly. Dissolve, continuous motion, dark cosmic background with galaxies, no text.
 ```
 
 ---
 
-## Q7 (5s) — frame07_A.png → frame07_B.png
+## Q4 (5s) — primeira imagem → segunda imagem
 ```
-5-second cinematic video, 16:9. First frame: frame07_A.png (a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, a large ancient floating mirror beside him reflecting a field of stars, dark cosmic background, mystical atmosphere). Last frame: frame07_B.png (the same cosmic humanoid being on the RIGHT side of the frame, an ancient mirror in the background rippling and shattering into glowing stars, dark cosmic background, mystical atmosphere). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "E a outros povos... de outras formas. Cada um, num espelho diferente." Movement: the being slowly drifts to the RIGHT side as the mirror surface ripples and shatters into stars behind him. No text on screen, no watermark.
-```
-
-## T7 (1s) — frame07_B.png → frame08_A.png
-```
-1-second seamless transition, 16:9. From the interior of frame07_B.png (the star-being beside the mirror shattering into stars) to the next frame frame08_A.png (the star-being on the LEFT side of frame, beside a large glowing cosmic mirror-frame; inside the mirror-frame: the cosmos forming). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows, and behind him a giant glowing cosmic mirror-frame appears. Smooth continuous motion, dissolve, dark cosmic atmosphere, no text.
+5-second cinematic video, 16:9. First frame (first image): a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, mouth slightly open as if speaking, dark cosmic background with nebulae. Last frame (second image): the same cosmic humanoid being on the RIGHT side of the frame, gesturing with one hand, dark cosmic background with distant galaxies. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "Hoje... vou contar como criei o mundo." Movement: the being speaks on the left, then slowly drifts to the RIGHT side, gesturing with one hand as if explaining. No human skin, slow cinematic movement, no text on screen, no watermark.
 ```
 
----
-
-## Q8 (5s) — frame08_A.png → frame08_B.png
+## T4 (1s) — segunda imagem → primeira do próximo quadro
 ```
-5-second cinematic video, 16:9. First frame: frame08_A.png (a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, standing on the LEFT side of the frame facing right, speaking with authority, beside a large glowing cosmic mirror-frame; around the frame, the vast universe — distant galaxies and nebulae; inside the mirror-frame: the cosmos forming). Last frame: frame08_B.png (the same cosmic humanoid being standing on the RIGHT side of the frame facing left, beside the large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: primordial darkness with a faint swirl of golden light and cosmic dust). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "E agora... olhem. O Gênesis." Movement: as the being speaks, the camera pushes toward the mirror-frame as the creation forms inside it — primordial darkness giving birth to a faint swirl of golden light — while the being slowly drifts to the RIGHT side of the frame. Deep cosmic background, no text on screen, no watermark.
-```
-
-## T8 (1s) — frame08_B.png → frame09_A.png
-```
-1-second seamless transition, 16:9. From the interior of frame08_B.png (the star-being beside the mirror-frame with primordial darkness inside) to the next frame frame09_A.png (the star-being on the LEFT side of frame, beside the mirror-frame; inside: brilliant white light separating from the primordial darkness). The star-being moves from the RIGHT to the LEFT side of the frame as the light inside the mirror-frame bursts and separates from the darkness. Smooth continuous motion, dissolve, dark cosmic atmosphere, no text.
+1-second seamless transition, 16:9. From the interior of the second image (the star-being gesturing on the RIGHT side of frame) to the first image of the next frame (the star-being on the LEFT side of frame with a glowing scroll floating beside him). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows. Dissolve, continuous motion, dark cosmic background, no text.
 ```
 
 ---
 
-## Q9 (5s) — frame09_A.png → frame09_B.png
+## Q5 (5s) — primeira imagem → segunda imagem
 ```
-5-second cinematic video, 16:9. First frame: frame09_A.png (the cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, beside a large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: brilliant white light separating from the primordial darkness). Last frame: frame09_B.png (the same cosmic humanoid being on the RIGHT side of the frame, beside the large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: the heavens and the earth forming — a vast cosmic expanse with stars and galaxies spreading). Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "No princípio, Deus criou os céus e a terra. Sem forma. Vazia." Movement: the being slowly drifts to the RIGHT side as the light expands inside the mirror-frame into the heavens and the earth forming — a vast cosmic expanse with stars and galaxies spreading. No text on screen, no watermark.
+5-second cinematic video, 16:9. First frame (first image): a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, an ancient glowing scroll floating beside him emitting faint golden light, dark cosmic background, biblical atmosphere. Last frame (second image): the same cosmic humanoid being on the RIGHT side of the frame, an ancient glowing scroll visible in the background with faint golden Hebrew letters, dark cosmic background, biblical atmosphere. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "Mostrei primeiro aos judeus... no Gênesis da Torá." Movement: the being slowly drifts to the RIGHT side as the scroll glows brighter, faint Hebrew letters visible on it. No text on screen, no watermark.
 ```
 
-## T9 (1s) — frame09_B.png → frame10_A.png
+## T5 (1s) — segunda imagem → primeira do próximo quadro
 ```
-1-second seamless transition, 16:9. From the interior of frame09_B.png (the star-being beside the mirror-frame with the heavens and earth forming inside) to the next frame frame10_A.png (the star-being on the LEFT side of frame, beside the mirror-frame; inside: the deep primordial waters in darkness). The star-being moves from the RIGHT to the LEFT side of the frame as the camera moves down inside the mirror-frame from the starry heavens into the deep primordial waters. Smooth continuous motion, dissolve, dark cosmic atmosphere, no text.
+1-second seamless transition, 16:9. From the interior of the second image (the star-being beside the glowing scroll with Hebrew letters) to the first image of the next frame (the star-being on the LEFT side of frame with a glowing Christian cross of light behind him). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows smoothly. Dissolve, continuous motion, dark cosmic background, no text.
 ```
 
 ---
 
-## Q10 (6s) — frame10_A.png → frame10_B.png
+## Q6 (5s) — primeira imagem → segunda imagem
 ```
-5-second cinematic video, 16:9. First frame: frame10_A.png (the cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, beside a large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: the deep primordial waters in darkness). Last frame: frame10_B.png (the same cosmic humanoid being on the RIGHT side of the frame, beside the large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: a glowing ethereal bird-like spirit of light hovering above the deep primordial waters, its golden light rippling across the dark water). Narration (God's voice — grave, imposing — speaks continuously throughout all 6 seconds): "Trevas sobre o abismo... e o Espírito de Deus... pairava sobre as águas." Movement: the being slowly drifts to the RIGHT side as a glowing ethereal bird-like spirit of light hovers above the waters inside the mirror-frame, its golden light rippling across the dark water. No text on screen, no watermark.
+5-second cinematic video, 16:9. First frame (first image): a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, a glowing Christian cross of light visible behind him in the cosmic darkness, Christian atmosphere. Last frame (second image): the same cosmic humanoid being on the RIGHT side of the frame, a glowing Christian cross and a softly glowing open Bible visible in the background, dark cosmic background, Christian atmosphere. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "Depois aos cristãos... no Evangelho de Jesus." Movement: the being slowly drifts to the RIGHT side as the cross and the glowing Bible become visible in the background. No text on screen, no watermark.
+```
+
+## T6 (1s) — segunda imagem → primeira do próximo quadro
+```
+1-second seamless transition, 16:9. From the interior of the second image (the star-being beside the cross and Bible) to the first image of the next frame (the star-being on the LEFT side of frame with a large ancient mirror floating beside him reflecting stars). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows. Dissolve, continuous motion, dark cosmic background, no text.
+```
+
+---
+
+## Q7 (5s) — primeira imagem → segunda imagem
+```
+5-second cinematic video, 16:9. First frame (first image): a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, a large ancient floating mirror beside him reflecting a field of stars, dark cosmic background, mystical atmosphere. Last frame (second image): the same cosmic humanoid being on the RIGHT side of the frame, an ancient mirror in the background rippling and shattering into glowing stars, dark cosmic background, mystical atmosphere. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "E a outros povos... de outras formas. Cada um, num espelho diferente." Movement: the being slowly drifts to the RIGHT side as the mirror surface ripples and shatters into stars behind him. No text on screen, no watermark.
+```
+
+## T7 (1s) — segunda imagem → primeira do próximo quadro
+```
+1-second seamless transition, 16:9. From the interior of the second image (the star-being beside the mirror shattering into stars) to the first image of the next frame (the star-being on the LEFT side of frame, beside a large glowing cosmic mirror-frame; inside the mirror-frame: the cosmos forming). The star-being moves from the RIGHT to the LEFT side of the frame, camera follows, and behind him a giant glowing cosmic mirror-frame appears. Smooth continuous motion, dissolve, dark cosmic atmosphere, no text.
+```
+
+---
+
+## Q8 (5s) — primeira imagem → segunda imagem
+```
+5-second cinematic video, 16:9. First frame (first image): a cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, standing on the LEFT side of the frame facing right, speaking with authority, beside a large glowing cosmic mirror-frame; around the frame, the vast universe — distant galaxies and nebulae; inside the mirror-frame: the cosmos forming. Last frame (second image): the same cosmic humanoid being standing on the RIGHT side of the frame facing left, beside the large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: primordial darkness with a faint swirl of golden light and cosmic dust. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "E agora... olhem. O Gênesis." Movement: as the being speaks, the camera pushes toward the mirror-frame as the creation forms inside it — primordial darkness giving birth to a faint swirl of golden light — while the being slowly drifts to the RIGHT side of the frame. Deep cosmic background, no text on screen, no watermark.
+```
+
+## T8 (1s) — segunda imagem → primeira do próximo quadro
+```
+1-second seamless transition, 16:9. From the interior of the second image (the star-being beside the mirror-frame with primordial darkness inside) to the first image of the next frame (the star-being on the LEFT side of frame, beside the mirror-frame; inside: brilliant white light separating from the primordial darkness). The star-being moves from the RIGHT to the LEFT side of the frame as the light inside the mirror-frame bursts and separates from the darkness. Smooth continuous motion, dissolve, dark cosmic atmosphere, no text.
+```
+
+---
+
+## Q9 (5s) — primeira imagem → segunda imagem
+```
+5-second cinematic video, 16:9. First frame (first image): the cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, beside a large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: brilliant white light separating from the primordial darkness. Last frame (second image): the same cosmic humanoid being on the RIGHT side of the frame, beside the large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: the heavens and the earth forming — a vast cosmic expanse with stars and galaxies spreading. Narration (God's voice — grave, imposing — speaks continuously throughout all 5 seconds): "No princípio, Deus criou os céus e a terra. Sem forma. Vazia." Movement: the being slowly drifts to the RIGHT side as the light expands inside the mirror-frame into the heavens and the earth forming — a vast cosmic expanse with stars and galaxies spreading. No text on screen, no watermark.
+```
+
+## T9 (1s) — segunda imagem → primeira do próximo quadro
+```
+1-second seamless transition, 16:9. From the interior of the second image (the star-being beside the mirror-frame with the heavens and earth forming inside) to the first image of the next frame (the star-being on the LEFT side of frame, beside the mirror-frame; inside: the deep primordial waters in darkness). The star-being moves from the RIGHT to the LEFT side of the frame as the camera moves down inside the mirror-frame from the starry heavens into the deep primordial waters. Smooth continuous motion, dissolve, dark cosmic atmosphere, no text.
+```
+
+---
+
+## Q10 (6s) — primeira imagem → segunda imagem
+```
+5-second cinematic video, 16:9. First frame (first image): the cosmic humanoid being made entirely of swirling dark stars and cosmic nebula, glowing star-filled silhouette, no human skin, on the LEFT side of the frame, beside a large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: the deep primordial waters in darkness. Last frame (second image): the same cosmic humanoid being on the RIGHT side of the frame, beside the large glowing cosmic mirror-frame; around the frame, the vast universe; inside the mirror-frame: a glowing ethereal bird-like spirit of light hovering above the deep primordial waters, its golden light rippling across the dark water. Narration (God's voice — grave, imposing — speaks continuously throughout all 6 seconds): "Trevas sobre o abismo... e o Espírito de Deus... pairava sobre as águas." Movement: the being slowly drifts to the RIGHT side as a glowing ethereal bird-like spirit of light hovers above the waters inside the mirror-frame, its golden light rippling across the dark water. No text on screen, no watermark.
 ```
 
 ---
@@ -191,7 +192,7 @@
 
 ## NOTAS TÉCNICAS
 
-1. **Uso dos prompts:** cada prompt 5s já traz: primeiro frame (A), último frame (B), texto falado (voz grave e imponente de Deus, o tempo todo), movimento. Os prompts 1s são as transições do interior de B para o próximo A.
+1. **Uso dos prompts:** cada prompt 5s já traz: primeira imagem (A), segunda imagem (B), texto falado (voz grave e imponente de Deus, o tempo todo), movimento. Os prompts 1s são as transições da segunda imagem para a primeira do próximo quadro.
 2. **Posicionamento:** com Deus na tela, imagem A = esquerda, imagem B = direita (crop 9:16 sem perder o personagem).
 3. **59s vs 60s:** 10×5s + 9×1s = 59s → Q10 tem 6s.
 4. **Voz de Deus:** grave, imponente, lenta, sempre a mesma.
