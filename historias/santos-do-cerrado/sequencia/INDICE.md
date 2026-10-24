@@ -13,9 +13,10 @@ Esta pasta é o **pacote de uso direto**. Os 30 frames estão aqui renomeados em
 
 1. Abra o `03-prompts-de-video.md` e escolha o clipe (ex.: `CLIPE 02 · DOIS CARAS E UMA CAIXA`).
 2. Suba **os dois arquivos** do clipe (`A-inicio` e `B-fim`) no Seedance 2.0 / Kling / Veo, no modo *first & last frame*.
-3. Cole o prompt do bloco e trave a duração em **6,0 s**. É o único formato do projeto — não existe versão de imagem única.
+3. Cole o prompt do bloco e trave a duração em **5,0 s**. É o único formato do projeto — não existe versão de imagem única.
+4. Para gerar uma ponte entre clipes, use o **B do clipe anterior** e o **A do seguinte** com o prompt correspondente em `../04-prompts-de-transicao.md` (também 5,0 s, opcional).
 
-> Trave a saída em **6,0 s**. Cinco clipes = 30 s por episódio.
+> Trave a saída em **5,0 s**. Cinco clipes = 25 s por episódio.
 
 ---
 
@@ -34,35 +35,35 @@ Esta pasta é o **pacote de uso direto**. Os 30 frames estão aqui renomeados em
 | # | Arquivo | Episódio · clipe | Título | Tempo no episódio |
 |---|---|---|---|---|
 | 01 | `01-ep01-clipe01-A-inicio.jpg` | EP01 · clipe 01 | A cidade que ferve | 0,0 s |
-| 02 | `02-ep01-clipe01-B-fim.jpg` | EP01 · clipe 01 | A cidade que ferve | 6,0 s |
-| 03 | `03-ep01-clipe02-A-inicio.jpg` | EP01 · clipe 02 | Dois caras e uma caixa | 6,0 s |
-| 04 | `04-ep01-clipe02-B-fim.jpg` | EP01 · clipe 02 | Dois caras e uma caixa | 12,0 s |
-| 05 | `05-ep01-clipe03-A-inicio.jpg` | EP01 · clipe 03 | O milagre não pega | 12,0 s |
-| 06 | `06-ep01-clipe03-B-fim.jpg` | EP01 · clipe 03 | O milagre não pega | 18,0 s |
-| 07 | `07-ep01-clipe04-A-inicio.jpg` | EP01 · clipe 04 | A chuva de Tupã | 18,0 s |
-| 08 | `08-ep01-clipe04-B-fim.jpg` | EP01 · clipe 04 | A chuva de Tupã | 24,0 s |
-| 09 | `09-ep01-clipe05-A-inicio.jpg` | EP01 · clipe 05 | Molhados, rindo | 24,0 s |
-| 10 | `10-ep01-clipe05-B-fim.jpg` | EP01 · clipe 05 | Molhados, rindo | 30,0 s |
+| 02 | `02-ep01-clipe01-B-fim.jpg` | EP01 · clipe 01 | A cidade que ferve | 5,0 s |
+| 03 | `03-ep01-clipe02-A-inicio.jpg` | EP01 · clipe 02 | Dois caras e uma caixa | 5,0 s |
+| 04 | `04-ep01-clipe02-B-fim.jpg` | EP01 · clipe 02 | Dois caras e uma caixa | 10,0 s |
+| 05 | `05-ep01-clipe03-A-inicio.jpg` | EP01 · clipe 03 | O milagre não pega | 10,0 s |
+| 06 | `06-ep01-clipe03-B-fim.jpg` | EP01 · clipe 03 | O milagre não pega | 15,0 s |
+| 07 | `07-ep01-clipe04-A-inicio.jpg` | EP01 · clipe 04 | A chuva de Tupã | 15,0 s |
+| 08 | `08-ep01-clipe04-B-fim.jpg` | EP01 · clipe 04 | A chuva de Tupã | 20,0 s |
+| 09 | `09-ep01-clipe05-A-inicio.jpg` | EP01 · clipe 05 | Molhados, rindo | 20,0 s |
+| 10 | `10-ep01-clipe05-B-fim.jpg` | EP01 · clipe 05 | Molhados, rindo | 25,0 s |
 | 11 | `11-ep02-clipe01-A-inicio.jpg` | EP02 · clipe 01 | O convite | 0,0 s |
-| 12 | `12-ep02-clipe01-B-fim.jpg` | EP02 · clipe 01 | O convite | 6,0 s |
-| 13 | `13-ep02-clipe02-A-inicio.jpg` | EP02 · clipe 02 | A montagem | 6,0 s |
-| 14 | `14-ep02-clipe02-B-fim.jpg` | EP02 · clipe 02 | A montagem | 12,0 s |
-| 15 | `15-ep02-clipe03-A-inicio.jpg` | EP02 · clipe 03 | Pão de queijo infinito | 12,0 s |
-| 16 | `16-ep02-clipe03-B-fim.jpg` | EP02 · clipe 03 | Pão de queijo infinito | 18,0 s |
-| 17 | `17-ep02-clipe04-A-inicio.jpg` | EP02 · clipe 04 | O fogo e o furto | 18,0 s |
-| 18 | `18-ep02-clipe04-B-fim.jpg` | EP02 · clipe 04 | O fogo e o furto | 24,0 s |
-| 19 | `19-ep02-clipe05-A-inicio.jpg` | EP02 · clipe 05 | O trato com o Saci | 24,0 s |
-| 20 | `20-ep02-clipe05-B-fim.jpg` | EP02 · clipe 05 | O trato com o Saci | 30,0 s |
+| 12 | `12-ep02-clipe01-B-fim.jpg` | EP02 · clipe 01 | O convite | 5,0 s |
+| 13 | `13-ep02-clipe02-A-inicio.jpg` | EP02 · clipe 02 | A montagem | 5,0 s |
+| 14 | `14-ep02-clipe02-B-fim.jpg` | EP02 · clipe 02 | A montagem | 10,0 s |
+| 15 | `15-ep02-clipe03-A-inicio.jpg` | EP02 · clipe 03 | Pão de queijo infinito | 10,0 s |
+| 16 | `16-ep02-clipe03-B-fim.jpg` | EP02 · clipe 03 | Pão de queijo infinito | 15,0 s |
+| 17 | `17-ep02-clipe04-A-inicio.jpg` | EP02 · clipe 04 | O fogo e o furto | 15,0 s |
+| 18 | `18-ep02-clipe04-B-fim.jpg` | EP02 · clipe 04 | O fogo e o furto | 20,0 s |
+| 19 | `19-ep02-clipe05-A-inicio.jpg` | EP02 · clipe 05 | O trato com o Saci | 20,0 s |
+| 20 | `20-ep02-clipe05-B-fim.jpg` | EP02 · clipe 05 | O trato com o Saci | 25,0 s |
 | 21 | `21-ep03-clipe01-A-inicio.jpg` | EP03 · clipe 01 | A síndica e a máquina | 0,0 s |
-| 22 | `22-ep03-clipe01-B-fim.jpg` | EP03 · clipe 01 | A síndica e a máquina | 6,0 s |
-| 23 | `23-ep03-clipe02-A-inicio.jpg` | EP03 · clipe 02 | Os três na calçada | 6,0 s |
-| 24 | `24-ep03-clipe02-B-fim.jpg` | EP03 · clipe 02 | Os três na calçada | 12,0 s |
-| 25 | `25-ep03-clipe03-A-inicio.jpg` | EP03 · clipe 03 | Tupã escuta a árvore | 12,0 s |
-| 26 | `26-ep03-clipe03-B-fim.jpg` | EP03 · clipe 03 | Tupã escuta a árvore | 18,0 s |
-| 27 | `27-ep03-clipe04-A-inicio.jpg` | EP03 · clipe 04 | Água na raiz, luz na terra | 18,0 s |
-| 28 | `28-ep03-clipe04-B-fim.jpg` | EP03 · clipe 04 | Água na raiz, luz na terra | 24,0 s |
-| 29 | `29-ep03-clipe05-A-inicio.jpg` | EP03 · clipe 05 | O ipê floresce | 24,0 s |
-| 30 | `30-ep03-clipe05-B-fim.jpg` | EP03 · clipe 05 | O ipê floresce | 30,0 s |
+| 22 | `22-ep03-clipe01-B-fim.jpg` | EP03 · clipe 01 | A síndica e a máquina | 5,0 s |
+| 23 | `23-ep03-clipe02-A-inicio.jpg` | EP03 · clipe 02 | Os três na calçada | 5,0 s |
+| 24 | `24-ep03-clipe02-B-fim.jpg` | EP03 · clipe 02 | Os três na calçada | 10,0 s |
+| 25 | `25-ep03-clipe03-A-inicio.jpg` | EP03 · clipe 03 | Tupã escuta a árvore | 10,0 s |
+| 26 | `26-ep03-clipe03-B-fim.jpg` | EP03 · clipe 03 | Tupã escuta a árvore | 15,0 s |
+| 27 | `27-ep03-clipe04-A-inicio.jpg` | EP03 · clipe 04 | Água na raiz, luz na terra | 15,0 s |
+| 28 | `28-ep03-clipe04-B-fim.jpg` | EP03 · clipe 04 | Água na raiz, luz na terra | 20,0 s |
+| 29 | `29-ep03-clipe05-A-inicio.jpg` | EP03 · clipe 05 | O ipê floresce | 20,0 s |
+| 30 | `30-ep03-clipe05-B-fim.jpg` | EP03 · clipe 05 | O ipê floresce | 25,0 s |
 
 ---
 
@@ -76,7 +77,7 @@ Nos demais, use o **key visual** (`../imagens/referencias/key-visual.jpg`) como 
 
 ## Regras travadas
 
-- **6 s por clipe**, sempre.
+- **5 s por clipe**, sempre.
 - **Tupã**: barbeado, sem tatuagem, rabo de cavalo baixo, cabeça **nunca mais de 45° de perfil**.
 - **Jesus**: cabelo cacheado comprido **preso em coque baixo**, barba curta.
 - **Estampa do Tupã**: ver a nota abaixo — é o item que mais escapou até aqui.

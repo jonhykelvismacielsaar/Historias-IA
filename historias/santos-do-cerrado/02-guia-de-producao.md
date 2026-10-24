@@ -1,7 +1,7 @@
 # GUIA DE PRODUÇÃO — do frame ao vídeo final
 
 Este guia explica **exatamente** como usar o material dos 3 episódios:
-cada clipe tem **2 imagens (primeiro e último frame)** + **1 prompt de imagem** (para refazer o frame, se precisar) + **1 prompt de vídeo de 6 s**.
+cada clipe tem **2 imagens (primeiro e último frame)** + **1 prompt de imagem** (para refazer o frame, se precisar) + **1 prompt de vídeo de 5 s**.
 Você gera a imagem → joga a imagem no gerador de vídeo → junta os 5 clipes → pronto.
 
 ---
@@ -13,9 +13,9 @@ PROMPT DA IMAGEM  →  [gerador de imagem]  →  frame .png
                                               ↓
                        [Seedance / Veo, modo image-to-video]
                                               ↓
-                                    clipe de 6 s com áudio
+                                    clipe de 5 s com áudio
                                               ↓
-                         5 clipes = 30 s = 1 episódio
+                         5 clipes = 25 s = 1 episódio
                                               ↓
                               [CapCut / Premiere] montagem
 ```
@@ -25,16 +25,16 @@ PROMPT DA IMAGEM  →  [gerador de imagem]  →  frame .png
 | Parâmetro | Valor |
 |---|---|
 | Modelo | **Seedance 2.5** (imagem→vídeo) ou **Veo 3.x** |
-| Duração | **6 segundos** por clipe (nunca mais, nunca menos) |
+| Duração | **5 segundos** por clipe (nunca mais, nunca menos) |
 | Proporção | **16:9** (horizontal, YouTube) — se for Shorts/Reels, gere 9:16 e reenquadre |
 | Resolução | 1080p |
-| Áudio | **Ligado** (o prompt já traz som ambiente e diálogo) |
+| Áudio | **Ligado** (o prompt traz som ambiente, fala em PT-BR e as vozes fixas) |
 | Modo | *image-to-video* (NÃO text-to-video: a imagem é o que garante a continuidade dos personagens) |
 | Movimento de câmera | sempre descrito no prompt — não deixe "automático" |
 
-> **Dica de ouro:** gere o clipe de 6 s **duas vezes** com o mesmo frame e escolha o melhor. A segunda geração corrige mãos, olhos e boca.
+> **Dica de ouro:** gere o clipe de 5 s **duas vezes** com o mesmo frame e escolha o melhor. A segunda geração corrige mãos, olhos e boca.
 
-> ⚠️ **Por que 6 s e não 8 s?** Seis segundos são o ponto em que os modelos de vídeo ainda obedecem ao prompt até o último quadro. Acima disso eles começam a inventar movimento. O episódio fica em **30 s** — o tamanho ideal de Reels/Shorts — e a montagem fica com corte mais nervoso, que segura a atenção.
+> ⚠️ **Por que 5 s?** É a duração definida para esta temporada: ajuda a manter uma ação única, fala curta e reação final dentro do mesmo clipe. Cada episódio principal fica em **25 s** (sem as pontes opcionais).
 
 ## 3. COMO MANTER O JESUS E O TUPÃ IGUAIS DO EP. 1 AO 3
 
@@ -71,39 +71,39 @@ texto, letras, legendas, marca d'água, logo, moldura, colagem, várias cenas no
 
 > Por que "sem cruz, sem igreja, sem templo"? Porque o modelo tende a transformar "Jesus" em estátua, crucifixo ou pintura barroca. A gente quer **um cara de chinelo**.
 
-## 6. REGRAS DE PROMPT DE VÍDEO (6 s)
+## 6. REGRAS DE PROMPT DE VÍDEO (5 s) + VOZES
 
-Um prompt de 6 segundos precisa das mesmas **5 informações, nesta ordem**:
+Um prompt de 5 segundos precisa das mesmas **5 informações, nesta ordem**:
 
 1. **QUEM + ONDE** (personagem + ambiente)
-2. **AÇÃO ÚNICA** (uma só! 6 s não cabe duas)
+2. **AÇÃO ÚNICA** (uma só! 5 s não cabe duas)
 3. **CÂMERA** (plano fixo / travelling / aproximação lenta / handheld)
 4. **AUDIÊNCIA** (som ambiente + diálogo entre aspas + trilha)
 5. **ESTILO** (repita o bloco)
 
-**Como distribuir os 6 segundos** (a marcação de tempo no prompt):
+**Como distribuir os 5 segundos** (a marcação de tempo no prompt):
 
 | Tempo | O que acontece |
 |---|---|
-| 0,0 – 1,0 s | o quadro "assenta": a câmera já se move, o personagem respira |
-| 1,0 – 4,8 s | a **ação única** e a **fala principal** |
-| 4,8 – 6,0 s | reação (um sorriso, um olhar) e o som ambiente fechando |
+| 0,0 – 0,7 s | o quadro "assenta": a câmera já se move, o personagem respira |
+| 0,7 – 4,0 s | a **ação única** e a **fala principal** |
+| 4,0 – 5,0 s | reação (um sorriso, um olhar) e o som ambiente fechando |
 
-> Fala mais longa que 4 s **não cabe** em 6 s. Se a frase for grande, divida entre os dois personagens ou corte a última palavra — no roteiro ela aparece inteira, no prompt não.
+> Fala mais longa que 3,5 s **não cabe** em 5 s. Se a frase for grande, divida entre os dois personagens ou corte a última palavra — no roteiro ela aparece inteira, no prompt não.
 
 Erros que estragam o clipe:
-- ❌ duas ações simultâneas ("ele abre a porta e depois senta") → o modelo faz as duas ao mesmo tempo. Em 6 s, escolha **uma** ação. Nem tente "primeira metade / segunda metade": não cabe
-- ⚠️ 6 s permite **um** micro-evento só (ex.: a chama acender). Dois eventos no mesmo clipe saem embaralhados
+- ❌ duas ações simultâneas ("ele abre a porta e depois senta") → o modelo faz as duas ao mesmo tempo. Em 5 s, escolha **uma** ação. Nem tente "primeira metade / segunda metade": não cabe
+- ⚠️ 5 s permite **um** micro-evento só (ex.: a chama acender). Dois eventos no mesmo clipe saem embaralhados
 - ❌ "câmera cinematográfica" sozinho → câmera voa sem controle
-- ❌ diálogo longo → a boca não acompanha. Máximo **7 palavras por fala** e **14 palavras por clipe**
+- ❌ diálogo longo → a boca não acompanha. Máximo **7 palavras por fala** e **14 palavras por clipe**; Jesus sempre manso/aveludado, Tupã sempre grave/aveludado como trovão — use o bloco `VOICES` dos prompts sem variar
 - ❌ pedir choro, grito, corrida → deforma o rosto
 
 ## 7. MONTAGEM (CapCut, gratuito)
 
 1. Crie um projeto **1920×1080, 30 fps**.
-2. Importe os **5 clipes** na ordem e **trave cada um em exatamente 6,0 s** (30 s no total). Se algum clipe vier com 5 s ou 8 s, **corte/reduza na timeline** em vez de gerar de novo.
+2. Importe os **5 clipes** na ordem e **trave cada um em exatamente 5,0 s** (25 s no total). Se o gerador entregar 4 s, 6 s ou 8 s, **corte/reduza na timeline** para exatamente 5,0 s.
 3. Coloque uma **trilha única por episódio** por baixo (não música diferente em cada clipe — o corte fica "colado").
-4. **Transições:** só corte seco. Use *fade* apenas no 1º e no último plano.
+4. **Transições:** o corte seco é padrão. Opcionalmente, use os prompts em `04-prompts-de-transicao.md`: imagem B do clipe anterior + imagem A do próximo, duração 5 s. Cada ponte aumenta a duração final.
 5. **Color grading:** temperatura +8, saturação +5, contraste +5. Mantém o look dourado.
 6. **Título:** entra aos 0,5 s do plano 1, sai aos 5 s. Fonte grossa, branca, com sombra.
 7. **Legendas queimadas** só nas falas (o público assiste sem som).
@@ -115,14 +115,14 @@ Erros que estragam o clipe:
 | Etapa | Tempo |
 |---|---|
 | Gerar 5 frames | 10 min |
-| Gerar 5 clipes de 6 s (2 tentativas cada) | 25 min |
+| Gerar 5 clipes de 5 s (2 tentativas cada) | 25 min |
 | Montagem + trilha | 40 min |
 | Revisão | 15 min |
 
 ## 9. PUBLICAÇÃO
 
-- **YouTube:** 3 vídeos de 30 s + 1 compilado de 1 min 30 s com os três juntos (o compilado performa melhor no algoritmo).
-- **TikTok/Reels:** reenquadre em 9:16 e publique cada episódio inteiro (30 s cabe).
+- **YouTube:** 3 vídeos de 25 s + 1 compilado de 1 min 15 s com os três juntos (o compilado performa melhor no algoritmo).
+- **TikTok/Reels:** reenquadre em 9:16 e publique cada episódio inteiro (25 s cabe).
 - **Título:** `E se Jesus e Tupã dividissem um apê em Cuiabá? | SANTOS DO CERRADO — Ep. 1`
 - **Descrição:** use as 3 primeiras linhas do roteiro como gancho.
 - **Thumbnail:** o key visual + texto grande "JESUS E TUPÃ DE FÉRIAS".

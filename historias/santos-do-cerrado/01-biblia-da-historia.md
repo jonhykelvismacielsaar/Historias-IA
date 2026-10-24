@@ -1,8 +1,8 @@
 # SANTOS DO CERRADO
 ### *Dois filhos do céu, um apê em Cuiabá*
 
-> Série de animação curta — 3 episódios × 60 segundos
-> Formato: 5 clipes de 6 segundos por episódio (16:9, anime 2D)
+> Série de animação curta — 3 episódios × 25 segundos
+> Formato: 5 clipes de 5 segundos por episódio (16:9, anime 2D)
 
 ---
 
