@@ -116,7 +116,7 @@ STYLE: cinematic 2D anime, clean cel shading, thin linework, hand-painted backgr
 
 ```text
 DURATION: 5 seconds.
-FIRST FRAME: empty apartment living room, sunlight rectangle on the beige ceramic floor. JESUS enters from the doorway holding a cardboard box and talking; TUPÃ crosses the room carrying a floral sofa on his back.
+FIRST FRAME: empty apartment living room, sunlight rectangle on the beige ceramic floor. JESUS enters from the doorway holding a cardboard box and talking; TUPÃ carries the blue floral sofa on his back, his body facing toward the right side of the frame with his back toward Jesus, while his head turns back in a clear three-quarter view (no more than 45 degrees in profile).
 LAST FRAME: the sofa is down on the floor, TUPÃ straightening up, and JESUS beside it stretching his lower back, laughing, the box already on the ground.
 MOTION: one single movement — TUPÃ walks from left to right and lowers the sofa without stopping; JESUS follows him into the room, keeps talking, and only at the very end straightens his back with a tired laugh. Both stay on their feet, no cuts.
 CAMERA: slow lateral tracking following them, chest height, gentle parallax with the window light.

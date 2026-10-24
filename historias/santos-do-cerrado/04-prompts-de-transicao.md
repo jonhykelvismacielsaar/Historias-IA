@@ -87,7 +87,7 @@ VOICES — FIXED CAST VOICES, IDENTICAL IN EVERY SHOT (never swap them):
 DURATION: 5 seconds.
 FIRST FRAME: exactly the still of the previous clip's last frame, unchanged — same framing, same characters, same light.
 LAST FRAME: exactly the still of the next clip's first frame, unchanged — same framing, same characters, same light.
-MOTION: the camera pushes in from the street toward the old building, slips through the open ground-floor door, crosses a dim stairwell and emerges into the empty living room, where the rectangle of sunlight is already lying on the beige tile. The sidewalk boxes and the truck slide out of frame behind the camera.
+MOTION: the camera pushes in from the street toward the old building, slips through the open ground-floor door, crosses a dim stairwell and enters the living room. Jesus arrives carrying a cardboard box while Tupã carries the blue floral sofa toward the right side of the room, his back turned toward Jesus and his face still readable in three-quarter view. The rectangle of sunlight lies across the beige tile.
 CAMERA: one continuous forward push-in, no cuts, no zoom, steady and slow.
 SPEECH (Brazilian Portuguese, PT-BR): none. No dialogue in this bridge — nobody speaks, so no lip-sync is needed.
 VOICES — FIXED CAST VOICES, IDENTICAL IN EVERY SHOT (never swap them):
