@@ -33,9 +33,9 @@ HISTORIA CONTADA — a Bíblia contada pelo próprio Deus.
 Cada episódio tem 60 segundos, narrado pela voz grave e imponente de Deus, com animações cósmicas dark. Acompanhando a criação do mundo, de Gênesis ao fim da história.
 
 📺 Novo episódio toda semana.
-🌐 Instagram: @historiacontada
-🎵 TikTok: @historiacontada
-📱 Kwai: @historiacontada
+🌐 Instagram: @historia_contada.mp4
+🎵 TikTok: @historia_contada.mp4
+📱 Kwai: @historia_contada.mp4
 
 #Bíblia #HistóriaBíblica #Criação #Gênesis
 ```
@@ -64,6 +64,6 @@ Cada episódio tem 60 segundos, narrado pela voz grave e imponente de Deus, com 
 ## NOTAS
 
 1. **Nome do canal:** Historia Contada (o arquivo de vídeo pode ser `historia_contada.mp4`).
-2. **Handle sugerido:** @historiacontada (igual em todas as redes, se disponível).
+2. **Usuário confirmado:** `@historia_contada.mp4` (único disponível — usar igual em todas as redes).
 3. **Estilo:** voz grave de Deus narrando, animações cósmicas dark — a bio reflete isso.
 4. **Atualizar quando novos episódios saírem:** "Episódio 3 disponível agora" etc.
