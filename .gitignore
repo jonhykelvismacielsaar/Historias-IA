@@ -1,0 +1,6 @@
+# Dados grandes (Bíblia) — não commitar
+instagram_dark/data/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
